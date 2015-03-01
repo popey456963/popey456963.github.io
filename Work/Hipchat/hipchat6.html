@@ -1,0 +1,58 @@
+<script src="http://code.jquery.com/jquery-1.10.2.js"></script>
+<div id="text">
+    <table id="table">
+    </table>
+</div>
+<script>
+    var datehuman;
+    var data;
+	var time;
+	var results = prompt("Number of entries (1-1000)", "100");
+
+    function changeDate() {
+		time = Math.round(new Date().getTime())-300000;
+		time = (new Date(time)).toISOString();
+		json();
+    }
+
+	function dateFormat(date2) {
+		date2 = Date.parse(date2);
+		date2 = new Date(date2);
+		datehuman = date2.toLocaleString();
+		
+	}
+
+	function json(){
+		$.getJSON("https://api.hipchat.com/v2/room/CodeCombat/history?auth_token=niI6idrpL9VWpZZixTAgqClXkDOycP6U5lMonuHQ&max-results=" + results + "&date=" + time, function(json) {
+        data = json; //Don't ask me why I don't just send json to rundata =(
+        runData();
+    });
+	}
+
+    function runData() {
+        for (var i = 0; i < data.items.length; i++) {
+            var text = document.getElementById('text'); //Text Div
+            var nameguest = data.items[i].from; //Guests
+            var nameuser = data.items[i].from.name; //Users
+            var message = data.items[i].message; //Messages
+			var table = document.getElementById("table"); //Table Div
+            dateFormat(data.items[i].date); //Date
+            
+            var row = table.insertRow(i);
+            row.insertCell(0).innerHTML = datehuman;
+            if (typeof nameguest == "object") {row.insertCell(1).innerHTML = nameuser;} 
+			else {row.insertCell(1).innerHTML = nameguest;}
+            row.insertCell(2).innerHTML = message;
+
+
+            //if (typeof data.items[i].from == "object") { //Is User
+            //    text.innerHTML = text.innerHTML + datehuman + " " + nameuser + ": " + message + "<br>"
+            //} else { //Is Guest
+            //    text.innerHTML = text.innerHTML + datehuman + " " + nameguest + ": " + message + "<br>"
+            //}
+
+
+        }
+    }
+	changeDate();
+</script>

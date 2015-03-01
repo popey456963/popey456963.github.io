@@ -1,0 +1,226 @@
+* {
+    box-sizing: border-box;
+}
+
+body, html {
+    overflow-x: hidden;
+    font-family: 'Roboto', serif;
+    font-weight: 300;
+    color: #fff;
+    background: #efefef;
+}
+
+button {
+    color: #134A46;
+}
+
+.row {
+    max-width: 1200px;
+    background: #032429;
+    position: relative;
+    z-index: 1;
+    text-align: center;
+    margin: 0 auto;
+    padding: 60px 30px;
+}
+
+.row:before {
+    position: absolute;
+    content: "";
+    display: block;
+    top: 0;
+    left: -5000px;
+    height: 100%;
+    width: 15000px;
+    z-index: -1;
+    background: inherit;
+}
+
+.row:first-child, .row:nth-child(9) {
+    padding: 40px 30px;
+}
+
+.row:nth-child(2), .row:nth-child(8), .row:nth-child(10){
+    background: #134A46;
+}
+
+.row:nth-child(3), .row:nth-child(7), .row:nth-child(11) {
+    background: #377D6A;
+}
+
+.row:nth-child(4), .row:nth-child(6), .row:nth-child(12){
+    background: #7AB893;
+    max-width: 100%;
+}
+
+.row:nth-child(5), .row:nth-child(13) {
+    background: #B2E3AF;
+    height: 100%;
+}
+
+.row span {
+    position: relative;
+    display: inline-block;
+    /*margin: 30px 10px;*/
+}
+
+span:nth-child(2) .gate {
+    text-indent: 85px;
+}
+
+span:nth-child(2) .gate:active, span:nth-child(2) .gate:focus {
+    text-indent: 0;
+}
+
+.balloon {
+    display: inline-block;
+    width: 300px;
+    padding: 10px 0 10px 15px;
+    font-family: "Roboto", serif;
+    font-weight: 400;
+    color: #377D6A;
+    background: #efefef;
+    border: 0;
+    border-radius: 3px;
+    outline: 0;
+    text-indent: 100px;
+    transition: all .3s ease-in-out;
+}
+
+.balloon::-webkit-input-placeholder {
+    color: #efefef;
+    text-indent: 0;
+    font-weight: 300;
+}
+
+.balloon + label {
+    display: inline-block;
+    position: absolute;
+    top: 8px;
+    left: 0;
+    bottom: 8px;
+    padding: 5px 15px;
+    color: #032429;
+    font-size: 11px;
+    font-weight: 700;
+    text-transform: uppercase;
+    text-shadow: 0 1px 0 rgba(19, 74, 70, 0);
+    transition: all .3s ease-in-out;
+    border-radius: 3px;
+    background: rgba(122, 184, 147, 0);
+}
+
+.balloon + label:after {
+    position: absolute;
+    content: "";
+    width: 0;
+    height: 0;
+    top: 100%;
+    left: 50%;
+    margin-left: -3px;
+    border-left: 3px solid transparent;
+    border-right: 3px solid transparent;
+    border-top: 3px solid rgba(122, 184, 147, 0);
+    transition: all .3s ease-in-out;
+}
+
+.balloon:focus, .balloon:active {
+    color: #377D6A;
+    text-indent: 0;
+    background: #fff;
+}
+
+.balloon:focus::-webkit-input-placeholder, .balloon:active::-webkit-input-placeholder {
+    color: #aaa;
+}
+
+.balloon:focus + label, .balloon:active + label {
+    color: #fff;
+    text-shadow: 0 1px 0 rgba(19, 74, 70, 0.4);
+    background: #134A46;
+    transform: translateY(-40px);
+}
+
+.balloon:focus + label:after, .balloon:active + label:after {
+    border-top: 4px solid #7ab893;
+}
+
+html {
+    font-family: Roboto, sans-serif;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}
+
+body {
+    margin: 0;
+}
+
+.backButton {
+    border: none;
+    border-bottom: 5px solid #334;
+    background: #339;
+    color: #fff;
+    font-weight: bold;
+    padding: 10px;
+    transition: 150ms;
+    position: relative;
+    top: 0;
+    font-size: 15px;
+    margin: 20px auto;
+}
+
+.backButton:active {
+    border-bottom: 3.5px solid #334;
+    top: 3.5px;
+}
+
+.myButton {
+    border: none;
+    border-bottom: 10px solid #334;
+    background: #339;
+    color: #fff;
+    font-weight: bold;
+    padding: 15px;
+    transition: 150ms;
+    position: relative;
+    top: 0;
+    font-size: 25px;
+    margin: 20px auto;
+}
+
+.myButton:active {
+    border-bottom: 5px solid #334;
+    top: 5px;
+}
+
+#buttonsInput {
+    padding: 10px 10px;
+}
+
+img {
+    border: 0;
+    vertical-align: bottom;
+    ;
+}
+
+button::-moz-focus-inner, input::-moz-focus-inner, legend {
+    border: 0;
+    padding: 0;
+}
+
+.friendsOut {
+    cursor: pointer;
+}
+.friendsOut:active{
+    background:green;
+}
+
+table
+{
+    table-layout: fixed;
+    width: 1200px;
+}
+
+table, th, td{
+   border: 1px solid black;
+}

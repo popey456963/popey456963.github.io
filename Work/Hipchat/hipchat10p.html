@@ -1,0 +1,84 @@
+
+<script src="https://code.jquery.com/jquery-1.10.2.js"></script>
+<script src="https://cdn.datatables.net/1.10.4/js/jquery.dataTables.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.4/css/jquery.dataTables.css">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap-theme.min.css">
+<center><h1>The last <span id="number"><></span> messages before <span id="title"><></span></h1></center>
+<div id="text">
+    <table id="table" class="hover stripe table">
+        <thead>
+            <tr>
+                <th>Date</th>
+                <th>Name</th>
+                <th>Message</th>
+            </tr>
+        </thead>
+        <tfoot>
+            <tr>
+                <th>Date</th>
+                <th>Name</th>
+                <th>Message</th>
+            </tr>
+        </tfoot>
+        <tbody>
+        </tbody>
+    </table>
+</div>
+<script>
+    var results = prompt("Number of entries (1-1000)", "100");
+	var fromtime = prompt("Epoch time (milliseconds)", Math.round(new Date().getTime()) - 300000);
+	document.getElementById("title").innerHTML = new Date(parseInt(fromtime)).toLocaleString();
+	document.getElementById("number").innerHTML = results;
+
+    function insertEntry(tableId, date, name, message) {
+        var table = document.getElementById(tableId)
+        var tbody = table.getElementsByTagName("tbody")[0]
+        var tr = document.createElement("tr")
+		if (name == "CodeCombat" || name == "GitHub"){
+			tr.className = "warning"
+		}
+        var newDateEntry = document.createElement("td")
+        var newNameEntry = document.createElement("td")
+        var newMessageEntry = document.createElement("td");
+
+        newDateEntry.innerHTML = date;
+        newNameEntry.innerHTML = name;
+        newMessageEntry.innerHTML = message;
+
+        tr.appendChild(newDateEntry);
+        tr.appendChild(newNameEntry);
+        tr.appendChild(newMessageEntry);
+
+        tbody.appendChild(tr);
+    }
+
+    function json(time) {
+        $.getJSON("https://api.hipchat.com/v2/room/CodeCombat/history?auth_token=niI6idrpL9VWpZZixTAgqClXkDOycP6U5lMonuHQ&max-results=" + results + "&date=" + time, function(response) {
+            if (typeof response.items != "undefined") {
+                $(response.items).each(function(index, data) {
+                    var name = (typeof data.from.name != "undefined") ? data.from.name : data.from;
+                    var date = new Date(Date.parse(data.date)).toLocaleString();
+                    insertEntry("table", date, name, data.message);
+                });
+                $('#table').DataTable();
+            }
+        });
+    }
+
+    $(document).ready(function() {
+        json((new Date(Math.round(new Date().getTime()) - 300000)).toISOString());
+    });
+</script>
+<style>
+    .table tr > *:nth-child(1) {
+        width: 15%;
+    }
+    .table tr > *:nth-child(2) {
+        width: 15%;
+    }
+    .table tr > *:nth-child(3) {
+        width: 70%;
+    }
+</style>

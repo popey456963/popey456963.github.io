@@ -1,0 +1,10 @@
+loop:
+    enemy = self.findNearestEnemy()
+    flag = self.findFlag("green")
+    if flag:
+        self.pickUpFlag(flag)
+    elif enemy:
+        if self.isReady("cleave"):
+            self.cleave(enemy)
+        else:
+            self.attack(enemy)

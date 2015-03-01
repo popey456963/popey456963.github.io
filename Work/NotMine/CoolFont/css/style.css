@@ -1,0 +1,27 @@
+@import url(http://fonts.googleapis.com/css?family=Righteous);
+
+body {
+  background: #212121
+}
+
+h1 {
+  color: #f6f5f0;
+  font-family: 'Righteous', cursive;
+  text-shadow: 1px 1px #b0b0b0, 2px 2px #b0b0b0, 3px 3px #797979, 4px 4px #797979, 5px 5px #5c5c5c, 6px 6px #5c5c5c, 7px 7px #404040, 8px 8px #404040, 9px 9px #232323, 10px 10px #232323, 11px 11px #111111, 12px 12px #111111, 13px 13px #000000, 14px 14px #000000;
+  font-size: 50px;
+  line-height: 80px;
+  text-align: center;
+}
+
+span:nth-child(1) {
+  margin-left: -480px;
+}
+span:nth-child(2) {
+  color: #e8d716;
+  font-size: 120px;
+  text-shadow: 1px 1px #d3c206, 2px 2px #d3c206, 3px 3px #b3a400, 4px 4px #b3a400, 5px 5px #968a00, 6px 6px #968a00, 7px 7px #605803, 8px 8px #605803, 9px 9px #393400, 10px 10px #393400, 11px 11px #161401, 12px 12px #161401, 13px 13px #000000, 14px 14px #000000;
+}
+
+span:nth-child(2) {
+  margin-left: -15px;
+}

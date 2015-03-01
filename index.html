@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+  <meta charset="UTF-8">
+
+  <title>Landing Page</title>
+
+ <style>
+ body {
+  background: #7babf7;
+}
+
+h1 {
+  color: #fff;
+}
+
+.sun {
+  width: 120px;
+  height: 120px;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+  
+  background-color: #ffe18e;
+  background-image: -webkit-linear-gradient(top, #ffe18e, #795b51);
+  background-image:         linear-gradient(to bottom, #ffe18e, #795b51);
+
+}
+
+.sun:before, .sun:after {
+  content: "";
+  width: 130px;
+  height: 130px;
+  display: block;
+  position: absolute;
+}
+
+.sun:before {
+    background-color: #fbeb60;
+  background-image: -webkit-linear-gradient(top, #fbeb60, #f5d44f);
+  background-image:         linear-gradient(to bottom, #fbeb60, #f5d44f);
+  border-radius: 50%;
+  margin: -5px 0 0 -5px;
+  z-index: 1;
+  
+  -webkit-box-shadow: 0px 1px 1px 0px rgba(0,0,0,.3);
+          box-shadow: 0px 1px 1px 0px rgba(0,0,0,.3);
+
+}
+
+.sun:after {
+  width: 120px;
+  height: 120px;
+  -webkit-transform: rotate(-45deg); 
+      -ms-transform: rotate(-45deg); 
+          transform: rotate(-45deg); 
+ 
+  background-color: #dbbb34;
+  background-image: -webkit-linear-gradient(top, #dbbb34, #a08534);
+  background-image:         linear-gradient(to bottom, #dbbb34, #a08534);
+}
+
+
+.cloud {
+  width: 90px;
+  height: 60px;
+  position: absolute;
+  z-index: 10;
+  bottom: 20px;
+  left: 50px;
+  overflow: hidden;
+    -webkit-box-shadow: 0px 1px 0px 0px rgba(0,0,0,.2);
+          box-shadow: 0px 1px 0px 0px rgba(0,0,0,.2);
+  -webkit-animation: floating 30s infinite;
+          animation: floating 30s infinite;
+}
+
+.cloud:before {
+  content: "";
+  height: 58px;
+  width: 58px;
+  display: block;
+  background: white;
+  border-radius: 50%;
+  position: absolute;
+  left: 0;
+  bottom: -25px;
+}
+
+.cloud:after {
+  content: "";
+  height: 35px;
+  width: 35px;
+  display: block;
+  background: white;
+  border-radius: 50%;
+  position: absolute;
+  right: 0;
+  bottom: -10px;
+}
+
+.cloud_inner {
+  width: 96px;
+  height: 50px;
+  position: absolute;
+  bottom: 12px;
+  left: 0px;
+  overflow: hidden;
+}
+
+.cloud_inner:before {
+  content: "";
+  height: 30px;
+  width: 30px;
+  display: block;
+  background: white;
+  border-radius: 50%;
+  position: absolute;
+  left: 20px;
+  bottom: 10px;
+}
+
+.cloud_inner:after {
+  content: "";
+  height: 30px;
+  width: 30px;
+  display: block;
+  background: white;
+  border-radius: 50%;
+  position: absolute;
+  right: 20px;
+  bottom: 0;
+}
+
+@-webkit-keyframes floating {
+  0%   { left: 50px; }
+  50%  { left: -50px; }
+  100% { left: 50px }
+}
+@keyframes floating {
+  0%   { left: 50px; }
+  50%  { left: -50px; }
+  100% { left: 50px }
+}
+
+
+/* ------ CLOUDS ------- */
+.cloud.__cloud_bis {
+  bottom: 150px;
+  left: -150px;
+  
+  -webkit-transform: scale(0.7); 
+      -ms-transform: scale(0.7); 
+          transform: scale(0.7); 
+  opacity: .7;
+  -webkit-animation: floating_bis 30s infinite;
+          animation: floating_bis 30s infinite;
+}
+@-webkit-keyframes floating_bis {
+  0%   { left: -150px; }
+  50%  { left: 0px; }
+  100% { left: -150px }
+}
+@keyframes floating_bis {
+  0%   { left: -150px; }
+  50%  { left: 0px; }
+  100% { left: -150px }
+}
+ </style>
+  
+  </head>
+
+<body>
+
+	<center><h1 color="#fff">If you don't know where to go, you're not supposed to be here.</h1></center>
+
+  <div class="sun">
+  <div class="cloud">
+    <div class="cloud_inner"></div>
+  </div>
+
+  <div class="cloud __cloud_bis">
+    <div class="cloud_inner"></div>
+  </div>
+</div>
+
+</body>
+
+</html>

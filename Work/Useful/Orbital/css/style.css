@@ -1,0 +1,472 @@
+@-moz-keyframes seq31 {
+  from {
+    height: 180px;
+    margin-top: -90px;
+  }
+  to {
+    height: 0;
+    margin-top: 0;
+  }
+}
+@-webkit-keyframes seq31 {
+  from {
+    height: 180px;
+    margin-top: -90px;
+  }
+  to {
+    height: 0;
+    margin-top: 0;
+  }
+}
+@-o-keyframes seq31 {
+  from {
+    height: 180px;
+    margin-top: -90px;
+  }
+  to {
+    height: 0;
+    margin-top: 0;
+  }
+}
+@keyframes seq31 {
+  from {
+    height: 180px;
+    margin-top: -90px;
+  }
+  to {
+    height: 0;
+    margin-top: 0;
+  }
+}
+@-moz-keyframes seq32 {
+  from {
+    height: 160px;
+    margin-top: -80px;
+  }
+  to {
+    height: 0;
+    margin-top: 0;
+  }
+}
+@-webkit-keyframes seq32 {
+  from {
+    height: 160px;
+    margin-top: -80px;
+  }
+  to {
+    height: 0;
+    margin-top: 0;
+  }
+}
+@-o-keyframes seq32 {
+  from {
+    height: 160px;
+    margin-top: -80px;
+  }
+  to {
+    height: 0;
+    margin-top: 0;
+  }
+}
+@keyframes seq32 {
+  from {
+    height: 160px;
+    margin-top: -80px;
+  }
+  to {
+    height: 0;
+    margin-top: 0;
+  }
+}
+@-moz-keyframes seq33 {
+  from {
+    height: 140px;
+    margin-top: -70px;
+  }
+  to {
+    height: 0;
+    margin-top: 0;
+  }
+}
+@-webkit-keyframes seq33 {
+  from {
+    height: 140px;
+    margin-top: -70px;
+  }
+  to {
+    height: 0;
+    margin-top: 0;
+  }
+}
+@-o-keyframes seq33 {
+  from {
+    height: 140px;
+    margin-top: -70px;
+  }
+  to {
+    height: 0;
+    margin-top: 0;
+  }
+}
+@keyframes seq33 {
+  from {
+    height: 140px;
+    margin-top: -70px;
+  }
+  to {
+    height: 0;
+    margin-top: 0;
+  }
+}
+@-moz-keyframes seq34 {
+  from {
+    height: 120px;
+    margin-top: -60px;
+  }
+  to {
+    height: 0;
+    margin-top: 0;
+  }
+}
+@-webkit-keyframes seq34 {
+  from {
+    height: 120px;
+    margin-top: -60px;
+  }
+  to {
+    height: 0;
+    margin-top: 0;
+  }
+}
+@-o-keyframes seq34 {
+  from {
+    height: 120px;
+    margin-top: -60px;
+  }
+  to {
+    height: 0;
+    margin-top: 0;
+  }
+}
+@keyframes seq34 {
+  from {
+    height: 120px;
+    margin-top: -60px;
+  }
+  to {
+    height: 0;
+    margin-top: 0;
+  }
+}
+body,
+html {
+  background: #222;
+}
+.orbit {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 200px;
+  height: 200px;
+  margin-left: -100px;
+  margin-top: -100px;
+  border: 2px solid #ddd;
+  -webkit-border-radius: 50%;
+  border-radius: 50%;
+  -webkit-animation-duration: 1s;
+  -moz-animation-duration: 1s;
+  -o-animation-duration: 1s;
+  -ms-animation-duration: 1s;
+  animation-duration: 1s;
+  -webkit-animation-timing-function: ease-in;
+  -moz-animation-timing-function: ease-in;
+  -o-animation-timing-function: ease-in;
+  -ms-animation-timing-function: ease-in;
+  animation-timing-function: ease-in;
+  -webkit-animation-iteration-count: infinite;
+  -moz-animation-iteration-count: infinite;
+  -o-animation-iteration-count: infinite;
+  -ms-animation-iteration-count: infinite;
+  animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+  -moz-animation-direction: alternate;
+  -o-animation-direction: alternate;
+  -ms-animation-direction: alternate;
+  animation-direction: alternate;
+}
+.o1 {
+  -webkit-transform: rotate(45deg);
+  -moz-transform: rotate(45deg);
+  -o-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  transform: rotate(45deg);
+}
+.o2 {
+  -webkit-transform: rotate(90deg);
+  -moz-transform: rotate(90deg);
+  -o-transform: rotate(90deg);
+  -ms-transform: rotate(90deg);
+  transform: rotate(90deg);
+}
+.o3 {
+  -webkit-transform: rotate(135deg);
+  -moz-transform: rotate(135deg);
+  -o-transform: rotate(135deg);
+  -ms-transform: rotate(135deg);
+  transform: rotate(135deg);
+}
+.o4 {
+  -webkit-transform: rotate(180deg);
+  -moz-transform: rotate(180deg);
+  -o-transform: rotate(180deg);
+  -ms-transform: rotate(180deg);
+  transform: rotate(180deg);
+}
+#spinner.sequence1 .o1 {
+  -webkit-animation-name: hspin;
+  -moz-animation-name: hspin;
+  -o-animation-name: hspin;
+  -ms-animation-name: hspin;
+  animation-name: hspin;
+  -webkit-transform: rotate(45deg);
+  -moz-transform: rotate(45deg);
+  -o-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  transform: rotate(45deg);
+}
+#spinner.sequence1 .o2 {
+  -webkit-animation-name: hspin;
+  -moz-animation-name: hspin;
+  -o-animation-name: hspin;
+  -ms-animation-name: hspin;
+  animation-name: hspin;
+  -webkit-transform: rotate(90deg);
+  -moz-transform: rotate(90deg);
+  -o-transform: rotate(90deg);
+  -ms-transform: rotate(90deg);
+  transform: rotate(90deg);
+}
+#spinner.sequence1 .o3 {
+  -webkit-animation-name: hspin;
+  -moz-animation-name: hspin;
+  -o-animation-name: hspin;
+  -ms-animation-name: hspin;
+  animation-name: hspin;
+  -webkit-transform: rotate(135deg);
+  -moz-transform: rotate(135deg);
+  -o-transform: rotate(135deg);
+  -ms-transform: rotate(135deg);
+  transform: rotate(135deg);
+}
+#spinner.sequence1 .o4 {
+  -webkit-animation-name: hspin;
+  -moz-animation-name: hspin;
+  -o-animation-name: hspin;
+  -ms-animation-name: hspin;
+  animation-name: hspin;
+  -webkit-transform: rotate(180deg);
+  -moz-transform: rotate(180deg);
+  -o-transform: rotate(180deg);
+  -ms-transform: rotate(180deg);
+  transform: rotate(180deg);
+}
+#spinner.sequence2 .o1 {
+  -webkit-animation-name: hspin;
+  -moz-animation-name: hspin;
+  -o-animation-name: hspin;
+  -ms-animation-name: hspin;
+  animation-name: hspin;
+  -webkit-animation-delay: 0.5s;
+  -moz-animation-delay: 0.5s;
+  -o-animation-delay: 0.5s;
+  -ms-animation-delay: 0.5s;
+  animation-delay: 0.5s;
+}
+#spinner.sequence2 .o2 {
+  -webkit-animation-name: hspin;
+  -moz-animation-name: hspin;
+  -o-animation-name: hspin;
+  -ms-animation-name: hspin;
+  animation-name: hspin;
+  -webkit-animation-delay: 1s;
+  -moz-animation-delay: 1s;
+  -o-animation-delay: 1s;
+  -ms-animation-delay: 1s;
+  animation-delay: 1s;
+}
+#spinner.sequence2 .o3 {
+  -webkit-animation-name: hspin;
+  -moz-animation-name: hspin;
+  -o-animation-name: hspin;
+  -ms-animation-name: hspin;
+  animation-name: hspin;
+  -webkit-animation-delay: 1.5s;
+  -moz-animation-delay: 1.5s;
+  -o-animation-delay: 1.5s;
+  -ms-animation-delay: 1.5s;
+  animation-delay: 1.5s;
+}
+#spinner.sequence2 .o4 {
+  -webkit-animation-name: hspin;
+  -moz-animation-name: hspin;
+  -o-animation-name: hspin;
+  -ms-animation-name: hspin;
+  animation-name: hspin;
+  -webkit-animation-delay: 2s;
+  -moz-animation-delay: 2s;
+  -o-animation-delay: 2s;
+  -ms-animation-delay: 2s;
+  animation-delay: 2s;
+}
+#spinner.sequence3 .o1,
+#spinner.sequence4 .o1 {
+  height: $h-(20);
+  width: 180px;
+  margin-left: -90px;
+  -webkit-animation-name: seq31;
+  -moz-animation-name: seq31;
+  -o-animation-name: seq31;
+  -ms-animation-name: seq31;
+  animation-name: seq31;
+  -webkit-animation-timing-function: linear;
+  -moz-animation-timing-function: linear;
+  -o-animation-timing-function: linear;
+  -ms-animation-timing-function: linear;
+  animation-timing-function: linear;
+}
+#spinner.sequence3 .o2,
+#spinner.sequence4 .o2 {
+  height: $h-(40);
+  width: 160px;
+  margin-left: -80px;
+  -webkit-animation-name: seq32;
+  -moz-animation-name: seq32;
+  -o-animation-name: seq32;
+  -ms-animation-name: seq32;
+  animation-name: seq32;
+  -webkit-animation-timing-function: linear;
+  -moz-animation-timing-function: linear;
+  -o-animation-timing-function: linear;
+  -ms-animation-timing-function: linear;
+  animation-timing-function: linear;
+}
+#spinner.sequence3 .o3,
+#spinner.sequence4 .o3 {
+  height: $h-(60);
+  width: 140px;
+  margin-left: -70px;
+  -webkit-animation-name: seq33;
+  -moz-animation-name: seq33;
+  -o-animation-name: seq33;
+  -ms-animation-name: seq33;
+  animation-name: seq33;
+  -webkit-animation-timing-function: linear;
+  -moz-animation-timing-function: linear;
+  -o-animation-timing-function: linear;
+  -ms-animation-timing-function: linear;
+  animation-timing-function: linear;
+}
+#spinner.sequence3 .o4,
+#spinner.sequence4 .o4 {
+  height: $h-(80);
+  width: 120px;
+  margin-left: -60px;
+  -webkit-animation-name: seq34;
+  -moz-animation-name: seq34;
+  -o-animation-name: seq34;
+  -ms-animation-name: seq34;
+  animation-name: seq34;
+  -webkit-animation-timing-function: linear;
+  -moz-animation-timing-function: linear;
+  -o-animation-timing-function: linear;
+  -ms-animation-timing-function: linear;
+  animation-timing-function: linear;
+}
+#spinner.sequence4 .o1 {
+  -webkit-animation-delay: 0.25s;
+  -moz-animation-delay: 0.25s;
+  -o-animation-delay: 0.25s;
+  -ms-animation-delay: 0.25s;
+  animation-delay: 0.25s;
+  -webkit-animation-timing-function: ease-in;
+  -moz-animation-timing-function: ease-in;
+  -o-animation-timing-function: ease-in;
+  -ms-animation-timing-function: ease-in;
+  animation-timing-function: ease-in;
+}
+#spinner.sequence4 .o2 {
+  -webkit-animation-delay: 0.5s;
+  -moz-animation-delay: 0.5s;
+  -o-animation-delay: 0.5s;
+  -ms-animation-delay: 0.5s;
+  animation-delay: 0.5s;
+  -webkit-animation-timing-function: ease-in;
+  -moz-animation-timing-function: ease-in;
+  -o-animation-timing-function: ease-in;
+  -ms-animation-timing-function: ease-in;
+  animation-timing-function: ease-in;
+}
+#spinner.sequence4 .o3 {
+  -webkit-animation-delay: 0.75s;
+  -moz-animation-delay: 0.75s;
+  -o-animation-delay: 0.75s;
+  -ms-animation-delay: 0.75s;
+  animation-delay: 0.75s;
+  -webkit-animation-timing-function: ease-in;
+  -moz-animation-timing-function: ease-in;
+  -o-animation-timing-function: ease-in;
+  -ms-animation-timing-function: ease-in;
+  animation-timing-function: ease-in;
+}
+#spinner.sequence4 .o4 {
+  -webkit-animation-delay: 1s;
+  -moz-animation-delay: 1s;
+  -o-animation-delay: 1s;
+  -ms-animation-delay: 1s;
+  animation-delay: 1s;
+  -webkit-animation-timing-function: ease-in;
+  -moz-animation-timing-function: ease-in;
+  -o-animation-timing-function: ease-in;
+  -ms-animation-timing-function: ease-in;
+  animation-timing-function: ease-in;
+}
+@-moz-keyframes hspin {
+  from {
+    height: 200px;
+    margin-top: -100px;
+  }
+  to {
+    height: 0;
+    margin-top: 0;
+  }
+}
+@-webkit-keyframes hspin {
+  from {
+    height: 200px;
+    margin-top: -100px;
+  }
+  to {
+    height: 0;
+    margin-top: 0;
+  }
+}
+@-o-keyframes hspin {
+  from {
+    height: 200px;
+    margin-top: -100px;
+  }
+  to {
+    height: 0;
+    margin-top: 0;
+  }
+}
+@keyframes hspin {
+  from {
+    height: 200px;
+    margin-top: -100px;
+  }
+  to {
+    height: 0;
+    margin-top: 0;
+  }
+}

@@ -1,0 +1,81 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans);
+.container {
+  width: 100%;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  display: -webkit-flex;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+body {
+  background: gold;
+  color: #000;
+  font-size: 1.25em;
+  text-align: center;
+  width: 100%;
+  font-family: Open Sans, sans-serif;
+  margin: 0%;
+}
+
+a,
+a:hover,
+a:visited {
+  color: blue;
+  text-decoration: none;
+}
+
+.caption {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+  background: #ffe766;
+}
+
+.content {
+  width: 80%;
+  padding: 10px;
+  position: relative;
+  height: 550px;
+}
+
+.roller {
+  width: 33.3%;
+  float: left;
+}
+
+.roller:nth-child(odd) .oval {
+  border-right: 3px solid #FFF;
+  border-left: 3px solid #000;
+}
+
+.base {
+  width: 13.5%;
+  height: 50px;
+  position: relative;
+  margin: 0px auto;
+  margin-bottom: 20px;
+}
+
+.oval {
+  width: 80%;
+  height: 99%;
+  background: blue;
+  border-radius: 100% 100%;
+  position: absolute;
+  border-right: 3px solid #000;
+  border-left: 3px solid #FFF;
+}
+
+.right {
+  right: 140%;
+  top: 0px;
+}
+
+.left {
+  left: 140%;
+  top: 0px;
+}

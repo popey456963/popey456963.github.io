@@ -1,0 +1,22 @@
+Title - Custom Title Requests
+
+You can use this page in order to request a custom title, please note [b]this is not for ranking up[/b].  Acquiring a rank requires 100 votes and changing an existing one requires 100 more votes than when you received your first title.
+
+Please note that some rules apply to what titles are able to be, these are:
+1 - Titles must be shorter than ten characters.
+2 - All ranks will be [color=orange]orange[/color].
+3 - No inappropriate names are allowed.
+4 - Getting banned will remove your title, however you will be able to buy it back for 100 votes.
+
+If your application fails to pass one of these rules, then your original post will show something like:
+
+[size=14pt][color=red]Request Denied - Reason[/color][/size]
+
+The application used should be designed as follows:
+
+[code][b]IGN[/b]: 
+[b]Total Votes[/b]: 
+[b]Title Requested[/b]: 
+[b]Is this a title change?[/b]: [/code]
+
+To use this format, hit the [Select] button and copy the highlighted text.  Hit reply and paste your copied text into the box and fill in the requested details.

@@ -1,0 +1,18 @@
+Title - Rankup Requests
+
+Use this page to request a promotion once you have the required time, each rankup requires you to have an account on these forums.
+
+[table]
+[tr][td]Member:   [/td][td][b]24 Hours[/b][/td][/tr]
+[tr][td]Geologist:   [/td][td][b]100 Hours[/b][/td][/tr]
+[tr][td]Biologist:   [/td][td][b]200 Hours[/b][/td][/tr]
+[tr][td]Physicist:   [/td][td][b]400 Hours[/b][/td][/tr]
+[/table]
+
+In order for us to process these requests as quickly and efficiently as possible, please use the format provided below:
+
+[code][b]IGN[/b]: 
+[b]Total uptime[/b]: 
+[b]Rank requested[/b]: [/code]
+
+To use this format, hit the [Select] button and copy the highlighted text.  Hit reply and paste your copied text into the box and fill in the requested details.

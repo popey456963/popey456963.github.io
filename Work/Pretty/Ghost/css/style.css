@@ -1,0 +1,164 @@
+body {
+  background: #2c3e50;
+}
+
+.boo {
+  margin: 0 auto;
+  width: 400px;
+  height: 400px;
+  background: #E5E5E5;
+  border-radius: 50%;
+  border: 5px solid #2c3e50;
+  position: relative;
+}
+.boo:before {
+  content: '';
+  display: block;
+  height: 70px;
+  position: absolute;
+  background: #E5E5E5;
+  top: 115px;
+  left: -45px;
+  width: 95px;
+  border-radius: 15px 10px 0 80px;
+  transform: rotate(45deg);
+  border-top: 5px solid #2c3e50;
+}
+
+.right-arm {
+  margin: 0 auto;
+  width: 120px;
+  height: 70px;
+  position: relative;
+  top: -275px;
+  right: -200px;
+  background: #d8d8d8;
+  border-radius: 70px 10px 70px 10px;
+  transform: rotate(120deg);
+  z-index: -1;
+}
+
+.left-eye:before, .right-eye:before {
+  content: '';
+  width: 70px;
+  height: 50px;
+  background: transparent;
+  border-bottom: 5px solid black;
+  border-radius: 50%;
+  position: absolute;
+  top: -50px;
+  right: -20px;
+}
+.left-eye:after, .right-eye:after {
+  content: '';
+  position: absolute;
+  width: 10px;
+  height: 10px;
+  background: #e5e5e5;
+  border-radius: 50%;
+  left: 10px;
+  top: 5px;
+}
+
+.left-eye {
+  width: 30px;
+  height: 40px;
+  background: black;
+  position: absolute;
+  top: 115px;
+  right: 135px;
+  border-radius: 50%;
+}
+
+.right-eye {
+  width: 30px;
+  height: 40px;
+  background: black;
+  position: absolute;
+  top: 115px;
+  right: 65px;
+  border-radius: 50%;
+}
+
+.mouth {
+  width: 170px;
+  height: 100px;
+  border-radius: 20px 15px 70px 70px;
+  background: #350311;
+  position: absolute;
+  right: 30px;
+  top: 200px;
+  transform: rotate(-2deg);
+  overflow: hidden;
+}
+
+.tooth {
+  top: -2px;
+  border-top: 17px solid white;
+  border-left: 15px solid transparent;
+  border-right: 15px solid transparent;
+  border-bottom: 15px solid transparent;
+  position: absolute;
+  transform: rotate(-2deg);
+}
+
+.one {
+  right: 95px;
+  border-top: 35px solid white;
+}
+
+.two {
+  right: 70px;
+}
+
+.three {
+  right: 45px;
+}
+
+.four {
+  right: 20px;
+  border-top: 35px solid white;
+}
+
+.tongue {
+  background: #FF85A8;
+  width: 200px;
+  height: 80px;
+  position: absolute;
+  bottom: -20px;
+  left: -30px;
+  border-radius: 50%;
+  transform: rotate(15deg);
+}
+
+.tail {
+  margin: 0 auto;
+  width: 150px;
+  height: 65px;
+  background: #e5e5e5;
+  position: relative;
+  bottom: 155px;
+  left: -105px;
+  border-radius: 20px 0 0 200px;
+  z-index: -1;
+  transform: rotate(10deg);
+}
+
+.float {
+  -webkit-animation-name: Floating;
+  -webkit-animation-duration: 3s;
+  -webkit-animation-iteration-count: infinite;
+  -webkit-animation-timing-function: ease-in-out;
+}
+
+@-webkit-keyframes Floating {
+  from {
+    -webkit-transform: translate(0, 0px);
+  }
+  65% {
+    -webkit-transform: translate(0, 15px);
+  }
+  to {
+    -webkit-transform: translate(0, 0px);
+  }
+}

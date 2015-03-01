@@ -1,0 +1,31 @@
+Title - Suggestions for EMP Shop
+
+Please use this post if you have a suggestion on what the EMP should buy or sell that is not a vanilla item.  In order to help the staff complete your request, please use the following form:
+
+[code] - [Buy]:[Sell]
+ - [Item Name]
+ - [Item Code]
+ - [Reason for Addition][/code]
+ 
+To use this format, hit the [Select] button and copy the highlighted text.  Hit reply and paste your copied text into the box and fill in the requested details.  
+
+The current items that we are selling which are not vanilla items are:
+
+[list]
+[li]Altar[/li]
+[li]Ender Backpack[/li]
+[li]Parasytic Louse[/li]
+[li]Amethyst[/li]
+[li]Anti-gene[/li]
+[li]Tongue of Dog[/li]
+[li]Wool of Bat[/li]
+[li]Enderium Ingot[/li]
+[li]Manyullyn Ingot[/li]
+[li]Alluminum Brass Ingot[/li]
+[li]Marble[/li]
+[li]Dragon Eggs[/li]
+[li]Cinnabar[/li]
+[li]Pink Slime Balls[/li]
+[li]Laser Drill[/li]
+[li]Laser drill precharger[/li]
+[/list]

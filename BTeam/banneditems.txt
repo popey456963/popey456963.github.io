@@ -1,0 +1,9 @@
+Title: Banned Items
+
+Currently list of banned items are -
+
+[b]Griefing[/b] - [i]Crane Control, Crane Backpack, Dubstep Guns, Master Staffs, TNT, Nyan Pig Launcher, Proto Titan, Alpha Titan, RPG-7 + Ammo, Explosive Barrette Ammo, C-4 + Remote, Claymore, Grenades, Small + Large Bombs, Napalm, Statue Hammer, Cloud in a Bottle, Block Teleporter, Destabilized Redstone, Gelid Cryotheum, Blazing Pyrotheum and Portaspawner[/i]
+[b]Lag[/b] - [i]Ancient Sword, Tornado Gun, Drill Item, Test Item, Shock Wave, Tornado Siren, Tornado Sensor and Weather Collector[/i]
+[b]Other[/b] - [i]Tropic Portal Enchanter, Sonic Glasses, Oven, Upgrade/Output DNA, Bibliocraft Case and TConstruct Knapsack[/i]
+
+Please note that Archimedes Ships, Minions Mod and World of Dinos are all banned because they either crash the server or bypass grief prevention.

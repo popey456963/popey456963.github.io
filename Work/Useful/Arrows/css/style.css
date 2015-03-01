@@ -1,0 +1,49 @@
+html, body {
+  height: 100%;
+  min-height: 100%
+}
+body {
+  background: #1dacc5;
+  position: relative;
+  overflow: hidden
+}
+.w {
+  width: 490px;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  margin: -227px 0 0 -227px;
+}
+.w div {
+  width: 24px;
+  height: 25px;
+  margin: 0 10px 10px 0;
+  float: left;
+  border-left: 1px solid #fff;
+  position: relative;
+  -webkit-transform-origin: 0 0;
+  -moz-transform-origin: 0 0;
+  -ms-transform-origin: 0 0;
+  transform-origin: 0 0
+}
+.w div:after {
+  content: '';
+  display: block;
+  position: absolute;
+ 
+  width: 0;
+  height: 0;
+  border-style: solid;
+  border-width: 5px 3.5px 0 3.5px;
+  border-color: #fff transparent transparent transparent;
+  
+  bottom: 0;
+  left: -3px
+}
+
+.w div.i74,
+.w div.i84,
+.w div.i94,
+.w div.i104{
+  margin-right: 150px
+}

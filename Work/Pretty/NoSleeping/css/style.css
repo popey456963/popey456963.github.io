@@ -1,0 +1,81 @@
+/* -- THE BODY -- */
+.body {
+}
+
+#face-wrap {
+  margin: 160px auto 0;
+  width: 160px;
+}
+
+#face {
+  position: relative;
+  width: 160px;
+  height: 160px;
+  border-radius: 80px;
+  background: rgb(255, 200, 200);
+  transform: rotate(15deg);
+  -webkit-transform: rotate(15deg);
+  -moz-transform: rotate(15deg);
+  -o-transform: rotate(15deg);
+}
+
+.ear {
+  position: absolute;
+  width: 70px;
+  height: 70px;
+  border-radius: 35px;
+  background: rgb(255, 200, 200);
+}
+#ear-l {
+  left: -20px;
+}
+#ear-r {
+  left: +110px;
+}
+
+.eye {
+  top: +75px;
+  position: absolute;
+  width: 40px;
+  height: 4px;
+  background: rgb(255, 250, 250);
+}
+#eye-l {
+  left: +14px;
+}
+#eye-r {
+  left: +100px;
+}
+
+#nose {
+  position: absolute;
+  top: +75px;
+  left: +47px;
+  width: 60px;
+  height: 60px;
+  border-radius: 30px;
+  background: rgb(250, 160, 160);
+}
+.nose {
+  top: +13px;
+  position: absolute;
+  width: 7px;
+  height: 35px;
+  background: rgb(255, 125, 125);
+}
+#nose-l {
+  left: +16px;
+}
+#nose-r {
+  left: +36px;
+}
+
+
+/* -- ZZZzzzz -- */
+.z {
+  position: absolute;
+  color: black;
+  font-family: arial;
+  font-size: 0;
+  font-weight: bold;
+}

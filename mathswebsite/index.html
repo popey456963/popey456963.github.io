@@ -1,0 +1,110 @@
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>Steam Calculator</title>
+		<link href="css/css.css" rel="stylesheet" type="text/css">
+		<link href='css/text.css' rel='stylesheet' type='text/css'>
+		<script src="js/jquery.js"></script>
+		<script src="js/default.js"></script>
+		<script src="js/prefixfree.min.js"></script>
+	</head>
+	<body>
+
+		<!--First Input Div-->
+		<div class="row" id="title" style="display:block">
+			<h1>World Hunger Project</h1> <br /> <br />
+			<span>
+				<input class="balloon" name="InputPop" id="InputPop" type="number" value="100" placeholder="Your Steam Username"/>
+				<label for="InputPop">Start Pop</label>
+			</span>
+			<b>&nbsp;&nbsp;and&nbsp;&nbsp;</b>
+			<span>
+				<input class="balloon" name="InputCrop" id="InputCrop" type="number" value="50" placeholder="Your Steam 64-Bit Name"/>
+				<label for="InputCrop">Start Crops</label>
+			</span>
+		</div>
+		
+		<div class="row" id="titlebutton" style="display:block">
+			<button onclick="start()" id="button1" class="myButton">Start the Adventure</button>
+		</div>
+		
+		<!--Table Div-->
+		<div class="row" id="pop" style="display:none">
+			<table align="char">
+			<tr>
+				<td><p id="tpopr">Total Population: <span id="tpop">Error - Please Reload</span></p></td>
+				<td><p></p></td>
+				<td><p></p></td>
+				<td><p id="apopr">Adult Population: <span id="apop">Error - Please Reload</span></p></td>
+				<td><p id="cpopr">Child Population: <span id="cpop">Error - Please Reload</span></p></td>
+				<td><p id="ipopr">Under 5 Population: <span id="ipop">Error - Please Reload</span></p></td>
+			</tr>
+			<tr>
+				<td><p id="cashr">Cash: <span id="cash"></span></p></td>
+				<td><p id="cropr">Crops: <span id="crop"></span></p></td>
+				<td><p id="wellr">Wells: <span id="well"></span></p></td>
+				<td><p id="birthr">Births: <span id="birth"></span></p></td>
+				<td><p id="deathr">Deaths: <span id="death"></span></p></td>
+				<td><p id="cropstoredr">Crops Stored: <span id="cropstored"></span></p></td>
+			</tr>
+			</table>
+		</div>
+		
+		<!--Input Div-->
+		<div class="row" id="input" style="display:none">
+			<span>
+				<input class="balloon" name="welldig" id="welldig" type="number" value="1" placeholder="Number of Wells to Dig"/>
+				<label for="welldig">Wells to Dig</label>
+			</span>
+			<span>
+				<input class="balloon" name="acreplant" id="acreplant" type="number" value="1" placeholder="Number of Acres to Plant"/>
+				<label for="acreplant">Acres to Plant</label>
+			</span>
+			<span>
+				<input class="balloon" name="sendschool" id="sendschool" type="number" value="1" placeholder="Children to Send to School"/>
+				<label for="sendschool">Send to School</label>
+			</span>
+			<span>
+				<input class="balloon" name="sellcrop" id="sellcrop" type="number" value="1" placeholder="Number of Crops to Sell"/>
+				<label for="sellcrop">Crops to Sell</label>
+			</span>
+		</div>
+		
+		<!--New Year Div-->
+		<div class="row" id="nextyear" style="display:none">
+			<span>
+				<button onclick="newYear()" id="newyear" class="myButton">Next Year!</button>
+			</span>
+		</div>
+		<!--Empty Div-->
+		<div class="row"></div>
+		<!--Empty Div-->
+		<div class="row"></div>
+		<!--Empty Div-->
+		<div class="row"></div>
+		<!--Empty Div-->
+		<div class="row"></div>
+		<!--Empty Div-->
+		<div class="row"></div>
+		<!--Empty Div-->
+		<div class="row"></div>
+		<!--Empty Div-->
+		<div class="row"></div>
+		<!--Empty Div-->
+		<div class="row"></div>
+		<!--Empty Div-->
+		<div class="row"></div>
+		<!--Empty Div-->
+		<div class="row"></div>
+		<!--Empty Div-->
+		<div class="row"></div>
+		<!--Empty Div-->
+		<div class="row"></div>
+		<!--Empty Div-->
+		<div class="row"></div>
+		<!--Empty Div-->
+		<div class="row"></div>		
+	</body>
+</html>

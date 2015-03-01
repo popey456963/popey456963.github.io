@@ -1,0 +1,31 @@
+Title - Frequently Asked Questions
+
+I can't do the formatting in notepad++, so I request that you format it in the same was as you did before.  Basically, changes.. Shorter title, better instructions, no "View this guide".
+
+FAQ
+
+- Crashing upon Joining
+- Vanishing Crafted Items
+- Protecting Property
+
+Crashing upon Joining
+
+[list]
+[li]Run the Technic Launcher[/li]
+[li]Click the cog icon under the "Attack of the B-Team" logo on the left[/li]
+[li]Click the "Open Folder" button[/li]
+[li]Open the "Mods" folder[/li]
+[li]Download version 2.7.5 of Minefactory Reloaded.[/li]
+[li]Move "minefactoryreloaded-2.7.5-352.jar" into the "Mods" folder.[/li]
+[li]Delete "minefactoryreloaded-2.7.6-448.jar".[/li]
+[li]Restart your technic launcher and join the server.[/li]
+[/list]
+
+Vanishing Crafted Items
+
+The item you are attempting to craft is banned, please refer to this list to see all banned items:
+[URL to page specified before]
+
+Protecting Property
+
+[Video]

@@ -1,0 +1,34 @@
+<script src="http://code.jquery.com/jquery-1.10.2.js"></script>
+<div id="text"></div>
+<script>
+    var datehuman;
+    var test;
+
+    function changedate(date) {
+        dateepoch = Date.parse(date);
+        var datetemp = new Date(dateepoch);
+        datehuman = datetemp.toLocaleString();
+    }
+
+    var data;
+    $.getJSON("https://api.hipchat.com/v2/room/CodeCombat/history?auth_token=niI6idrpL9VWpZZixTAgqClXkDOycP6U5lMonuHQ&max-results=1000", function(json) {
+        data = json; //Don't ask me why I don't just send json to rundata =(
+        rundata();
+    });
+
+    function rundata() {
+        for (var i = 0; i < data.items.length; i++) {
+            var text = document.getElementById('text'); //Get text div
+            var nameguest = data.items[i].from; //Get names of guests
+            var nameuser = data.items[i].from.name; //Get names of users
+            var message = data.items[i].message; //Get the messages
+            changedate(data.items[i].date); //Change date from ISO 8601 to Human Readable
+
+            if (typeof data.items[i].from == "object") { //Is User
+                text.innerHTML = text.innerHTML + datehuman + " " + nameuser + ": " + message + "<br>"
+            } else { //Is Guest
+                text.innerHTML = text.innerHTML + datehuman + " " + nameguest + ": " + message + "<br>"
+            }
+        }
+    }
+</script>

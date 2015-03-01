@@ -1,0 +1,53 @@
+<script src="http://code.jquery.com/jquery-1.10.2.js"></script>
+<div id="text">
+    <table id="table">
+    </table>
+</div>
+<script>
+    var datehuman;
+    var data;
+
+    function changeDate(date) {
+        dateepoch = Date.parse(date);
+        var datetemp = new Date(dateepoch);
+        datehuman = datetemp.toLocaleString();
+    }
+	
+	function getJSON(time){	
+		$.getJSON("https://api.hipchat.com/v2/room/CodeCombat/history?auth_token=niI6idrpL9VWpZZixTAgqClXkDOycP6U5lMonuHQ&max-results=1000&time=" + String(time), function(json) {
+			data = json; //Don't ask me why I don't just send json to rundata =(
+			runData();
+			console.log(time);
+	});}
+	
+	function timethingy(){
+	    var date = new Date();
+		date = date.toISOString();
+		setTimeout(function() {console.log('getting data');},12500);
+		getJSON(date);
+	}
+	
+	timethingy();
+
+    function runData() {
+        for (var i = 0; i < data.items.length; i++) {
+            var text = document.getElementById('text'); //Text Div
+            var nameguest = data.items[i].from; //Guests
+            var nameuser = data.items[i].from.name; //Users
+            var message = data.items[i].message; //Messages
+            changeDate(data.items[i].date); //Date
+            var table = document.getElementById("table"); //Table Div
+
+            var row = table.insertRow(i);
+            row.insertCell(0).innerHTML = datehuman;
+            if (typeof nameguest == "object") {
+                row.insertCell(1).innerHTML = nameuser;
+            } else {
+                row.insertCell(1).innerHTML = nameguest;
+            }
+            row.insertCell(2).innerHTML = message;
+        }
+    }
+
+	
+</script>

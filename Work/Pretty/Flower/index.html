@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+  <meta charset="UTF-8">
+
+  <title>Flower</title>
+
+    <style>
+.demo-container {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+  width: 200px;
+  height: 200px;
+}
+
+.outer-circle {
+  border-radius: 50%;
+  background: black;
+  height: 200px;
+  width: 200px;
+  position: absolute;
+  animation: anim2 1s infinite ease-in-out alternate;
+}
+.outer-circle:after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  background: transparent;
+  box-shadow: 0 0 0 0 rgba(0, 0, 0, 0.4), 0 0 0 0 rgba(0, 0, 0, 0.4), 0 0 0 0 rgba(0, 0, 0, 0.4), 0 0 0 0 rgba(0, 0, 0, 0.4), 0 0 0 0 rgba(0, 0, 0, 0.4), 0 0 0 0 rgba(0, 0, 0, 0.4), 0 0 0 0 rgba(0, 0, 0, 0.4), 0 0 0 0 rgba(0, 0, 0, 0.4);
+  animation: anim1 1s infinite ease-in-out alternate;
+}
+
+@keyframes anim1 {
+  100% {
+    box-shadow: 40px 40px 0 0 rgba(0, 0, 0, 0.4), 55px 0px 0 0 rgba(0, 0, 0, 0.4), 40px -40px 0 0 rgba(0, 0, 0, 0.4), 0px -55px 0 0 rgba(0, 0, 0, 0.4), -40px -40px 0 0 rgba(0, 0, 0, 0.4), -55px 0 0 0 rgba(0, 0, 0, 0.4), -40px 40px 0 0 rgba(0, 0, 0, 0.4), 0 55px 0 0 rgba(0, 0, 0, 0.4);
+  }
+}
+@keyframes anim2 {
+  100% {
+    transform: scale(0.675);
+  }
+}
+
+</style>
+
+    <script src="js/prefixfree.min.js"></script>
+
+</head>
+
+<body>
+
+  <div class="demo-container">
+  <div class="outer-circle"></div>
+</div>
+
+  <script src='http://codepen.io/assets/libs/fullpage/jquery.js'></script>
+
+  <script src="js/index.js"></script>
+
+</body>
+
+</html>
