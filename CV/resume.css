@@ -27,7 +27,7 @@ a { color: #990003 }
 a:hover { text-decoration: none; }
 strong { font-weight: bold; }
 li { line-height: 24px; border-bottom: 1px solid #ccc; }
-p.enlarge { font-size: 144%; padding-right: 6.5em; line-height: 24px; }
+p.enlarge { font-size: 120%; padding-right: 6.5em; line-height: 24px; }
 p.enlarge span { color: #000 }
 .contact-info { margin-top: 7px; }
 .first h2 { font-style: italic; }
@@ -58,7 +58,7 @@ a#pdf:hover { background: #222; }
 #srt-ttab img.last { margin-top: 20px }
 
 /* --// override to force 1/8th width grids -- */
-.yui-gf .yui-u{width:80.2%;}
+.yui-gf .yui-u{width:90.2%;}
 .yui-gf div.first{width:12.3%;}
 
 
