@@ -158,10 +158,10 @@ h2 {
 <header></header>
 
 <section class="card">
-  <h1><strong>32 minutes</strong> to the Australian Outback</h1>
-  <h2>New Jets!</h2>
-  <h1><strong>58 minutes</strong> to the Moon</h1>
-  <h2>Limited time only</h2>
+  <h1><strong>32 minutes</strong> to the Ipswich Music Festival</h1>
+  <h2>Newton Road</h2>
+  <h1><strong>58 minutes</strong> to the Capitol Station</h1>
+  <h2>Capitol Ln.</h2>
   <!--<div class="map"></div>-->
 
 </section>
@@ -176,13 +176,21 @@ h2 {
   <script src='http://codepen.io/assets/libs/fullpage/jquery.js'></script>
   
   <script type="text/javascript">
+    var blarg;
     clippy.load('Clippy', clip);
     
     function clip(agent) {
+        blarg = agent;
         agent.show();
         agent.moveTo(560,400);
         agent.speak("Hi I'm Clippy, your office assistance.  I've upgraded your homepage.");
     }
+    
+    $(document).keypress(function(e) {
+    if(e.which == 13) {
+        blarg.speak("I'm afraid I can't let you do that.");
+    }
+    });
 </script>
 
 </body>
