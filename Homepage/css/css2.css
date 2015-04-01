@@ -7,6 +7,14 @@
 body {
     background: #222
 }
+img {
+    border:1px solid #;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;  
+    width: 11rem;
+    height: 11.5rem;
+}
 main {
     display: block;
     position: relative;
