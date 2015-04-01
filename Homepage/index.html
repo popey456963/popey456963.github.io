@@ -1,125 +1,42 @@
 <!DOCTYPE html>
 <html>
 
-<link rel="stylesheet" href="css/css.css">
-<link rel="stylesheet" href="css/css2.css">
-<script src="http://code.jquery.com/jquery-2.1.3.min.js"></script>
-
-<head>
-
-  <meta charset="UTF-8">
-    <script src="js/prefixfree.min.js"></script>
-
-</head>
-
 <body>
 
-  <main>
+    <main>
 
-<input placeholder="Search on Google" x-webkit-speech autocomplete="off" />
+        <input placeholder="Search on Google" id="q" type="text" x-webkit-speech autocomplete="off" />
 
-<header></header>
+        <header></header>
 
-<section class="card">
-  <div class="newsfeed"></div>
-  <!--<h1><strong>Lorem Ipsum</strong> fill data</h1>
-  <h2>Bash</h2>
-  <h1><strong>Lorem Ipsum</strong> fill data</h1>
-  <h2>Bash</h2>
-  <h1><strong>Lorem Ipsum</strong> fill data</h1>
-  <h2>Bash</h2>-->
+        <section class="card">
+            <div class="newsfeed"></div>
+        </section>
 
-</section>
+        <section class="card">
+            <h1>Quick Links</h1>
+            <br />
+            <center>
+                <a href="http://google.com"><img src="https://unsplash.it/200/?random" alt="Lorem Pixel"></a>
+                <a href="http://google.com"><img src="https://unsplash.it/300/?random" alt="Lorem Pixel"></a>
+                <a href="http://google.com"><img src="https://unsplash.it/400/?random" alt="Lorem Pixel"></a>
+                <a href="http://google.com"><img src="https://unsplash.it/500/?random" alt="Lorem Pixel"></a>
+                <a href="http://google.com"><img src="https://unsplash.it/600/?random" alt="Lorem Pixel"></a>
+                <a href="http://google.com"><img src="https://unsplash.it/700/?random" alt="Lorem Pixel"></a>
+                <a href="http://google.com"><img src="https://unsplash.it/800/?random" alt="Lorem Pixel"></a>
+                <a href="http://google.com"><img src="https://unsplash.it/900/?random" alt="Lorem Pixel"></a>
+            </center>
+        </section>
 
-<section class="card">
-  <h1>Quick Links</h1>
-  <br />
-  <center>
-  <a href="http://google.com"><img src="https://unsplash.it/200/?random" alt="Lorem Pixel"></a>
-  <a href="http://google.com"><img src="https://unsplash.it/300/?random" alt="Lorem Pixel"></a>
-  <a href="http://google.com"><img src="https://unsplash.it/400/?random" alt="Lorem Pixel"></a>
-  <a href="http://google.com"><img src="https://unsplash.it/500/?random" alt="Lorem Pixel"></a>
-  <a href="http://google.com"><img src="https://unsplash.it/600/?random" alt="Lorem Pixel"></a>
-  <a href="http://google.com"><img src="https://unsplash.it/700/?random" alt="Lorem Pixel"></a>
-  <a href="http://google.com"><img src="https://unsplash.it/800/?random" alt="Lorem Pixel"></a>
-  <a href="http://google.com"><img src="https://unsplash.it/900/?random" alt="Lorem Pixel"></a>
-  </center>
-</section>
+    </main>
 
-</main>
-
-<script>
-function getURL(){
-  var URL = "https://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20rss%20where%20url%3D%22http%3A%2F%2Ffeeds.bbci.co.uk%2Fnews%2Fworld%2Frss.xml%3Fedition%3Duk%0A%22&diagnostics=true";
-  var json;
-  $.get( URL, function( data ) {
-    $( ".result" ).html( data );
-    //console.log(data);
-    //alert( "Load was performed." );
-    json = xmlToJson(data);
-    //console.log(json)
-    var items = json["query"]["results"]["item"];
-    //console.log(items);
-    for(i=0;i<3;i++){
-      console.group();
-      console.log(items[i]['title']['#text']);
-      console.log(items[i]['description']['#text']);
-      console.log(items[i]['link']['#text']);
-      console.groupEnd();
-      appendToDiv(items[i]['title']['#text'], items[i]['description']['#text'], items[i]['link']['#text']);
-    }
-  })
-  .fail(function() {getURL();});
-}
-// Changes XML to JSON - Noone likes XML, credit to David Walsh.
-function xmlToJson(xml) {
-	
-	// Create the return object
-	var obj = {};
-
-	if (xml.nodeType == 1) { // element
-		// do attributes
-		if (xml.attributes.length > 0) {
-		obj["@attributes"] = {};
-			for (var j = 0; j < xml.attributes.length; j++) {
-				var attribute = xml.attributes.item(j);
-				obj["@attributes"][attribute.nodeName] = attribute.nodeValue;
-			}
-		}
-	} else if (xml.nodeType == 3) { // text
-		obj = xml.nodeValue;
-	}
-
-	// do children
-	if (xml.hasChildNodes()) {
-		for(var i = 0; i < xml.childNodes.length; i++) {
-			var item = xml.childNodes.item(i);
-			var nodeName = item.nodeName;
-			if (typeof(obj[nodeName]) == "undefined") {
-				obj[nodeName] = xmlToJson(item);
-			} else {
-				if (typeof(obj[nodeName].push) == "undefined") {
-					var old = obj[nodeName];
-					obj[nodeName] = [];
-					obj[nodeName].push(old);
-				}
-				obj[nodeName].push(xmlToJson(item));
-			}
-		}
-	}
-	return obj;
-};
-
-function appendToDiv(title, description, link){
-  var firstWord = title.split(" ")[0];
-  var otherWord = title.substr(title.indexOf(" ") + 1);
-  var inner = "<a style='text-decoration: none;' href='" + link + "'><h1><strong>" + firstWord + "</strong> " + otherWord +"</h1><h2>" + description + "</h2></a>";
-  $( ".newsfeed" ).append( inner );
-
-}
-getURL();
-//http://feeds.bbci.co.uk/news/world/rss.xml?edition=uk
-</script>
+    <link rel="stylesheet" href="css/normal.css">
+    <link rel="stylesheet" href="css/design.css">
+    <script src="js/jquery.js"></script>
+    <script src="js/google.js"></script>
+    <script src="js/prefixfree.min.js"></script>
+    <script src="js/newsfeed.js"></script>
+    <meta charset="UTF-8">
 
 </body>
 
