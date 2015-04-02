@@ -1,10 +1,10 @@
 // Docs at http://simpleweatherjs.com
 $(document).ready(function() {
   $.simpleWeather({
-      zipcode: '78750',
-      unit: 'f',
+      woeid: '12602142',
+      unit: 'c',
       success: function(weather) {
-          html = '<h2>'+weather.city+', '+weather.region+'</h2>';
+          html = '<h1>'+weather.city+', England '+weather.region+'</h1>';
           html += '<img style="float:left;" width="125px" src="'+weather.image+'">';
           html += '<p>'+weather.temp+'&deg; '+weather.units.temp+'<br /><span>'+weather.currently+'</span></p>';  
           $("#weather").html(html);
