@@ -92,7 +92,7 @@ input:focus + header {
         transform: translateY(15rem) rotate(-15deg);
         opacity: 0
     }
-}
+}/*
 .card:after {
     position: absolute;
     font-size: .9rem;
@@ -106,7 +106,7 @@ input:focus + header {
     text-align: center;
     border-radius: 50%;
     pointer-events: none
-}
+}*/
 h1 {
     font-size: 2rem;
     font-weight: 200
