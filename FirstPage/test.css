@@ -1,0 +1,31 @@
+	div
+{
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+}
+
+h1
+{
+    color: yellow;
+    background-color: red;
+}
+
+*
+{
+    background-color: yellow;
+    border-radius: 10px;
+}
+
+h2
+{
+	font-family: sans-serif;
+	font-size: 50%;
+	font-weight: 100%;
+}
+
+h3
+{
+	background: blue;
+	font-size: 100px;
+}
