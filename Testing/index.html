@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>House Pricing</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+    <div class="fun-cube"><i class="fa fa-cube"></i></div>
+    <h1>Enter Your Location</h1>
+    <!-- heirarchy: #cuboid > form > div*4(cuboid faces) -->
+    <div id="cuboid">
+        <form>
+            <!-- #1 hover button -->
+            <div>
+                <p class="cuboid-text">Location</p>
+            </div>
+            <!-- #2 text input -->
+            <div>
+                <!-- Label to trigger #submit -->
+                <label for="submit" class="submit-icon">
+                    <i class="fa fa-chevron-right"></i>
+                </label>
+                <input type="text" id="loc" class="cuboid-text" placeholder="Your Location" autocomplete="off" />
+                <!-- hidden submit button -->
+                <input type="submit" id="submit" />
+            </div>
+            <!-- #3 loading message -->
+            <div>
+                <p class="cuboid-text loader">Just a moment</p>
+            </div>
+            <!-- #4 success message -->
+            <div>
+                <!-- reset/retry button -->
+                <span class="reset-icon"><i class="fa fa-refresh"></i></span>
+                <p class="cuboid-text">Sending You There!</p>
+            </div>
+        </form>
+    </div>
+    <!-- jQuery -->
+    <script src="http://thecodeplayer.com/u/js/jquery-1.9.1.min.js" type="text/javascript"></script>
+    <script src="js/index.js"></script>
+</body>
+
+</html>

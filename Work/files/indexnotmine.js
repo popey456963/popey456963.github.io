@@ -1,9 +1,9 @@
-var links = [{label: 'Cool Font', bg: '#c0392b', href: 'NotMine/CoolFont'}, 
-             {label: 'CSS Loader', bg: '#16a085', href: 'NotMine/CSSLoader'}, 
-             {label: 'Illusion', bg: '#8e44ad', href: 'NotMine/Illusion'},
-			 {label: 'Sky Gradient', bg: '#27ae60', href: 'NotMine/Sky'},
-			 {label: 'Spinning Dots', bg: '#f39c12', href: 'NotMine/SpinningDots'},	
-             {label: 'Captcha Breaking', bg: '#2980b9', href: 'NotMine/Captcha'},		
+var links = [{label: 'Cool Font', bg: '#c0392b', href: 'Other/CoolFont'}, 
+             {label: 'CSS Loader', bg: '#16a085', href: 'Other/CSSLoader'}, 
+             {label: 'Illusion', bg: '#8e44ad', href: 'Other/Illusion'},
+			 {label: 'Sky Gradient', bg: '#27ae60', href: 'Other/Sky'},
+			 {label: 'Spinning Dots', bg: '#f39c12', href: 'Other/SpinningDots'},	
+             {label: 'Captcha Breaking', bg: '#2980b9', href: 'Other/Captcha'},		
 			 {label: 'Back', bg: '#2980b9', href: 'index.html'},
 			];
 var windowHeight = window.innerHeight;

@@ -1,6 +1,6 @@
 var links = [{label: 'Useful', bg: '#c0392b', href: 'useful.html'}, 
              {label: 'Pretty', bg: '#16a085', href: 'pretty.html'}, 
-             {label: 'Not Mine', bg: '#8e44ad', href: 'notmine.html'}, 			 
+             {label: 'Other', bg: '#8e44ad', href: 'other.html'}, 			 
 			];
 var windowHeight = window.innerHeight;
 if(windowHeight === 0) windowHeight = 238;
