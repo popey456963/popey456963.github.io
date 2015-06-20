@@ -1,9 +1,0 @@
-Title - Trusted Applications
-
-You should use this page to request to become "Trusted" after you have completed your "Untrusted" time.  This will have been told to you.
-
-[code][b]IGN[/b]: 
-[b]Current Playtime[/b]: 
-[b]Hours Required[/b]: [/code]
-
-To use this format, hit the [Select] button and copy the highlighted text.  Hit reply and paste your copied text into the box and fill in the requested details.

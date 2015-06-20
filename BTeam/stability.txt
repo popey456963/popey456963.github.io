@@ -1,5 +1,0 @@
-Title - B-Team Issues
-
-Two notes here, firstly please do not make space stations, they require us to do a profile reset, which means you will lose your entire inventory.  Also note that we did not make "Attack of the B-Team" and so cannot be responsible to how unstable this modpack is.  Although we try to help ultimately you should report any issues to Technic's forums.
-
-The next time I see someone complaining about how we don't fix crashes, I will issue warnings/bans. We can't fix these problems because [b]we don't have access to the sourecode.[/b]
