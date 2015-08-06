@@ -8,7 +8,8 @@ function getJSON() {
         for (i = 0; i < ytData.length; i++) {
             array.push({
                 id: ytData[i].id,
-                views: parseFloat(ytData[i].statistics.viewCount)
+                views: parseFloat(ytData[i].statistics.viewCount),
+                like: parseFloat(ytData[i].statistics.likeCount)
             });
         }
         sortData(array);
@@ -29,6 +30,14 @@ function sortData2(array) {
     printData(array);
 }
 
+function sortData3(array) {
+    array.sort(function(a, b) {
+        return a.like - b.like;
+    });
+    printData2(array);
+}
+
+
 function loadInfo(array) {
     $.getJSON("https://www.googleapis.com/youtube/v3/videos?part=snippet&id=" + array.id + "&key=AIzaSyAOa0igcKcrRTVkk_NTNEha8Ch7bOAe7j8", function(data) {
         j = j + 1;
@@ -37,10 +46,12 @@ function loadInfo(array) {
         newArray.push({
             id: array.id,
             name: ytTitleData.substring(26),
-            views: array.views
+            views: array.views,
+            like: array.like
         });
         if (j == 16) {
         	sortData2(newArray);
+        	sortData3(newArray);
         }
     });
 
@@ -58,7 +69,17 @@ function printData(array) {
         data: array,
         xkey: 'name',
         ykeys: ['views'],
-        labels: ['ID']
+        labels: ['Name']
+    });
+}
+
+function printData2(array) {
+    Morris.Bar({
+        element: 'bar-example2',
+        data: array,
+        xkey: 'name',
+        ykeys: ['like'],
+        labels: ['Name']
     });
 }
 getJSON();
