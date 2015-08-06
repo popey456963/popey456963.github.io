@@ -22,6 +22,13 @@ function sortData(array) {
     getNames(array);
 }
 
+function sortData2(array) {
+    array.sort(function(a, b) {
+        return a.views - b.views;
+    });
+    printData(array);
+}
+
 function loadInfo(array) {
     $.getJSON("https://www.googleapis.com/youtube/v3/videos?part=snippet&id=" + array.id + "&key=AIzaSyAOa0igcKcrRTVkk_NTNEha8Ch7bOAe7j8", function(data) {
         j = j + 1;
@@ -33,7 +40,7 @@ function loadInfo(array) {
             views: array.views
         });
         if (j == 16) {
-        	printData(newArray);
+        	sortData2(newArray);
         }
     });
 
