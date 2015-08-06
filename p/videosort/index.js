@@ -1,8 +1,9 @@
+var key = atob("QUl6YVN5QU9hMGlnY0tjclJUVmtrX05UTkVoYThDaDdiT0FlN2o4");
 var j = 0;
 var newArray = [];
 
 function getJSON() {
-    $.getJSON("https://www.googleapis.com/youtube/v3/videos?part=contentDetails,statistics&id=Y_frQ3VoT4g,O0I6dwnM-Ho,DHT1c6GNk1o,2BrWFylB_nE,6k4UQkagOGA,aDDoOIfecKk,B91Fxd9oe0c,XcgCS_FT0QU,00JQRue9r-Y,d5zFURISLgA,X00LET30gLM,jU4CR31Ekdg,XrNuE3-p2VM,LJlT4aHRFR8,CobwJUP2AIA,kPatFT_3ziU&key=AIzaSyAOa0igcKcrRTVkk_NTNEha8Ch7bOAe7j8", function(data) {
+    $.getJSON("https://www.googleapis.com/youtube/v3/videos?part=contentDetails,statistics&id=Y_frQ3VoT4g,O0I6dwnM-Ho,DHT1c6GNk1o,2BrWFylB_nE,6k4UQkagOGA,aDDoOIfecKk,B91Fxd9oe0c,XcgCS_FT0QU,00JQRue9r-Y,d5zFURISLgA,X00LET30gLM,jU4CR31Ekdg,XrNuE3-p2VM,LJlT4aHRFR8,CobwJUP2AIA,kPatFT_3ziU&key="+key, function(data) {
         var ytData = data.items;
         var array = [];
         for (i = 0; i < ytData.length; i++) {
@@ -39,7 +40,7 @@ function sortData3(array) {
 
 
 function loadInfo(array) {
-    $.getJSON("https://www.googleapis.com/youtube/v3/videos?part=snippet&id=" + array.id + "&key=AIzaSyAOa0igcKcrRTVkk_NTNEha8Ch7bOAe7j8", function(data) {
+    $.getJSON("https://www.googleapis.com/youtube/v3/videos?part=snippet&id=" + array.id + "&key=" + key, function(data) {
         j = j + 1;
         var ytTitleData = data.items[0].snippet.title;
         // console.log(ytTitleData);
