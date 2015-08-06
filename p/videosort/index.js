@@ -70,7 +70,7 @@ function printData(array) {
         data: array,
         xkey: 'name',
         ykeys: ['views'],
-        labels: ['Name']
+        labels: ['Views']
     });
 }
 
@@ -80,7 +80,7 @@ function printData2(array) {
         data: array,
         xkey: 'name',
         ykeys: ['like'],
-        labels: ['Name']
+        labels: ['Likes']
     });
 }
 getJSON();
