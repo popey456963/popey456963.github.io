@@ -1,7 +1,7 @@
 var data = {};
 
 function getData() {
-    $.getJSON("https://blarg-bash-popey456963.c9.io/data.json", function(json) {
+    $.getJSON("http://popey456963.github.io/p/videosort/new/data.json", function(json) {
         console.log(json);
 
         data = {
