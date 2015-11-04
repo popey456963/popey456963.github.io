@@ -10,7 +10,7 @@ function getURL(){
     var items = json["query"]["results"]["item"];
     //console.log(items);
     for(i=0;i<3;i++){
-      console.group();
+      console.groupCollapsed("News Item: " + items[i]['title']['#text']);
       console.log(items[i]['title']['#text']);
       console.log(items[i]['description']['#text']);
       console.log(items[i]['link']['#text']);
