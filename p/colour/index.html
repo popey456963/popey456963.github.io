@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
+		<script>
+		function onLoad(){
+			$("input").change(function(){
+	      	    input = document.getElementById('input').value;
+	      	    colourise(document.getElementById('input').value)
+	      	    // document.getElementById('output').innerHTML += "Output Changed";
+			});
+		}
+
+		function colourise(text){
+			colourtext = ""
+			colourtextcompiled = ""
+			for (i=0; i<text.length; i++){
+				colour = '#'+ ('000000' + Math.floor(Math.random()*16777215).toString(16)).slice(-6);
+				colourtext += '[color=' + colour + ']' + text[i] + '[/color]';
+				colourtextcompiled += '<span style="color:' + colour + '">' + text[i] + '</span>'
+			}
+			document.getElementById('output').innerHTML = colourtext;
+			document.getElementById('outputcompiled').innerHTML = colourtextcompiled;
+
+		}
+		</script>
+	</head>
+	<body onload="onLoad()">
+		<p>Randomly none of the onkeypress, onkeychange, onchange, $.change actually activate on the last key press... which is special.  So, you have to add an extra space or something to the end of your sentence</p>
+		<input type="text" id="input" onkeypress="colourise(document.getElementById('input').value)" onkeypress="colourise(document.getElementById('input').value)" onchange="colourise(document.getElementById('input').value)">
+		<p id="output"></p>
+		<p id="outputcompiled"></p>
+	</body>
+
+</html>
