@@ -1,0 +1,74 @@
+==================================================================
+https://keybase.io/alexandercraggs
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://popey456963.github.io
+  * I am alexandercraggs (https://keybase.io/alexandercraggs) on keybase.
+  * I have a public key with fingerprint 34D6 38E0 B08B ECE7 430B  F1B5 7D70 13F7 BEC9 9F40
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01010072ce5f8d9fd9f82ff629f459f4319a648a2810d4e22cd66ae8ff59c2b34c7f0a",
+            "fingerprint": "34d638e0b08bece7430bf1b57d7013f7bec99f40",
+            "host": "keybase.io",
+            "key_id": "7d7013f7bec99f40",
+            "kid": "01010072ce5f8d9fd9f82ff629f459f4319a648a2810d4e22cd66ae8ff59c2b34c7f0a",
+            "uid": "b65785e00a3b1483e44e0cf9dbd52019",
+            "username": "alexandercraggs"
+        },
+        "service": {
+            "hostname": "popey456963.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1447191637,
+    "expire_in": 157680000,
+    "prev": "58cb6e5372b1bcdeed52d05cfc893f272451e5107ab41e76814945012c31b3b5",
+    "seqno": 4,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.47
+Comment: https://keybase.io/crypto
+
+yMNOAnicrVJrUJRVGF7iFpsgoVMQYvEBgxot3/3CGAFDKRJggxCbMfBdzrd8XHa3
+3Y8FRATGYAYHnRDGCxTJZDBlhoWG9gMDIUWIwUVncBA0KjRyhakhwCw6H9m/fnYu
+c+a853me8z7vvP2+7jq9W4V13WLP4IdxbkO9HcW6zAQpoxwRLFIZElOOFIDVAxRK
+wK7mFCgSEoOgGJwog4uAklmJk+FicVmmcU4mKbgJjONpkuVxFkMlEuC4KNE0D1hZ
+pjgRFwhSZGSUR6IQWTGbgM1qU8wqlCVIiSZYgAooKwARMCSBCjImUIzEoBghMzDI
+QXUUEvMsdo0BkxN4OzAoFhiDl5zV9P4D/z/nXbwqJ9AUw1IARXlCwEiWACQJUFHm
+JEGicBTjNKAd2Mx8EYBovhCU8mYJ2EQbbzLZkYooBD46FBFo9dUMPQZaLVZQRlI0
+RxMGk6LmFQv/+LPaLKpFtBRCSJ6qWu0xmoRaZtU4JUDIeayWIyhmCdYVMhzAZlcs
+ZiQGg0hRVTR5jCQZjMNogolCQKlVsYEcRUNQDM2icGj/AAeUpFhRoAFFMLiACaIE
+ADQloZQoiyxHyDiDkxQGKAxleIHEAGRjJEdSKIaLBCYQAoVo/t4xW5AYEqbJm6Ck
+XTGZebXYBpCKvt63PXRuep2X5xNav+n0Pv7/dmFWp79ubFc1lvqBd3Cl3+Slgxvy
+lt69dzUlv+t27pzhVuTW3O6wtQcXDn38SEqrnFTfF0dmQtaeCKkJH6kYm45rP/5p
+EKr+3LnP0LJ+grgfMDfybRd+zWG4cn72zrm0dF1glfqwNr/5yPjJoVdqyn7dbIzu
+HT+Xva2pdOGLTN+6kmzjl46U7REvMw39Rb999dYxP2wlN7W+LmK61SO+6qdI+47G
+4Y0+fwUleIcUvnokXRm70fTNzQi/tp6zhj07n3m0pb82IKztk91beweTQy3xTs53
+/7XElvgn3ab19X6n94o/dOhvPve1NXDMzevwAh+YGhtw2rYtrME8cKH17kVkuGi5
+Jy5FT2at+f7z1yZDHtiu1Ca1u0YvGe7MDVj3pClTm8qHUzfhr9+aedEj39hb2ZV9
+fHTn2feW1ZRSu+tAyfIxhys3diJ+Pbs5eldi1kfpyfsXD83cC2zyXnHvkMx7H3ae
+aPaRQ+UMOlLxO6P6cgndTHJ30Kj/qanLA7XueV0vHMX+fOOlrB8bv7tb0Of51NKs
+s/lG2tLzD05OZF0tjj3at6bol42ZF8Kpig0Bg1FG1+/3nz7fPfvZPqfr4h/Ggmen
+9C7jeJIz800ndqal9Xo8PdQQreusHGWTwkMa6kOLgkcX56u80g/XeFVfX3DcDmxD
+EjMW0pfbTwXv3lLnzEc9G6tz1/lcLp83zhes/A1R7cJx
+=KjnH
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/alexandercraggs
+
+==================================================================
