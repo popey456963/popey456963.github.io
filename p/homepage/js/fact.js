@@ -25,13 +25,17 @@ function getFacts(){
 }
 
 function setFact(fact) {
-	if (fact.fact.fact!="null"){
-	var div = document.getElementById("fact");
-	div.innerHTML = fact.fact.fact;
-	}
-	else {
-		var x = null;
-		div.innerHTML = "There was an error gathering the fact";
+	try {
+		if (fact.fact.fact!="null"){
+		var div = document.getElementById("fact");
+		div.innerHTML = fact.fact.fact;
+		}
+		else {
+			var x = null;
+			div.innerHTML = "There was an error gathering the fact";
+		}
+	} catch(err) {
+		document.getElementById("fact").innerHTML = "No more facts at the moment, check back later!"
 	}
 }
 
