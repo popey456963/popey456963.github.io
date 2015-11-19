@@ -12,8 +12,17 @@ function getFacts(){
 		console.groupCollapsed("List of Facts");
 		for (i=0;i<data.length;i++){
 			if (data[i].fact.fact != "null"){
-			gotData.push(data[i]);
-			console.log(data[i].fact.fact);
+				no = false;
+				banned = ["sex", "orgasm", "porn", "kiss", "rape"];
+				for (j=0;j<banned.length;j++) {
+					if (data[i].fact.fact.indexOf(banned[j]) != -1) {
+						no = true;
+					}
+				}
+				if (no == false) {
+					gotData.push(data[i]);
+					console.log(data[i].fact.fact);
+				}
 			}
 			else {
 				console.log("A null fact was given")
