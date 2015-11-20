@@ -7,6 +7,6 @@ q.addEventListener("keydown", function(e) {
 
 function validate(e) {
     var text = q.value;
-    console.log(q + " | " + text)
-    window.location.href = "https://www.google.co.uk?q=" + text;
+    console.log(q.value + " | " + text)
+    window.location.href = "https://www.google.co.uk?#safe=strict&q=" + encodeURIComponent(text);
 }
