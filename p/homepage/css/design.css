@@ -4,6 +4,7 @@
     font-family: 'Roboto', sans-serif;
     line-height: 1.2;
     vertical-align: middle
+    zoom: 150%;
 }
 
 body {
@@ -213,20 +214,4 @@ h2 {
     position: fixed;
     top: 1em;
     right: 1em;
-}
-
-::-webkit-input-placeholder {
-   text-align: center;
-}
-
-:-moz-placeholder { /* Firefox 18- */
-   text-align: center;  
-}
-
-::-moz-placeholder {  /* Firefox 19+ */
-   text-align: center;  
-}
-
-:-ms-input-placeholder {  
-   text-align: center; 
 }
