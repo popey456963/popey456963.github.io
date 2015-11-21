@@ -18,7 +18,7 @@ $(document).ready(function() {
 				$(stockId).css('background-color', '#fdca41');
 			}
 
-			$(stockId).children('.symbol').html(data.query.results.quote[i].symbol);
+			//$(stockId).children('.symbol').html(data.query.results.quote[i].symbol);
 			$(stockId).children('.change').html(change);
 		}
 	});
