@@ -204,3 +204,7 @@ h2 {
 .space {
     height: 20px;
 }
+
+.positive {
+    color: hsl(90, 55%, 44%);
+}
