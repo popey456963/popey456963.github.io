@@ -1,19 +1,32 @@
-.note span {
-  font-weight: 400;
+.stock {
+  width: 150px;
+  height: 65px;
+  background-color: #CCC;
+  position: relative;
+  float: left;
+  margin: 5px;
+  -webkit-transition: box-shadow 0.2s ease;
+          transition: box-shadow 0.2s ease;
 }
-.note span.green {
-  color: hsl(90, 55%, 44%);
+.stock .symbol,
+.stock .change {
+  position: absolute;
+  left: 0;
+  right: 0;
+  text-align: center;
+  color: #fff;
 }
-.note span.blue {
-  color: hsl(194, 73%, 51%);
-}
-.note span.red,
-i.red {
-  color: hsl(350, 55%, 49%);
-}
-.note span.small {
+.stock .symbol {
+  top: 10px;
+  text-transform: uppercase;
   font-size: 12px;
+  font-weight: 300;
 }
-.note span.offset {
-  margin-left: 25px;
+.stock .change {
+  top: 50%;
+  font-size: 22px;
+  font-weight: 700;
+  -webkit-transform: translateY(-20%);
+      -ms-transform: translateY(-20%);
+          transform: translateY(-20%);
 }
