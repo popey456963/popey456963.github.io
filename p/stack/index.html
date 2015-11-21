@@ -1,0 +1,9 @@
+<script src="http://code.jquery.com/jquery-2.1.4.min.js"></script>
+<script>
+function createStack() {
+	$.post( "http://strawpoll.me/api/v2/polls", {"title": "Poll title","options":["Option #1","Option #2","Option #3"],"multi": true,"permissive": true}).done(function( data ) {
+    alert( "Data Loaded: " + data );
+  });
+}
+</script>
+<button id="stack" onclick="createStack()">Create</button>
