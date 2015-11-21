@@ -1,0 +1,19 @@
+.note span {
+  font-weight: 400;
+}
+.note span.green {
+  color: hsl(90, 55%, 44%);
+}
+.note span.blue {
+  color: hsl(194, 73%, 51%);
+}
+.note span.red,
+i.red {
+  color: hsl(350, 55%, 49%);
+}
+.note span.small {
+  font-size: 12px;
+}
+.note span.offset {
+  margin-left: 25px;
+}
