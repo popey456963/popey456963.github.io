@@ -1,0 +1,1546 @@
+[16:08:23] [Server thread/INFO]: Loading properties
+[16:08:23] [Server thread/INFO]: Default game type: SURVIVAL
+[16:08:23] [Server thread/INFO]: Using epoll channel type
+[16:08:24] [Server thread/INFO]: [DisguiseCraft] Loading DisguiseCraft v5.2
+[16:08:24] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1;no_git_id
+[16:08:24] [Server thread/INFO]: [Essentials] Loading Essentials vTeamCity
+[16:08:24] [Server thread/INFO]: [PlugMan] Loading PlugMan v2.0.7
+[16:08:24] [Server thread/INFO]: [LaggRemover] Loading LaggRemover v0.1.8
+[16:08:24] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v6.1
+[16:08:24] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v2.4-b527
+[16:08:24] [Server thread/INFO]: [Splegg] Loading Splegg v1.2
+[16:08:24] [Server thread/INFO]: [EssentialsProtect] Loading EssentialsProtect vTeamCity
+[16:08:24] [Server thread/INFO]: [VoxelSniper] Loading VoxelSniper v7.1.0
+[16:08:24] [Server thread/INFO]: [mcMMO] Loading mcMMO v1.5.00-b3547
+[16:08:24] [Server thread/INFO]: [Multiverse-NetherPortals] Loading Multiverse-NetherPortals v2.4-b530
+[16:08:24] [Server thread/INFO]: [SuperVanish] Loading SuperVanish v5.4.3
+[16:08:24] [Server thread/INFO]: [Multiverse-Portals] Loading Multiverse-Portals v2.4-b548
+[16:08:24] [Server thread/INFO]: [Vault] Loading Vault v1.5.6-b49
+[16:08:24] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn vTeamCity
+[16:08:24] [Server thread/INFO]: [MassiveCore] Loading MassiveCore v2.8.0
+[16:08:24] [Server thread/INFO]: TimeUnit.MILLIS_PER_MINUTE: 60000
+[16:08:24] [Server thread/INFO]: [MinigamesLib] Loading MinigamesLib v1.13.1
+[16:08:24] [Server thread/INFO]: [Minigames] Loading Minigames v1.7.0
+[16:08:24] [Server thread/INFO]: [MobArena] Loading MobArena v0.97.1
+[16:08:24] [Server thread/INFO]: [TNTRun] Loading TNTRun v3.4
+[16:08:24] [Server thread/INFO]: [HolographicDisplays] Loading HolographicDisplays v2.1.10
+[16:08:24] [Server thread/INFO]: [CommandSigns] Loading CommandSigns v1.9.3.2
+[16:08:24] [Server thread/INFO]: [SkyWars] Loading SkyWars v1.1-m16
+[16:08:24] [Server thread/INFO]: [EpicSpleef] Loading EpicSpleef v0.0.19
+[16:08:24] [Server thread/INFO]: [OnTime] Loading OnTime v4.1.3
+[16:08:24] [Server thread/INFO]: [CraftBook] Loading CraftBook v3.9-SNAPSHOT
+[16:08:24] [Server thread/INFO]: [mcMMO] Enabling mcMMO v1.5.00-b3547
+[16:08:26] [Server thread/INFO]: [Vault] Enabling Vault v1.5.6-b49
+[16:08:26] [Server thread/INFO]: [MassiveCore] Enabling MassiveCore v2.8.0
+[16:08:26] [Server thread/INFO]: [MassiveCore 2.8.0] === ENABLE START ===
+[16:08:26] [Server thread/INFO]: [MassiveCore 2.8.0] §eSetup of IdUtil took §d16§ems.
+[16:08:26] [Server thread/INFO]: [MassiveCore 2.8.0] === ENABLE §aCOMPLETE §e(Took §d163ms§e) ===
+[16:08:28] [Server thread/INFO]: [DisguiseCraft] Enabling DisguiseCraft v5.2
+[16:08:28] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1;no_git_id
+[16:08:28] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_8_R3 as the Bukkit adapter
+[16:08:28] [Server thread/INFO]: [Essentials] Enabling Essentials vTeamCity
+[16:08:28] [Server thread/INFO]: git-Bukkit-9935adc (MC: 1.8.8)
+[16:08:28] [Server thread/INFO]: 1.8.8-R0.1-SNAPSHOT
+[16:08:28] [Server thread/INFO]: Using locale en_US
+[16:08:28] [Server thread/INFO]: Using locale en_US
+[16:08:28] [Server thread/INFO]: [PlugMan] Enabling PlugMan v2.0.7
+[16:08:28] [Server thread/INFO]: [LaggRemover] Enabling LaggRemover v0.1.8
+[16:08:28] [Server thread/INFO]: [LaggRemover] LaggRemover has been enabled!
+[16:08:28] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v6.1
+[16:08:29] [Server thread/INFO]: [WorldGuard] (survival) Lighters are PERMITTED.
+[16:08:29] [Server thread/INFO]: [WorldGuard] (survival) Lava fire is blocked.
+[16:08:29] [Server thread/INFO]: [WorldGuard] (survival) Fire spread is UNRESTRICTED.
+[16:08:29] [Server thread/INFO]: [WorldGuard] (survival_nether) Lighters are PERMITTED.
+[16:08:29] [Server thread/INFO]: [WorldGuard] (survival_nether) Lava fire is blocked.
+[16:08:29] [Server thread/INFO]: [WorldGuard] (survival_nether) Fire spread is UNRESTRICTED.
+[16:08:29] [Server thread/INFO]: [WorldGuard] (survival_the_end) Lighters are PERMITTED.
+[16:08:29] [Server thread/INFO]: [WorldGuard] (survival_the_end) Lava fire is blocked.
+[16:08:29] [Server thread/INFO]: [WorldGuard] (survival_the_end) Fire spread is UNRESTRICTED.
+[16:08:29] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v2.4-b527
+[16:08:29] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'lobby' - Env: NORMAL - Type: NORMAL & seed: -3770714656453924402
+[16:08:30] [Server thread/INFO]: [WorldGuard] (lobby) Lighters are PERMITTED.
+[16:08:30] [Server thread/INFO]: [WorldGuard] (lobby) Lava fire is blocked.
+[16:08:30] [Server thread/INFO]: [WorldGuard] (lobby) Fire spread is UNRESTRICTED.
+[16:08:30] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'minigames' - Env: NORMAL - Type: FLAT & seed: 2973644325369467684
+[16:08:30] [Server thread/INFO]: [WorldGuard] (minigames) Lighters are PERMITTED.
+[16:08:30] [Server thread/INFO]: [WorldGuard] (minigames) Lava fire is blocked.
+[16:08:30] [Server thread/INFO]: [WorldGuard] (minigames) Fire spread is UNRESTRICTED.
+[16:08:30] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'Skywars' - Env: NORMAL - Type: FLAT & seed: 3121935573477155779
+[16:08:30] [Server thread/INFO]: [WorldGuard] (Skywars) Lighters are PERMITTED.
+[16:08:30] [Server thread/INFO]: [WorldGuard] (Skywars) Lava fire is blocked.
+[16:08:30] [Server thread/INFO]: [WorldGuard] (Skywars) Fire spread is UNRESTRICTED.
+[16:08:30] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'survival' - Env: NORMAL - Type: NORMAL & seed: 417882899938927719
+[16:08:30] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'survival_nether' - Env: NETHER - Type: NORMAL & seed: 6261662807370706275
+[16:08:30] [Server thread/ERROR]: [Multiverse-Core] New safe spawn NOT found!!!
+[16:08:30] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'survival_the_end' - Env: THE_END - Type: NORMAL & seed: 6261662807370706275
+[16:08:30] [Server thread/INFO]: [Multiverse-Core] 6 - World(s) loaded.
+[16:08:30] [Server thread/INFO]: [Splegg] Enabling Splegg v1.2
+[16:08:30] [Server thread/INFO]: [Splegg] Loading map SpleggOne.
+[16:08:30] [Server thread/INFO]: [Splegg] Map is usable
+[16:08:30] [Server thread/INFO]: [Splegg] Load Complete!
+[16:08:30] [Server thread/INFO]: [Splegg] Loading map ArenaOne.
+[16:08:30] [Server thread/INFO]: [Splegg] Spawn count is 0
+[16:08:30] [Server thread/INFO]: [Splegg] No floors are setup.
+[16:08:30] [Server thread/INFO]: [Splegg] --<>-- PLEASE SETUP MAP!! --<>--
+[16:08:30] [Server thread/INFO]: [Splegg] Load Complete!
+[16:08:30] [Server thread/INFO]: [EssentialsProtect] Enabling EssentialsProtect vTeamCity
+[16:08:30] [Server thread/INFO]: [VoxelSniper] Enabling VoxelSniper v7.1.0
+[16:08:31] [Server thread/INFO]: [Multiverse-NetherPortals] Enabling Multiverse-NetherPortals v2.4-b530
+[16:08:31] [Server thread/INFO]: [SuperVanish] Enabling SuperVanish v5.4.3
+[16:08:31] [Server thread/INFO]: [Multiverse-Portals] Enabling Multiverse-Portals v2.4-b548
+[16:08:31] [Server thread/INFO]: [Multiverse-Portals]  1 - Portals(s) loaded
+[16:08:31] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn vTeamCity
+[16:08:31] [Server thread/INFO]: [MinigamesLib] Enabling MinigamesLib v1.13.1
+[16:08:31] [Server thread/INFO]: [Minigames] Enabling Minigames v1.7.0
+[16:08:31] [Server thread/INFO]: [Minigames] Using lang en_AU
+[16:08:32] [Server thread/INFO]: Minigames successfully enabled.
+[16:08:32] [Server thread/INFO]: [MobArena] Enabling MobArena v0.97.1
+[16:08:32] [Server thread/INFO]: [MobArena] Loaded arena 'god-arena'
+[16:08:32] [Server thread/INFO]: [MobArena] v0.97.1 enabled.
+[16:08:32] [Server thread/INFO]: [TNTRun] Enabling TNTRun v3.4
+[16:08:33] [Server thread/INFO]: [HolographicDisplays] Enabling HolographicDisplays v2.1.10
+[16:08:33] [Server thread/INFO]: [CommandSigns] Enabling CommandSigns v1.9.3.2
+[16:08:33] [Server thread/INFO]: [CommandSigns] No signs found.
+[16:08:34] [Server thread/INFO]: [SkyWars] Enabling SkyWars v1.1-m16
+[16:08:35] [Server thread/INFO]: [WorldGuard] (island-0) Lighters are PERMITTED.
+[16:08:35] [Server thread/INFO]: [WorldGuard] (island-0) Lava fire is blocked.
+[16:08:35] [Server thread/INFO]: [WorldGuard] (island-0) Fire spread is UNRESTRICTED.
+[16:08:35] [Server thread/INFO]: [EpicSpleef] Enabling EpicSpleef v0.0.19
+[16:08:35] [Server thread/INFO]: [EpicSpleef] Enabling EpicSpleef by BtoBastian
+[16:08:36] [Server thread/INFO]: [EpicSpleef] Loading lobby SpleefOne
+[16:08:36] [Server thread/INFO]: [EpicSpleef] Loading arena ArenaOne
+[16:08:36] [Server thread/INFO]: [EpicSpleef] Successfully loaded arena ArenaOne. (world: minigames, blocks: 5233, maxPlayers: 0)
+[16:08:36] [Server thread/INFO]: [EpicSpleef] Loading arena SpleefOne
+[16:08:36] [Server thread/INFO]: [EpicSpleef] Successfully loaded arena SpleefOne. (world: minigames, blocks: 0, maxPlayers: 0)
+[16:08:36] [Server thread/INFO]: [OnTime] Enabling OnTime v4.1.3
+[16:08:36] [Server thread/INFO]: [CraftBook] Enabling CraftBook v3.9-SNAPSHOT
+[16:08:37] [Server thread/INFO]: [CraftBook] Successfully added 1 CommandItems!
+[16:08:37] [Server thread/INFO]: [CraftBook] Registered 3 custom recipes!
+[16:08:37] [Server thread/INFO]: [CraftBook] 4449 chunk(s) for 7 world(s) processed (35ms elapsed)
+[16:08:39] [Server thread/INFO]: Found 0 arenas.
+[16:08:42] [Server thread/INFO]: ThunderCS left the game.
+[16:08:52] [Server thread/INFO]: ThunderCS issued server command: /warp skywars
+[16:09:23] [Server thread/INFO]: Staff: [Admin] UnSeen, [Mod] ThunderCS
+[16:09:23] [Server thread/INFO]: Players: [Regular] HoloKirai
+[16:09:23] [Server thread/INFO]: Developers: [Dev] Poopey
+[16:10:10] [Server thread/INFO]: Staff: [Admin] UnSeen, [Mod] ThunderCS
+[16:10:10] [Server thread/INFO]: Players: [Regular] HoloKirai
+[16:10:10] [Server thread/INFO]: Developers: [Dev] Poopey
+[16:10:40] [Server thread/INFO]: ThunderCS issued server command: /gm 1
+[16:10:57] [Server thread/INFO]: Staff: [Admin] UnSeen, [Mod] ThunderCS
+[16:10:57] [Server thread/INFO]: Players: [Regular] HoloKirai
+[16:10:57] [Server thread/INFO]: Developers: [Dev] Poopey
+[16:11:34] [Server thread/INFO]: ThunderCS fell from a high place
+[16:11:43] [Server thread/INFO]: Staff: [Admin] UnSeen, [Mod] ThunderCS
+[16:11:43] [Server thread/INFO]: Players: [Regular] HoloKirai
+[16:11:43] [Server thread/INFO]: Developers: [Dev] Poopey
+[16:11:48] [Server thread/INFO]: ThunderCS issued server command: /warp skywars
+[16:12:07] [Server thread/INFO]: ThunderCS issued server command: /g, 1
+[16:12:08] [Server thread/INFO]: Popey456963 issued server command: /gm 1
+[16:12:09] [Server thread/INFO]: ThunderCS issued server command: /gm 1
+[16:12:30] [Server thread/INFO]: Staff: [Admin] UnSeen, [Mod] ThunderCS
+[16:12:30] [Server thread/INFO]: Players: [Regular] HoloKirai
+[16:12:30] [Server thread/INFO]: Developers: [Dev] Poopey
+[16:13:07] [Server thread/INFO]: Popey456963 issued server command: /tppos 492 5 -906
+[16:13:15] [Server thread/INFO]: Popey456963 issued server command: /tppos 492 5 -906 -58.52 21.59
+[16:13:16] [Server thread/INFO]: Staff: [Admin] UnSeen, [Mod] ThunderCS
+[16:13:16] [Server thread/INFO]: Players: [Regular] HoloKirai
+[16:13:16] [Server thread/INFO]: Developers: [Dev] Poopey
+[16:14:03] [Server thread/INFO]: Staff: [Admin] UnSeen, [Mod] ThunderCS
+[16:14:03] [Server thread/INFO]: Players: [Regular] HoloKirai
+[16:14:03] [Server thread/INFO]: Developers: [Dev] Poopey
+[16:14:49] [Server thread/INFO]: Staff: [Admin] UnSeen, [Mod] ThunderCS
+[16:14:49] [Server thread/INFO]: Players: [Regular] HoloKirai
+[16:14:49] [Server thread/INFO]: Developers: [Dev] Poopey
+[16:15:36] [Server thread/INFO]: Staff: [Admin] UnSeen, [Mod] ThunderCS
+[16:15:36] [Server thread/INFO]: Players: [Regular] HoloKirai
+[16:15:36] [Server thread/INFO]: Developers: [Dev] Poopey
+[16:16:22] [Server thread/INFO]: Staff: [Admin] UnSeen, [Mod] ThunderCS
+[16:16:22] [Server thread/INFO]: Players: [Regular] HoloKirai
+[16:16:22] [Server thread/INFO]: Developers: [Dev] Poopey
+[16:16:41] [Server thread/INFO]: Popey456963 issued server command: /sw leave
+[16:16:49] [Server thread/INFO]: Popey456963 issued server command: /gm 1
+[16:17:00] [Server thread/INFO]: Popey456963 issued server command: /g
+[16:17:09] [Server thread/INFO]: Staff: [Admin] UnSeen, [Mod] ThunderCS
+[16:17:09] [Server thread/INFO]: Players: [Regular] HoloKirai
+[16:17:09] [Server thread/INFO]: Developers: [Dev] Poopey
+[16:17:56] [Server thread/INFO]: Staff: [Admin] UnSeen, [Mod] ThunderCS
+[16:17:56] [Server thread/INFO]: Players: [Regular] HoloKirai
+[16:17:56] [Server thread/INFO]: Developers: [Dev] Poopey
+[16:18:04] [Server thread/INFO]: ThunderCS issued server command: /sw leave
+[16:18:09] [Server thread/INFO]: ThunderCS issued server command: /gm 1
+[16:18:34] [Server thread/INFO]: Popey456963 issued server command: /sw reload
+[16:18:36] [Server thread/INFO]: Popey456963 issued server command: /warp sky
+[16:18:38] [Server thread/INFO]: Popey456963 issued server command: /warp skywars
+[16:18:43] [Server thread/INFO]: Popey456963 issued server command: /sw leave
+[16:18:53] [Server thread/INFO]: Popey456963 issued server command: /plugins
+[16:19:09] [Server thread/INFO]: ThunderCS issued server command: /warp survival
+[16:19:13] [Server thread/INFO]: ThunderCS issued server command: /toggledownfall
+[16:19:13] [Server thread/INFO]: [ThunderCS: Toggled downfall]
+[16:19:15] [Server thread/INFO]: Staff: [Admin] UnSeen, [Mod] ThunderCS
+[16:19:15] [Server thread/INFO]: Players: [Regular] HoloKirai
+[16:19:15] [Server thread/INFO]: Developers: [Dev] Poopey
+[16:19:25] [Server thread/INFO]: [Dev] Poopey: ./mvtp survival
+[16:19:29] [Server thread/INFO]: Popey456963 issued server command: /g /mvtp survival
+[16:19:29] [Server thread/INFO]: [G] [Dev] Poopey > /mvtp survival 
+[16:19:31] [Server thread/INFO]: ThunderCS issued server command: /mvtp survival
+[16:19:37] [Server thread/INFO]: ThunderCS issued server command: /spawn
+[16:19:41] [Server thread/INFO]: ThunderCS issued server command: /back
+[16:19:50] [Server thread/INFO]: Popey456963 issued server command: /gm 1
+[16:20:01] [Server thread/INFO]: Staff: [Admin] UnSeen, [Mod] ThunderCS
+[16:20:01] [Server thread/INFO]: Players: [Regular] HoloKirai
+[16:20:01] [Server thread/INFO]: Developers: [Dev] Poopey
+[16:20:48] [Server thread/INFO]: Staff: [Admin] UnSeen, [Mod] ThunderCS
+[16:20:48] [Server thread/INFO]: Players: [Regular] HoloKirai
+[16:20:48] [Server thread/INFO]: Developers: [Dev] Poopey
+[16:21:02] [Server thread/INFO]: Popey456963 issued server command: /mvtp survival
+[16:21:35] [Server thread/INFO]: Staff: [Admin] UnSeen, [Mod] ThunderCS
+[16:21:35] [Server thread/INFO]: Players: [Regular] HoloKirai
+[16:21:35] [Server thread/INFO]: Developers: [Dev] Poopey
+[16:21:49] [Server thread/INFO]: Popey456963 issued server command: /spawn
+[16:22:22] [Server thread/INFO]: Staff: [Admin] UnSeen, [Mod] ThunderCS
+[16:22:22] [Server thread/INFO]: Players: [Regular] HoloKirai
+[16:22:22] [Server thread/INFO]: Developers: [Dev] Poopey
+[16:22:34] [Server thread/INFO]: ThunderCS issued server command: /butcher
+[16:23:02] [Server thread/INFO]: ThunderCS issued server command: //pos2
+[16:23:03] [Server thread/INFO]: ThunderCS issued server command: //cut
+[16:23:08] [Server thread/INFO]: Staff: [Admin] UnSeen, [Mod] ThunderCS
+[16:23:08] [Server thread/INFO]: Players: [Regular] HoloKirai
+[16:23:08] [Server thread/INFO]: Developers: [Dev] Poopey
+[16:23:12] [Server thread/INFO]: ThunderCS issued server command: //undo
+[16:23:29] [Server thread/INFO]: ThunderCS issued server command: //pos2
+[16:23:31] [Server thread/INFO]: ThunderCS issued server command: //cut
+[16:23:46] [Server thread/INFO]: ThunderCS issued server command: //set grass
+[16:23:54] [Server thread/INFO]: Staff: [Admin] UnSeen, [Mod] ThunderCS
+[16:23:54] [Server thread/INFO]: Players: [Regular] HoloKirai
+[16:23:54] [Server thread/INFO]: Developers: [Dev] Poopey
+[16:23:57] [Server thread/INFO]: ThunderCS issued server command: //cut
+[16:24:01] [Server thread/INFO]: ThunderCS issued server command: //cut
+[16:24:03] [Server thread/INFO]: ThunderCS issued server command: //cut
+[16:24:04] [Server thread/INFO]: ThunderCS issued server command: //cut
+[16:24:07] [Server thread/INFO]: ThunderCS issued server command: //cut
+[16:24:09] [Server thread/INFO]: ThunderCS issued server command: //cut
+[16:24:10] [Server thread/INFO]: ThunderCS issued server command: //cut
+[16:24:12] [Server thread/INFO]: ThunderCS issued server command: //cut
+[16:24:15] [Server thread/INFO]: ThunderCS issued server command: //cut
+[16:24:17] [Server thread/INFO]: ThunderCS issued server command: //cut
+[16:24:18] [Server thread/INFO]: ThunderCS issued server command: //cut
+[16:24:20] [Server thread/INFO]: ThunderCS issued server command: //cut
+[16:24:25] [Server thread/INFO]: ThunderCS issued server command: //cut
+[16:24:27] [Server thread/INFO]: ThunderCS issued server command: //cut
+[16:24:35] [Server thread/INFO]: ThunderCS issued server command: //cut
+[16:24:41] [Server thread/INFO]: ThunderCS issued server command: //cut
+[16:24:41] [Server thread/INFO]: Staff: [Admin] UnSeen, [Mod] ThunderCS
+[16:24:41] [Server thread/INFO]: Players: [Regular] HoloKirai
+[16:24:41] [Server thread/INFO]: Developers: [Dev] Poopey
+[16:24:51] [Server thread/INFO]: ThunderCS issued server command: /time set 0
+[16:24:53] [Server thread/INFO]: ThunderCS issued server command: /butcher
+[16:25:11] [Server thread/INFO]: ThunderCS issued server command: //set grass
+[16:25:14] [Server thread/INFO]: ThunderCS issued server command: //set grass
+[16:25:17] [Server thread/INFO]: ThunderCS issued server command: //set grass
+[16:25:28] [Server thread/INFO]: Staff: [Admin] UnSeen, [Mod] ThunderCS
+[16:25:28] [Server thread/INFO]: Players: [Regular] HoloKirai
+[16:25:28] [Server thread/INFO]: Developers: [Dev] Poopey
+[16:25:29] [Server thread/INFO]: ThunderCS issued server command: //cut
+[16:26:14] [Server thread/INFO]: Staff: [Admin] UnSeen, [Mod] ThunderCS
+[16:26:14] [Server thread/INFO]: Players: [Regular] HoloKirai
+[16:26:14] [Server thread/INFO]: Developers: [Dev] Poopey
+[16:26:48] [Server thread/INFO]: ThunderCS issued server command: //set andestite
+[16:27:01] [Server thread/INFO]: Staff: [Admin] UnSeen, [Mod] ThunderCS
+[16:27:01] [Server thread/INFO]: Players: [Regular] HoloKirai
+[16:27:01] [Server thread/INFO]: Developers: [Dev] Poopey
+[16:27:08] [Server thread/INFO]: ThunderCS issued server command: //set polished anteste
+[16:27:12] [Server thread/INFO]: ThunderCS issued server command: //set polished
+[16:27:47] [Server thread/INFO]: Staff: [Admin] UnSeen, [Mod] ThunderCS
+[16:27:47] [Server thread/INFO]: Players: [Regular] HoloKirai
+[16:27:47] [Server thread/INFO]: Developers: [Dev] Poopey
+[16:27:52] [Server thread/INFO]: ThunderCS issued server command: //cut
+[16:28:05] [Server thread/INFO]: ThunderCS issued server command: //cut
+[16:28:09] [Server thread/INFO]: ThunderCS issued server command: //cut
+[16:28:12] [Server thread/INFO]: ThunderCS issued server command: //cut
+[16:29:02] [Server thread/INFO]: AttrebusMede issued server command: //cut
+[16:29:15] [Server thread/INFO]: Staff: [Admin] UnSeen, [Mod] ThunderCS
+[16:29:15] [Server thread/INFO]: Players: [Regular] HoloKirai
+[16:29:15] [Server thread/INFO]: Developers: [Dev] Poopey
+[16:29:23] [Server thread/INFO]: Popey456963 issued server command: /tp ThunderCS
+[16:30:01] [Server thread/INFO]: Staff: [Admin] UnSeen, [Mod] ThunderCS
+[16:30:01] [Server thread/INFO]: Players: [Regular] HoloKirai
+[16:30:01] [Server thread/INFO]: Developers: [Dev] Poopey
+[16:30:09] [Server thread/INFO]: ThunderCS issued server command: //cut
+[16:30:48] [Server thread/INFO]: Staff: [Admin] UnSeen, [Mod] ThunderCS
+[16:30:48] [Server thread/INFO]: Players: [Regular] HoloKirai
+[16:30:48] [Server thread/INFO]: Developers: [Dev] Poopey
+[16:31:35] [Server thread/INFO]: Staff: [Admin] UnSeen, [Mod] ThunderCS
+[16:31:35] [Server thread/INFO]: Players: [Regular] HoloKirai
+[16:31:35] [Server thread/INFO]: Developers: [Dev] Poopey
+[16:31:48] [Server thread/INFO]: [Admin] UnSeen: memes
+[16:32:21] [Server thread/INFO]: Staff: [Admin] UnSeen, [Mod] ThunderCS
+[16:32:21] [Server thread/INFO]: Players: [Regular] HoloKirai
+[16:32:21] [Server thread/INFO]: Developers: [Dev] Poopey
+[16:32:35] [Server thread/INFO]: ThunderCS issued server command: //cut
+[16:32:44] [Server thread/INFO]: ThunderCS issued server command: //cut
+[16:33:08] [Server thread/INFO]: Staff: [Admin] UnSeen, [Mod] ThunderCS
+[16:33:08] [Server thread/INFO]: Players: [Regular] HoloKirai
+[16:33:08] [Server thread/INFO]: Developers: [Dev] Poopey
+[16:33:14] [Server thread/INFO]: ThunderCS issued server command: //cut
+[16:33:22] [Server thread/INFO]: ThunderCS issued server command: //cut
+[16:33:34] [Server thread/INFO]: ThunderCS issued server command: //cut
+[16:33:41] [Server thread/INFO]: ThunderCS issued server command: //cut
+[16:33:48] [Server thread/INFO]: ThunderCS issued server command: //cut
+[16:33:54] [Server thread/INFO]: Staff: [Admin] UnSeen, [Mod] ThunderCS
+[16:33:54] [Server thread/INFO]: Players: [Regular] HoloKirai
+[16:33:54] [Server thread/INFO]: Developers: [Dev] Poopey
+[16:34:00] [Server thread/INFO]: ThunderCS issued server command: //cut
+[16:34:41] [Server thread/INFO]: Staff: [Admin] UnSeen, [Mod] ThunderCS
+[16:34:41] [Server thread/INFO]: Players: [Regular] HoloKirai
+[16:34:41] [Server thread/INFO]: Developers: [Dev] Poopey
+[16:34:51] [Server thread/INFO]: ThunderCS issued server command: //cut
+[16:34:52] [Server thread/INFO]: Popey456963 issued server command: /msg AttrebusMede GG Secrecy xD
+[16:34:55] [Server thread/INFO]: [Admin] UnSeen: ^
+[16:35:01] [Server thread/INFO]: ThunderCS issued server command: //cut
+[16:35:11] [Server thread/INFO]: ThunderCS issued server command: /time set 0
+[16:35:19] [Server thread/INFO]: ThunderCS issued server command: //cut
+[16:35:22] [Server thread/INFO]: ThunderCS issued server command: //cut
+[16:35:27] [Server thread/INFO]: Popey456963 left the game.
+[16:35:27] [Server thread/INFO]: Staff: [Admin] UnSeen, [Mod] ThunderCS
+[16:35:27] [Server thread/INFO]: Players: [Regular] HoloKirai
+[16:35:42] [Server thread/INFO]: ThunderCS issued server command: //cut
+[16:35:44] [Server thread/INFO]: ThunderCS issued server command: /time set 0
+[16:35:47] [Server thread/INFO]: ThunderCS issued server command: //cut
+[16:35:51] [Server thread/INFO]: ThunderCS issued server command: //cut
+[16:36:14] [Server thread/INFO]: Staff: [Admin] UnSeen, [Mod] ThunderCS
+[16:36:14] [Server thread/INFO]: Players: [Regular] HoloKirai
+[16:36:14] [Server thread/INFO]: Developers: [Dev] Poopey
+[16:36:32] [Server thread/INFO]: Popey456963 issued server command: /op Flash
+[16:36:33] [Server thread/INFO]: [Popey456963: Opped Flash]
+[16:36:37] [Server thread/INFO]: Deniable_ issued server command: /tp thun
+[16:36:40] [Server thread/INFO]: Popey456963 issued server command: //sel
+[16:36:43] [Server thread/INFO]: Popey456963 issued server command: /op Deniable_
+[16:36:43] [Server thread/INFO]: [Popey456963: Opped Deniable_]
+[16:36:48] [Server thread/INFO]: Deniable_ issued server command: /gm 1
+[16:36:48] [Server thread/INFO]: ThunderCS issued server command: /tp den thun
+[16:36:50] [Server thread/INFO]: Popey456963 issued server command: //sel cyl
+[16:37:00] [Server thread/INFO]: Staff: [Admin] UnSeen, [Mod] ThunderCS
+[16:37:00] [Server thread/INFO]: Players: [Guest] FLASH, [Regular] HoloKirai
+[16:37:00] [Server thread/INFO]: Developers: [Dev] Poopey
+[16:37:47] [Server thread/INFO]: Staff: [Admin] UnSeen, [Mod] ThunderCS
+[16:37:47] [Server thread/INFO]: Players: [Guest] FLASH, [Regular] HoloKirai
+[16:37:47] [Server thread/INFO]: Developers: [Dev] Poopey
+[16:37:47] [Server thread/INFO]: [Admin] UnSeen: rename it
+[16:37:51] [Server thread/INFO]: [Admin] UnSeen: if you call it dev
+[16:37:54] [Server thread/INFO]: [Admin] UnSeen: the world will know
+[16:38:09] [Server thread/INFO]: Popey456963 issued server command: //copy
+[16:38:11] [Server thread/INFO]: [Admin] UnSeen: ty bby
+[16:38:17] [Server thread/INFO]: Deniable_ issued server command: /up 1
+[16:38:19] [Server thread/INFO]: Popey456963 issued server command: //copy
+[16:38:41] [Server thread/INFO]: Popey456963 issued server command: //paste
+[16:38:46] [Server thread/INFO]: Deniable_ issued server command: //wand
+[16:38:53] [Server thread/INFO]: [Dev] Poopey: For future use:
+[16:38:57] [Server thread/INFO]: [Dev] Poopey: .//sel cyl
+[16:39:02] [Server thread/INFO]: Deniable_ issued server command: /up 1
+[16:39:03] [Server thread/INFO]: [Dev] Poopey: wooden axe, center, top left, top right
+[16:39:11] [Server thread/INFO]: [Dev] Poopey: Go to center, //copy
+[16:39:12] [Server thread/INFO]: Deniable_ issued server command: //wand
+[16:39:15] [Server thread/INFO]: Staff: [Admin] UnSeen, [Mod] ThunderCS
+[16:39:15] [Server thread/INFO]: Players: [Guest] FLASH, [Regular] HoloKirai
+[16:39:15] [Server thread/INFO]: Developers: [Dev] Poopey
+[16:39:18] [Server thread/INFO]: [Dev] Poopey: Go to where you want it, //paste
+[16:39:18] [Server thread/INFO]: Deniable_ issued server command: /up 1
+[16:39:40] [Server thread/INFO]: Popey456963 issued server command: /msg ThunderCS So weird how you can't speak, can you do /r and message people?
+[16:39:41] [Server thread/INFO]: [Admin] UnSeen: but yea ty
+[16:39:49] [Server thread/INFO]: [Dev] Poopey: Ah, if you want, I can do them.
+[16:39:58] [Server thread/INFO]: Deniable_ issued server command: //set glass
+[16:40:00] [Server thread/INFO]: Deniable_ issued server command: //undo
+[16:40:01] [Server thread/INFO]: Staff: [Admin] UnSeen, [Mod] ThunderCS
+[16:40:01] [Server thread/INFO]: Players: [Guest] FLASH, [Regular] HoloKirai
+[16:40:01] [Server thread/INFO]: Developers: [Dev] Poopey
+[16:40:03] [Server thread/INFO]: Deniable_ issued server command: //walls glass
+[16:40:25] [Server thread/INFO]: Deniable_ issued server command: //set stainedglass:1
+[16:40:28] [Server thread/INFO]: Deniable_ issued server command: //undo
+[16:40:33] [Server thread/INFO]: Deniable_ issued server command: //walls stainedglass:"
+[16:40:36] [Server thread/INFO]: Deniable_ issued server command: //walls stainedglass:2
+[16:40:42] [Server thread/INFO]: Deniable_ issued server command: //walls stainedglass:3
+[16:40:47] [Server thread/INFO]: Deniable_ issued server command: //walls stainedglass:4
+[16:40:48] [Server thread/INFO]: Staff: [Admin] UnSeen, [Mod] ThunderCS
+[16:40:48] [Server thread/INFO]: Players: [Guest] FLASH, [Regular] HoloKirai
+[16:40:48] [Server thread/INFO]: Developers: [Dev] Poopey
+[16:41:14] [Server thread/INFO]: Deniable_ issued server command: //walls stainedglass:5
+[16:41:15] [Server thread/INFO]: Popey456963 issued server command: //undo
+[16:41:35] [Server thread/INFO]: Staff: [Admin] UnSeen, [Mod] ThunderCS
+[16:41:35] [Server thread/INFO]: Players: [Guest] FLASH, [Regular] HoloKirai
+[16:41:35] [Server thread/INFO]: Developers: [Dev] Poopey
+[16:41:35] [Server thread/INFO]: Deniable_ issued server command: //walls stainedglass:4
+[16:41:38] [Server thread/INFO]: Deniable_ issued server command: //walls stainedglass:3
+[16:41:44] [Server thread/INFO]: Deniable_ issued server command: //walls stainedglass:9
+[16:41:56] [Server thread/INFO]: Deniable_ issued server command: //walls stainedglass:8
+[16:42:21] [Server thread/INFO]: Staff: [Admin] UnSeen, [Mod] ThunderCS
+[16:42:21] [Server thread/INFO]: Players: [Guest] FLASH, [Regular] HoloKirai
+[16:42:21] [Server thread/INFO]: Developers: [Dev] Poopey
+[16:42:53] [Server thread/INFO]: Deniable_ issued server command: //set 0
+[16:42:56] [Server thread/INFO]: Deniable_ issued server command: //undo
+[16:42:58] [Server thread/INFO]: Deniable_ issued server command: //undo
+[16:43:08] [Server thread/INFO]: Staff: [Admin] UnSeen, [Mod] ThunderCS
+[16:43:08] [Server thread/INFO]: Players: [Guest] FLASH, [Regular] HoloKirai
+[16:43:08] [Server thread/INFO]: Developers: [Dev] Poopey
+[16:43:21] [Server thread/INFO]: Deniable_ issued server command: //walls 0
+[16:43:44] [Server thread/INFO]: ThunderCS issued server command: //cut
+[16:43:52] [Server thread/INFO]: ThunderCS issued server command: //set grass
+[16:43:54] [Server thread/INFO]: Staff: [Admin] UnSeen, [Mod] ThunderCS
+[16:43:54] [Server thread/INFO]: Players: [Guest] FLASH, [Regular] HoloKirai
+[16:43:54] [Server thread/INFO]: Developers: [Dev] Poopey
+[16:43:59] [Server thread/INFO]: ThunderCS issued server command: //cut
+[16:44:16] [Server thread/INFO]: ThunderCS issued server command: //cut
+[16:44:22] [Server thread/INFO]: ThunderCS issued server command: //set grass
+[16:44:25] [Server thread/INFO]: ThunderCS issued server command: //cut
+[16:44:31] [Server thread/INFO]: Deniable_ issued server command: //walls stainedglass:8
+[16:44:32] [Server thread/INFO]: ThunderCS issued server command: //cut
+[16:44:41] [Server thread/INFO]: Staff: [Admin] UnSeen, [Mod] ThunderCS
+[16:44:41] [Server thread/INFO]: Players: [Guest] FLASH, [Regular] HoloKirai
+[16:44:41] [Server thread/INFO]: Developers: [Dev] Poopey
+[16:44:50] [Server thread/INFO]: Deniable_ issued server command: //butcher
+[16:45:18] [Server thread/INFO]: ThunderCS issued server command: //set grass
+[16:45:27] [Server thread/INFO]: Staff: [Admin] UnSeen, [Mod] ThunderCS
+[16:45:27] [Server thread/INFO]: Players: [Guest] FLASH, [Regular] HoloKirai
+[16:45:27] [Server thread/INFO]: Developers: [Dev] Poopey
+[16:45:37] [Server thread/INFO]: Deniable_ issued server command: //set stair:1
+[16:45:40] [Server thread/INFO]: Deniable_ issued server command: //set stairs
+[16:45:47] [Server thread/INFO]: Deniable_ issued server command: //set oakwoodstairs
+[16:45:50] [Server thread/INFO]: Deniable_ issued server command: //set stair
+[16:45:51] [Server thread/INFO]: ThunderCS issued server command: /time set 0
+[16:45:59] [Server thread/INFO]: Deniable_ issued server command: //walls 0
+[16:46:14] [Server thread/INFO]: Staff: [Admin] UnSeen, [Mod] ThunderCS
+[16:46:14] [Server thread/INFO]: Players: [Guest] FLASH, [Regular] HoloKirai
+[16:46:14] [Server thread/INFO]: Developers: [Dev] Poopey
+[16:46:29] [Server thread/INFO]: ThunderCS issued server command: //set grass
+[16:46:32] [Server thread/INFO]: ThunderCS issued server command: //unto
+[16:46:34] [Server thread/INFO]: ThunderCS issued server command: //undo
+[16:46:37] [Server thread/INFO]: ThunderCS issued server command: //undo
+[16:46:41] [Server thread/INFO]: ThunderCS issued server command: //redo
+[16:46:43] [Server thread/INFO]: ThunderCS issued server command: //set grass
+[16:47:00] [Server thread/INFO]: Staff: [Admin] UnSeen, [Mod] ThunderCS
+[16:47:00] [Server thread/INFO]: Players: [Guest] FLASH, [Regular] HoloKirai
+[16:47:00] [Server thread/INFO]: Developers: [Dev] Poopey
+[16:47:12] [Server thread/INFO]: ThunderCS issued server command: //set grass
+[16:47:36] [Server thread/INFO]: ThunderCS issued server command: //cut
+[16:47:45] [Server thread/INFO]: ThunderCS issued server command: //pos2
+[16:47:46] [Server thread/INFO]: ThunderCS issued server command: //cut
+[16:47:47] [Server thread/INFO]: Staff: [Admin] UnSeen, [Mod] ThunderCS
+[16:47:47] [Server thread/INFO]: Players: [Guest] FLASH, [Regular] HoloKirai
+[16:47:47] [Server thread/INFO]: Developers: [Dev] Poopey
+[16:48:35] [Server thread/INFO]: Deniable_ issued server command: //pl
+[16:48:37] [Server thread/INFO]: Deniable_ issued server command: //tool
+[16:48:37] [Server thread/INFO]: ThunderCS issued server command: //set grass
+[16:48:42] [Server thread/INFO]: Deniable_ issued server command: //tool info
+[16:49:01] [Server thread/INFO]: Deniable_ issued server command: //set woodenstairs
+[16:49:15] [Server thread/INFO]: Staff: [Admin] UnSeen, [Mod] ThunderCS
+[16:49:15] [Server thread/INFO]: Players: [Guest] FLASH, [Regular] HoloKirai
+[16:49:15] [Server thread/INFO]: Developers: [Dev] Poopey
+[16:49:21] [Server thread/INFO]: ThunderCS issued server command: //pos2
+[16:49:22] [Server thread/INFO]: ThunderCS issued server command: //cut
+[16:49:26] [Server thread/INFO]: Deniable_ issued server command: //set woodenstairs
+[16:49:30] [Server thread/INFO]: Deniable_ issued server command: //undo
+[16:49:32] [Server thread/INFO]: Deniable_ issued server command: //set woodenstairs
+[16:49:35] [Server thread/INFO]: Deniable_ issued server command: //undo
+[16:50:02] [Server thread/INFO]: Staff: [Admin] UnSeen, [Mod] ThunderCS
+[16:50:02] [Server thread/INFO]: Players: [Guest] FLASH, [Regular] HoloKirai
+[16:50:02] [Server thread/INFO]: Developers: [Dev] Poopey
+[16:50:02] [Server thread/INFO]: Deniable_ issued server command: //set 0
+[16:50:48] [Server thread/INFO]: Staff: [Admin] UnSeen, [Mod] ThunderCS
+[16:50:48] [Server thread/INFO]: Players: [Guest] FLASH, [Regular] HoloKirai
+[16:50:48] [Server thread/INFO]: Developers: [Dev] Poopey
+[16:51:35] [Server thread/INFO]: Staff: [Admin] UnSeen, [Mod] ThunderCS
+[16:51:35] [Server thread/INFO]: Players: [Guest] FLASH, [Regular] HoloKirai
+[16:51:35] [Server thread/INFO]: Developers: [Dev] Poopey
+[16:51:47] [Server thread/INFO]: Deniable_ issued server command: //walls log
+[16:52:01] [Server thread/INFO]: Popey456963 issued server command: /speed 2
+[16:52:05] [Server thread/INFO]: Popey456963 issued server command: /speed 3
+[16:52:21] [Server thread/INFO]: Staff: [Admin] UnSeen, [Mod] ThunderCS
+[16:52:21] [Server thread/INFO]: Players: [Guest] FLASH, [Regular] HoloKirai
+[16:52:21] [Server thread/INFO]: Developers: [Dev] Poopey
+[16:52:56] [Server thread/INFO]: [PT] Popey456963 issued server command: /heal Popey456963
+[16:52:56] [Server thread/INFO]: [PT] Popey456963 issued server command: /heal Popey456963
+[16:53:03] [Server thread/INFO]: Popey456963 issued server command: //paste
+[16:53:08] [Server thread/INFO]: Staff: [Admin] UnSeen, [Mod] ThunderCS
+[16:53:08] [Server thread/INFO]: Players: [Guest] FLASH, [Regular] HoloKirai
+[16:53:08] [Server thread/INFO]: Developers: [Dev] Poopey
+[16:53:17] [Server thread/INFO]: Deniable_ issued server command: //set quartz
+[16:53:22] [Server thread/INFO]: ThunderCS issued server command: //set quartz
+[16:53:27] [Server thread/INFO]: Deniable_ issued server command: //set quartz
+[16:53:54] [Server thread/INFO]: Deniable_ issued server command: //set quartz
+[16:53:54] [Server thread/INFO]: Staff: [Admin] UnSeen, [Mod] ThunderCS
+[16:53:54] [Server thread/INFO]: Players: [Guest] FLASH, [Regular] HoloKirai
+[16:53:54] [Server thread/INFO]: Developers: [Dev] Poopey
+[16:54:38] [Server thread/INFO]: Deniable_ issued server command: //set set 109
+[16:54:41] [Server thread/INFO]: Staff: [Admin] UnSeen, [Mod] ThunderCS
+[16:54:41] [Server thread/INFO]: Players: [Guest] FLASH, [Regular] HoloKirai
+[16:54:41] [Server thread/INFO]: Developers: [Dev] Poopey
+[16:54:45] [Server thread/INFO]: Deniable_ issued server command: //set 109
+[16:54:51] [Server thread/INFO]: Deniable_ issued server command: //undo
+[16:55:00] [Server thread/INFO]: Deniable_ issued server command: //set 109
+[16:55:05] [Server thread/INFO]: AttrebusMede issued server command: //sel cyl
+[16:55:27] [Server thread/INFO]: Staff: [Admin] UnSeen, [Mod] ThunderCS
+[16:55:27] [Server thread/INFO]: Players: [Guest] FLASH, [Regular] HoloKirai
+[16:55:27] [Server thread/INFO]: Developers: [Dev] Poopey
+[16:55:29] [Server thread/INFO]: Deniable_ issued server command: //set 109
+[16:55:31] [Server thread/INFO]: Deniable_ issued server command: //undo
+[16:55:55] [Server thread/INFO]: AttrebusMede issued server command: //copy
+[16:56:01] [Server thread/INFO]: ThunderCS issued server command: /time set 0
+[16:56:10] [Server thread/INFO]: AttrebusMede issued server command: //paste
+[16:56:14] [Server thread/INFO]: Staff: [Admin] UnSeen, [Mod] ThunderCS
+[16:56:14] [Server thread/INFO]: Players: [Guest] FLASH, [Regular] HoloKirai
+[16:56:14] [Server thread/INFO]: Developers: [Dev] Poopey
+[16:56:24] [Server thread/INFO]: AttrebusMede issued server command: //undo
+[16:57:00] [Server thread/INFO]: Staff: [Admin] UnSeen, [Mod] ThunderCS
+[16:57:00] [Server thread/INFO]: Players: [Guest] FLASH, [Regular] HoloKirai
+[16:57:00] [Server thread/INFO]: Developers: [Dev] Poopey
+[16:57:16] [Server thread/INFO]: Popey456963 issued server command: //paste
+[16:57:22] [Server thread/INFO]: Popey456963 issued server command: //undo
+[16:57:28] [Server thread/INFO]: Popey456963 issued server command: //paste
+[16:57:47] [Server thread/INFO]: Staff: [Admin] UnSeen, [Mod] ThunderCS
+[16:57:47] [Server thread/INFO]: Players: [Guest] FLASH, [Regular] HoloKirai
+[16:57:47] [Server thread/INFO]: Developers: [Dev] Poopey
+[16:59:08] [Server thread/INFO]: AttrebusMede issued server command: //hpos1
+[16:59:15] [Server thread/INFO]: Staff: [Admin] UnSeen, [Mod] ThunderCS
+[16:59:15] [Server thread/INFO]: Players: [Guest] FLASH, [Regular] HoloKirai
+[16:59:15] [Server thread/INFO]: Developers: [Dev] Poopey
+[16:59:29] [Server thread/INFO]: AttrebusMede issued server command: //set glass_pane
+[16:59:38] [Server thread/INFO]: AttrebusMede issued server command: //undo
+[16:59:49] [Server thread/INFO]: AttrebusMede issued server command: //set stained_glass_pane
+[17:00:00] [Server thread/INFO]: Deniable_ issued server command: //walls 0
+[17:00:00] [Server thread/INFO]: AttrebusMede issued server command: //undo
+[17:00:02] [Server thread/INFO]: Staff: [Admin] UnSeen, [Mod] ThunderCS
+[17:00:02] [Server thread/INFO]: Players: [Guest] FLASH, [Regular] HoloKirai
+[17:00:02] [Server thread/INFO]: Developers: [Dev] Poopey
+[17:00:07] [Server thread/INFO]: Deniable_ issued server command: //butcher
+[17:00:11] [Server thread/INFO]: Deniable_ issued server command: //undo
+[17:00:22] [Server thread/INFO]: Deniable_ issued server command: //undo
+[17:00:28] [Server thread/INFO]: Deniable_ issued server command: //redo
+[17:00:44] [Server thread/INFO]: ThunderCS issued server command: //set quartz
+[17:00:48] [Server thread/INFO]: Staff: [Admin] UnSeen, [Mod] ThunderCS
+[17:00:48] [Server thread/INFO]: Players: [Guest] FLASH, [Regular] HoloKirai
+[17:00:48] [Server thread/INFO]: Developers: [Dev] Poopey
+[17:00:52] [Server thread/INFO]: Deniable_ issued server command: //walls quartz
+[17:01:13] [Server thread/INFO]: Deniable_ issued server command: //butcher
+[17:01:17] [Server thread/INFO]: ThunderCS issued server command: /butcher
+[17:01:35] [Server thread/INFO]: Staff: [Admin] UnSeen, [Mod] ThunderCS
+[17:01:35] [Server thread/INFO]: Players: [Guest] FLASH, [Regular] HoloKirai
+[17:01:35] [Server thread/INFO]: Developers: [Dev] Poopey
+[17:02:08] [Server thread/INFO]: Deniable_ issued server command: /thru
+[17:02:14] [Server thread/INFO]: Deniable_ issued server command: /butcher
+[17:02:21] [Server thread/INFO]: Staff: [Admin] UnSeen, [Mod] ThunderCS
+[17:02:21] [Server thread/INFO]: Players: [Guest] FLASH, [Regular] HoloKirai
+[17:02:21] [Server thread/INFO]: Developers: [Dev] Poopey
+[17:02:41] [Server thread/INFO]: Deniable_ issued server command: //center 2
+[17:03:08] [Server thread/INFO]: Staff: [Admin] UnSeen, [Mod] ThunderCS
+[17:03:08] [Server thread/INFO]: Players: [Guest] FLASH, [Regular] HoloKirai
+[17:03:08] [Server thread/INFO]: Developers: [Dev] Poopey
+[17:03:22] [Server thread/INFO]: Deniable_ issued server command: /setwarp survivalspawn
+[17:03:52] [Server thread/INFO]: Deniable_ issued server command: //walls 1
+[17:03:54] [Server thread/INFO]: Staff: [Admin] UnSeen, [Mod] ThunderCS
+[17:03:54] [Server thread/INFO]: Players: [Guest] FLASH, [Regular] HoloKirai
+[17:03:54] [Server thread/INFO]: Developers: [Dev] Poopey
+[17:04:04] [Server thread/INFO]: Deniable_ issued server command: //undo
+[17:04:41] [Server thread/INFO]: Staff: [Admin] UnSeen, [Mod] ThunderCS
+[17:04:41] [Server thread/INFO]: Players: [Guest] FLASH, [Regular] HoloKirai
+[17:04:41] [Server thread/INFO]: Developers: [Dev] Poopey
+[17:05:27] [Server thread/INFO]: Staff: [Admin] UnSeen, [Mod] ThunderCS
+[17:05:27] [Server thread/INFO]: Players: [Guest] FLASH, [Regular] HoloKirai
+[17:05:27] [Server thread/INFO]: Developers: [Dev] Poopey
+[17:06:14] [Server thread/INFO]: Staff: [Admin] UnSeen, [Mod] ThunderCS
+[17:06:14] [Server thread/INFO]: Players: [Guest] FLASH, [Regular] HoloKirai
+[17:06:14] [Server thread/INFO]: Developers: [Dev] Poopey
+[17:06:49] [Server thread/INFO]: ThunderCS issued server command: /time set 0
+[17:07:00] [Server thread/INFO]: Staff: [Admin] UnSeen, [Mod] ThunderCS
+[17:07:00] [Server thread/INFO]: Players: [Guest] FLASH, [Regular] HoloKirai
+[17:07:00] [Server thread/INFO]: Developers: [Dev] Poopey
+[17:07:47] [Server thread/INFO]: Staff: [Admin] UnSeen, [Mod] ThunderCS
+[17:07:47] [Server thread/INFO]: Players: [Guest] FLASH, [Regular] HoloKirai
+[17:07:47] [Server thread/INFO]: Developers: [Dev] Poopey
+[17:08:10] [Server thread/INFO]: Deniable_ issued server command: /delwarp survivalspawn
+[17:08:19] [Server thread/INFO]: Deniable_ issued server command: //setwarp survivalspawn
+[17:08:20] [Server thread/INFO]: Popey456963 issued server command: /tp hol
+[17:09:15] [Server thread/INFO]: Staff: [Admin] UnSeen, [Mod] ThunderCS
+[17:09:15] [Server thread/INFO]: Players: [Guest] FLASH, [Regular] HoloKirai
+[17:09:15] [Server thread/INFO]: Developers: [Dev] Poopey
+[17:10:02] [Server thread/INFO]: Staff: [Admin] UnSeen, [Mod] ThunderCS
+[17:10:02] [Server thread/INFO]: Players: [Guest] FLASH, [Regular] HoloKirai
+[17:10:02] [Server thread/INFO]: Developers: [Dev] Poopey
+[17:10:48] [Server thread/INFO]: Staff: [Admin] UnSeen, [Mod] ThunderCS
+[17:10:48] [Server thread/INFO]: Players: [Guest] FLASH, [Regular] HoloKirai
+[17:10:48] [Server thread/INFO]: Developers: [Dev] Poopey
+[17:11:35] [Server thread/INFO]: Staff: [Admin] UnSeen, [Mod] ThunderCS
+[17:11:35] [Server thread/INFO]: Players: [Guest] FLASH, [Regular] HoloKirai
+[17:11:35] [Server thread/INFO]: Developers: [Dev] Poopey
+[17:12:21] [Server thread/INFO]: Staff: [Admin] UnSeen, [Mod] ThunderCS
+[17:12:21] [Server thread/INFO]: Players: [Guest] FLASH, [Regular] HoloKirai
+[17:12:21] [Server thread/INFO]: Developers: [Dev] Poopey
+[17:13:08] [Server thread/INFO]: Staff: [Admin] UnSeen, [Mod] ThunderCS
+[17:13:08] [Server thread/INFO]: Players: [Guest] FLASH, [Regular] HoloKirai
+[17:13:08] [Server thread/INFO]: Developers: [Dev] Poopey
+[17:13:54] [Server thread/INFO]: Staff: [Admin] UnSeen, [Mod] ThunderCS
+[17:13:54] [Server thread/INFO]: Players: [Guest] FLASH, [Regular] HoloKirai
+[17:13:54] [Server thread/INFO]: Developers: [Dev] Poopey
+[17:14:41] [Server thread/INFO]: Staff: [Admin] UnSeen, [Mod] ThunderCS
+[17:14:41] [Server thread/INFO]: Players: [Guest] FLASH, [Regular] HoloKirai
+[17:14:41] [Server thread/INFO]: Developers: [Dev] Poopey
+[17:15:18] [Server thread/INFO]: ThunderCS issued server command: //cut
+[17:15:27] [Server thread/INFO]: Staff: [Admin] UnSeen, [Mod] ThunderCS
+[17:15:27] [Server thread/INFO]: Players: [Guest] FLASH, [Regular] HoloKirai
+[17:15:27] [Server thread/INFO]: Developers: [Dev] Poopey
+[17:15:29] [Server thread/INFO]: Popey456963 issued server command: /tp holo
+[17:16:14] [Server thread/INFO]: Staff: [Admin] UnSeen, [Mod] ThunderCS
+[17:16:14] [Server thread/INFO]: Players: [Guest] FLASH, [Regular] HoloKirai
+[17:16:14] [Server thread/INFO]: Developers: [Dev] Poopey
+[17:17:00] [Server thread/INFO]: Staff: [Admin] UnSeen, [Mod] ThunderCS
+[17:17:00] [Server thread/INFO]: Players: [Guest] FLASH, [Regular] HoloKirai
+[17:17:00] [Server thread/INFO]: Developers: [Dev] Poopey
+[17:17:28] [Server thread/INFO]: ThunderCS issued server command: //cut
+[17:17:32] [Server thread/INFO]: ThunderCS issued server command: //cut
+[17:17:38] [Server thread/INFO]: ThunderCS issued server command: //cut
+[17:17:41] [Server thread/INFO]: ThunderCS issued server command: //cut
+[17:17:45] [Server thread/INFO]: ThunderCS issued server command: //cut
+[17:17:47] [Server thread/INFO]: Staff: [Admin] UnSeen, [Mod] ThunderCS
+[17:17:47] [Server thread/INFO]: Players: [Guest] FLASH, [Regular] HoloKirai
+[17:17:47] [Server thread/INFO]: Developers: [Dev] Poopey
+[17:17:48] [Server thread/INFO]: ThunderCS issued server command: //cut
+[17:17:53] [Server thread/INFO]: ThunderCS issued server command: //time set 0
+[17:17:56] [Server thread/INFO]: ThunderCS issued server command: /time set 0
+[17:19:15] [Server thread/INFO]: Staff: [Admin] UnSeen, [Mod] ThunderCS
+[17:19:15] [Server thread/INFO]: Players: [Guest] FLASH, [Regular] HoloKirai
+[17:19:15] [Server thread/INFO]: Developers: [Dev] Poopey
+[17:19:32] [Server thread/INFO]: Deniable_ issued server command: //set quartz
+[17:20:02] [Server thread/INFO]: Staff: [Admin] UnSeen, [Mod] ThunderCS
+[17:20:02] [Server thread/INFO]: Players: [Guest] FLASH, [Regular] HoloKirai
+[17:20:02] [Server thread/INFO]: Developers: [Dev] Poopey
+[17:20:48] [Server thread/INFO]: Staff: [Admin] UnSeen, [Mod] ThunderCS
+[17:20:48] [Server thread/INFO]: Players: [Guest] FLASH, [Regular] HoloKirai
+[17:20:48] [Server thread/INFO]: Developers: [Dev] Poopey
+[17:21:35] [Server thread/INFO]: Staff: [Admin] UnSeen, [Mod] ThunderCS
+[17:21:35] [Server thread/INFO]: Players: [Guest] FLASH, [Regular] HoloKirai
+[17:21:35] [Server thread/INFO]: Developers: [Dev] Poopey
+[17:22:21] [Server thread/INFO]: Staff: [Admin] UnSeen, [Mod] ThunderCS
+[17:22:21] [Server thread/INFO]: Players: [Guest] FLASH, [Regular] HoloKirai
+[17:22:21] [Server thread/INFO]: Developers: [Dev] Poopey
+[17:22:48] [Server thread/INFO]: ThunderCS issued server command: //cut
+[17:23:02] [Server thread/INFO]: ThunderCS issued server command: //cut
+[17:23:08] [Server thread/INFO]: Staff: [Admin] UnSeen, [Mod] ThunderCS
+[17:23:08] [Server thread/INFO]: Players: [Guest] FLASH, [Regular] HoloKirai
+[17:23:08] [Server thread/INFO]: Developers: [Dev] Poopey
+[17:23:54] [Server thread/INFO]: Staff: [Admin] UnSeen, [Mod] ThunderCS
+[17:23:54] [Server thread/INFO]: Players: [Guest] FLASH, [Regular] HoloKirai
+[17:23:54] [Server thread/INFO]: Developers: [Dev] Poopey
+[17:24:03] [Server thread/INFO]: ThunderCS issued server command: //cut
+[17:24:32] [Server thread/INFO]: ThunderCS issued server command: //set quartz
+[17:24:41] [Server thread/INFO]: Staff: [Admin] UnSeen, [Mod] ThunderCS
+[17:24:41] [Server thread/INFO]: Players: [Guest] FLASH, [Regular] HoloKirai
+[17:24:41] [Server thread/INFO]: Developers: [Dev] Poopey
+[17:25:23] [Server thread/INFO]: Deniable_ issued server command: //butcher
+[17:25:27] [Server thread/INFO]: Staff: [Admin] UnSeen, [Mod] ThunderCS
+[17:25:27] [Server thread/INFO]: Players: [Guest] FLASH, [Regular] HoloKirai
+[17:25:27] [Server thread/INFO]: Developers: [Dev] Poopey
+[17:25:41] [Server thread/INFO]: Popey456963 left the game.
+[17:26:14] [Server thread/INFO]: Staff: [Admin] UnSeen, [Mod] ThunderCS
+[17:26:14] [Server thread/INFO]: Players: [Guest] FLASH, [Regular] HoloKirai
+[17:26:16] [Server thread/INFO]: Deniable_ issued server command: //center 2
+[17:27:00] [Server thread/INFO]: Staff: [Admin] UnSeen, [Mod] ThunderCS
+[17:27:00] [Server thread/INFO]: Players: [Guest] FLASH, [Regular] HoloKirai
+[17:27:47] [Server thread/INFO]: Staff: [Admin] UnSeen, [Mod] ThunderCS
+[17:27:47] [Server thread/INFO]: Players: [Guest] FLASH, [Regular] HoloKirai
+[17:28:20] [Server thread/INFO]: ThunderCS issued server command: /time set 0
+[17:28:24] [Server thread/INFO]: Deniable_ issued server command: //set quartz
+[17:28:51] [Server thread/INFO]: Deniable_ issued server command: //set 0
+[17:29:15] [Server thread/INFO]: Staff: [Admin] UnSeen, [Mod] ThunderCS
+[17:29:15] [Server thread/INFO]: Players: [Guest] FLASH, [Regular] HoloKirai
+[17:29:30] [Server thread/INFO]: HoloKirai left the game.
+[17:30:02] [Server thread/INFO]: Staff: [Admin] UnSeen, [Mod] ThunderCS
+[17:30:02] [Server thread/INFO]: Players: [Guest] FLASH
+[17:30:08] [Server thread/INFO]: AttrebusMede left the game.
+[17:30:18] [Server thread/INFO]: Deniable_ issued server command: //walls oak
+[17:30:29] [Server thread/INFO]: Deniable_ issued server command: //walls oak
+[17:30:48] [Server thread/INFO]: Staff: [Mod] ThunderCS
+[17:30:48] [Server thread/INFO]: Players: [Guest] FLASH
+[17:30:50] [Server thread/INFO]: Deniable_ issued server command: //walls wood
+[17:30:59] [Server thread/INFO]: Deniable_ issued server command: //walls wood
+[17:31:35] [Server thread/INFO]: Staff: [Mod] ThunderCS
+[17:31:35] [Server thread/INFO]: Players: [Guest] FLASH
+[17:32:21] [Server thread/INFO]: Staff: [Mod] ThunderCS
+[17:32:21] [Server thread/INFO]: Players: [Guest] FLASH
+[17:33:08] [Server thread/INFO]: Staff: [Mod] ThunderCS
+[17:33:08] [Server thread/INFO]: Players: [Guest] FLASH
+[17:33:54] [Server thread/INFO]: Staff: [Mod] ThunderCS
+[17:33:54] [Server thread/INFO]: Players: [Guest] FLASH
+[17:34:41] [Server thread/INFO]: Staff: [Mod] ThunderCS
+[17:34:41] [Server thread/INFO]: Players: [Guest] FLASH
+[17:35:27] [Server thread/INFO]: Staff: [Mod] ThunderCS
+[17:35:27] [Server thread/INFO]: Players: [Guest] FLASH
+[17:36:14] [Server thread/INFO]: Staff: [Mod] ThunderCS
+[17:36:14] [Server thread/INFO]: Players: [Guest] FLASH
+[17:36:28] [Server thread/INFO]: ThunderCS issued server command: /warpset survival
+[17:36:34] [Server thread/INFO]: ThunderCS issued server command: /setwarp survival
+[17:37:00] [Server thread/INFO]: Staff: [Mod] ThunderCS
+[17:37:00] [Server thread/INFO]: Players: [Guest] FLASH
+[17:37:47] [Server thread/INFO]: Staff: [Mod] ThunderCS
+[17:37:47] [Server thread/INFO]: Players: [Guest] FLASH
+[17:38:43] [Server thread/INFO]: Deniable_ issued server command: //set wood
+[17:38:46] [Server thread/INFO]: Deniable_ issued server command: //undo
+[17:38:49] [Server thread/INFO]: Deniable_ issued server command: //walls wood
+[17:38:52] [Server thread/INFO]: Deniable_ issued server command: //undo
+[17:39:15] [Server thread/INFO]: Staff: [Mod] ThunderCS
+[17:39:15] [Server thread/INFO]: Players: [Guest] FLASH
+[17:39:48] [Server thread/INFO]: Deniable_ issued server command: /up 1
+[17:39:53] [Server thread/INFO]: Deniable_ issued server command: //move 1
+[17:39:59] [Server thread/INFO]: Deniable_ issued server command: //undo
+[17:40:02] [Server thread/INFO]: Staff: [Mod] ThunderCS
+[17:40:02] [Server thread/INFO]: Players: [Guest] FLASH
+[17:40:07] [Server thread/INFO]: Deniable_ issued server command: //move 1
+[17:40:37] [Server thread/INFO]: Deniable_ issued server command: //set wood
+[17:40:38] [Server thread/INFO]: Deniable_ issued server command: //butcher
+[17:40:48] [Server thread/INFO]: Deniable_ issued server command: //set wood
+[17:40:48] [Server thread/INFO]: Staff: [Mod] ThunderCS
+[17:40:48] [Server thread/INFO]: Players: [Guest] FLASH
+[17:41:30] [Server thread/INFO]: Deniable_ issued server command: //set wood
+[17:41:35] [Server thread/INFO]: Staff: [Mod] ThunderCS
+[17:41:35] [Server thread/INFO]: Players: [Guest] FLASH
+[17:41:36] [Server thread/INFO]: Deniable_ issued server command: //set wood
+[17:41:42] [Server thread/INFO]: Deniable_ issued server command: //set spruce
+[17:41:45] [Server thread/INFO]: Deniable_ issued server command: //set wood:2
+[17:41:47] [Server thread/INFO]: Deniable_ issued server command: //set wood:3
+[17:41:48] [Server thread/INFO]: Deniable_ issued server command: //set wood:4
+[17:41:50] [Server thread/INFO]: Deniable_ issued server command: //set wood:1
+[17:41:55] [Server thread/INFO]: Deniable_ issued server command: //set wood:1
+[17:42:21] [Server thread/INFO]: Staff: [Mod] ThunderCS
+[17:42:21] [Server thread/INFO]: Players: [Guest] FLASH
+[17:43:07] [Server thread/INFO]: Deniable_ issued server command: //replace air wood:1
+[17:43:08] [Server thread/INFO]: Staff: [Mod] ThunderCS
+[17:43:08] [Server thread/INFO]: Players: [Guest] FLASH
+[17:43:22] [Server thread/INFO]: Deniable_ issued server command: //replace air glass
+[17:43:29] [Server thread/INFO]: ThunderCS issued server command: /butcher
+[17:43:33] [Server thread/INFO]: ThunderCS issued server command: /butcher
+[17:43:42] [Server thread/INFO]: Deniable_ issued server command: //replace wood:1 glass
+[17:43:50] [Server thread/INFO]: Deniable_ issued server command: //move 1
+[17:43:54] [Server thread/INFO]: Staff: [Mod] ThunderCS
+[17:43:54] [Server thread/INFO]: Players: [Guest] FLASH
+[17:43:55] [Server thread/INFO]: Deniable_ issued server command: //move 1
+[17:44:01] [Server thread/INFO]: Deniable_ issued server command: //move 1
+[17:44:02] [Server thread/INFO]: Deniable_ issued server command: //move 1
+[17:44:05] [Server thread/INFO]: Deniable_ issued server command: //undo
+[17:44:06] [Server thread/INFO]: Deniable_ issued server command: //undo
+[17:44:09] [Server thread/INFO]: Deniable_ issued server command: //move 1
+[17:44:11] [Server thread/INFO]: Deniable_ issued server command: //undo
+[17:44:14] [Server thread/INFO]: Deniable_ issued server command: //undo
+[17:44:15] [Server thread/INFO]: Deniable_ issued server command: //undo
+[17:44:29] [Server thread/INFO]: Deniable_ issued server command: //mova 3
+[17:44:33] [Server thread/INFO]: Deniable_ issued server command: //move 1
+[17:44:37] [Server thread/INFO]: Deniable_ issued server command: //move 1
+[17:44:41] [Server thread/INFO]: Staff: [Mod] ThunderCS
+[17:44:41] [Server thread/INFO]: Players: [Guest] FLASH
+[17:44:43] [Server thread/INFO]: Deniable_ issued server command: //move 1
+[17:44:44] [Server thread/INFO]: Deniable_ issued server command: //move 1
+[17:44:48] [Server thread/INFO]: Deniable_ issued server command: //undo
+[17:44:48] [Server thread/INFO]: Deniable_ issued server command: //undo
+[17:44:48] [Server thread/INFO]: Deniable_ issued server command: //undo
+[17:44:49] [Server thread/INFO]: Deniable_ issued server command: //undo
+[17:44:59] [Server thread/INFO]: Deniable_ issued server command: //replace glass wood
+[17:45:22] [Server thread/INFO]: Deniable_ issued server command: //center 2
+[17:45:27] [Server thread/INFO]: Staff: [Mod] ThunderCS
+[17:45:27] [Server thread/INFO]: Players: [Guest] FLASH
+[17:45:56] [Server thread/INFO]: Deniable_ issued server command: //replace air stained:8
+[17:46:09] [Server thread/INFO]: Deniable_ issued server command: //replace air glass
+[17:46:14] [Server thread/INFO]: Staff: [Mod] ThunderCS
+[17:46:14] [Server thread/INFO]: Players: [Guest] FLASH
+[17:46:41] [Server thread/INFO]: Deniable_ issued server command: //move 1
+[17:46:56] [Server thread/INFO]: Deniable_ issued server command: //undo
+[17:47:00] [Server thread/INFO]: Staff: [Mod] ThunderCS
+[17:47:00] [Server thread/INFO]: Players: [Guest] FLASH
+[17:47:02] [Server thread/INFO]: Deniable_ issued server command: //redo
+[17:47:38] [Server thread/INFO]: Deniable_ issued server command: //butcher
+[17:47:41] [Server thread/INFO]: Deniable_ issued server command: /time day
+[17:47:47] [Server thread/INFO]: Deniable_ issued server command: //replace air wood
+[17:47:47] [Server thread/INFO]: Staff: [Mod] ThunderCS
+[17:47:47] [Server thread/INFO]: Players: [Guest] FLASH
+[17:48:12] [Server thread/INFO]: Deniable_ issued server command: //replace air wood
+[17:49:15] [Server thread/INFO]: Staff: [Mod] ThunderCS
+[17:49:15] [Server thread/INFO]: Players: [Guest] FLASH
+[17:49:25] [Server thread/INFO]: Deniable_ issued server command: //center 2
+[17:49:59] [Server thread/INFO]: Deniable_ issued server command: //replace air glass
+[17:50:02] [Server thread/INFO]: Staff: [Mod] ThunderCS
+[17:50:02] [Server thread/INFO]: Players: [Guest] FLASH
+[17:50:04] [Server thread/INFO]: Deniable_ issued server command: //move 1
+[17:50:15] [Server thread/INFO]: Deniable_ issued server command: //set wood:1
+[17:50:19] [Server thread/INFO]: Deniable_ issued server command: //set wood:1
+[17:50:48] [Server thread/INFO]: Staff: [Mod] ThunderCS
+[17:50:48] [Server thread/INFO]: Players: [Guest] FLASH
+[17:51:06] [Server thread/INFO]: Deniable_ issued server command: //replace air wood
+[17:51:16] [Server thread/INFO]: Deniable_ issued server command: //replace air wood
+[17:51:35] [Server thread/INFO]: Deniable_ issued server command: //set wood:1
+[17:51:35] [Server thread/INFO]: Staff: [Mod] ThunderCS
+[17:51:35] [Server thread/INFO]: Players: [Guest] FLASH
+[17:51:44] [Server thread/INFO]: Deniable_ issued server command: //set wood:1
+[17:52:21] [Server thread/INFO]: Staff: [Mod] ThunderCS
+[17:52:21] [Server thread/INFO]: Players: [Guest] FLASH
+[17:52:25] [Server thread/INFO]: Deniable_ issued server command: //replace air wood
+[17:52:37] [Server thread/INFO]: Deniable_ issued server command: //set wood:1
+[17:53:08] [Server thread/INFO]: Staff: [Mod] ThunderCS
+[17:53:08] [Server thread/INFO]: Players: [Guest] FLASH
+[17:53:33] [Server thread/INFO]: Deniable_ issued server command: //set wood:1
+[17:53:54] [Server thread/INFO]: Staff: [Mod] ThunderCS
+[17:53:54] [Server thread/INFO]: Players: [Guest] FLASH
+[17:53:59] [Server thread/INFO]: Deniable_ issued server command: //replace air wood
+[17:54:20] [Server thread/INFO]: Deniable_ issued server command: //center 2
+[17:54:41] [Server thread/INFO]: Staff: [Mod] ThunderCS
+[17:54:41] [Server thread/INFO]: Players: [Guest] FLASH
+[17:54:54] [Server thread/INFO]: Deniable_ issued server command: //center 2
+[17:55:27] [Server thread/INFO]: Staff: [Mod] ThunderCS
+[17:55:27] [Server thread/INFO]: Players: [Guest] FLASH
+[17:55:32] [Server thread/INFO]: Deniable_ issued server command: //replace air glass
+[17:55:54] [Server thread/INFO]: Deniable_ issued server command: //move 1
+[17:56:09] [Server thread/INFO]: Deniable_ issued server command: //center 2
+[17:56:14] [Server thread/INFO]: Staff: [Mod] ThunderCS
+[17:56:14] [Server thread/INFO]: Players: [Guest] FLASH
+[17:56:31] [Server thread/INFO]: Deniable_ issued server command: //replace air glass
+[17:56:33] [Server thread/INFO]: Deniable_ issued server command: //move 1
+[17:56:45] [Server thread/INFO]: Deniable_ issued server command: //set oak
+[17:56:49] [Server thread/INFO]: Deniable_ issued server command: //set oak
+[17:56:54] [Server thread/INFO]: Deniable_ issued server command: //set oak
+[17:56:58] [Server thread/INFO]: Deniable_ issued server command: //set oak
+[17:57:01] [Server thread/INFO]: Staff: [Mod] ThunderCS
+[17:57:01] [Server thread/INFO]: Players: [Guest] FLASH
+[17:57:04] [Server thread/INFO]: Deniable_ issued server command: //set oak
+[17:57:07] [Server thread/INFO]: Deniable_ issued server command: //set oak
+[17:57:12] [Server thread/INFO]: Deniable_ issued server command: //set oak
+[17:57:14] [Server thread/INFO]: ThunderCS issued server command: //set grass
+[17:57:17] [Server thread/INFO]: Deniable_ issued server command: //set oak
+[17:57:47] [Server thread/INFO]: Staff: [Mod] ThunderCS
+[17:57:47] [Server thread/INFO]: Players: [Guest] FLASH
+[17:58:06] [Server thread/INFO]: ThunderCS issued server command: /time set 0
+[17:59:15] [Server thread/INFO]: Staff: [Mod] ThunderCS
+[17:59:15] [Server thread/INFO]: Players: [Guest] FLASH
+[17:59:54] [Server thread/INFO]: ThunderCS issued server command: //set grass
+[18:00:01] [Server thread/INFO]: Deniable_ issued server command: //butcher
+[18:00:02] [Server thread/INFO]: Staff: [Mod] ThunderCS
+[18:00:02] [Server thread/INFO]: Players: [Guest] FLASH
+[18:00:11] [Server thread/INFO]: ThunderCS issued server command: //set grass
+[18:00:48] [Server thread/INFO]: Staff: [Mod] ThunderCS
+[18:00:48] [Server thread/INFO]: Players: [Guest] FLASH
+[18:01:35] [Server thread/INFO]: Staff: [Mod] ThunderCS
+[18:01:35] [Server thread/INFO]: Players: [Guest] FLASH
+[18:02:21] [Server thread/INFO]: Staff: [Mod] ThunderCS
+[18:02:21] [Server thread/INFO]: Players: [Guest] FLASH
+[18:03:08] [Server thread/INFO]: Staff: [Mod] ThunderCS
+[18:03:08] [Server thread/INFO]: Players: [Guest] FLASH
+[18:03:21] [Server thread/INFO]: ThunderCS issued server command: /plugins
+[18:03:54] [Server thread/INFO]: Staff: [Mod] ThunderCS
+[18:03:54] [Server thread/INFO]: Players: [Guest] FLASH
+[18:04:41] [Server thread/INFO]: Staff: [Mod] ThunderCS
+[18:04:41] [Server thread/INFO]: Players: [Guest] FLASH
+[18:05:27] [Server thread/INFO]: Staff: [Mod] ThunderCS
+[18:05:27] [Server thread/INFO]: Players: [Guest] FLASH
+[18:06:14] [Server thread/INFO]: Staff: [Mod] ThunderCS
+[18:06:14] [Server thread/INFO]: Players: [AFK][Guest] FLASH
+[18:06:47] [Server thread/INFO]: Deniable_ issued server command: /pl
+[18:07:01] [Server thread/INFO]: Staff: [Mod] ThunderCS
+[18:07:01] [Server thread/INFO]: Players: [Guest] FLASH
+[18:07:02] [Server thread/INFO]: Deniable_ issued server command: /help
+[18:07:09] [Server thread/INFO]: Deniable_ issued server command: /help 2
+[18:07:15] [Server thread/INFO]: Deniable_ issued server command: /f
+[18:07:16] [Server thread/INFO]: ThunderCS issued server command: /f
+[18:07:19] [Server thread/INFO]: Deniable_ issued server command: /
+[18:07:29] [Server thread/INFO]: Deniable_ issued server command: /f map
+[18:07:47] [Server thread/INFO]: Staff: [Mod] ThunderCS
+[18:07:47] [Server thread/INFO]: Players: [Guest] FLASH
+[18:08:32] [Server thread/INFO]: ThunderCS issued server command: /f setspawn
+[18:08:33] [Server thread/INFO]: ThunderCS issued server command: /f
+[18:08:44] [Server thread/INFO]: ThunderCS issued server command: /f spawn
+[18:09:15] [Server thread/INFO]: Staff: [Mod] ThunderCS
+[18:09:15] [Server thread/INFO]: Players: [Guest] FLASH
+[18:09:19] [Server thread/INFO]: ThunderCS issued server command: /time set 00
+[18:10:02] [Server thread/INFO]: Staff: [Mod] ThunderCS
+[18:10:02] [Server thread/INFO]: Players: [Guest] FLASH
+[18:10:07] [Server thread/INFO]: ThunderCS issued server command: /f tax
+[18:10:14] [Server thread/INFO]: ThunderCS issued server command: /f flag
+[18:10:18] [Server thread/INFO]: ThunderCS issued server command: /f flag show
+[18:10:49] [Server thread/INFO]: Staff: [Mod] ThunderCS
+[18:10:49] [Server thread/INFO]: Players: [Guest] FLASH
+[18:11:35] [Server thread/INFO]: Staff: [Mod] ThunderCS
+[18:11:35] [Server thread/INFO]: Players: [Guest] FLASH
+[18:11:59] [Server thread/INFO]: ThunderCS issued server command: //pos2
+[18:12:00] [Server thread/INFO]: ThunderCS issued server command: //cut
+[18:12:05] [Server thread/INFO]: ThunderCS issued server command: //pos2
+[18:12:06] [Server thread/INFO]: ThunderCS issued server command: //cut
+[18:12:11] [Server thread/INFO]: ThunderCS issued server command: //pos2
+[18:12:12] [Server thread/INFO]: ThunderCS issued server command: //cut
+[18:12:22] [Server thread/INFO]: Staff: [Mod] ThunderCS
+[18:12:22] [Server thread/INFO]: Players: [Guest] FLASH
+[18:12:46] [Server thread/INFO]: ThunderCS issued server command: //cut
+[18:13:08] [Server thread/INFO]: Staff: [Mod] ThunderCS
+[18:13:08] [Server thread/INFO]: Players: [AFK][Guest] FLASH
+[18:13:12] [Server thread/INFO]: ThunderCS issued server command: //set grass
+[18:13:15] [Server thread/INFO]: ThunderCS issued server command: //set grass
+[18:13:19] [Server thread/INFO]: ThunderCS issued server command: //set grass
+[18:13:49] [Server thread/INFO]: ThunderCS issued server command: //set grass
+[18:13:55] [Server thread/INFO]: Staff: [Mod] ThunderCS
+[18:13:55] [Server thread/INFO]: Players: [AFK][Guest] FLASH
+[18:14:01] [Server thread/INFO]: ThunderCS issued server command: //set grass
+[18:14:04] [Server thread/INFO]: ThunderCS issued server command: //set grass
+[18:14:06] [Server thread/INFO]: ThunderCS issued server command: //set grass
+[18:14:11] [Server thread/INFO]: ThunderCS issued server command: //set grass
+[18:14:18] [Server thread/INFO]: ThunderCS issued server command: //set grass
+[18:14:41] [Server thread/INFO]: Staff: [Mod] ThunderCS
+[18:14:41] [Server thread/INFO]: Players: [AFK][Guest] FLASH
+[18:15:09] [Server thread/INFO]: ThunderCS issued server command: //set grass
+[18:15:27] [Server thread/INFO]: ThunderCS issued server command: //set grass
+[18:15:28] [Server thread/INFO]: Staff: [Mod] ThunderCS
+[18:15:28] [Server thread/INFO]: Players: [AFK][Guest] FLASH
+[18:15:31] [Server thread/INFO]: ThunderCS issued server command: //set grass
+[18:15:43] [Server thread/INFO]: ThunderCS issued server command: //set grass
+[18:15:56] [Server thread/INFO]: ThunderCS issued server command: //cut
+[18:16:12] [Server thread/INFO]: ThunderCS issued server command: //cut
+[18:16:15] [Server thread/INFO]: Staff: [Mod] ThunderCS
+[18:16:15] [Server thread/INFO]: Players: [AFK][Guest] FLASH
+[18:16:43] [Server thread/INFO]: ThunderCS issued server command: //cut
+[18:16:46] [Server thread/INFO]: ThunderCS issued server command: //undo
+[18:16:47] [Server thread/INFO]: ThunderCS issued server command: //set grass
+[18:16:57] [Server thread/INFO]: ThunderCS issued server command: //set grass
+[18:17:01] [Server thread/INFO]: Staff: [Mod] ThunderCS
+[18:17:01] [Server thread/INFO]: Players: [AFK][Guest] FLASH
+[18:17:48] [Server thread/INFO]: Staff: [Mod] ThunderCS
+[18:17:48] [Server thread/INFO]: Players: [AFK][Guest] FLASH
+[18:19:15] [Server thread/INFO]: Staff: [Mod] ThunderCS
+[18:19:15] [Server thread/INFO]: Players: [Guest] FLASH
+[18:19:56] [Server thread/INFO]: ThunderCS issued server command: /time set 0
+[18:20:02] [Server thread/INFO]: Staff: [Mod] ThunderCS
+[18:20:02] [Server thread/INFO]: Players: [Guest] FLASH
+[18:20:32] [Server thread/INFO]: ThunderCS issued server command: //pos2
+[18:20:34] [Server thread/INFO]: ThunderCS issued server command: //cut
+[18:20:48] [Server thread/INFO]: Staff: [Mod] ThunderCS
+[18:20:48] [Server thread/INFO]: Players: [Guest] FLASH
+[18:20:51] [Server thread/INFO]: ThunderCS issued server command: //set grass
+[18:20:57] [Server thread/INFO]: ThunderCS issued server command: //set grass
+[18:21:11] [Server thread/INFO]: ThunderCS issued server command: //set grass
+[18:21:29] [Server thread/INFO]: Deniable_ issued server command: /tp thun
+[18:21:35] [Server thread/INFO]: Staff: [Mod] ThunderCS
+[18:21:35] [Server thread/INFO]: Players: [Guest] FLASH
+[18:21:59] [Server thread/INFO]: ThunderCS issued server command: //set grass
+[18:22:01] [Server thread/INFO]: Deniable_ issued server command: /brush smooth
+[18:22:21] [Server thread/INFO]: Staff: [Mod] ThunderCS
+[18:22:21] [Server thread/INFO]: Players: [Guest] FLASH
+[18:22:36] [Server thread/INFO]: ThunderCS issued server command: //set grass
+[18:22:44] [Server thread/INFO]: ThunderCS issued server command: //set grass
+[18:23:08] [Server thread/INFO]: Staff: [Mod] ThunderCS
+[18:23:08] [Server thread/INFO]: Players: [Guest] FLASH
+[18:23:46] [Server thread/INFO]: Deniable_ issued server command: //undo
+[18:23:51] [Server thread/INFO]: Twiixtor issued server command: /tp th
+[18:23:54] [Server thread/INFO]: Staff: [Mod] ThunderCS
+[18:23:54] [Server thread/INFO]: Players: [Guest] FLASH
+[18:23:54] [Server thread/INFO]: Developers: [Giraffe] Twiixtor
+[18:24:41] [Server thread/INFO]: Staff: [Mod] ThunderCS
+[18:24:41] [Server thread/INFO]: Players: [Guest] FLASH
+[18:24:41] [Server thread/INFO]: Developers: [Giraffe] Twiixtor
+[18:24:49] [Server thread/INFO]: [Giraffe] Twiixtor: first fag is name of sign
+[18:24:58] [Server thread/INFO]: Twiixtor issued server command: /hd remove fag
+[18:25:10] [Server thread/INFO]: [Giraffe] Twiixtor: &
+[18:25:12] [Server thread/INFO]: [Giraffe] Twiixtor: 1
+[18:25:16] [Server thread/INFO]: [Giraffe] Twiixtor:  wlelawlelawelalwe
+[18:25:28] [Server thread/INFO]: Staff: [Mod] ThunderCS
+[18:25:28] [Server thread/INFO]: Players: [Guest] FLASH
+[18:25:28] [Server thread/INFO]: Developers: [Giraffe] Twiixtor
+[18:25:52] [Server thread/INFO]: Twiixtor issued server command: /hd remove deniable
+[18:26:14] [Server thread/INFO]: Staff: [Mod] ThunderCS
+[18:26:14] [Server thread/INFO]: Players: [Guest] FLASH
+[18:26:14] [Server thread/INFO]: Developers: [Giraffe] Twiixtor
+[18:26:59] [Server thread/INFO]: Twiixtor issued server command: /hd movehere shop
+[18:27:01] [Server thread/INFO]: Staff: [Mod] ThunderCS
+[18:27:01] [Server thread/INFO]: Players: [Guest] FLASH
+[18:27:01] [Server thread/INFO]: Developers: [Giraffe] Twiixtor
+[18:27:06] [Server thread/INFO]: ThunderCS issued server command: /f
+[18:27:18] [Server thread/INFO]: Twiixtor issued server command: /f
+[18:27:20] [Server thread/INFO]: Twiixtor issued server command: /f spawn
+[18:27:23] [Server thread/INFO]: Twiixtor issued server command: /f help 2
+[18:27:28] [Server thread/INFO]: Twiixtor issued server command: /f help 2
+[18:27:30] [Server thread/INFO]: Deniable_ issued server command: /hd delete South
+[18:27:38] [Server thread/INFO]: Deniable_ issued server command: /hd delete South
+[18:27:41] [Server thread/INFO]: Twiixtor issued server command: /f claim wilderness
+[18:27:45] [Server thread/INFO]: Twiixtor issued server command: /f help 3
+[18:27:47] [Server thread/INFO]: Deniable_ issued server command: /hd delete South
+[18:27:48] [Server thread/INFO]: Staff: [Mod] ThunderCS
+[18:27:48] [Server thread/INFO]: Players: [Guest] FLASH
+[18:27:48] [Server thread/INFO]: Developers: [Giraffe] Twiixtor
+[18:27:49] [Server thread/INFO]: Twiixtor issued server command: /f help 4
+[18:27:55] [Server thread/INFO]: Twiixtor issued server command: /f help 5
+[18:28:01] [Server thread/INFO]: Twiixtor issued server command: /f flag
+[18:28:19] [Server thread/INFO]: Twiixtor issued server command: /i sign 1
+[18:28:23] [Server thread/INFO]: Deniable_ issued server command: /hd delete South
+[18:28:39] [Server thread/INFO]: ThunderCS issued server command: /brush
+[18:28:43] [Server thread/INFO]: Deniable_ issued server command: /hd delete South Exit
+[18:28:43] [Server thread/INFO]: ThunderCS issued server command: /brush smooth
+[18:29:15] [Server thread/INFO]: Staff: [Mod] ThunderCS
+[18:29:15] [Server thread/INFO]: Players: [Guest] FLASH
+[18:29:15] [Server thread/INFO]: Developers: [Giraffe] Twiixtor
+[18:30:02] [Server thread/INFO]: Staff: [Mod] ThunderCS
+[18:30:02] [Server thread/INFO]: Players: [Guest] FLASH
+[18:30:02] [Server thread/INFO]: Developers: [Giraffe] Twiixtor
+[18:30:09] [Server thread/INFO]: Twiixtor issued server command: /f join Wildreness
+[18:30:15] [Server thread/INFO]: Twiixtor issued server command: /f join Wilderness
+[18:30:21] [Server thread/INFO]: Twiixtor issued server command: /f claim
+[18:30:48] [Server thread/INFO]: Staff: [Mod] ThunderCS
+[18:30:48] [Server thread/INFO]: Players: [Guest] FLASH
+[18:30:48] [Server thread/INFO]: Developers: [Giraffe] Twiixtor
+[18:30:50] [Server thread/INFO]: ThunderCS issued server command: /time set 0
+[18:31:09] [Server thread/INFO]: [Guest] FLASH:  lel
+[18:31:21] [Server thread/INFO]: Deniable_ issued server command: /hd delete EastExit
+[18:31:35] [Server thread/INFO]: Staff: [Mod] ThunderCS
+[18:31:35] [Server thread/INFO]: Players: [Guest] FLASH
+[18:31:35] [Server thread/INFO]: Developers: [Giraffe] Twiixtor
+[18:31:37] [Server thread/INFO]: ThunderCS issued server command: //set grass
+[18:31:41] [Server thread/INFO]: ThunderCS issued server command: //unto
+[18:31:43] [Server thread/INFO]: ThunderCS issued server command: //undo
+[18:31:47] [Server thread/INFO]: ThunderCS issued server command: //set grass
+[18:31:58] [Server thread/INFO]: Deniable_ issued server command: /hd delete SouthExit
+[18:32:19] [Server thread/INFO]: ThunderCS issued server command: //set grass
+[18:32:21] [Server thread/INFO]: Staff: [Mod] ThunderCS
+[18:32:21] [Server thread/INFO]: Players: [Guest] FLASH
+[18:32:21] [Server thread/INFO]: Developers: [Giraffe] Twiixtor
+[18:32:38] [Server thread/INFO]: Twiixtor issued server command: /f claim
+[18:32:43] [Server thread/INFO]: Deniable_ issued server command: /hd delete WestExit
+[18:32:44] [Server thread/INFO]: Twiixtor issued server command: /f claim
+[18:33:03] [Server thread/INFO]: ThunderCS issued server command: //set grass
+[18:33:08] [Server thread/INFO]: Staff: [Mod] ThunderCS
+[18:33:08] [Server thread/INFO]: Players: [Guest] FLASH
+[18:33:08] [Server thread/INFO]: Developers: [Giraffe] Twiixtor
+[18:33:21] [Server thread/INFO]: Twiixtor issued server command: /f claim
+[18:33:25] [Server thread/INFO]: Deniable_ issued server command: /hd delete Northexit
+[18:33:55] [Server thread/INFO]: Staff: [Mod] ThunderCS
+[18:33:55] [Server thread/INFO]: Players: [Guest] FLASH
+[18:33:55] [Server thread/INFO]: Developers: [Giraffe] Twiixtor
+[18:34:38] [Server thread/INFO]: Deniable_ issued server command: /hd delete Shop
+[18:34:40] [Server thread/INFO]: ThunderCS issued server command: //set grass
+[18:34:42] [Server thread/INFO]: Staff: [Mod] ThunderCS
+[18:34:42] [Server thread/INFO]: Players: [Guest] FLASH
+[18:34:42] [Server thread/INFO]: Developers: [Giraffe] Twiixtor
+[18:34:44] [Server thread/INFO]: ThunderCS issued server command: //set grass
+[18:34:48] [Server thread/INFO]: ThunderCS issued server command: //set grass
+[18:34:52] [Server thread/INFO]: ThunderCS issued server command: //set grass
+[18:34:53] [Server thread/INFO]: Deniable_ issued server command: /hd delete Shop
+[18:34:56] [Server thread/INFO]: Deniable_ issued server command: /hd delete Shop
+[18:35:23] [Server thread/INFO]: Deniable_ issued server command: /hd delete est exit
+[18:35:28] [Server thread/INFO]: Deniable_ issued server command: /hd delete eastexit
+[18:35:28] [Server thread/INFO]: Staff: [Mod] ThunderCS
+[18:35:28] [Server thread/INFO]: Players: [Guest] FLASH
+[18:35:28] [Server thread/INFO]: Developers: [Giraffe] Twiixtor
+[18:35:32] [Server thread/INFO]: Deniable_ issued server command: /hd delete westexit
+[18:35:35] [Server thread/INFO]: Deniable_ issued server command: /hd delete northexit
+[18:35:39] [Server thread/INFO]: Deniable_ issued server command: /hd delete southexit
+[18:35:41] [Server thread/INFO]: ThunderCS issued server command: //cut
+[18:35:45] [Server thread/INFO]: ThunderCS issued server command: //pos2
+[18:35:46] [Server thread/INFO]: ThunderCS issued server command: //cut
+[18:35:49] [Server thread/INFO]: ThunderCS issued server command: //pos2
+[18:35:50] [Server thread/INFO]: ThunderCS issued server command: //cut
+[18:36:03] [Server thread/INFO]: ThunderCS issued server command: //set grass
+[18:36:15] [Server thread/INFO]: Staff: [Mod] ThunderCS
+[18:36:15] [Server thread/INFO]: Players: [Guest] FLASH
+[18:36:15] [Server thread/INFO]: Developers: [Giraffe] Twiixtor
+[18:36:33] [Server thread/INFO]: [Giraffe] Twiixtor: ./setspawn
+[18:37:02] [Server thread/INFO]: Staff: [Mod] ThunderCS
+[18:37:02] [Server thread/INFO]: Players: [Guest] FLASH
+[18:37:02] [Server thread/INFO]: Developers: [Giraffe] Twiixtor
+[18:37:38] [Server thread/INFO]: Twiixtor issued server command: //undo
+[18:37:48] [Server thread/INFO]: Staff: [Mod] ThunderCS
+[18:37:48] [Server thread/INFO]: Players: [Guest] FLASH
+[18:37:48] [Server thread/INFO]: Developers: [Giraffe] Twiixtor
+[18:38:57] [Server thread/INFO]: Deniable_ issued server command: /time day
+[18:38:59] [Server thread/INFO]: Deniable_ issued server command: /butcher
+[18:39:08] [Server thread/INFO]: Twiixtor issued server command: //undo
+[18:39:15] [Server thread/INFO]: Staff: [Mod] ThunderCS
+[18:39:15] [Server thread/INFO]: Players: [Guest] FLASH
+[18:39:15] [Server thread/INFO]: Developers: [Giraffe] Twiixtor
+[18:39:17] [Server thread/INFO]: Deniable_ issued server command: /tp thun
+[18:39:41] [Server thread/INFO]: Twiixtor issued server command: //undo
+[18:40:02] [Server thread/INFO]: Staff: [Mod] ThunderCS
+[18:40:02] [Server thread/INFO]: Players: [Guest] FLASH
+[18:40:02] [Server thread/INFO]: Developers: [Giraffe] Twiixtor
+[18:40:18] [Server thread/INFO]: Twiixtor issued server command: //stack 1
+[18:40:20] [Server thread/INFO]: Twiixtor issued server command: //stack 26
+[18:40:36] [Server thread/INFO]: Twiixtor issued server command: //stack 26
+[18:40:38] [Server thread/INFO]: Deniable_ issued server command: /tp thun
+[18:40:45] [Server thread/INFO]: Twiixtor issued server command: //undo
+[18:40:48] [Server thread/INFO]: Staff: [Mod] ThunderCS
+[18:40:48] [Server thread/INFO]: Players: [Guest] FLASH
+[18:40:48] [Server thread/INFO]: Developers: [Giraffe] Twiixtor
+[18:40:58] [Server thread/INFO]: Deniable_ issued server command: //set wool
+[18:40:59] [Server thread/INFO]: Twiixtor issued server command: //stack 26
+[18:41:06] [Server thread/INFO]: Deniable_ issued server command: //undo
+[18:41:14] [Server thread/INFO]: Deniable_ issued server command: /give sign
+[18:41:18] [Server thread/INFO]: Deniable_ issued server command: /give Deniable_ sign
+[18:41:19] [Server thread/INFO]: Twiixtor issued server command: //undo
+[18:41:35] [Server thread/INFO]: Staff: [Mod] ThunderCS
+[18:41:35] [Server thread/INFO]: Players: [Guest] FLASH
+[18:41:35] [Server thread/INFO]: Developers: [Giraffe] Twiixtor
+[18:41:50] [Server thread/INFO]: Twiixtor issued server command: //set 0
+[18:41:51] [Server thread/INFO]: Twiixtor issued server command: //undo
+[18:41:59] [Server thread/INFO]: Twiixtor issued server command: //set 0
+[18:42:00] [Server thread/INFO]: Twiixtor issued server command: //undo
+[18:42:09] [Server thread/INFO]: Deniable_ issued server command: //set quartz
+[18:42:21] [Server thread/INFO]: Staff: [Mod] ThunderCS
+[18:42:21] [Server thread/INFO]: Players: [Guest] FLASH
+[18:42:21] [Server thread/INFO]: Developers: [Giraffe] Twiixtor
+[18:43:08] [Server thread/INFO]: Staff: [Mod] ThunderCS
+[18:43:08] [Server thread/INFO]: Players: [Guest] FLASH
+[18:43:08] [Server thread/INFO]: Developers: [Giraffe] Twiixtor
+[18:43:38] [Server thread/INFO]: Twiixtor issued server command: //hcyl 35:14 26
+[18:43:46] [Server thread/INFO]: Twiixtor issued server command: //undo
+[18:43:55] [Server thread/INFO]: Staff: [AFK][Mod] ThunderCS
+[18:43:55] [Server thread/INFO]: Players: [Guest] FLASH
+[18:43:55] [Server thread/INFO]: Developers: [Giraffe] Twiixtor
+[18:44:10] [Server thread/INFO]: Twiixtor issued server command: //set 0
+[18:44:15] [Server thread/INFO]: Twiixtor issued server command: //undo
+[18:44:21] [Server thread/INFO]: Twiixtor issued server command: //hcyl 35:14 28
+[18:44:41] [Server thread/INFO]: Staff: [AFK][Mod] ThunderCS
+[18:44:41] [Server thread/INFO]: Players: [Guest] FLASH
+[18:44:41] [Server thread/INFO]: Developers: [Giraffe] Twiixtor
+[18:44:46] [Server thread/INFO]: Twiixtor issued server command: //undo
+[18:45:22] [Server thread/INFO]: Deniable_ issued server command: //wand
+[18:45:28] [Server thread/INFO]: Staff: [AFK][Mod] ThunderCS
+[18:45:28] [Server thread/INFO]: Players: [Guest] FLASH
+[18:45:28] [Server thread/INFO]: Developers: [Giraffe] Twiixtor
+[18:45:33] [Server thread/INFO]: Twiixtor issued server command: //hcyl 35:14 28
+[18:45:40] [Server thread/INFO]: Deniable_ issued server command: //undo
+[18:46:00] [Server thread/INFO]: Deniable_ issued server command: //undo
+[18:46:06] [Server thread/INFO]: Deniable_ issued server command: //walls wool:3
+[18:46:08] [Server thread/INFO]: Deniable_ issued server command: //walls wool:2
+[18:46:13] [Server thread/INFO]: Twiixtor issued server command: /speed 2
+[18:46:14] [Server thread/INFO]: Staff: [AFK][Mod] ThunderCS
+[18:46:14] [Server thread/INFO]: Players: [Guest] FLASH
+[18:46:14] [Server thread/INFO]: Developers: [Giraffe] Twiixtor
+[18:46:37] [Server thread/INFO]: Twiixtor issued server command: //cut
+[18:46:41] [Server thread/INFO]: Twiixtor issued server command: //paste
+[18:46:44] [Server thread/INFO]: Twiixtor issued server command: //undo
+[18:46:58] [Server thread/INFO]: Twiixtor issued server command: //paste
+[18:47:01] [Server thread/INFO]: Staff: [Mod] ThunderCS
+[18:47:01] [Server thread/INFO]: Players: [Guest] FLASH
+[18:47:01] [Server thread/INFO]: Developers: [Giraffe] Twiixtor
+[18:47:22] [Server thread/INFO]: ThunderCS issued server command: /kick twii
+[18:47:32] [Server thread/INFO]: ThunderCS issued server command: /smight
+[18:47:35] [Server thread/INFO]: ThunderCS issued server command: /smite
+[18:47:38] [Server thread/INFO]: ThunderCS issued server command: /smite twii
+[18:47:40] [Server thread/INFO]: ThunderCS issued server command: /smite twii
+[18:47:41] [Server thread/INFO]: ThunderCS issued server command: /smite twii
+[18:47:42] [Server thread/INFO]: ThunderCS issued server command: /smite twii
+[18:47:42] [Server thread/INFO]: ThunderCS issued server command: /smite twii
+[18:47:42] [Server thread/INFO]: ThunderCS issued server command: /smite twii
+[18:47:43] [Server thread/INFO]: ThunderCS issued server command: /smite twii
+[18:47:43] [Server thread/INFO]: ThunderCS issued server command: /smite twii
+[18:47:44] [Server thread/INFO]: ThunderCS issued server command: /smite twii
+[18:47:44] [Server thread/INFO]: ThunderCS issued server command: /smite twii
+[18:47:45] [Server thread/INFO]: Twiixtor issued server command: /kick thund
+[18:47:45] [Server thread/INFO]: ThunderCS issued server command: /smite twii
+[18:47:45] [Server thread/INFO]: ThunderCS issued server command: /smite twii
+[18:47:46] [Server thread/INFO]: ThunderCS issued server command: /smite twii
+[18:47:47] [Server thread/INFO]: Staff: [Mod] ThunderCS
+[18:47:47] [Server thread/INFO]: Players: [Guest] FLASH
+[18:47:47] [Server thread/INFO]: Developers: [Giraffe] Twiixtor
+[18:47:48] [Server thread/INFO]: ThunderCS left the game.
+[18:49:07] [Server thread/INFO]: Twiixtor issued server command: //undo
+[18:49:15] [Server thread/INFO]: Players: [Guest] FLASH
+[18:49:15] [Server thread/INFO]: Developers: [Giraffe] Twiixtor
+[18:50:02] [Server thread/INFO]: Players: [Guest] FLASH
+[18:50:02] [Server thread/INFO]: Developers: [Giraffe] Twiixtor
+[18:50:17] [Server thread/INFO]: Twiixtor issued server command: /spawnmob
+[18:50:25] [Server thread/INFO]: Twiixtor issued server command: /spawnmob rabbit 100
+[18:50:35] [Server thread/INFO]: Twiixtor issued server command: /spawnmob rabbit 100
+[18:50:36] [Server thread/INFO]: Twiixtor issued server command: /spawnmob rabbit 100
+[18:50:39] [Server thread/INFO]: Deniable_ issued server command: //butcher
+[18:50:42] [Server thread/INFO]: Deniable_ issued server command: //butcher
+[18:50:44] [Server thread/INFO]: Deniable_ issued server command: //butcher
+[18:50:45] [Server thread/INFO]: Deniable_ issued server command: //butcher
+[18:50:47] [Server thread/INFO]: Deniable_ issued server command: //butcher
+[18:50:47] [Server thread/INFO]: Deniable_ issued server command: //butcher
+[18:50:48] [Server thread/INFO]: Deniable_ issued server command: //butcher
+[18:50:48] [Server thread/INFO]: Deniable_ issued server command: //butcher
+[18:50:48] [Server thread/INFO]: Players: [Guest] FLASH
+[18:50:48] [Server thread/INFO]: Developers: [Giraffe] Twiixtor
+[18:50:48] [Server thread/INFO]: Deniable_ issued server command: //butcher
+[18:50:49] [Server thread/INFO]: Deniable_ issued server command: //butcher
+[18:50:49] [Server thread/INFO]: Deniable_ issued server command: //butcher
+[18:50:49] [Server thread/INFO]: Deniable_ issued server command: //butcher
+[18:50:50] [Server thread/INFO]: Deniable_ issued server command: //butcher
+[18:50:50] [Server thread/INFO]: Deniable_ issued server command: //butcher
+[18:50:51] [Server thread/INFO]: Deniable_ issued server command: //butcher
+[18:50:51] [Server thread/INFO]: Deniable_ issued server command: //butcher
+[18:50:52] [Server thread/INFO]: Deniable_ issued server command: //butcher
+[18:50:52] [Server thread/INFO]: Deniable_ issued server command: //butcher
+[18:50:53] [Server thread/INFO]: Deniable_ issued server command: //butcher
+[18:50:55] [Server thread/INFO]: Deniable_ issued server command: //butcher
+[18:50:58] [Server thread/INFO]: Deniable_ issued server command: //butcher
+[18:51:00] [Server thread/INFO]: Deniable_ issued server command: //butcher
+[18:51:01] [Server thread/INFO]: Deniable_ issued server command: //butcher
+[18:51:03] [Server thread/INFO]: Deniable_ issued server command: //butcher
+[18:51:04] [Server thread/INFO]: Deniable_ issued server command: //butcherw
+[18:51:05] [Server thread/INFO]: Deniable_ issued server command: //butcherw
+[18:51:09] [Server thread/INFO]: Deniable_ issued server command: //butcher
+[18:51:10] [Server thread/INFO]: Deniable_ issued server command: //butcher
+[18:51:12] [Server thread/INFO]: Deniable_ issued server command: //butcher
+[18:51:14] [Server thread/INFO]: Deniable_ issued server command: //butcher
+[18:51:17] [Server thread/INFO]: Deniable_ issued server command: //butcher
+[18:51:19] [Server thread/INFO]: Deniable_ issued server command: //butcher
+[18:51:23] [Server thread/INFO]: Deniable_ issued server command: //butcher
+[18:51:35] [Server thread/INFO]: Players: [Guest] FLASH
+[18:51:35] [Server thread/INFO]: Developers: [Giraffe] Twiixtor
+[18:51:38] [Server thread/INFO]: Twiixtor issued server command: /killall mobs
+[18:51:45] [Server thread/INFO]: [Giraffe] Twiixtor: ./killall mobs
+[18:51:48] [Server thread/INFO]: Twiixtor issued server command: /waether off
+[18:51:55] [Server thread/INFO]: Twiixtor issued server command: //copy
+[18:51:58] [Server thread/INFO]: Twiixtor issued server command: //pastge
+[18:51:59] [Server thread/INFO]: Deniable_ issued server command: /time day
+[18:52:00] [Server thread/INFO]: Twiixtor issued server command: //paste
+[18:52:02] [Server thread/INFO]: Twiixtor issued server command: //paste
+[18:52:10] [Server thread/INFO]: Twiixtor issued server command: //stack 4
+[18:52:20] [Server thread/INFO]: Deniable_ left the game.
+[18:52:21] [Server thread/INFO]: Developers: [Giraffe] Twiixtor
+[18:53:08] [Server thread/INFO]: Developers: [Giraffe] Twiixtor
+[18:53:54] [Server thread/INFO]: Developers: [Giraffe] Twiixtor
+[18:54:38] [Server thread/INFO]: Twiixtor issued server command: //copy
+[18:54:41] [Server thread/INFO]: Developers: [Giraffe] Twiixtor
+[18:54:46] [Server thread/INFO]: Twiixtor issued server command: //copy
+[18:54:59] [Server thread/INFO]: Twiixtor issued server command: //paste
+[18:55:09] [Server thread/INFO]: Twiixtor issued server command: //stack 4
+[18:55:27] [Server thread/INFO]: Twiixtor issued server command: //stack 10
+[18:55:28] [Server thread/INFO]: Developers: [Giraffe] Twiixtor
+[18:55:34] [Server thread/INFO]: Twiixtor issued server command: //undo
+[18:55:41] [Server thread/INFO]: Twiixtor issued server command: //stack 2
+[18:55:44] [Server thread/INFO]: Twiixtor issued server command: //stack 3
+[18:55:45] [Server thread/INFO]: Twiixtor issued server command: //stack 4
+[18:55:46] [Server thread/INFO]: Twiixtor issued server command: //stack 5
+[18:55:48] [Server thread/INFO]: Twiixtor issued server command: //stack 10
+[18:55:55] [Server thread/INFO]: Twiixtor issued server command: //stack 10
+[18:55:58] [Server thread/INFO]: Twiixtor issued server command: //undo
+[18:56:00] [Server thread/INFO]: Twiixtor issued server command: //stack 2
+[18:56:14] [Server thread/INFO]: Developers: [Giraffe] Twiixtor
+[18:56:19] [Server thread/INFO]: Twiixtor issued server command: /i lighter 1
+[18:56:39] [Server thread/INFO]: Twiixtor issued server command: //wand
+[18:56:42] [Server thread/INFO]: Twiixtor issued server command: /i compass 1
+[18:56:44] [Server thread/INFO]: Twiixtor issued server command: /i bedrock 1
+[18:56:49] [Server thread/INFO]: Twiixtor issued server command: //stack 3
+[18:56:50] [Server thread/INFO]: Twiixtor issued server command: //stack 4
+[18:56:51] [Server thread/INFO]: Twiixtor issued server command: //stack 5
+[18:56:53] [Server thread/INFO]: Twiixtor issued server command: //stack 10
+[18:57:01] [Server thread/INFO]: Developers: [Giraffe] Twiixtor
+[18:57:25] [Server thread/INFO]: Twiixtor issued server command: //copy
+[18:57:30] [Server thread/INFO]: Twiixtor issued server command: //paste
+[18:57:43] [Server thread/INFO]: Twiixtor issued server command: //copy
+[18:57:47] [Server thread/INFO]: Developers: [Giraffe] Twiixtor
+[18:57:47] [Server thread/INFO]: Twiixtor issued server command: //paste
+[18:57:55] [Server thread/INFO]: Twiixtor issued server command: //undo
+[18:57:57] [Server thread/INFO]: Twiixtor issued server command: //undo
+[18:58:22] [Server thread/INFO]: Twiixtor left the game.
+[19:10:02] [Server thread/INFO]: Developers: [Giraffe] Twiixtor
+[19:10:46] [Server thread/INFO]: Twiixtor left the game.
+[19:10:48] [Server thread/INFO]: Members: [Member] Raichu
+[19:10:54] [Server thread/INFO]: Raichu3000 issued server command: /gamemode 1
+[19:10:57] [Server thread/INFO]: Twiixtor issued server command: /gamemode ADVENTURE Twiixtor
+[19:11:00] [Server thread/INFO]: Twiixtor issued server command: /gamemode SURVIVAL Twiixtor
+[19:11:02] [Server thread/INFO]: Twiixtor issued server command: /gamemode CREATIVE Twiixtor
+[19:11:22] [Server thread/INFO]: [Member] Raichu: shhh
+[19:11:35] [Server thread/INFO]: Members: [Member] Raichu
+[19:11:35] [Server thread/INFO]: Developers: [Giraffe] Twiixtor
+[19:11:52] [Server thread/INFO]: [Giraffe] Twiixtor: ruuun
+[19:12:22] [Server thread/INFO]: Members: [Member] Raichu
+[19:12:22] [Server thread/INFO]: Developers: [Giraffe] Twiixtor
+[19:12:50] [Server thread/INFO]: [Member] Raichu: meh eh eh eh
+[19:12:56] [Server thread/INFO]: [Giraffe] Twiixtor: :3
+[19:13:09] [Server thread/INFO]: Members: [Member] Raichu
+[19:13:09] [Server thread/INFO]: Developers: [Giraffe] Twiixtor
+[19:13:55] [Server thread/INFO]: Members: [Member] Raichu
+[19:13:55] [Server thread/INFO]: Developers: [Giraffe] Twiixtor
+[19:14:41] [Server thread/INFO]: Members: [Member] Raichu
+[19:14:41] [Server thread/INFO]: Developers: [Giraffe] Twiixtor
+[19:15:11] [Server thread/INFO]: Twiixtor issued server command: /tp rai
+[19:15:28] [Server thread/INFO]: Members: [Member] Raichu
+[19:15:28] [Server thread/INFO]: Developers: [Giraffe] Twiixtor
+[19:15:49] [Server thread/INFO]: Twiixtor issued server command: /toggledownfall
+[19:15:49] [Server thread/INFO]: [Twiixtor: Toggled downfall]
+[19:15:50] [Server thread/INFO]: Twiixtor issued server command: /toggledownfall
+[19:15:50] [Server thread/INFO]: [Twiixtor: Toggled downfall]
+[19:15:52] [Server thread/INFO]: Twiixtor issued server command: /time set 3072000
+[19:15:52] [Server thread/INFO]: Twiixtor issued server command: /time set 3102000
+[19:15:57] [Server thread/INFO]: Crustifer issued server command: /gamemode 1
+[19:16:14] [Server thread/INFO]: Staff: [Admin] Chris
+[19:16:14] [Server thread/INFO]: Members: [Member] Raichu
+[19:16:14] [Server thread/INFO]: Developers: [Giraffe] Twiixtor
+[19:17:01] [Server thread/INFO]: Staff: [Admin] Chris
+[19:17:01] [Server thread/INFO]: Members: [Member] Raichu
+[19:17:01] [Server thread/INFO]: Developers: [Giraffe] Twiixtor
+[19:17:47] [Server thread/INFO]: Staff: [Admin] Chris
+[19:17:47] [Server thread/INFO]: Members: [Member] Raichu
+[19:17:47] [Server thread/INFO]: Developers: [Giraffe] Twiixtor
+[19:17:49] [Server thread/INFO]: Twiixtor left the game.
+[19:18:03] [Server thread/INFO]: Raichu3000 left the game.
+[19:19:16] [Server thread/INFO]: Staff: [Admin] Chris
+[19:20:02] [Server thread/INFO]: Staff: [Admin] Chris
+[19:20:02] [Server thread/INFO]: Developers: [Giraffe] Twiixtor
+[19:20:28] [Server thread/INFO]: [Giraffe] Twiixtor: dis kid needs to get his priorities str8
+[19:20:37] [Server thread/INFO]: Twiixtor left the game.
+[19:20:49] [Server thread/INFO]: Staff: [Admin] Chris
+[19:20:49] [Server thread/INFO]: Developers: [Giraffe] Twiixtor
+[19:21:36] [Server thread/INFO]: Staff: [Admin] Chris
+[19:21:36] [Server thread/INFO]: Developers: [Giraffe] Twiixtor
+[19:21:59] [Server thread/INFO]: Twiixtor issued server command: //stack 1
+[19:22:22] [Server thread/INFO]: Staff: [Admin] Chris
+[19:22:22] [Server thread/INFO]: Developers: [Giraffe] Twiixtor
+[19:22:42] [Server thread/INFO]: Twiixtor issued server command: /give Twiixtor minecraft:skull 64 3 {SkullOwner:{Name:"Raichu3000",},}
+[19:22:51] [Server thread/INFO]: Twiixtor issued server command: /give Twiixtor minecraft:skull 1 3 {SkullOwner:{Name:"Crustifier",},}
+[19:23:01] [Server thread/INFO]: Crustifer issued server command: /hed
+[19:23:02] [Server thread/INFO]: Crustifer issued server command: /head
+[19:23:05] [Server thread/INFO]: Twiixtor issued server command: /give Twiixtor minecraft:skull 1 3 {SkullOwner:{Name:"Crustifer",},}
+[19:23:09] [Server thread/INFO]: Staff: [Admin] Chris
+[19:23:09] [Server thread/INFO]: Developers: [Giraffe] Twiixtor
+[19:23:20] [Server thread/INFO]: Crustifer issued server command: /head
+[19:23:26] [Server thread/INFO]: Crustifer issued server command: /skull Notch
+[19:23:29] [Server thread/INFO]: Crustifer issued server command: /skull Twiixtor
+[19:23:55] [Server thread/INFO]: Staff: [Admin] Chris
+[19:23:55] [Server thread/INFO]: Developers: [Giraffe] Twiixtor
+[19:24:42] [Server thread/INFO]: Staff: [Admin] Chris
+[19:24:42] [Server thread/INFO]: Developers: [Giraffe] Twiixtor
+[19:24:47] [Server thread/INFO]: Twiixtor left the game.
+[19:25:28] [Server thread/INFO]: Staff: [Admin] Chris
+[19:26:15] [Server thread/INFO]: Staff: [Admin] Chris
+[19:27:01] [Server thread/INFO]: Staff: [Admin] Chris
+[19:27:48] [Server thread/INFO]: Staff: [Admin] Chris
+[19:29:16] [Server thread/INFO]: Staff: [Admin] Chris
+[19:30:02] [Server thread/INFO]: Staff: [Admin] Chris
+[19:30:49] [Server thread/INFO]: Staff: [Admin] Chris
+[19:31:36] [Server thread/INFO]: Staff: [Admin] Chris
+[19:32:22] [Server thread/INFO]: Staff: [Admin] Chris
+[19:33:09] [Server thread/INFO]: Staff: [Admin] Chris
+[19:33:55] [Server thread/INFO]: Staff: [Admin] Chris
+[19:34:42] [Server thread/INFO]: Staff: [Admin] Chris
+[19:35:28] [Server thread/INFO]: Staff: [Admin] Chris
+[19:36:15] [Server thread/INFO]: Staff: [Admin] Chris
+[19:37:01] [Server thread/INFO]: Staff: [Admin] Chris
+[19:37:48] [Server thread/INFO]: Staff: [Admin] Chris
+[19:39:16] [Server thread/INFO]: Staff: [Admin] Chris
+[19:40:02] [Server thread/INFO]: Staff: [AFK][Admin] Chris
+[19:40:49] [Server thread/INFO]: Staff: [AFK][Admin] Chris
+[19:41:36] [Server thread/INFO]: Staff: [AFK][Admin] Chris
+[19:42:22] [Server thread/INFO]: Staff: [AFK][Admin] Chris
+[19:43:09] [Server thread/INFO]: Staff: [AFK][Admin] Chris
+[19:43:55] [Server thread/INFO]: Staff: [AFK][Admin] Chris
+[19:44:42] [Server thread/INFO]: Staff: [AFK][Admin] Chris
+[19:45:28] [Server thread/INFO]: Staff: [AFK][Admin] Chris
+[19:46:15] [Server thread/INFO]: Staff: [AFK][Admin] Chris
+[19:47:01] [Server thread/INFO]: Staff: [AFK][Admin] Chris
+[19:47:48] [Server thread/INFO]: Staff: [AFK][Admin] Chris
+[19:49:16] [Server thread/INFO]: Staff: [AFK][Admin] Chris
+[19:50:03] [Server thread/INFO]: Staff: [AFK][Admin] Chris
+[19:50:49] [Server thread/INFO]: Staff: [AFK][Admin] Chris
+[19:51:36] [Server thread/INFO]: Staff: [AFK][Admin] Chris
+[19:52:22] [Server thread/INFO]: Staff: [AFK][Admin] Chris
+[19:53:10] [Server thread/INFO]: Staff: [AFK][Admin] Chris
+[19:53:56] [Server thread/INFO]: Staff: [AFK][Admin] Chris
+[19:54:43] [Server thread/INFO]: Staff: [AFK][Admin] Chris
+[19:55:29] [Server thread/INFO]: Staff: [AFK][Admin] Chris
+[19:56:16] [Server thread/INFO]: Staff: [AFK][Admin] Chris
+[19:57:02] [Server thread/INFO]: Staff: [AFK][Admin] Chris
+[19:57:49] [Server thread/INFO]: Staff: [AFK][Admin] Chris
+[19:59:16] [Server thread/INFO]: Staff: [AFK][Admin] Chris
+[20:00:03] [Server thread/INFO]: Staff: [AFK][Admin] Chris
+[20:00:49] [Server thread/INFO]: Staff: [AFK][Admin] Chris
+[20:01:36] [Server thread/INFO]: Staff: [AFK][Admin] Chris
+[20:02:22] [Server thread/INFO]: Staff: [AFK][Admin] Chris
+[20:03:09] [Server thread/INFO]: Staff: [AFK][Admin] Chris
+[20:03:55] [Server thread/INFO]: Staff: [AFK][Admin] Chris
+[20:04:42] [Server thread/INFO]: Staff: [AFK][Admin] Chris
+[20:05:28] [Server thread/INFO]: Staff: [AFK][Admin] Chris
+[20:06:15] [Server thread/INFO]: Staff: [AFK][Admin] Chris
+[20:07:01] [Server thread/INFO]: Staff: [AFK][Admin] Chris
+[20:07:48] [Server thread/INFO]: Staff: [AFK][Admin] Chris
+[20:09:16] [Server thread/INFO]: Staff: [AFK][Admin] Chris
+[20:10:03] [Server thread/INFO]: Staff: [AFK][Admin] Chris
+[20:10:49] [Server thread/INFO]: Staff: [AFK][Admin] Chris
+[20:11:36] [Server thread/INFO]: Staff: [AFK][Admin] Chris
+[20:12:22] [Server thread/INFO]: Staff: [AFK][Admin] Chris
+[20:13:09] [Server thread/INFO]: Staff: [AFK][Admin] Chris
+[20:13:55] [Server thread/INFO]: Staff: [AFK][Admin] Chris
+[20:14:42] [Server thread/INFO]: Staff: [AFK][Admin] Chris
+[20:15:28] [Server thread/INFO]: Staff: [AFK][Admin] Chris
+[20:16:15] [Server thread/INFO]: Staff: [AFK][Admin] Chris
+[20:17:02] [Server thread/INFO]: Staff: [AFK][Admin] Chris
+[20:17:48] [Server thread/INFO]: Staff: [AFK][Admin] Chris
+[20:19:16] [Server thread/INFO]: Staff: [AFK][Admin] Chris
+[20:20:03] [Server thread/INFO]: Staff: [AFK][Admin] Chris
+[20:20:49] [Server thread/INFO]: Staff: [AFK][Admin] Chris
+[20:21:36] [Server thread/INFO]: Staff: [AFK][Admin] Chris
+[20:22:22] [Server thread/INFO]: Staff: [AFK][Admin] Chris
+[20:23:09] [Server thread/INFO]: Staff: [AFK][Admin] Chris
+[20:23:55] [Server thread/INFO]: Staff: [AFK][Admin] Chris
+[20:24:42] [Server thread/INFO]: Staff: [AFK][Admin] Chris
+[20:25:28] [Server thread/INFO]: Staff: [AFK][Admin] Chris
+[20:26:15] [Server thread/INFO]: Staff: [Admin] Chris
+[20:27:02] [Server thread/INFO]: Staff: [Admin] Chris
+[20:27:49] [Server thread/INFO]: Staff: [Admin] Chris
+[20:29:16] [Server thread/INFO]: Staff: [Admin] Chris
+[20:30:03] [Server thread/INFO]: Staff: [Admin] Chris
+[20:30:49] [Server thread/INFO]: Staff: [Admin] Chris
+[20:31:36] [Server thread/INFO]: Staff: [Admin] Chris
+[20:32:22] [Server thread/INFO]: Staff: [Admin] Chris
+[20:32:22] [Server thread/INFO]: Developers: [Dev] Poopey
+[20:32:27] [Server thread/INFO]: [Dev] Poopey: Hey there Chris!
+[20:33:09] [Server thread/INFO]: Staff: [Admin] Chris
+[20:33:09] [Server thread/INFO]: Developers: [Dev] Poopey
+[20:33:55] [Server thread/INFO]: Staff: [Admin] Chris
+[20:33:55] [Server thread/INFO]: Developers: [Dev] Poopey
+[20:34:42] [Server thread/INFO]: Staff: [AFK][Admin] Chris
+[20:34:42] [Server thread/INFO]: Developers: [Dev] Poopey
+[20:35:29] [Server thread/INFO]: Staff: [AFK][Admin] Chris
+[20:35:29] [Server thread/INFO]: Developers: [Dev] Poopey
+[20:36:15] [Server thread/INFO]: Staff: [AFK][Admin] Chris
+[20:36:15] [Server thread/INFO]: Developers: [Dev] Poopey
+[20:37:02] [Server thread/INFO]: Staff: [AFK][Admin] Chris
+[20:37:02] [Server thread/INFO]: Developers: [Dev] Poopey
+[20:37:48] [Server thread/INFO]: Staff: [AFK][Admin] Chris
+[20:37:48] [Server thread/INFO]: Developers: [Dev] Poopey
+[20:39:17] [Server thread/INFO]: Staff: [AFK][Admin] Chris
+[20:39:17] [Server thread/INFO]: Developers: [Dev] Poopey
+[20:40:04] [Server thread/INFO]: Staff: [AFK][Admin] Chris
+[20:40:04] [Server thread/INFO]: Developers: [Dev] Poopey
+[20:40:51] [Server thread/INFO]: Staff: [AFK][Admin] Chris
+[20:40:51] [Server thread/INFO]: Developers: [Dev] Poopey
+[20:41:38] [Server thread/INFO]: Staff: [AFK][Admin] Chris
+[20:41:38] [Server thread/INFO]: Developers: [Dev] Poopey
+[20:42:24] [Server thread/INFO]: Staff: [AFK][Admin] Chris
+[20:42:24] [Server thread/INFO]: Developers: [Dev] Poopey
+[20:43:11] [Server thread/INFO]: Staff: [AFK][Admin] Chris
+[20:43:11] [Server thread/INFO]: Developers: [Dev] Poopey
+[20:43:26] [Server thread/INFO]: Popey456963 left the game.
+[20:43:58] [Server thread/INFO]: Staff: [AFK][Admin] Chris
+[20:44:44] [Server thread/INFO]: Staff: [AFK][Admin] Chris
+[20:45:31] [Server thread/INFO]: Staff: [AFK][Admin] Chris
+[20:46:17] [Server thread/INFO]: Staff: [AFK][Admin] Chris
+[20:47:04] [Server thread/INFO]: Staff: [AFK][Admin] Chris
+[20:47:50] [Server thread/INFO]: Staff: [AFK][Admin] Chris
+[20:49:17] [Server thread/INFO]: Staff: [AFK][Admin] Chris
+[20:50:04] [Server thread/INFO]: Staff: [AFK][Admin] Chris
+[20:50:50] [Server thread/INFO]: Staff: [AFK][Admin] Chris
+[20:51:37] [Server thread/INFO]: Staff: [AFK][Admin] Chris
+[20:52:23] [Server thread/INFO]: Staff: [AFK][Admin] Chris
+[20:53:10] [Server thread/INFO]: Staff: [AFK][Admin] Chris
+[20:53:56] [Server thread/INFO]: Staff: [AFK][Admin] Chris
+[20:54:43] [Server thread/INFO]: Staff: [AFK][Admin] Chris
+[20:55:29] [Server thread/INFO]: Staff: [AFK][Admin] Chris
+[20:56:16] [Server thread/INFO]: Staff: [AFK][Admin] Chris
+[20:57:03] [Server thread/INFO]: Staff: [AFK][Admin] Chris
+[20:57:49] [Server thread/INFO]: Staff: [AFK][Admin] Chris
+[20:59:17] [Server thread/INFO]: Staff: [AFK][Admin] Chris
+[21:00:04] [Server thread/INFO]: Staff: [AFK][Admin] Chris
+[21:00:50] [Server thread/INFO]: Staff: [Admin] Chris
+[21:01:37] [Server thread/INFO]: Staff: [Admin] Chris
+[21:02:23] [Server thread/INFO]: Staff: [Admin] Chris
+[21:03:10] [Server thread/INFO]: Staff: [Admin] Chris
+[21:03:56] [Server thread/INFO]: Staff: [Admin] Chris
+[21:04:43] [Server thread/INFO]: Staff: [Admin] Chris
+[21:05:29] [Server thread/INFO]: Staff: [Admin] Chris
+[21:06:16] [Server thread/INFO]: Staff: [AFK][Admin] Chris
+[21:07:03] [Server thread/INFO]: Staff: [AFK][Admin] Chris
+[21:07:49] [Server thread/INFO]: Staff: [AFK][Admin] Chris
+[21:09:17] [Server thread/INFO]: Staff: [AFK][Admin] Chris
+[21:10:04] [Server thread/INFO]: Staff: [AFK][Admin] Chris
+[21:10:50] [Server thread/INFO]: Staff: [AFK][Admin] Chris
+[21:11:37] [Server thread/INFO]: Staff: [AFK][Admin] Chris
+[21:12:23] [Server thread/INFO]: Staff: [AFK][Admin] Chris
+[21:13:10] [Server thread/INFO]: Staff: [AFK][Admin] Chris
+[21:13:56] [Server thread/INFO]: Staff: [AFK][Admin] Chris
+[21:14:43] [Server thread/INFO]: Staff: [AFK][Admin] Chris
+[21:15:29] [Server thread/INFO]: Staff: [AFK][Admin] Chris
+[21:16:16] [Server thread/INFO]: Staff: [AFK][Admin] Chris
+[21:17:03] [Server thread/INFO]: Staff: [AFK][Admin] Chris
+[21:17:49] [Server thread/INFO]: Staff: [AFK][Admin] Chris
+[21:19:17] [Server thread/INFO]: Staff: [AFK][Admin] Chris
+[21:20:04] [Server thread/INFO]: Staff: [AFK][Admin] Chris
+[21:20:50] [Server thread/INFO]: Staff: [AFK][Admin] Chris
+[21:21:37] [Server thread/INFO]: Staff: [AFK][Admin] Chris
+[21:22:23] [Server thread/INFO]: Staff: [AFK][Admin] Chris
+[21:23:10] [Server thread/INFO]: Staff: [Admin] Chris
+[21:23:12] [Server thread/INFO]: Crustifer issued server command: /f
+[21:23:13] [Server thread/INFO]: Popey456963 issued server command: /f
+[21:23:22] [Server thread/INFO]: [Admin] Chris: :)
+[21:23:25] [Server thread/INFO]: Crustifer issued server command: /f who
+[21:23:35] [Server thread/INFO]: Crustifer issued server command: /f leave
+[21:23:56] [Server thread/INFO]: Staff: [Admin] Chris
+[21:23:56] [Server thread/INFO]: Developers: [Dev] Poopey
+[21:24:14] [Server thread/INFO]: Crustifer issued server command: /spawn
+[21:24:18] [Server thread/INFO]: Crustifer issued server command: /warp spawn
+[21:24:20] [Server thread/INFO]: Popey456963 issued server command: /tp crust
+[21:24:21] [Server thread/INFO]: Crustifer issued server command: /warp spawn
+[21:24:23] [Server thread/INFO]: Popey456963 issued server command: /back
+[21:24:26] [Server thread/INFO]: Popey456963 issued server command: /tp Crustifer po
+[21:24:28] [Server thread/INFO]: Popey456963 issued server command: /warp
+[21:24:43] [Server thread/INFO]: Staff: [Admin] Chris
+[21:24:43] [Server thread/INFO]: Developers: [Dev] Poopey
+[21:25:28] [Server thread/INFO]: Crustifer issued server command: //replace grey air
+[21:25:30] [Server thread/INFO]: Staff: [Admin] Chris
+[21:25:30] [Server thread/INFO]: Developers: [Dev] Poopey
+[21:26:16] [Server thread/INFO]: Staff: [Admin] Chris
+[21:26:16] [Server thread/INFO]: Developers: [Dev] Poopey
+[21:27:03] [Server thread/INFO]: Staff: [Admin] Chris
+[21:27:03] [Server thread/INFO]: Developers: [Dev] Poopey
+[21:27:49] [Server thread/INFO]: Staff: [Admin] Chris
+[21:27:49] [Server thread/INFO]: Developers: [Dev] Poopey
+[21:29:17] [Server thread/INFO]: Staff: [Admin] Chris
+[21:29:17] [Server thread/INFO]: Developers: [Dev] Poopey
+[21:30:04] [Server thread/INFO]: Staff: [Admin] Chris
+[21:30:04] [Server thread/INFO]: Developers: [Dev] Poopey
+[21:30:50] [Server thread/INFO]: Staff: [Admin] Chris
+[21:30:50] [Server thread/INFO]: Developers: [Dev] Poopey
+[21:31:37] [Server thread/INFO]: Staff: [Admin] Chris
+[21:31:37] [Server thread/INFO]: Developers: [Dev] Poopey
+[21:32:23] [Server thread/INFO]: Staff: [Admin] Chris
+[21:32:23] [Server thread/INFO]: Developers: [Dev] Poopey
+[21:32:48] [Server thread/INFO]: Crustifer issued server command: /leave
+[21:33:02] [Server thread/INFO]: Crustifer issued server command: /skywars leave
+[21:33:04] [Server thread/INFO]: Crustifer issued server command: /skywars
+[21:33:05] [Server thread/INFO]: Crustifer issued server command: /help
+[21:33:10] [Server thread/INFO]: Staff: [Admin] Chris
+[21:33:10] [Server thread/INFO]: Developers: [Dev] Poopey
+[21:33:13] [Server thread/INFO]: Popey456963 issued server command: /tp skywars
+[21:33:15] [Server thread/INFO]: Popey456963 issued server command: /warp skywars
+[21:33:32] [Server thread/INFO]: [Dev] Poopey: ./sw leave
+[21:33:34] [Server thread/INFO]: Popey456963 issued server command: /gm 1
+[21:33:38] [Server thread/INFO]: Twiixtor issued server command: /warp skywars
+[21:33:38] [Server thread/INFO]: Popey456963 issued server command: /tp Crustifer Popey456963
+[21:33:41] [Server thread/INFO]: Crustifer issued server command: /gamemode 1
+[21:33:46] [Server thread/INFO]: Popey456963 issued server command: /speed 1
+[21:33:56] [Server thread/INFO]: Staff: [Admin] Chris
+[21:33:56] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe] Twiixtor
+[21:34:22] [Server thread/INFO]: Crustifer issued server command: /sw leave
+[21:34:24] [Server thread/INFO]: Crustifer issued server command: /gamemode 1
+[21:34:25] [Server thread/INFO]: Twiixtor issued server command: /sw leave
+[21:34:28] [Server thread/INFO]: Popey456963 issued server command: /sw leave
+[21:34:42] [Server thread/INFO]: Twiixtor issued server command: /gm 1
+[21:34:43] [Server thread/INFO]: Staff: [Admin] Chris
+[21:34:43] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe] Twiixtor
+[21:35:29] [Server thread/INFO]: Staff: [Admin] Chris
+[21:35:29] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe] Twiixtor
+[21:35:34] [Server thread/INFO]: Stopping the server
+[21:35:34] [Server thread/INFO]: Stopping server
+[21:35:34] [Server thread/INFO]: [CraftBook] Disabling CraftBook v3.9-SNAPSHOT
+[21:35:34] [Server thread/INFO]: [OnTime] Disabling OnTime v4.1.3
+[21:35:34] [Server thread/INFO]: [EpicSpleef] Disabling EpicSpleef v0.0.19
+[21:35:34] [Server thread/INFO]: [SkyWars] Disabling SkyWars v1.1-m16
+[21:35:35] [Server thread/INFO]: [Multiverse-Core] World 'island-0' was unloaded from memory.
+[21:35:35] [Server thread/INFO]: [Multiverse-Core] World island-0 was DELETED.
+[21:35:35] [Server thread/INFO]: [CommandSigns] Disabling CommandSigns v1.9.3.2
+[21:35:35] [Server thread/INFO]: [HolographicDisplays] Disabling HolographicDisplays v2.1.10
+[21:35:35] [Server thread/INFO]: [TNTRun] Disabling TNTRun v3.4
+[21:35:35] [Server thread/INFO]: [MobArena] Disabling MobArena v0.97.1
+[21:35:35] [Server thread/INFO]: [MobArena] disabled.
+[21:35:35] [Server thread/INFO]: [Minigames] Disabling Minigames v1.7.0
+[21:35:35] [Server thread/INFO]: Minigames successfully disabled.
+[21:35:35] [Server thread/INFO]: [MinigamesLib] Disabling MinigamesLib v1.13.1
+[21:35:35] [Server thread/INFO]: [MassiveCore] Disabling MassiveCore v2.8.0
+[21:35:35] [Server thread/INFO]: [MassiveCore 2.8.0] Disabled
+[21:35:35] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn vTeamCity
+[21:35:35] [Server thread/INFO]: [Vault] Disabling Vault v1.5.6-b49
+[21:35:35] [Server thread/INFO]: [Multiverse-Portals] Disabling Multiverse-Portals v2.4-b548
+[21:35:35] [Server thread/INFO]: [SuperVanish] Disabling SuperVanish v5.4.3
+[21:35:35] [Server thread/INFO]: [Multiverse-NetherPortals] Disabling Multiverse-NetherPortals v2.4-b530
+[21:35:35] [Server thread/INFO]: [MultiVerse-NetherPortals] - Disabled
+[21:35:35] [Server thread/INFO]: [mcMMO] Disabling mcMMO v1.5.00-b3547

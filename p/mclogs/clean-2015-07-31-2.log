@@ -1,0 +1,76 @@
+[19:16:11] [main/INFO]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[19:16:15] [Server thread/INFO]: MinecraftForge v10.13.4.1448 Initialized
+[19:16:15] [Server thread/INFO]: Replaced 183 ore recipies
+[19:16:15] [Server thread/INFO]: Found 0 mods from the command line. Injecting into mod discoverer
+[19:16:15] [Server thread/INFO]: Searching /home/root/multicraft/servers/server435620/mods for mods
+[19:16:15] [Server thread/INFO]: Also searching /home/root/multicraft/servers/server435620/mods/1.7.10 for mods
+[19:16:18] [Server thread/INFO]: Forge Mod Loader has identified 40 mods to load
+[19:16:20] [Server thread/INFO]: Mantle (1.7.10-0.3.2.jenkins184) -- Preparing for launch.
+[19:16:23] [Server thread/INFO]: Designs found: Bed(6), Chisel(9), FlowerPot(18), Tile(13)
+[19:16:23] [Server thread/INFO]: Gear module active. Adding gear cast.
+[19:16:23] [Server thread/INFO]: Biomes O' Plenty Detected
+[19:16:23] [Server thread/INFO]: Twilight Forest Detected
+[19:16:23] [Server thread/INFO]: Thaumcraft Detected
+[19:16:27] [Server thread/INFO]: Applying holder lookups
+[19:16:27] [Server thread/INFO]: Holder lookups applied
+[19:16:27] [Server thread/INFO]: Injecting itemstacks
+[19:16:27] [Server thread/INFO]: Loading properties
+[19:16:27] [Server thread/INFO]: Default game type: SURVIVAL
+[19:16:28] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[19:16:28] [Server thread/INFO]: Using 4 threads for Netty based IO
+[19:16:28] [Server thread/INFO]: Waila detected.
+[19:16:29] [Server thread/INFO]: Thaumcraft detected. Registering harvestables.
+[19:16:29] [Server thread/INFO]: InfernalMobsCore load() completed! Modifiers ready: 27
+[19:16:29] [Server thread/INFO]: Injecting itemstacks
+[19:16:29] [Server thread/INFO]: Loading Manual XML from: /assets/mantle/manuals/test.xml
+[19:16:29] [Server thread/INFO]: ## Chest items register ##
+[19:16:29] [Server thread/INFO]: Thaumcraft detected. Adding thaumium tools.
+[19:16:30] [Server thread/INFO]: item.apple0: 15: 1: 3
+[19:16:30] [Server thread/INFO]: item.appleGold0: 1: 1: 1
+[19:16:30] [Server thread/INFO]: item.arrow0: 30: 2: 7
+[19:16:30] [Server thread/INFO]: item.book0: 20: 1: 3
+[19:16:30] [Server thread/INFO]: item.bread0: 14: 1: 1
+[19:16:30] [Server thread/INFO]: item.bucket0: 10: 1: 1
+[19:16:30] [Server thread/INFO]: item.coal0: 10: 3: 8
+[19:16:30] [Server thread/INFO]: item.compass0: 1: 1: 1
+[19:16:30] [Server thread/INFO]: item.dyePowder.blue4: 5: 4: 9
+[19:16:30] [Server thread/INFO]: item.emerald0: 2: 1: 3
+[19:16:30] [Server thread/INFO]: item.emptyMap0: 1: 1: 1
+[19:16:30] [Server thread/INFO]: item.enchantedBook0: 1: 1: 1
+[19:16:30] [Server thread/INFO]: item.enderPearl0: 10: 1: 1
+[19:16:30] [Server thread/INFO]: item.flippers0: 5: 1: 1
+[19:16:30] [Server thread/INFO]: item.horsearmorgold0: 1: 1: 1
+[19:16:30] [Server thread/INFO]: item.horsearmormetal0: 1: 1: 1
+[19:16:30] [Server thread/INFO]: item.ingotGold0: 5: 1: 3
+[19:16:30] [Server thread/INFO]: item.misc.ash1: 25: 2: 8
+[19:16:30] [Server thread/INFO]: item.nameTag0: 10: 1: 1
+[19:16:30] [Server thread/INFO]: item.paper0: 20: 2: 7
+[19:16:30] [Server thread/INFO]: item.record0: 10: 1: 1
+[19:16:30] [Server thread/INFO]: item.rottenFlesh0: 16: 3: 7
+[19:16:30] [Server thread/INFO]: item.saddle0: 2: 1: 1
+[19:16:30] [Server thread/INFO]: item.seeds_pumpkin0: 10: 2: 4
+[19:16:30] [Server thread/INFO]: item.string0: 10: 1: 4
+[19:16:30] [Server thread/INFO]: item.sulphur0: 10: 1: 4
+[19:16:30] [Server thread/INFO]: item.wadingBoots0: 5: 1: 1
+[19:16:30] [Server thread/INFO]: tile.flowers.deadbloom2: 25: 1: 4
+[19:16:30] [Server thread/INFO]: tile.flowers.glowflower3: 25: 1: 4
+[19:16:30] [Server thread/INFO]: tile.obsidian0: 5: 3: 7
+[19:16:30] [Server thread/INFO]: tile.plants.thorn5: 20: 4: 6
+[19:16:30] [Server thread/INFO]: tile.rail0: 1: 4: 8
+[19:16:30] [Server thread/INFO]: tile.sapling.oak0: 5: 3: 7
+[19:16:30] [Server thread/INFO]: Total Weight: 480
+[19:16:30] [Server thread/INFO]: TwilightForestMod mod found.
+[19:16:30] [Server thread/INFO]: Success in registering ThaumicTinkerer
+[19:16:30] [Server thread/INFO]: Forge Mod Loader has successfully loaded 40 mods
+[19:16:31] [Server thread/INFO]: Applying holder lookups
+[19:16:31] [Server thread/INFO]: Holder lookups applied
+[19:16:32] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v5.6.3
+[19:16:34] [Server thread/INFO]: Preparing spawn area: 52%
+[19:16:34] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v5.6.3
+[19:58:46] [Server thread/INFO]: Crustifer left the game.
+[19:59:38] [Server thread/INFO]: Crustifer left the game.
+[20:04:36] [Server thread/INFO]: CONSOLE: Stopping the server..
+[20:04:36] [Server thread/INFO]: Stopping server
+[20:04:36] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v5.6.3
+[20:04:36] [Server thread/INFO]: Applying holder lookups
+[20:04:36] [Server thread/INFO]: Holder lookups applied

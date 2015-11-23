@@ -1,0 +1,120 @@
+[20:44:58] [Server thread/INFO]: Loading properties
+[20:44:58] [Server thread/INFO]: Default game type: SURVIVAL
+[20:44:58] [Server thread/INFO]: Using epoll channel type
+[20:44:59] [Server thread/INFO]: [CoreProtect] Loading CoreProtect v2.12.0
+[20:44:59] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1;no_git_id
+[20:44:59] [Server thread/INFO]: [Announcement] Loading Announcement v1.0.3
+[20:44:59] [Server thread/INFO]: [Essentials] Loading Essentials vTeamCity
+[20:44:59] [Server thread/INFO]: [Buycraft] Loading Buycraft v6.8.2
+[20:44:59] [Server thread/INFO]: [mcMMO] Loading mcMMO v1.5.00-b3547
+[20:44:59] [Server thread/INFO]: [Random_Spawn] Loading Random_Spawn v2.6
+[20:44:59] [Server thread/INFO]: [Vault] Loading Vault v1.5.6-b49
+[20:44:59] [Server thread/INFO]: [CommandSigns] Loading CommandSigns v1.9.3.2
+[20:44:59] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn vTeamCity
+[20:44:59] [Server thread/INFO]: [LaggRemover] Loading LaggRemover v0.1.9
+[20:44:59] [Server thread/INFO]: [MassiveCore] Loading MassiveCore v2.8.0
+[20:44:59] [Server thread/INFO]: TimeUnit.MILLIS_PER_MINUTE: 60000
+[20:44:59] [Server thread/INFO]: [ProtocolLib] Loading ProtocolLib v3.6.4
+[20:44:59] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v6.1
+[20:44:59] [Server thread/INFO]: [OnTime] Loading OnTime v4.1.3
+[20:44:59] [Server thread/INFO]: [EssentialsProtect] Loading EssentialsProtect vTeamCity
+[20:44:59] [Server thread/INFO]: [HeavySpleef] Loading HeavySpleef v2.1.1
+[20:44:59] [Server thread/INFO]: [MobArena] Loading MobArena v0.97.1
+[20:44:59] [Server thread/INFO]: [HolographicDisplays] Loading HolographicDisplays v2.1.10
+[20:44:59] [Server thread/INFO]: [TouchscreenHolograms] Loading TouchscreenHolograms v1.3
+[20:44:59] [Server thread/INFO]: [mcMMO] Enabling mcMMO v1.5.00-b3547
+[20:44:59] [Server thread/INFO]: [Vault] Enabling Vault v1.5.6-b49
+[20:45:00] [Server thread/INFO]: [MassiveCore] Enabling MassiveCore v2.8.0
+[20:45:00] [Server thread/INFO]: [MassiveCore 2.8.0] === ENABLE START ===
+[20:45:00] [Server thread/INFO]: [MassiveCore 2.8.0] §eSetup of IdUtil took §d9§ems.
+[20:45:00] [Server thread/INFO]: [MassiveCore 2.8.0] === ENABLE §aCOMPLETE §e(Took §d119ms§e) ===
+[20:45:00] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v3.6.4
+[20:45:00] [Server thread/INFO]: [ProtocolLib] Started structure compiler thread.
+[20:45:01] [Server thread/INFO]: [CoreProtect] Enabling CoreProtect v2.12.0
+[20:45:02] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1;no_git_id
+[20:45:02] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_8_R3 as the Bukkit adapter
+[20:45:02] [Server thread/INFO]: [Announcement] Enabling Announcement v1.0.3
+[20:45:02] [Server thread/INFO]: [Essentials] Enabling Essentials vTeamCity
+[20:45:02] [Server thread/INFO]: git-Bukkit-9935adc (MC: 1.8.8)
+[20:45:02] [Server thread/INFO]: 1.8.8-R0.1-SNAPSHOT
+[20:45:02] [Server thread/INFO]: Using locale en_US
+[20:45:02] [Server thread/INFO]: Using locale en_US
+[20:45:02] [Server thread/INFO]: [Buycraft] Enabling Buycraft v6.8.2
+[20:45:02] [Server thread/INFO]: [Buycraft] Loaded all signs from disk
+[20:45:02] [Server thread/INFO]: [Random_Spawn] Enabling Random_Spawn v2.6
+[20:45:02] [Server thread/INFO]: [CommandSigns] Enabling CommandSigns v1.9.3.2
+[20:45:02] [Server thread/INFO]: [CommandSigns] Successfully loaded 3 signs
+[20:45:02] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn vTeamCity
+[20:45:02] [Server thread/INFO]: [LaggRemover] Enabling LaggRemover v0.1.9
+[20:45:02] [Server thread/INFO]: [LaggRemover] LaggRemover has been enabled!
+[20:45:02] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v6.1
+[20:45:03] [Server thread/INFO]: [WorldGuard] (survival) Lighters are PERMITTED.
+[20:45:03] [Server thread/INFO]: [WorldGuard] (survival) Lava fire is blocked.
+[20:45:03] [Server thread/INFO]: [WorldGuard] (survival) Fire spread is UNRESTRICTED.
+[20:45:03] [Server thread/INFO]: [WorldGuard] (survival_nether) Lighters are PERMITTED.
+[20:45:03] [Server thread/INFO]: [WorldGuard] (survival_nether) Lava fire is blocked.
+[20:45:03] [Server thread/INFO]: [WorldGuard] (survival_nether) Fire spread is UNRESTRICTED.
+[20:45:03] [Server thread/INFO]: [WorldGuard] (survival_the_end) Lighters are PERMITTED.
+[20:45:03] [Server thread/INFO]: [WorldGuard] (survival_the_end) Lava fire is blocked.
+[20:45:03] [Server thread/INFO]: [WorldGuard] (survival_the_end) Fire spread is UNRESTRICTED.
+[20:45:04] [Server thread/INFO]: [OnTime] Enabling OnTime v4.1.3
+[20:45:04] [Server thread/INFO]: [EssentialsProtect] Enabling EssentialsProtect vTeamCity
+[20:45:04] [Server thread/INFO]: [HeavySpleef] Enabling HeavySpleef v2.1.1
+[20:45:05] [Server thread/INFO]: [MobArena] Enabling MobArena v0.97.1
+[20:45:06] [Server thread/INFO]: [MobArena] v0.97.1 enabled.
+[20:45:06] [Server thread/INFO]: [HolographicDisplays] Enabling HolographicDisplays v2.1.10
+[20:45:06] [Server thread/INFO]: [TouchscreenHolograms] Enabling TouchscreenHolograms v1.3
+[20:45:06] [Server thread/ERROR]: [Buycraft] Type /buycraft for further advice & help.
+[21:25:02] [Server thread/INFO]: Developers: [Dev] Popey
+[21:25:45] [Server thread/INFO]: Popey456963 issued server command: /pex user mega_unic0rn group set S-Mod
+[21:25:56] [Server thread/INFO]: Developers: [Dev] Popey
+[21:26:51] [Server thread/INFO]: Developers: [Dev] Popey
+[21:27:45] [Server thread/INFO]: Developers: [Dev] Popey
+[21:28:40] [Server thread/INFO]: Developers: [Dev] Popey
+[21:29:34] [Server thread/INFO]: Developers: [Dev] Popey
+[21:30:29] [Server thread/INFO]: Developers: [Dev] Popey
+[21:31:23] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[21:32:18] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[21:33:12] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[21:34:07] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[21:35:01] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[21:35:55] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[21:36:50] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[21:37:44] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[21:38:39] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[21:39:29] [Server thread/INFO]: Popey456963 left the game.
+[23:20:15] [Server thread/INFO]: Twiixtor issued server command: /world
+[23:20:17] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[23:20:22] [Server thread/INFO]: Twiixtor issued server command: /mce
+[23:20:27] [Server thread/INFO]: Twiixtor issued server command: /me
+[23:20:30] [Server thread/INFO]: Twiixtor issued server command: /mv
+[23:20:32] [Server thread/INFO]: Twiixtor issued server command: /mv
+[23:20:33] [Server thread/INFO]: Twiixtor issued server command: /help
+[23:20:41] [Server thread/INFO]: Twiixtor issued server command: /multiverse
+[23:20:46] [Server thread/INFO]: Twiixtor issued server command: /plugins
+[23:20:58] [Server thread/INFO]: Twiixtor issued server command: /spawn
+[23:21:11] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[23:21:42] [Server thread/INFO]: Twiixtor issued server command: /warp
+[23:21:47] [Server thread/INFO]: Twiixtor issued server command: /warp twiixbuildarea
+[23:21:58] [Server thread/INFO]: Twiixtor issued server command: //wand
+[23:22:06] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[23:22:08] [Server thread/INFO]: Twiixtor issued server command: /spawn
+[23:22:16] [Server thread/INFO]: Twiixtor issued server command: /tp Twiixtor 10000120 93 9999807
+[23:22:16] [Server thread/INFO]: Twiixtor issued server command: /tppos 10000120 93 9999807
+[23:22:21] [Server thread/INFO]: Twiixtor issued server command: /i compass 1
+[23:22:28] [Server thread/INFO]: Twiixtor issued server command: /i compass 1
+[23:22:37] [Server thread/INFO]: Twiixtor issued server command: /tp Twiixtor 9999739 69 9999997
+[23:22:37] [Server thread/INFO]: Twiixtor issued server command: /tppos 9999739 69 9999997
+[23:22:53] [Server thread/INFO]: Twiixtor issued server command: /tp Twiixtor 10000200 72 10000277
+[23:22:53] [Server thread/INFO]: Twiixtor issued server command: /tppos 10000200 72 10000277
+[23:23:00] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[23:23:06] [Server thread/INFO]: Twiixtor issued server command: /tp Twiixtor 9999720 64 9999732
+[23:23:06] [Server thread/INFO]: Twiixtor issued server command: /tppos 9999720 64 9999732
+[23:23:15] [Server thread/INFO]: Twiixtor issued server command: /tp Twiixtor 9999690 63 10000313
+[23:23:15] [Server thread/INFO]: Twiixtor issued server command: /tppos 9999690 63 10000313
+[23:23:29] [Server thread/INFO]: Twiixtor issued server command: /spawn
+[23:23:55] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[23:24:49] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[23:25:26] [Server thread/INFO]: Twiixtor issued server command: /plugins
+[23:25:44] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[23:26:22] [Server thread/INFO]: Twiixtor left the game.

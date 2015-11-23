@@ -1,0 +1,232 @@
+[22:10:31] [Server thread/INFO]: Loading properties
+[22:10:31] [Server thread/INFO]: Default game type: SURVIVAL
+[22:10:31] [Server thread/INFO]: Using epoll channel type
+[22:10:32] [Server thread/INFO]: [CoreProtect] Loading CoreProtect v2.12.0
+[22:10:32] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1;no_git_id
+[22:10:32] [Server thread/INFO]: [Announcement] Loading Announcement v1.0.3
+[22:10:32] [Server thread/INFO]: [Essentials] Loading Essentials vTeamCity
+[22:10:32] [Server thread/INFO]: [mcMMO] Loading mcMMO v1.5.00-b3547
+[22:10:32] [Server thread/INFO]: [Random_Spawn] Loading Random_Spawn v2.6
+[22:10:32] [Server thread/INFO]: [Vault] Loading Vault v1.5.6-b49
+[22:10:32] [Server thread/INFO]: [CommandSigns] Loading CommandSigns v1.9.3.2
+[22:10:32] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn vTeamCity
+[22:10:32] [Server thread/INFO]: [LaggRemover] Loading LaggRemover v0.1.9
+[22:10:32] [Server thread/INFO]: [MassiveCore] Loading MassiveCore v2.8.0
+[22:10:32] [Server thread/INFO]: TimeUnit.MILLIS_PER_MINUTE: 60000
+[22:10:32] [Server thread/INFO]: [ProtocolLib] Loading ProtocolLib v3.6.4
+[22:10:32] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v6.1
+[22:10:32] [Server thread/INFO]: [OnTime] Loading OnTime v4.1.3
+[22:10:32] [Server thread/INFO]: [EssentialsProtect] Loading EssentialsProtect vTeamCity
+[22:10:32] [Server thread/INFO]: [MobArena] Loading MobArena v0.97.1
+[22:10:32] [Server thread/INFO]: [HolographicDisplays] Loading HolographicDisplays v2.1.10
+[22:10:32] [Server thread/INFO]: [TouchscreenHolograms] Loading TouchscreenHolograms v1.3
+[22:10:32] [Server thread/INFO]: [mcMMO] Enabling mcMMO v1.5.00-b3547
+[22:10:34] [Server thread/INFO]: [Vault] Enabling Vault v1.5.6-b49
+[22:10:34] [Server thread/INFO]: [MassiveCore] Enabling MassiveCore v2.8.0
+[22:10:34] [Server thread/INFO]: [MassiveCore 2.8.0] === ENABLE START ===
+[22:10:34] [Server thread/INFO]: [MassiveCore 2.8.0] §eSetup of IdUtil took §d11§ems.
+[22:10:34] [Server thread/INFO]: [MassiveCore 2.8.0] === ENABLE §aCOMPLETE §e(Took §d113ms§e) ===
+[22:10:34] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v3.6.4
+[22:10:34] [Server thread/INFO]: [ProtocolLib] Started structure compiler thread.
+[22:10:35] [Server thread/INFO]: [CoreProtect] Enabling CoreProtect v2.12.0
+[22:10:36] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1;no_git_id
+[22:10:36] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_8_R3 as the Bukkit adapter
+[22:10:36] [Server thread/INFO]: [Announcement] Enabling Announcement v1.0.3
+[22:10:36] [Server thread/INFO]: [Essentials] Enabling Essentials vTeamCity
+[22:10:36] [Server thread/INFO]: git-Bukkit-9935adc (MC: 1.8.8)
+[22:10:36] [Server thread/INFO]: 1.8.8-R0.1-SNAPSHOT
+[22:10:36] [Server thread/INFO]: Using locale en_US
+[22:10:37] [Server thread/INFO]: Using locale en_US
+[22:10:37] [Server thread/INFO]: [Random_Spawn] Enabling Random_Spawn v2.6
+[22:10:37] [Server thread/INFO]: [CommandSigns] Enabling CommandSigns v1.9.3.2
+[22:10:37] [Server thread/INFO]: [CommandSigns] Successfully loaded 0 signs
+[22:10:37] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn vTeamCity
+[22:10:37] [Server thread/INFO]: [LaggRemover] Enabling LaggRemover v0.1.9
+[22:10:37] [Server thread/INFO]: [LaggRemover] LaggRemover has been enabled!
+[22:10:37] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v6.1
+[22:10:37] [Server thread/INFO]: [WorldGuard] (survival) Lighters are PERMITTED.
+[22:10:37] [Server thread/INFO]: [WorldGuard] (survival) Lava fire is blocked.
+[22:10:37] [Server thread/INFO]: [WorldGuard] (survival) Fire spread is UNRESTRICTED.
+[22:10:37] [Server thread/INFO]: [WorldGuard] (survival_nether) Lighters are PERMITTED.
+[22:10:37] [Server thread/INFO]: [WorldGuard] (survival_nether) Lava fire is blocked.
+[22:10:37] [Server thread/INFO]: [WorldGuard] (survival_nether) Fire spread is UNRESTRICTED.
+[22:10:37] [Server thread/INFO]: [WorldGuard] (survival_the_end) Lighters are PERMITTED.
+[22:10:37] [Server thread/INFO]: [WorldGuard] (survival_the_end) Lava fire is blocked.
+[22:10:37] [Server thread/INFO]: [WorldGuard] (survival_the_end) Fire spread is UNRESTRICTED.
+[22:10:40] [Server thread/INFO]: [OnTime] Enabling OnTime v4.1.3
+[22:10:40] [Server thread/INFO]: [EssentialsProtect] Enabling EssentialsProtect vTeamCity
+[22:10:40] [Server thread/INFO]: [MobArena] Enabling MobArena v0.97.1
+[22:10:40] [Server thread/INFO]: [MobArena] v0.97.1 enabled.
+[22:10:40] [Server thread/INFO]: [HolographicDisplays] Enabling HolographicDisplays v2.1.10
+[22:10:40] [Server thread/INFO]: [TouchscreenHolograms] Enabling TouchscreenHolograms v1.3
+[22:10:47] [Server thread/INFO]: Popey456963 issued server command: /rules!
+[22:10:53] [Netty Epoll Server IO #5/INFO]: [Dev] Popey: ./rules!
+[22:10:59] [Server thread/INFO]: Popey456963 issued server command: /plugins
+[22:11:05] [Netty Epoll Server IO #5/INFO]: [Dev] Popey: Hello
+[22:11:29] [Server thread/INFO]: Popey456963 issued server command: /tp Holo
+[22:11:35] [Server thread/INFO]: Staff: [Admin] UnSeen
+[22:11:35] [Server thread/INFO]: Players: [Regular] HoloKirai
+[22:11:35] [Server thread/INFO]: Developers: [Dev] Popey
+[22:11:35] [Server thread/INFO]: AttrebusMede issued server command: /tp holo
+[22:12:29] [Server thread/INFO]: Staff: [Admin] UnSeen
+[22:12:29] [Server thread/INFO]: Players: [Regular] HoloKirai
+[22:12:29] [Server thread/INFO]: Developers: [Dev] Popey
+[22:13:24] [Server thread/INFO]: Staff: [Admin] UnSeen
+[22:13:24] [Server thread/INFO]: Players: [Regular] HoloKirai
+[22:13:24] [Server thread/INFO]: Developers: [Dev] Popey
+[22:13:26] [Server thread/INFO]: Popey456963 issued server command: /shop
+[22:13:29] [Server thread/INFO]: Popey456963 issued server command: /spawn
+[22:13:32] [Server thread/INFO]: Popey456963 issued server command: /plugins
+[22:13:45] [Server thread/INFO]: Popey456963 issued server command: /tp HoloKirai
+[22:13:48] [Server thread/INFO]: Popey456963 issued server command: /massivecore
+[22:13:55] [Server thread/INFO]: Popey456963 issued server command: /massivecore test
+[22:14:01] [Server thread/INFO]: Popey456963 issued server command: /massivecore test
+[22:14:07] [Server thread/INFO]: Popey456963 issued server command: /massivecore store
+[22:14:18] [Server thread/INFO]: Staff: [Admin] UnSeen
+[22:14:18] [Server thread/INFO]: Players: [Regular] HoloKirai
+[22:14:18] [Server thread/INFO]: Developers: [Dev] Popey
+[22:14:44] [Server thread/INFO]: Popey456963 issued server command: /coreprotect
+[22:14:48] [Netty Epoll Server IO #3/INFO]: [Admin] UnSeen: brb a sec
+[22:14:54] [Server thread/INFO]: Popey456963 issued server command: /co lookup
+[22:14:56] [Server thread/INFO]: Popey456963 issued server command: /co inspect
+[22:15:12] [Server thread/INFO]: Staff: [Admin] UnSeen
+[22:15:12] [Server thread/INFO]: Players: [Regular] HoloKirai
+[22:15:12] [Server thread/INFO]: Developers: [Dev] Popey
+[22:15:15] [Server thread/INFO]: Popey456963 issued server command: /co inspect
+[22:15:46] [Server thread/INFO]: Popey456963 left the game.
+[22:16:07] [Server thread/INFO]: Staff: [Admin] UnSeen
+[22:16:07] [Server thread/INFO]: Players: [Regular] HoloKirai
+[22:17:01] [Server thread/INFO]: Staff: [Admin] UnSeen
+[22:17:01] [Server thread/INFO]: Players: [Regular] HoloKirai
+[22:17:56] [Server thread/INFO]: Staff: [Admin] UnSeen
+[22:17:56] [Server thread/INFO]: Players: [Regular] HoloKirai
+[22:18:50] [Server thread/INFO]: Staff: [Admin] UnSeen
+[22:18:50] [Server thread/INFO]: Players: [Regular] HoloKirai
+[22:19:45] [Server thread/INFO]: Staff: [Admin] UnSeen
+[22:19:45] [Server thread/INFO]: Players: [Regular] HoloKirai
+[22:20:39] [Server thread/INFO]: Staff: [AFK][Admin] UnSeen
+[22:20:39] [Server thread/INFO]: Players: [Regular] HoloKirai
+[22:21:34] [Server thread/INFO]: Staff: [AFK][Admin] UnSeen
+[22:21:34] [Server thread/INFO]: Players: [Regular] HoloKirai
+[22:22:28] [Server thread/INFO]: Staff: [AFK][Admin] UnSeen
+[22:22:28] [Server thread/INFO]: Players: [Regular] HoloKirai
+[22:23:22] [Server thread/INFO]: Staff: [AFK][Admin] UnSeen
+[22:23:22] [Server thread/INFO]: Players: [Regular] HoloKirai
+[22:24:17] [Server thread/INFO]: Staff: [AFK][Admin] UnSeen
+[22:24:17] [Server thread/INFO]: Players: [Regular] HoloKirai
+[22:25:11] [Server thread/INFO]: Staff: [Admin] UnSeen
+[22:25:11] [Server thread/INFO]: Players: [Regular] HoloKirai
+[22:26:06] [Server thread/INFO]: Staff: [Admin] UnSeen
+[22:26:06] [Server thread/INFO]: Players: [Regular] HoloKirai
+[22:27:00] [Server thread/INFO]: Staff: [Admin] UnSeen
+[22:27:00] [Server thread/INFO]: Players: [Regular] HoloKirai
+[22:27:55] [Server thread/INFO]: Staff: [Admin] UnSeen
+[22:27:55] [Server thread/INFO]: Players: [Regular] HoloKirai
+[22:28:49] [Server thread/INFO]: Staff: [Admin] UnSeen
+[22:28:49] [Server thread/INFO]: Players: [Regular] HoloKirai
+[22:29:44] [Server thread/INFO]: Staff: [Admin] UnSeen
+[22:29:44] [Server thread/INFO]: Players: [Regular] HoloKirai
+[22:29:50] [Netty Epoll Server IO #6/INFO]: [Regular] HoloKirai: !time set day
+[22:29:55] [Server thread/INFO]: HoloKirai issued server command: /time set day
+[22:30:01] [Server thread/INFO]: HoloKirai issued server command: /time set night
+[22:30:04] [Server thread/INFO]: HoloKirai issued server command: /time set day
+[22:30:38] [Server thread/INFO]: Staff: [Admin] UnSeen
+[22:30:38] [Server thread/INFO]: Players: [Regular] HoloKirai
+[22:31:32] [Server thread/INFO]: Staff: [Admin] UnSeen
+[22:31:32] [Server thread/INFO]: Players: [Regular] HoloKirai
+[22:32:27] [Server thread/INFO]: Staff: [Admin] UnSeen
+[22:32:27] [Server thread/INFO]: Players: [Regular] HoloKirai
+[22:33:15] [Server thread/INFO]: AttrebusMede issued server command: /warp 1spawn
+[22:33:21] [Server thread/INFO]: Staff: [Admin] UnSeen
+[22:33:21] [Server thread/INFO]: Players: [Regular] HoloKirai
+[22:34:16] [Server thread/INFO]: Staff: [Admin] UnSeen
+[22:34:16] [Server thread/INFO]: Players: [Regular] HoloKirai
+[22:35:10] [Server thread/INFO]: Staff: [Admin] UnSeen
+[22:35:10] [Server thread/INFO]: Players: [Regular] HoloKirai
+[22:36:05] [Server thread/INFO]: Staff: [Admin] UnSeen
+[22:36:05] [Server thread/INFO]: Players: [Regular] HoloKirai
+[22:36:59] [Server thread/INFO]: Staff: [Admin] UnSeen
+[22:36:59] [Server thread/INFO]: Players: [Regular] HoloKirai
+[22:37:32] [Server thread/INFO]: AttrebusMede issued server command: //set grass
+[22:37:54] [Server thread/INFO]: Staff: [Admin] UnSeen
+[22:37:54] [Server thread/INFO]: Players: [Regular] HoloKirai
+[22:38:48] [Server thread/INFO]: Staff: [Admin] UnSeen
+[22:38:48] [Server thread/INFO]: Players: [Regular] HoloKirai
+[22:39:42] [Server thread/INFO]: Staff: [Admin] UnSeen
+[22:39:42] [Server thread/INFO]: Players: [Regular] HoloKirai
+[22:40:37] [Server thread/INFO]: Staff: [Admin] UnSeen
+[22:40:37] [Server thread/INFO]: Players: [Regular] HoloKirai
+[22:40:55] [Server thread/INFO]: AttrebusMede issued server command: //paste
+[22:41:31] [Server thread/INFO]: Staff: [Admin] UnSeen
+[22:41:31] [Server thread/INFO]: Players: [Regular] HoloKirai
+[22:42:26] [Server thread/INFO]: Staff: [Admin] UnSeen
+[22:42:26] [Server thread/INFO]: Players: [Regular] HoloKirai
+[22:42:34] [Server thread/INFO]: AttrebusMede issued server command: //undo
+[22:43:20] [Server thread/INFO]: Staff: [Admin] UnSeen
+[22:43:20] [Server thread/INFO]: Players: [Regular] HoloKirai
+[22:44:15] [Server thread/INFO]: Staff: [Admin] UnSeen
+[22:44:15] [Server thread/INFO]: Players: [Regular] HoloKirai
+[22:45:09] [Server thread/INFO]: Staff: [Admin] UnSeen
+[22:45:09] [Server thread/INFO]: Players: [Regular] HoloKirai
+[22:46:04] [Server thread/INFO]: Staff: [Admin] UnSeen
+[22:46:04] [Server thread/INFO]: Players: [Regular] HoloKirai
+[22:46:51] [Server thread/INFO]: AttrebusMede issued server command: //paste
+[22:47:03] [Server thread/INFO]: Staff: [Admin] UnSeen
+[22:47:03] [Server thread/INFO]: Players: [Regular] HoloKirai
+[22:47:47] [Server thread/INFO]: AttrebusMede issued server command: //undo
+[22:47:53] [Server thread/INFO]: Staff: [Admin] UnSeen
+[22:47:53] [Server thread/INFO]: Players: [Regular] HoloKirai
+[22:48:47] [Server thread/INFO]: Staff: [Admin] UnSeen
+[22:48:47] [Server thread/INFO]: Players: [Regular] HoloKirai
+[22:49:06] [Server thread/INFO]: AttrebusMede issued server command: /tp holo
+[22:49:41] [Server thread/INFO]: Staff: [Admin] UnSeen
+[22:49:41] [Server thread/INFO]: Players: [Regular] HoloKirai
+[22:49:58] [Netty Epoll Server IO #6/INFO]: [Regular] HoloKirai: corner
+[22:50:36] [Server thread/INFO]: Staff: [Admin] UnSeen
+[22:50:36] [Server thread/INFO]: Players: [Regular] HoloKirai
+[22:51:30] [Server thread/INFO]: Staff: [Admin] UnSeen
+[22:51:30] [Server thread/INFO]: Players: [Regular] HoloKirai
+[22:52:25] [Server thread/INFO]: Staff: [Admin] UnSeen
+[22:52:25] [Server thread/INFO]: Players: [Regular] HoloKirai
+[22:53:19] [Server thread/INFO]: Staff: [Admin] UnSeen
+[22:53:19] [Server thread/INFO]: Players: [Regular] HoloKirai
+[22:54:14] [Server thread/INFO]: Staff: [Admin] UnSeen
+[22:54:14] [Server thread/INFO]: Players: [Regular] HoloKirai
+[22:55:08] [Server thread/INFO]: Staff: [Admin] UnSeen
+[22:55:08] [Server thread/INFO]: Players: [Regular] HoloKirai
+[22:56:03] [Server thread/INFO]: Staff: [Admin] UnSeen
+[22:56:03] [Server thread/INFO]: Players: [Regular] HoloKirai
+[22:56:57] [Server thread/INFO]: Staff: [Admin] UnSeen
+[22:56:57] [Server thread/INFO]: Players: [Regular] HoloKirai
+[22:57:35] [Server thread/INFO]: AttrebusMede issued server command: /survival
+[22:57:51] [Server thread/INFO]: Staff: [Admin] UnSeen
+[22:57:51] [Server thread/INFO]: Players: [Regular] HoloKirai
+[22:57:52] [Server thread/INFO]: AttrebusMede issued server command: /survival
+[22:58:46] [Server thread/INFO]: Staff: [Admin] UnSeen
+[22:58:46] [Server thread/INFO]: Players: [Regular] HoloKirai
+[22:59:40] [Server thread/INFO]: Staff: [Admin] UnSeen
+[22:59:40] [Server thread/INFO]: Players: [Regular] HoloKirai
+[23:00:35] [Server thread/INFO]: Staff: [Admin] UnSeen
+[23:00:35] [Server thread/INFO]: Players: [Regular] HoloKirai
+[23:01:29] [Server thread/INFO]: Staff: [Admin] UnSeen
+[23:01:29] [Server thread/INFO]: Players: [Regular] HoloKirai
+[23:02:24] [Server thread/INFO]: Staff: [Admin] UnSeen
+[23:02:24] [Server thread/INFO]: Players: [Regular] HoloKirai
+[23:03:18] [Server thread/INFO]: Staff: [Admin] UnSeen
+[23:03:18] [Server thread/INFO]: Players: [Regular] HoloKirai
+[23:04:13] [Server thread/INFO]: Staff: [Admin] UnSeen
+[23:04:13] [Server thread/INFO]: Players: [Regular] HoloKirai
+[23:05:07] [Server thread/INFO]: Staff: [Admin] UnSeen
+[23:05:07] [Server thread/INFO]: Players: [Regular] HoloKirai
+[23:06:01] [Server thread/INFO]: Staff: [Admin] UnSeen
+[23:06:01] [Server thread/INFO]: Players: [AFK][Regular] HoloKirai
+[23:06:56] [Server thread/INFO]: Staff: [AFK][Admin] UnSeen
+[23:06:56] [Server thread/INFO]: Players: [AFK][Regular] HoloKirai
+[23:07:50] [Server thread/INFO]: Staff: [AFK][Admin] UnSeen
+[23:07:50] [Server thread/INFO]: Players: [AFK][Regular] HoloKirai
+[23:08:45] [Server thread/INFO]: Staff: [AFK][Admin] UnSeen
+[23:08:45] [Server thread/INFO]: Players: [AFK][Regular] HoloKirai
+[23:09:39] [Server thread/INFO]: Staff: [AFK][Admin] UnSeen
+[23:09:39] [Server thread/INFO]: Players: [AFK][Regular] HoloKirai
+[23:10:04] [Server thread/INFO]: AttrebusMede left the game.
+[23:10:29] [Server thread/INFO]: HoloKirai left the game.

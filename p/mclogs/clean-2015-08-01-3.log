@@ -1,0 +1,506 @@
+[00:05:01] [main/INFO]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[00:05:05] [Server thread/INFO]: MinecraftForge v10.13.4.1448 Initialized
+[00:05:05] [Server thread/INFO]: Replaced 183 ore recipies
+[00:05:05] [Server thread/INFO]: Found 0 mods from the command line. Injecting into mod discoverer
+[00:05:05] [Server thread/INFO]: Searching /home/root/multicraft/servers/server435620/mods for mods
+[00:05:05] [Server thread/INFO]: Also searching /home/root/multicraft/servers/server435620/mods/1.7.10 for mods
+[00:05:08] [Server thread/INFO]: Forge Mod Loader has identified 38 mods to load
+[00:05:10] [Server thread/INFO]: Preparing to take over the world
+[00:05:11] [Server thread/INFO]: Designs found: Bed(6), Chisel(9), FlowerPot(18), Tile(13)
+[00:05:11] [Server thread/INFO]: Mantle (1.7.10-0.3.2.jenkins184) -- Preparing for launch.
+[00:05:12] [Server thread/INFO]: Gear module active. Adding gear cast.
+[00:05:12] [Server thread/INFO]: Twilight Forest Detected
+[00:05:12] [Server thread/INFO]: Thaumcraft Detected
+[00:05:16] [Server thread/INFO]: Applying holder lookups
+[00:05:16] [Server thread/INFO]: Holder lookups applied
+[00:05:16] [Server thread/INFO]: Injecting itemstacks
+[00:05:16] [Server thread/INFO]: Loading properties
+[00:05:16] [Server thread/INFO]: Default game type: SURVIVAL
+[00:05:16] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[00:05:16] [Server thread/INFO]: Using 4 threads for Netty based IO
+[00:05:17] [Server thread/INFO]: Thaumcraft detected. Registering harvestables.
+[00:05:18] [Server thread/INFO]: InfernalMobsCore load() completed! Modifiers ready: 27
+[00:05:18] [Server thread/INFO]: Injecting itemstacks
+[00:05:18] [Server thread/INFO]: ## Chest items register ##
+[00:05:18] [Server thread/INFO]: Loading Manual XML from: /assets/mantle/manuals/test.xml
+[00:05:18] [Server thread/INFO]: Thaumcraft detected. Adding thaumium tools.
+[00:05:19] [Server thread/INFO]: item.apple0: 15: 1: 3
+[00:05:19] [Server thread/INFO]: item.appleGold0: 1: 1: 1
+[00:05:19] [Server thread/INFO]: item.arrow0: 30: 2: 7
+[00:05:19] [Server thread/INFO]: item.book0: 20: 1: 3
+[00:05:19] [Server thread/INFO]: item.bread0: 14: 1: 1
+[00:05:19] [Server thread/INFO]: item.bucket0: 10: 1: 1
+[00:05:19] [Server thread/INFO]: item.coal0: 10: 3: 8
+[00:05:19] [Server thread/INFO]: item.compass0: 1: 1: 1
+[00:05:19] [Server thread/INFO]: item.dyePowder.blue4: 5: 4: 9
+[00:05:19] [Server thread/INFO]: item.emerald0: 2: 1: 3
+[00:05:19] [Server thread/INFO]: item.emptyMap0: 1: 1: 1
+[00:05:19] [Server thread/INFO]: item.enchantedBook0: 1: 1: 1
+[00:05:19] [Server thread/INFO]: item.enderPearl0: 10: 1: 1
+[00:05:19] [Server thread/INFO]: item.horsearmorgold0: 1: 1: 1
+[00:05:19] [Server thread/INFO]: item.horsearmormetal0: 1: 1: 1
+[00:05:19] [Server thread/INFO]: item.ingotGold0: 5: 1: 3
+[00:05:19] [Server thread/INFO]: item.nameTag0: 10: 1: 1
+[00:05:19] [Server thread/INFO]: item.paper0: 20: 2: 7
+[00:05:19] [Server thread/INFO]: item.record0: 10: 1: 1
+[00:05:19] [Server thread/INFO]: item.rottenFlesh0: 16: 3: 7
+[00:05:19] [Server thread/INFO]: item.saddle0: 2: 1: 1
+[00:05:19] [Server thread/INFO]: item.seeds_pumpkin0: 10: 2: 4
+[00:05:19] [Server thread/INFO]: item.string0: 10: 1: 4
+[00:05:19] [Server thread/INFO]: item.sulphur0: 10: 1: 4
+[00:05:19] [Server thread/INFO]: tile.obsidian0: 5: 3: 7
+[00:05:19] [Server thread/INFO]: tile.rail0: 1: 4: 8
+[00:05:19] [Server thread/INFO]: tile.sapling.oak0: 5: 3: 7
+[00:05:19] [Server thread/INFO]: Total Weight: 375
+[00:05:19] [Server thread/INFO]: TwilightForestMod mod found.
+[00:05:19] [Server thread/INFO]: Success in registering ThaumicTinkerer
+[00:05:19] [Server thread/INFO]: Forge Mod Loader has successfully loaded 38 mods
+[00:05:21] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v5.6.3
+[00:05:22] [Server thread/INFO]: Preparing spawn area: 6%
+[00:05:24] [Server thread/INFO]: Preparing spawn area: 13%
+[00:05:25] [Server thread/INFO]: Preparing spawn area: 19%
+[00:05:26] [Server thread/INFO]: Preparing spawn area: 25%
+[00:05:27] [Server thread/INFO]: Preparing spawn area: 30%
+[00:05:28] [Server thread/INFO]: Preparing spawn area: 39%
+[00:05:29] [Server thread/INFO]: Preparing spawn area: 49%
+[00:05:30] [Server thread/INFO]: Preparing spawn area: 55%
+[00:05:32] [Server thread/INFO]: Preparing spawn area: 62%
+[00:05:33] [Server thread/INFO]: Preparing spawn area: 73%
+[00:05:34] [Server thread/INFO]: Preparing spawn area: 80%
+[00:05:35] [Server thread/INFO]: Preparing spawn area: 91%
+[00:05:36] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v5.6.3
+[00:05:57] [Server thread/INFO]: Assigning initial aspects to Crustifer
+[00:05:57] [Server thread/INFO]: Crustifer left the game.
+[00:06:01] [Server thread/INFO]: Crustifer left the game.
+[00:06:03] [Server thread/INFO]: Assigning initial aspects to Twistybeef
+[00:06:03] [Server thread/INFO]: Twistybeef left the game.
+[00:06:05] [Server thread/INFO]: Crustifer left the game.
+[00:09:05] [Server thread/INFO]: Crustifer left the game.
+[00:12:39] [Server thread/INFO]: Twistybeef left the game.
+[00:18:31] [Server thread/INFO]: Twistybeef issued server command: /gamemode 1
+[00:18:31] [Server thread/INFO]: Twistybeef: Set own game mode to CREATIVE mode
+[00:23:13] [Server thread/INFO]: Twistybeef has just earned the achievement [Taking Inventory]
+[00:23:20] [Server thread/INFO]: [Twistybeef: Given [TNT] * 64 to Twistybeef]
+[00:23:41] [Server thread/INFO]: [Twistybeef: Given [Flint] * 64 to Twistybeef]
+[00:23:43] [Server thread/INFO]: [Twistybeef: Given [Flint] * 1 to Twistybeef]
+[00:23:46] [Server thread/INFO]: Crustifer issued server command: /gamemode 1
+[00:23:46] [Server thread/INFO]: Crustifer: Set own game mode to CREATIVE mode
+[00:23:52] [Server thread/INFO]: Crustifer has just earned the achievement [Taking Inventory]
+[00:23:57] [Server thread/INFO]: [Twistybeef: Given [Flint and Steel] * 1 to Twistybeef]
+[00:24:30] [Server thread/INFO]: Crustifer has just earned the achievement [Getting Wood]
+[00:25:14] [Server thread/INFO]: Twistybeef has just earned the achievement [Getting Wood]
+[00:25:17] [Server thread/INFO]: Crustifer issued server command: /fb
+[00:25:21] [Server thread/INFO]: Crustifer issued server command: /wb
+[00:25:24] [Server thread/INFO]: Crustifer issued server command: /help
+[00:26:39] [Server thread/INFO]: Crustifer issued server command: /speed
+[00:26:44] [Server thread/INFO]: Crustifer issued server command: //speed
+[00:26:47] [Server thread/INFO]: Crustifer issued server command: //walk
+[00:27:46] [Server thread/INFO]: Crustifer issued server command: /tphere
+[00:28:00] [Server thread/INFO]: Crustifer issued server command: /spawn
+[00:28:01] [Server thread/INFO]: Twistybeef issued server command: /spawn
+[00:28:12] [Server thread/INFO]: Crustifer issued server command: /tp twistybeef crustifer
+[00:28:12] [Server thread/INFO]: Crustifer: Teleported Twistybeef to Crustifer
+[00:28:23] [Server thread/INFO]: 0
+[00:29:11] [Server thread/INFO]: Crustifer has just earned the achievement [Learning to Tinker]
+[00:29:11] [Server thread/INFO]: [Twistybeef: Given [Bedrock] * 64 to Twistybeef]
+[00:29:29] [Server thread/INFO]: [Crustifer: Given [Smeltery Drain] * 1 to Crustifer]
+[00:29:30] [Server thread/INFO]: [Crustifer: Given [Seared Bricks] * 1 to Crustifer]
+[00:29:50] [Server thread/INFO]: [Crustifer: Given [Seared Tank] * 1 to Crustifer]
+[00:29:51] [Server thread/INFO]: [Crustifer: Given [Seared Glass] * 1 to Crustifer]
+[00:30:04] [Server thread/INFO]: [Crustifer: Given [Casting Table] * 1 to Crustifer]
+[00:30:04] [Server thread/INFO]: [Crustifer: Given [Seared Faucet] * 1 to Crustifer]
+[00:30:05] [Server thread/INFO]: [Crustifer: Given [Casting Basin] * 1 to Crustifer]
+[00:30:34] [Server thread/INFO]: Twistybeef fell out of the world
+[00:31:10] [Server thread/INFO]: [Crustifer: Given [Mighty Smelting] * 64 to Crustifer]
+[00:31:13] [Server thread/INFO]: [Crustifer: Given [Mighty Smelting] * 1 to Crustifer]
+[00:31:43] [Server thread/INFO]: Crustifer issued server command: //pos1
+[00:31:50] [Server thread/INFO]: Crustifer issued server command: //pos2
+[00:31:53] [Server thread/INFO]: Crustifer issued server command: //expand 10
+[00:31:54] [Server thread/INFO]: Crustifer issued server command: //set air
+[00:32:30] [Server thread/INFO]: [Crustifer: Given [Wooden Axe] * 1 to Crustifer]
+[00:32:49] [Server thread/INFO]: Crustifer issued server command: //set seared bricks
+[00:32:51] [Server thread/INFO]: [Twistybeef: Given [Wooden Axe] * 1 to Twistybeef]
+[00:32:54] [Server thread/INFO]: Crustifer issued server command: //set searedbricks
+[00:33:36] [Server thread/INFO]: Crustifer issued server command: //sphere tnt 50
+[00:33:57] [Server thread/INFO]: Twistybeef issued server command: /set spawn
+[00:36:10] [Server thread/INFO]: Crustifer issued server command: //undo
+[00:36:39] [Server thread/INFO]: Twistybeef left the game.
+[00:36:39] [Server thread/INFO]: Crustifer left the game.
+[00:37:44] [Server thread/ERROR]: 	 FML : 100
+[00:37:44] [Server thread/ERROR]: 	 FML : 200
+[00:37:44] [Server thread/ERROR]: 	 FML : 300
+[00:37:44] [Server thread/ERROR]: 	 FML : 400
+[00:37:44] [Server thread/ERROR]: 	 FML : 500
+[00:37:44] [Server thread/ERROR]: 	 FML : 600
+[00:37:44] [Server thread/ERROR]: 	 FML : 700
+[00:37:44] [Server thread/ERROR]: 	 FML : 800
+[00:37:44] [Server thread/ERROR]: 	 FML : 900
+[00:37:44] [Server thread/ERROR]: 	 FML : 1000
+[00:37:44] [Server thread/ERROR]: 	 FML : 1100
+[00:37:44] [Server thread/ERROR]: 	 FML : 1200
+[00:37:44] [Server thread/ERROR]: 	 FML : 1300
+[00:37:44] [Server thread/ERROR]: 	 FML : 1400
+[00:37:44] [Server thread/ERROR]: 	 FML : 1500
+[00:37:44] [Server thread/ERROR]: 	 FML : 1600
+[00:37:44] [Server thread/ERROR]: 	 FML : 1700
+[00:37:44] [Server thread/ERROR]: 	 FML : 1800
+[00:37:44] [Server thread/ERROR]: 	 FML : 1900
+[00:37:44] [Server thread/ERROR]: 	 FML : 2000
+[00:37:45] [Server thread/ERROR]: 	 FML : 2100
+[00:37:45] [Server thread/ERROR]: 	 FML : 2200
+[00:37:45] [Server thread/ERROR]: 	 FML : 2300
+[00:37:45] [Server thread/ERROR]: 	 FML : 2400
+[00:37:45] [Server thread/ERROR]: 	 FML : 2500
+[00:37:45] [Server thread/ERROR]: 	 FML : 2600
+[00:37:45] [Server thread/ERROR]: 	 FML : 2700
+[00:37:45] [Server thread/ERROR]: 	 FML : 2800
+[00:37:45] [Server thread/ERROR]: 	 FML : 2900
+[00:37:45] [Server thread/ERROR]: 	 FML : 3000
+[00:37:45] [Server thread/ERROR]: 	 FML : 3100
+[00:37:45] [Server thread/ERROR]: 	 FML : 3200
+[00:37:45] [Server thread/ERROR]: 	 FML : 3300
+[00:37:45] [Server thread/ERROR]: 	 FML : 3400
+[00:37:45] [Server thread/ERROR]: 	 FML : 3500
+[00:37:45] [Server thread/ERROR]: 	 FML : 3600
+[00:38:34] [Server thread/INFO]: [Crustifer: Given [Light Gray Carpet] * 1 to Crustifer]
+[00:38:40] [Server thread/INFO]: [Crustifer: Given [Wand Focus: Warding] * 1 to Crustifer]
+[00:38:41] [Server thread/INFO]: [Crustifer: Given [Wand Focus: Warding] * 1 to Crustifer]
+[00:38:50] [Server thread/INFO]: [Crustifer: Given [Void Aspected §kAlchemical§r Wand] * 1 to Crustifer]
+[00:38:51] [Server thread/INFO]: Twistybeef left the game.
+[00:39:32] [Server thread/INFO]: Crustifer left the game.
+[00:40:53] [Server thread/INFO]: [Crustifer: Given [Firework Rocket] * 1 to Crustifer]
+[00:41:49] [Server thread/INFO]: Crustifer issued server command: /kill
+[00:41:49] [Server thread/INFO]: Crustifer died
+[00:41:55] [Server thread/INFO]: Crustifer issued server command: //kill entities
+[00:41:56] [Server thread/INFO]: Crustifer issued server command: //help
+[00:41:58] [Server thread/INFO]: Crustifer issued server command: //help 2
+[00:41:59] [Server thread/INFO]: Crustifer issued server command: //help
+[00:42:45] [Server thread/INFO]: Crustifer issued server command: //removenear
+[00:42:59] [Server thread/INFO]: Crustifer issued server command: //del
+[00:43:00] [Server thread/INFO]: Crustifer issued server command: //del
+[00:43:01] [Server thread/INFO]: Crustifer issued server command: //delete
+[00:43:35] [Server thread/INFO]: Twistybeef issued server command: /tp twistybeef crustifer
+[00:43:35] [Server thread/INFO]: Twistybeef: Teleported Twistybeef to Crustifer
+[00:43:47] [Server thread/INFO]: Twistybeef left the game.
+[00:44:06] [Server thread/INFO]: Crustifer issued server command: //remvoe
+[00:44:38] [Server thread/INFO]: Crustifer issued server command: /tp twistybeef crustifer
+[00:44:38] [Server thread/INFO]: Crustifer: Teleported Twistybeef to Crustifer
+[00:44:52] [Server thread/INFO]: Crustifer issued server command: //pos1
+[00:45:09] [Server thread/INFO]: Crustifer issued server command: //pos2
+[00:45:29] [Server thread/INFO]: Crustifer issued server command: //help
+[00:45:31] [Server thread/INFO]: Crustifer issued server command: //
+[00:45:35] [Server thread/INFO]: Crustifer issued server command: //pos1
+[00:45:36] [Server thread/INFO]: [Twistybeef: Given [Legendary Loot Bag] * 1 to Twistybeef]
+[00:45:37] [Server thread/INFO]: [Twistybeef: Given [Legendary Loot Bag] * 1 to Twistybeef]
+[00:45:37] [Server thread/INFO]: [Twistybeef: Given [Legendary Loot Bag] * 1 to Twistybeef]
+[00:45:37] [Server thread/INFO]: [Twistybeef: Given [Legendary Loot Bag] * 1 to Twistybeef]
+[00:45:37] [Server thread/INFO]: [Twistybeef: Given [Legendary Loot Bag] * 1 to Twistybeef]
+[00:45:37] [Server thread/INFO]: [Twistybeef: Given [Legendary Loot Bag] * 1 to Twistybeef]
+[00:45:38] [Server thread/INFO]: [Twistybeef: Given [Legendary Loot Bag] * 1 to Twistybeef]
+[00:45:38] [Server thread/INFO]: [Twistybeef: Given [Legendary Loot Bag] * 1 to Twistybeef]
+[00:45:38] [Server thread/INFO]: [Twistybeef: Given [Legendary Loot Bag] * 1 to Twistybeef]
+[00:45:38] [Server thread/INFO]: [Twistybeef: Given [Legendary Loot Bag] * 1 to Twistybeef]
+[00:45:38] [Server thread/INFO]: [Twistybeef: Given [Legendary Loot Bag] * 1 to Twistybeef]
+[00:45:38] [Server thread/INFO]: [Twistybeef: Given [Legendary Loot Bag] * 1 to Twistybeef]
+[00:45:39] [Server thread/INFO]: [Twistybeef: Given [Legendary Loot Bag] * 1 to Twistybeef]
+[00:45:39] [Server thread/INFO]: [Twistybeef: Given [Legendary Loot Bag] * 1 to Twistybeef]
+[00:45:39] [Server thread/INFO]: [Twistybeef: Given [Legendary Loot Bag] * 1 to Twistybeef]
+[00:45:39] [Server thread/INFO]: [Twistybeef: Given [Legendary Loot Bag] * 1 to Twistybeef]
+[00:45:39] [Server thread/INFO]: [Twistybeef: Given [Legendary Loot Bag] * 1 to Twistybeef]
+[00:45:39] [Server thread/INFO]: [Twistybeef: Given [Legendary Loot Bag] * 1 to Twistybeef]
+[00:45:40] [Server thread/INFO]: [Twistybeef: Given [Legendary Loot Bag] * 1 to Twistybeef]
+[00:45:40] [Server thread/INFO]: [Twistybeef: Given [Legendary Loot Bag] * 1 to Twistybeef]
+[00:45:40] [Server thread/INFO]: [Twistybeef: Given [Legendary Loot Bag] * 1 to Twistybeef]
+[00:45:40] [Server thread/INFO]: [Twistybeef: Given [Legendary Loot Bag] * 1 to Twistybeef]
+[00:45:40] [Server thread/INFO]: [Twistybeef: Given [Legendary Loot Bag] * 1 to Twistybeef]
+[00:45:40] [Server thread/INFO]: [Twistybeef: Given [Legendary Loot Bag] * 1 to Twistybeef]
+[00:45:40] [Server thread/INFO]: [Twistybeef: Given [Legendary Loot Bag] * 1 to Twistybeef]
+[00:45:41] [Server thread/INFO]: [Twistybeef: Given [Legendary Loot Bag] * 1 to Twistybeef]
+[00:45:41] [Server thread/INFO]: [Twistybeef: Given [Legendary Loot Bag] * 1 to Twistybeef]
+[00:45:41] [Server thread/INFO]: [Twistybeef: Given [Legendary Loot Bag] * 1 to Twistybeef]
+[00:45:41] [Server thread/INFO]: [Twistybeef: Given [Legendary Loot Bag] * 1 to Twistybeef]
+[00:45:41] [Server thread/INFO]: Crustifer issued server command: //pos2
+[00:45:41] [Server thread/INFO]: [Twistybeef: Given [Legendary Loot Bag] * 1 to Twistybeef]
+[00:45:41] [Server thread/INFO]: [Twistybeef: Given [Legendary Loot Bag] * 1 to Twistybeef]
+[00:45:43] [Server thread/INFO]: Crustifer issued server command: //help
+[00:45:58] [Server thread/INFO]: 0
+[00:46:04] [Server thread/INFO]: 0
+[00:46:04] [Server thread/INFO]: 0
+[00:46:04] [Server thread/INFO]: 0
+[00:46:04] [Server thread/INFO]: 0
+[00:46:04] [Server thread/INFO]: 0
+[00:46:15] [Server thread/INFO]: 0
+[00:46:15] [Server thread/INFO]: 0
+[00:46:24] [Server thread/INFO]: 0
+[00:46:27] [Server thread/INFO]: 0
+[00:46:27] [Server thread/INFO]: 0
+[00:46:27] [Server thread/INFO]: 0
+[00:46:27] [Server thread/INFO]: 0
+[00:46:27] [Server thread/INFO]: 0
+[00:46:32] [Server thread/INFO]: Crustifer issued server command: /time 0
+[00:46:36] [Server thread/INFO]: Crustifer issued server command: /time set 0
+[00:46:36] [Server thread/INFO]: Crustifer: Set time to 0
+[00:46:36] [Server thread/INFO]: 0
+[00:46:36] [Server thread/INFO]: 0
+[00:46:36] [Server thread/INFO]: 0
+[00:46:36] [Server thread/INFO]: 0
+[00:46:43] [Server thread/INFO]: 0
+[00:46:43] [Server thread/INFO]: 0
+[00:46:43] [Server thread/INFO]: 0
+[00:46:49] [Server thread/INFO]: 0
+[00:46:49] [Server thread/INFO]: 0
+[00:46:49] [Server thread/INFO]: 0
+[00:46:49] [Server thread/INFO]: 0
+[00:47:01] [Server thread/INFO]: 0
+[00:47:04] [Server thread/INFO]: Crustifer issued server command: //wand
+[00:47:13] [Server thread/INFO]: Crustifer issued server command: //expand 10
+[00:47:19] [Server thread/INFO]: Crustifer issued server command: //set 451:2
+[00:47:23] [Server thread/INFO]: 0
+[00:47:23] [Server thread/INFO]: 0
+[00:47:23] [Server thread/INFO]: 0
+[00:47:28] [Server thread/INFO]: 0
+[00:47:28] [Server thread/INFO]: 0
+[00:47:28] [Server thread/INFO]: 0
+[00:47:28] [Server thread/INFO]: Crustifer issued server command: //set 429:2
+[00:47:32] [Server thread/INFO]: 0
+[00:47:32] [Server thread/INFO]: 0
+[00:47:32] [Server thread/INFO]: 0
+[00:47:32] [Server thread/INFO]: 0
+[00:47:32] [Server thread/INFO]: 0
+[00:47:50] [Server thread/INFO]: [Crustifer: Given [Void Aspected §kAlchemical§r Wand] * 1 to Crustifer]
+[00:47:51] [Server thread/INFO]: 0
+[00:47:51] [Server thread/INFO]: 0
+[00:47:51] [Server thread/INFO]: 0
+[00:47:51] [Server thread/INFO]: 0
+[00:47:58] [Server thread/INFO]: 0
+[00:47:58] [Server thread/INFO]: 0
+[00:48:03] [Server thread/INFO]: 0
+[00:48:03] [Server thread/INFO]: 0
+[00:48:03] [Server thread/INFO]: 0
+[00:48:03] [Server thread/INFO]: 0
+[00:48:03] [Server thread/INFO]: 0
+[00:48:04] [Server thread/INFO]: [Crustifer: Given [Aura Node] * 1 to Crustifer]
+[00:48:06] [Server thread/INFO]: 0
+[00:48:07] [Server thread/INFO]: 0
+[00:48:07] [Server thread/INFO]: 0
+[00:48:08] [Server thread/INFO]: [Crustifer: Given [Advanced Node Stabilizer] * 1 to Crustifer]
+[00:48:08] [Server thread/INFO]: 0
+[00:48:10] [Server thread/INFO]: 0
+[00:48:10] [Server thread/INFO]: 0
+[00:48:10] [Server thread/INFO]: 0
+[00:48:20] [Server thread/INFO]: 0
+[00:48:20] [Server thread/INFO]: 0
+[00:48:20] [Server thread/INFO]: 0
+[00:48:20] [Server thread/INFO]: 0
+[00:48:20] [Server thread/INFO]: 0
+[00:48:23] [Server thread/INFO]: 0
+[00:48:23] [Server thread/INFO]: 0
+[00:48:24] [Server thread/INFO]: 0
+[00:48:24] [Server thread/INFO]: 0
+[00:48:24] [Server thread/INFO]: 0
+[00:48:26] [Server thread/INFO]: 0
+[00:48:26] [Server thread/INFO]: 0
+[00:48:26] [Server thread/INFO]: 0
+[00:48:26] [Server thread/INFO]: 0
+[00:48:26] [Server thread/INFO]: 0
+[00:48:33] [Server thread/INFO]: 0
+[00:48:33] [Server thread/INFO]: 0
+[00:48:33] [Server thread/INFO]: 0
+[00:48:33] [Server thread/INFO]: 0
+[00:48:33] [Server thread/INFO]: 0
+[00:48:45] [Server thread/INFO]: [Crustifer: Given [Goggles of Revealing] * 1 to Crustifer]
+[00:48:49] [Server thread/INFO]: 0
+[00:48:49] [Server thread/INFO]: 0
+[00:48:49] [Server thread/INFO]: 0
+[00:48:49] [Server thread/INFO]: 0
+[00:48:51] [Server thread/INFO]: 0
+[00:48:51] [Server thread/INFO]: 0
+[00:48:51] [Server thread/INFO]: 0
+[00:48:53] [Server thread/INFO]: 0
+[00:48:53] [Server thread/INFO]: 0
+[00:48:53] [Server thread/INFO]: 0
+[00:48:55] [Server thread/INFO]: 0
+[00:48:55] [Server thread/INFO]: 0
+[00:48:55] [Server thread/INFO]: 0
+[00:49:02] [Server thread/INFO]: [Crustifer: Given [Node Stabilizer] * 1 to Crustifer]
+[00:49:25] [Server thread/INFO]: [Crustifer: Given [Aura Node] * 64 to Crustifer]
+[00:50:44] [Server thread/INFO]: Crustifer issued server command: /thaumcraft
+[00:50:48] [Server thread/INFO]: Crustifer issued server command: /thaumcraft research all
+[00:50:55] [Server thread/INFO]: Crustifer issued server command: /thaumcraft research Crustifer all
+[00:51:10] [Server thread/INFO]: Crustifer issued server command: /thaumcraft research twistybeef all
+[00:51:36] [Server thread/INFO]: [Crustifer: Given [Vis Relay] * 1 to Crustifer]
+[00:55:10] [Server thread/INFO]: [Crustifer: Given [Node Transducer] * 64 to Crustifer]
+[00:55:25] [Server thread/INFO]: [Crustifer: Given [Lever] * 1 to Crustifer]
+[00:58:15] [Server thread/INFO]: [Crustifer: Given [Wand Focus: Fire] * 1 to Crustifer]
+[00:58:28] [Server thread/INFO]: Crustifer issued server command: /exp
+[00:58:29] [Server thread/INFO]: Crustifer issued server command: /exp
+[00:58:30] [Server thread/INFO]: Crustifer issued server command: /giveexp
+[00:58:33] [Server thread/INFO]: Crustifer issued server command: /experience
+[00:59:02] [Server thread/INFO]: [Crustifer: Given [Bottle o' Enchanting] * 1 to Crustifer]
+[00:59:10] [Server thread/INFO]: Crustifer issued server command: /gamemode 1
+[00:59:13] [Server thread/INFO]: Crustifer issued server command: /gamemode 0
+[00:59:13] [Server thread/INFO]: Crustifer: Set own game mode to SURVIVAL mode
+[00:59:18] [Server thread/INFO]: [Crustifer: Given [Bottle o' Enchanting] * 1 to Crustifer]
+[00:59:19] [Server thread/INFO]: [Crustifer: Given [Bottle o' Enchanting] * 64 to Crustifer]
+[00:59:19] [Server thread/INFO]: [Crustifer: Given [Bottle o' Enchanting] * 64 to Crustifer]
+[01:00:34] [Server thread/INFO]: Crustifer issued server command: /gamemode 1
+[01:00:34] [Server thread/INFO]: Crustifer: Set own game mode to CREATIVE mode
+[01:00:48] [Server thread/INFO]: [Crustifer: Given [Bottle o' Enchanting] * 64 to Crustifer]
+[01:01:40] [Server thread/INFO]: [Crustifer: Given [Hooksword] * 1 to Crustifer]
+[01:02:25] [Server thread/INFO]: Crustifer issued server command: /gamemode 0
+[01:02:25] [Server thread/INFO]: Crustifer: Set own game mode to SURVIVAL mode
+[01:02:31] [Server thread/INFO]: [Crustifer: Given [Hookshoot] * 1 to Crustifer]
+[01:02:32] [Server thread/INFO]: [Crustifer: Given [Manualhook] * 1 to Crustifer]
+[01:02:32] [Server thread/INFO]: [Crustifer: Given [Spiderhook] * 1 to Crustifer]
+[01:03:28] [Server thread/INFO]: Crustifer was slain by Spider
+[01:03:40] [Server thread/INFO]: Crustifer issued server command: /gamemode 1
+[01:03:40] [Server thread/INFO]: Crustifer: Set own game mode to CREATIVE mode
+[01:04:21] [Server thread/INFO]: Crustifer issued server command: /plugins
+[01:05:50] [Server thread/INFO]: Twistybeef issued server command: /tp spawn
+[01:06:00] [Server thread/INFO]: Twistybeef issued server command: /tp twistybeef crustifer
+[01:06:00] [Server thread/INFO]: Twistybeef: Teleported Twistybeef to Crustifer
+[01:06:51] [Server thread/INFO]: Crustifer has just earned the achievement [Twilight Portal]
+[01:09:19] [Server thread/INFO]: [TwilightForest] Found ideal portal spot
+[01:09:44] [Server thread/INFO]: Crustifer left the game.
+[01:09:44] [Server thread/INFO]: Twistybeef left the game.
+[01:10:19] [Server thread/INFO]: Crustifer has just earned the achievement [Twilight Arrival]
+[01:11:44] [Server thread/INFO]: Crustifer left the game.
+[01:13:21] [Server thread/INFO]: Crustifer issued server command: //expand 20
+[01:13:22] [Server thread/INFO]: [Twistybeef: Given [Flint and Steel] * 1 to Twistybeef]
+[01:13:24] [Server thread/INFO]: Crustifer issued server command: //expand 20
+[01:13:42] [Server thread/INFO]: Crustifer issued server command: //set 429:2
+[01:13:52] [Server thread/INFO]: Crustifer issued server command: //walls 429:2
+[01:14:19] [Server thread/INFO]: Crustifer issued server command: /tp twistybeef
+[01:14:19] [Server thread/INFO]: Crustifer: Teleported Crustifer to Twistybeef
+[01:15:07] [Server thread/INFO]: Crustifer left the game.
+[01:15:07] [Server thread/INFO]: Twistybeef left the game.
+[01:20:54] [Server thread/INFO]: Twistybeef issued server command: /gamemode survival
+[01:20:54] [Server thread/INFO]: Twistybeef: Set own game mode to SURVIVAL mode
+[01:21:42] [Server thread/INFO]: Twistybeef has just earned the achievement [Twilight Portal]
+[01:21:42] [Server thread/INFO]: Twistybeef has just earned the achievement [Twilight Arrival]
+[01:22:14] [Server thread/INFO]: Crustifer issued server command: /tp twistybeef
+[01:22:14] [Server thread/INFO]: Crustifer: Teleported Crustifer to Twistybeef
+[01:22:20] [Server thread/INFO]: Twistybeef fell from a high place
+[01:22:39] [Server thread/INFO]: [Crustifer: Given [Goggles of Revealing] * 1 to Crustifer]
+[01:22:51] [Server thread/INFO]: Twistybeef issued server command: /gamemode 1
+[01:22:51] [Server thread/INFO]: Twistybeef: Set own game mode to CREATIVE mode
+[01:23:13] [Server thread/INFO]: [Crustifer: Given [Void Aspected §kAlchemical§r Wand] * 1 to Crustifer]
+[01:23:16] [Server thread/INFO]: [Twistybeef: Given [§fCobalt Crossbow] * 1 to Twistybeef]
+[01:23:18] [Server thread/INFO]: [Crustifer: Given [Wand Focus: Shadowbeam] * 1 to Crustifer]
+[01:24:30] [Server thread/INFO]: [Crustifer: Given [§fGlass Arrows] * 1 to Crustifer]
+[01:25:01] [Server thread/INFO]: Twistybeef issued server command: /gamemode survival
+[01:25:01] [Server thread/INFO]: Twistybeef: Set own game mode to SURVIVAL mode
+[01:25:39] [Server thread/INFO]: [Twistybeef: Given [Steak] * 64 to Twistybeef]
+[01:26:54] [Server thread/INFO]: Twistybeef: Set own game mode to CREATIVE mode
+[01:27:22] [Server thread/INFO]: [Crustifer: Given [Warden's Helmet] * 1 to Crustifer]
+[01:27:23] [Server thread/INFO]: [Crustifer: Given [Warden's Leggings] * 1 to Crustifer]
+[01:27:23] [Server thread/INFO]: [Crustifer: Given [Warden's Boots] * 1 to Crustifer]
+[01:27:25] [Server thread/INFO]: [Crustifer: Given [Warden's Amulet] * 1 to Crustifer]
+[01:28:03] [Server thread/INFO]: [Crustifer: Given [Ring of Runic Shielding] * 1 to Crustifer]
+[01:28:43] [Server thread/INFO]: [Crustifer: Given [Legendary Loot Bag] * 1 to Crustifer]
+[01:28:43] [Server thread/INFO]: [Crustifer: Given [Legendary Loot Bag] * 1 to Crustifer]
+[01:28:43] [Server thread/INFO]: [Crustifer: Given [Legendary Loot Bag] * 1 to Crustifer]
+[01:28:44] [Server thread/INFO]: [Crustifer: Given [Legendary Loot Bag] * 1 to Crustifer]
+[01:28:44] [Server thread/INFO]: [Crustifer: Given [Legendary Loot Bag] * 1 to Crustifer]
+[01:28:44] [Server thread/INFO]: [Crustifer: Given [Legendary Loot Bag] * 1 to Crustifer]
+[01:28:44] [Server thread/INFO]: [Crustifer: Given [Legendary Loot Bag] * 1 to Crustifer]
+[01:28:45] [Server thread/INFO]: 0
+[01:28:45] [Server thread/INFO]: 0
+[01:28:45] [Server thread/INFO]: 0
+[01:28:45] [Server thread/INFO]: 0
+[01:28:48] [Server thread/INFO]: 0
+[01:28:48] [Server thread/INFO]: 0
+[01:28:48] [Server thread/INFO]: 0
+[01:28:50] [Server thread/INFO]: 0
+[01:28:50] [Server thread/INFO]: 0
+[01:28:50] [Server thread/INFO]: 0
+[01:28:52] [Server thread/INFO]: 0
+[01:28:52] [Server thread/INFO]: 0
+[01:28:52] [Server thread/INFO]: 0
+[01:28:52] [Server thread/INFO]: 0
+[01:28:55] [Server thread/INFO]: 0
+[01:28:58] [Server thread/INFO]: 0
+[01:29:01] [Server thread/INFO]: 0
+[01:29:01] [Server thread/INFO]: 0
+[01:29:01] [Server thread/INFO]: 0
+[01:29:21] [Server thread/INFO]: [Crustifer: Given [Chocopedia] * 1 to Crustifer]
+[01:29:36] [Server thread/INFO]: [Crustifer: Given [Tri-bow] * 1 to Crustifer]
+[01:29:43] [Server thread/INFO]: [Crustifer: Given [§fGlass Arrows] * 1 to Crustifer]
+[01:29:58] [Server thread/INFO]: [Crustifer: Given [Air Arrow] * 1 to Crustifer]
+[01:30:05] [Server thread/INFO]: [Crustifer: Given [Entropy Arrow] * 64 to Crustifer]
+[01:30:06] [Server thread/INFO]: [Crustifer: Given [Entropy Arrow] * 64 to Crustifer]
+[01:30:06] [Server thread/INFO]: [Crustifer: Given [Entropy Arrow] * 64 to Crustifer]
+[01:30:11] [Server thread/INFO]: Crustifer issued server command: /tp twistybeef
+[01:30:11] [Server thread/INFO]: Crustifer: Teleported Crustifer to Twistybeef
+[01:31:13] [Server thread/INFO]: [Crustifer: Given [Knightly Sword] * 1 to Crustifer]
+[01:31:13] [Server thread/INFO]: Crustifer was blown up by Twilight Lich
+[01:31:22] [Server thread/INFO]: [Crustifer: Given [Carminite Reactor Debris] * 1 to Crustifer]
+[01:31:35] [Server thread/INFO]: [Crustifer: Given [Maze/Ore Map #0] * 1 to Crustifer]
+[01:31:40] [Server thread/INFO]: [Crustifer: Given [Maze Map #0] * 1 to Crustifer]
+[01:31:45] [Server thread/INFO]: [Crustifer: Given [Yellow Castle Rune Brick] * 1 to Crustifer]
+[01:31:46] [Server thread/INFO]: [Crustifer: Given [Yellow Castle Rune Brick] * 64 to Crustifer]
+[01:32:16] [Server thread/INFO]: [Crustifer: Given [Ender Bow] * 1 to Crustifer]
+[01:32:28] [Server thread/INFO]: [Crustifer: Given [Quiver] * 1 to Crustifer]
+[01:32:36] [Server thread/INFO]: [Crustifer: Given [Piercing Arrow] * ∞ to Crustifer]
+[01:32:54] [Server thread/INFO]: [Crustifer: Given [Earth Arrow] * 64 to Crustifer]
+[01:32:54] [Server thread/INFO]: [Crustifer: Given [Order Arrow] * 64 to Crustifer]
+[01:33:12] [Server thread/INFO]: Crustifer issued server command: /tp twistybeef
+[01:33:12] [Server thread/INFO]: Crustifer: Teleported Crustifer to Twistybeef
+[01:33:34] [Server thread/INFO]: 0
+[01:33:34] [Server thread/INFO]: 0
+[01:33:34] [Server thread/INFO]: 0
+[01:33:34] [Server thread/INFO]: 0
+[01:33:34] [Server thread/INFO]: 0
+[01:34:29] [Server thread/INFO]: [Crustifer: Given [Light Gray Tallow Candle] * 1 to Crustifer]
+[01:35:27] [Server thread/INFO]: Crustifer was blown up by Twilight Lich
+[01:36:04] [Server thread/INFO]: [Crustifer: Given [Giant's Pickaxe] * 1 to Crustifer]
+[01:36:08] [Server thread/INFO]: [Crustifer: Given [Giant's Sword] * 1 to Crustifer]
+[01:37:09] [Server thread/INFO]: Crustifer issued server command: /tp twistybeef
+[01:37:09] [Server thread/INFO]: Crustifer: Teleported Crustifer to Twistybeef
+[01:37:10] [Server thread/INFO]: Crustifer fell from a high place
+[01:37:16] [Server thread/INFO]: Crustifer issued server command: /tp twistybeef
+[01:37:16] [Server thread/INFO]: Crustifer: Teleported Crustifer to Twistybeef
+[01:37:24] [Server thread/INFO]: Crustifer issued server command: /gamemode1
+[01:37:27] [Server thread/INFO]: Crustifer issued server command: /gamemode 1
+[01:37:27] [Server thread/INFO]: Crustifer: Set own game mode to CREATIVE mode
+[01:38:45] [Server thread/INFO]: Twistybeef has just earned the achievement [Twilight Hunter]
+[01:38:56] [Server thread/INFO]: 0
+[01:39:30] [Server thread/INFO]: [Crustifer: Given [Lava Bucket] * 1 to Crustifer]
+[01:39:33] [Server thread/INFO]: [Twistybeef: Given [Naga Spawner] * 1 to Twistybeef]
+[01:40:42] [Server thread/INFO]: [Crustifer: Given [Block of Cobalt] * 64 to Crustifer]
+[01:41:22] [Server thread/INFO]: Crustifer issued server command: //wand
+[01:41:47] [Server thread/INFO]: [Twistybeef: Given [Hydra Spawner] * 64 to Twistybeef]
+[01:42:36] [Server thread/INFO]: Crustifer issued server command: //stacker 20
+[01:42:39] [Server thread/INFO]: Crustifer issued server command: //stack 20
+[01:42:48] [Server thread/INFO]: [Crustifer: Given [Cobalt Gravel Ore] * ∞ to Crustifer]
+[01:42:49] [Server thread/INFO]: [Crustifer: Given [Cobalt Gravel Ore] * ∞ to Crustifer]
+[01:42:53] [Server thread/INFO]: [Crustifer: Given [Block of Cobalt] * 64 to Crustifer]
+[01:42:55] [Server thread/INFO]: [Crustifer: Given [Block of Cobalt] * 64 to Crustifer]
+[01:42:55] [Server thread/INFO]: [Crustifer: Given [Block of Cobalt] * 64 to Crustifer]
+[01:42:55] [Server thread/INFO]: [Crustifer: Given [Block of Cobalt] * 64 to Crustifer]
+[01:42:59] [Server thread/INFO]: [Crustifer: Given [Block of Cobalt] * 64 to Crustifer]
+[01:43:36] [Server thread/INFO]: [Twistybeef: Given [tile.CQSpawner.name] * 1 to Twistybeef]
+[01:43:54] [Server thread/INFO]: [Crustifer: Given [Mighty Smelting] * 1 to Crustifer]
+[01:43:56] [Server thread/INFO]: Twistybeef issued server command: /gamemode survival
+[01:43:56] [Server thread/INFO]: Twistybeef: Set own game mode to SURVIVAL mode
+[01:44:19] [Server thread/INFO]: Twistybeef issued server command: /gamemode 1
+[01:44:19] [Server thread/INFO]: Twistybeef: Set own game mode to CREATIVE mode
+[01:46:43] [Server thread/INFO]: Crustifer issued server command: /tp twistybeef
+[01:46:43] [Server thread/INFO]: Crustifer: Teleported Crustifer to Twistybeef
+[01:48:08] [Server thread/INFO]: Crustifer issued server command: /gamemode 1
+[01:49:47] [Server thread/INFO]: Crustifer left the game.
+[01:50:29] [Server thread/INFO]: Crustifer issued server command: /gamemode 0
+[01:50:29] [Server thread/INFO]: Crustifer: Set own game mode to SURVIVAL mode
+[01:50:31] [Server thread/INFO]: Crustifer issued server command: /tgamemode 1
+[01:50:38] [Server thread/INFO]: Crustifer issued server command: /gamemode 1
+[01:50:38] [Server thread/INFO]: Crustifer: Set own game mode to CREATIVE mode
+[01:50:49] [Server thread/INFO]: [Crustifer: Given [Ore Magnet] * 1 to Crustifer]
+[01:52:26] [Server thread/INFO]: [Crustifer: Given [Light Blue Backpack] * 1 to Crustifer]
+[01:54:25] [Server thread/INFO]: Crustifer left the game.
+[01:54:45] [Server thread/INFO]: Crustifer left the game.
+[01:55:31] [Server thread/INFO]: Twistybeef issued server command: /tp overworld
+[01:57:12] [Server thread/INFO]: Twistybeef left the game.
+[19:53:01] [Server thread/INFO]: Crustifer left the game.
+[20:11:10] [Server thread/INFO]: Crustifer left the game.
+[21:09:06] [Server thread/INFO]: Crustifer left the game.
+[21:17:01] [Server thread/INFO]: Crustifer left the game.

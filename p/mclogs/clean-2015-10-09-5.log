@@ -1,0 +1,536 @@
+[21:30:59] [Server thread/INFO]: Loading properties
+[21:30:59] [Server thread/INFO]: Default game type: SURVIVAL
+[21:31:00] [Server thread/INFO]: Using epoll channel type
+[21:31:02] [Server thread/INFO]: [DisguiseCraft] Loading DisguiseCraft v5.2
+[21:31:02] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1;no_git_id
+[21:31:02] [Server thread/INFO]: [Essentials] Loading Essentials vTeamCity
+[21:31:02] [Server thread/INFO]: [PlugMan] Loading PlugMan v2.0.7
+[21:31:02] [Server thread/INFO]: [LaggRemover] Loading LaggRemover v0.1.8
+[21:31:02] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v6.1
+[21:31:02] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v2.4-b527
+[21:31:02] [Server thread/INFO]: [Splegg] Loading Splegg v1.2
+[21:31:02] [Server thread/INFO]: [EssentialsProtect] Loading EssentialsProtect vTeamCity
+[21:31:02] [Server thread/INFO]: [VoxelSniper] Loading VoxelSniper v7.1.0
+[21:31:02] [Server thread/INFO]: [mcMMO] Loading mcMMO v1.5.00-b3547
+[21:31:02] [Server thread/INFO]: [Multiverse-NetherPortals] Loading Multiverse-NetherPortals v2.4-b530
+[21:31:02] [Server thread/INFO]: [SuperVanish] Loading SuperVanish v5.4.3
+[21:31:02] [Server thread/INFO]: [Multiverse-Portals] Loading Multiverse-Portals v2.4-b548
+[21:31:02] [Server thread/INFO]: [Vault] Loading Vault v1.5.6-b49
+[21:31:02] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn vTeamCity
+[21:31:02] [Server thread/INFO]: [MinigamesLib] Loading MinigamesLib v1.13.1
+[21:31:02] [Server thread/INFO]: [Minigames] Loading Minigames v1.7.0
+[21:31:02] [Server thread/INFO]: [MobArena] Loading MobArena v0.97.1
+[21:31:02] [Server thread/INFO]: [TNTRun] Loading TNTRun v3.4
+[21:31:02] [Server thread/INFO]: [HolographicDisplays] Loading HolographicDisplays v2.1.10
+[21:31:02] [Server thread/INFO]: [CommandSigns] Loading CommandSigns v1.9.3.2
+[21:31:02] [Server thread/INFO]: [SkyWars] Loading SkyWars v1.1-m16
+[21:31:02] [Server thread/INFO]: [EpicSpleef] Loading EpicSpleef v0.0.19
+[21:31:02] [Server thread/INFO]: [OnTime] Loading OnTime v4.1.3
+[21:31:02] [Server thread/INFO]: [CraftBook] Loading CraftBook v3.9-SNAPSHOT
+[21:31:02] [Server thread/INFO]: [mcMMO] Enabling mcMMO v1.5.00-b3547
+[21:31:03] [Server thread/INFO]: [Vault] Enabling Vault v1.5.6-b49
+[21:31:05] [Server thread/INFO]: [DisguiseCraft] Enabling DisguiseCraft v5.2
+[21:31:05] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1;no_git_id
+[21:31:05] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_8_R3 as the Bukkit adapter
+[21:31:05] [Server thread/INFO]: [Essentials] Enabling Essentials vTeamCity
+[21:31:05] [Server thread/INFO]: git-Bukkit-9935adc (MC: 1.8.8)
+[21:31:05] [Server thread/INFO]: 1.8.8-R0.1-SNAPSHOT
+[21:31:05] [Server thread/INFO]: Using locale en_US
+[21:31:05] [Server thread/INFO]: Using locale en_US
+[21:31:06] [Server thread/INFO]: [PlugMan] Enabling PlugMan v2.0.7
+[21:31:06] [Server thread/INFO]: [LaggRemover] Enabling LaggRemover v0.1.8
+[21:31:06] [Server thread/INFO]: [LaggRemover] LaggRemover has been enabled!
+[21:31:06] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v6.1
+[21:31:06] [Server thread/INFO]: [WorldGuard] (TEST) Lighters are PERMITTED.
+[21:31:06] [Server thread/INFO]: [WorldGuard] (TEST) Lava fire is blocked.
+[21:31:06] [Server thread/INFO]: [WorldGuard] (TEST) Fire spread is UNRESTRICTED.
+[21:31:06] [Server thread/INFO]: [WorldGuard] (TEST_nether) Lighters are PERMITTED.
+[21:31:06] [Server thread/INFO]: [WorldGuard] (TEST_nether) Lava fire is blocked.
+[21:31:06] [Server thread/INFO]: [WorldGuard] (TEST_nether) Fire spread is UNRESTRICTED.
+[21:31:06] [Server thread/INFO]: [WorldGuard] (TEST_the_end) Lighters are PERMITTED.
+[21:31:06] [Server thread/INFO]: [WorldGuard] (TEST_the_end) Lava fire is blocked.
+[21:31:06] [Server thread/INFO]: [WorldGuard] (TEST_the_end) Fire spread is UNRESTRICTED.
+[21:31:06] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v2.4-b527
+[21:31:07] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'TEST' - Env: NORMAL - Type: NORMAL & seed: -2024018835920597302
+[21:31:07] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'TEST_nether' - Env: NETHER - Type: NORMAL & seed: -2024018835920597302
+[21:31:07] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'TEST_the_end' - Env: THE_END - Type: NORMAL & seed: -2024018835920597302
+[21:31:07] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'lobby' - Env: NORMAL - Type: NORMAL & seed: -3770714656453924402
+[21:31:07] [Server thread/INFO]: [WorldGuard] (lobby) Lighters are PERMITTED.
+[21:31:07] [Server thread/INFO]: [WorldGuard] (lobby) Lava fire is blocked.
+[21:31:07] [Server thread/INFO]: [WorldGuard] (lobby) Fire spread is UNRESTRICTED.
+[21:31:08] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'minigames' - Env: NORMAL - Type: FLAT & seed: 2973644325369467684
+[21:31:08] [Server thread/INFO]: [WorldGuard] (minigames) Lighters are PERMITTED.
+[21:31:08] [Server thread/INFO]: [WorldGuard] (minigames) Lava fire is blocked.
+[21:31:08] [Server thread/INFO]: [WorldGuard] (minigames) Fire spread is UNRESTRICTED.
+[21:31:09] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'Skywars' - Env: NORMAL - Type: FLAT & seed: 3121935573477155779
+[21:31:09] [Server thread/INFO]: [WorldGuard] (Skywars) Lighters are PERMITTED.
+[21:31:09] [Server thread/INFO]: [WorldGuard] (Skywars) Lava fire is blocked.
+[21:31:09] [Server thread/INFO]: [WorldGuard] (Skywars) Fire spread is UNRESTRICTED.
+[21:31:09] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'spawn' - Env: NORMAL - Type: NORMAL & seed: 2261197457111850464
+[21:31:09] [Server thread/INFO]: [WorldGuard] (spawn) Lighters are PERMITTED.
+[21:31:09] [Server thread/INFO]: [WorldGuard] (spawn) Lava fire is blocked.
+[21:31:09] [Server thread/INFO]: [WorldGuard] (spawn) Fire spread is UNRESTRICTED.
+[21:31:09] [Server thread/INFO]: [Multiverse-Core] 8 - World(s) loaded.
+[21:31:09] [Server thread/INFO]: [Splegg] Enabling Splegg v1.2
+[21:31:09] [Server thread/INFO]: [Splegg] Loading map SpleggOne.
+[21:31:09] [Server thread/INFO]: [Splegg] Map is usable
+[21:31:09] [Server thread/INFO]: [Splegg] Load Complete!
+[21:31:09] [Server thread/INFO]: [Splegg] Loading map ArenaOne.
+[21:31:09] [Server thread/INFO]: [Splegg] Spawn count is 0
+[21:31:09] [Server thread/INFO]: [Splegg] No floors are setup.
+[21:31:09] [Server thread/INFO]: [Splegg] --<>-- PLEASE SETUP MAP!! --<>--
+[21:31:09] [Server thread/INFO]: [Splegg] Load Complete!
+[21:31:09] [Server thread/INFO]: [EssentialsProtect] Enabling EssentialsProtect vTeamCity
+[21:31:09] [Server thread/INFO]: [VoxelSniper] Enabling VoxelSniper v7.1.0
+[21:31:10] [Server thread/INFO]: [Multiverse-NetherPortals] Enabling Multiverse-NetherPortals v2.4-b530
+[21:31:10] [Server thread/INFO]: [SuperVanish] Enabling SuperVanish v5.4.3
+[21:31:10] [Server thread/INFO]: [Multiverse-Portals] Enabling Multiverse-Portals v2.4-b548
+[21:31:10] [Server thread/INFO]: [Multiverse-Portals]  1 - Portals(s) loaded
+[21:31:10] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn vTeamCity
+[21:31:10] [Server thread/INFO]: [MinigamesLib] Enabling MinigamesLib v1.13.1
+[21:31:10] [Server thread/INFO]: [Minigames] Enabling Minigames v1.7.0
+[21:31:10] [Server thread/INFO]: [Minigames] Using lang en_AU
+[21:31:10] [Server thread/INFO]: Minigames successfully enabled.
+[21:31:10] [Server thread/INFO]: [MobArena] Enabling MobArena v0.97.1
+[21:31:11] [Server thread/INFO]: [MobArena] Loaded arena 'default'
+[21:31:11] [Server thread/INFO]: [MobArena] Loaded arena 'god-arena'
+[21:31:11] [Server thread/INFO]: [MobArena] v0.97.1 enabled.
+[21:31:11] [Server thread/INFO]: [TNTRun] Enabling TNTRun v3.4
+[21:31:11] [Server thread/INFO]: [HolographicDisplays] Enabling HolographicDisplays v2.1.10
+[21:31:11] [Server thread/INFO]: [CommandSigns] Enabling CommandSigns v1.9.3.2
+[21:31:11] [Server thread/INFO]: [CommandSigns] No signs found.
+[21:31:12] [Server thread/INFO]: [SkyWars] Enabling SkyWars v1.1-m16
+[21:31:13] [Server thread/INFO]: [WorldGuard] (island-0) Lighters are PERMITTED.
+[21:31:13] [Server thread/INFO]: [WorldGuard] (island-0) Lava fire is blocked.
+[21:31:13] [Server thread/INFO]: [WorldGuard] (island-0) Fire spread is UNRESTRICTED.
+[21:31:13] [Server thread/INFO]: [EpicSpleef] Enabling EpicSpleef v0.0.19
+[21:31:13] [Server thread/INFO]: [EpicSpleef] Enabling EpicSpleef by BtoBastian
+[21:31:13] [Server thread/INFO]: [EpicSpleef] Loading lobby SpleefOne
+[21:31:13] [Server thread/INFO]: [EpicSpleef] Loading arena ArenaOne
+[21:31:14] [Server thread/INFO]: [EpicSpleef] Successfully loaded arena ArenaOne. (world: minigames, blocks: 5233, maxPlayers: 0)
+[21:31:14] [Server thread/INFO]: [EpicSpleef] Loading arena SpleefOne
+[21:31:14] [Server thread/INFO]: [EpicSpleef] Successfully loaded arena SpleefOne. (world: minigames, blocks: 0, maxPlayers: 0)
+[21:31:14] [Server thread/INFO]: [OnTime] Enabling OnTime v4.1.3
+[21:31:14] [Server thread/INFO]: [CraftBook] Enabling CraftBook v3.9-SNAPSHOT
+[21:31:14] [Server thread/INFO]: [CraftBook] Successfully added 1 CommandItems!
+[21:31:14] [Server thread/INFO]: [CraftBook] Registered 3 custom recipes!
+[21:31:14] [Server thread/INFO]: [CraftBook] 5797 chunk(s) for 9 world(s) processed (32ms elapsed)
+[21:31:17] [Server thread/INFO]: Found 0 arenas.
+[21:31:37] [Server thread/INFO]: Twiixtor issued server command: /disguise
+[21:31:40] [Server thread/INFO]: Twiixtor issued server command: /disguise armorstand
+[21:31:46] [Server thread/INFO]: Twiixtor issued server command: /disguise tntprimed
+[21:32:01] [Server thread/INFO]: Staff: [Admin] Chris
+[21:32:01] [Server thread/INFO]: Developers: [Giraffe]Twiixtor
+[21:32:47] [Server thread/INFO]: Staff: [Admin] Chris
+[21:32:47] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe]Twiixtor
+[21:33:34] [Server thread/INFO]: Staff: [Admin] Chris
+[21:33:34] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe]Twiixtor
+[21:34:21] [Server thread/INFO]: Staff: [Admin] Chris
+[21:34:21] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe]Twiixtor
+[21:35:07] [Server thread/INFO]: Staff: [Admin] Chris
+[21:35:07] [Server thread/INFO]: Members: [Member] Raichu
+[21:35:07] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe]Twiixtor
+[21:35:54] [Server thread/INFO]: Staff: [Admin] Chris
+[21:35:54] [Server thread/INFO]: Members: [Member] Raichu
+[21:35:54] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe]Twiixtor
+[21:36:17] [Server thread/INFO]: Twiixtor issued server command: /undisguise
+[21:36:40] [Server thread/INFO]: Staff: [Admin] Chris
+[21:36:40] [Server thread/INFO]: Members: [Member] Raichu
+[21:36:40] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe]Twiixtor
+[21:37:27] [Server thread/INFO]: Staff: [Admin] Chris
+[21:37:27] [Server thread/INFO]: Members: [Member] Raichu
+[21:37:27] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe]Twiixtor
+[21:38:13] [Server thread/INFO]: Staff: [Admin] Chris
+[21:38:13] [Server thread/INFO]: Members: [Member] Raichu
+[21:38:13] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe]Twiixtor
+[21:39:00] [Server thread/INFO]: Staff: [Admin] Chris
+[21:39:00] [Server thread/INFO]: Members: [Member] Raichu
+[21:39:00] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe]Twiixtor
+[21:39:46] [Server thread/INFO]: Staff: [Admin] Chris
+[21:39:46] [Server thread/INFO]: Members: [Member] Raichu
+[21:39:46] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe]Twiixtor
+[21:40:33] [Server thread/INFO]: Staff: [Admin] Chris
+[21:40:33] [Server thread/INFO]: Members: [Member] Raichu
+[21:40:33] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe]Twiixtor
+[21:41:52] [Server thread/INFO]: Staff: [Admin] Chris
+[21:41:52] [Server thread/INFO]: Members: [AFK][Member] Raichu
+[21:41:52] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe]Twiixtor
+[21:42:39] [Server thread/INFO]: Staff: [Admin] Chris
+[21:42:39] [Server thread/INFO]: Members: [AFK][Member] Raichu
+[21:42:39] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe]Twiixtor
+[21:43:01] [Server thread/INFO]: Twiixtor issued server command: //cyl
+[21:43:06] [Server thread/INFO]: Twiixtor issued server command: //cyl 35 30
+[21:43:13] [Server thread/INFO]: Twiixtor issued server command: //cyl 35:1 28
+[21:43:17] [Server thread/INFO]: Twiixtor issued server command: //cyl 35:2 26
+[21:43:20] [Server thread/INFO]: Twiixtor issued server command: //cyl 35:3 24
+[21:43:23] [Server thread/INFO]: Twiixtor issued server command: //cyl 35:4 22
+[21:43:25] [Server thread/INFO]: Staff: [Admin] Chris
+[21:43:25] [Server thread/INFO]: Members: [AFK][Member] Raichu
+[21:43:25] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe]Twiixtor
+[21:43:44] [Server thread/INFO]: Twiixtor issued server command: //cyl 35:4 22
+[21:43:50] [Server thread/INFO]: Twiixtor issued server command: //cyl 35:5 20
+[21:43:54] [Server thread/INFO]: Twiixtor issued server command: //cyl 35:6 18
+[21:43:59] [Server thread/INFO]: Twiixtor issued server command: //cyl 35:7 16
+[21:44:02] [Server thread/INFO]: Twiixtor issued server command: //cyl 35:8 14
+[21:44:06] [Server thread/INFO]: Twiixtor issued server command: //cyl 35:9 12
+[21:44:09] [Server thread/INFO]: Twiixtor issued server command: //cyl 35:10 10
+[21:44:12] [Server thread/INFO]: Staff: [Admin] Chris
+[21:44:12] [Server thread/INFO]: Members: [AFK][Member] Raichu
+[21:44:12] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe]Twiixtor
+[21:44:13] [Server thread/INFO]: Twiixtor issued server command: //cyl 35:11 8
+[21:44:19] [Server thread/INFO]: Twiixtor issued server command: //cyl 35:12 6
+[21:44:21] [Server thread/INFO]: Twiixtor issued server command: //cyl 35:13 4
+[21:44:24] [Server thread/INFO]: Twiixtor issued server command: //cyl 35:14 2
+[21:44:30] [Server thread/INFO]: [Giraffe]Twiixtor: THis looks awesome
+[21:44:55] [Server thread/INFO]: [Dev] Poopey: Black, racist.
+[21:44:58] [Server thread/INFO]: Staff: [Admin] Chris
+[21:44:58] [Server thread/INFO]: Members: [AFK][Member] Raichu
+[21:44:58] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe]Twiixtor
+[21:45:07] [Server thread/INFO]: [Giraffe]Twiixtor: I included every single colour
+[21:45:16] [Server thread/INFO]: [Giraffe]Twiixtor: l2p
+[21:45:20] [Server thread/INFO]: [Dev] Poopey: lmao
+[21:45:26] [Server thread/INFO]: [Dev] Poopey: Yeah, but you have the smallest amount of black
+[21:45:30] [Server thread/INFO]: [Giraffe]Twiixtor: xD
+[21:45:33] [Server thread/INFO]: [Giraffe]Twiixtor: Fuck off
+[21:45:39] [Server thread/INFO]: [Dev] Poopey: =)
+[21:45:42] [Server thread/INFO]: [Dev] Poopey: Why am I light red?
+[21:45:45] [Server thread/INFO]: [Dev] Poopey: And called Poopey :/
+[21:45:45] [Server thread/INFO]: Staff: [Admin] Chris
+[21:45:45] [Server thread/INFO]: Members: [AFK][Member] Raichu
+[21:45:45] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe]Twiixtor
+[21:45:50] [Server thread/INFO]: [Giraffe]Twiixtor: No clue
+[21:45:58] [Server thread/INFO]: Twiixtor issued server command: /nick &cTwiixtor
+[21:45:59] [Server thread/INFO]: [Giraffe]Twiixtor: Yey
+[21:46:07] [Server thread/INFO]: Twiixtor issued server command: /nick &4Twiixtor
+[21:46:08] [Server thread/INFO]: [Giraffe]Twiixtor: Better
+[21:46:31] [Server thread/INFO]: Staff: [Admin] Chris
+[21:46:31] [Server thread/INFO]: Members: [AFK][Member] Raichu
+[21:46:31] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe]Twiixtor
+[21:47:18] [Server thread/INFO]: Staff: [Admin] Chris
+[21:47:18] [Server thread/INFO]: Members: [AFK][Member] Raichu
+[21:47:18] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe]Twiixtor
+[21:48:05] [Server thread/INFO]: Staff: [Admin] Chris
+[21:48:05] [Server thread/INFO]: Members: [AFK][Member] Raichu
+[21:48:05] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe]Twiixtor
+[21:48:51] [Server thread/INFO]: Staff: [Admin] Chris
+[21:48:51] [Server thread/INFO]: Members: [AFK][Member] Raichu
+[21:48:51] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe]Twiixtor
+[21:49:38] [Server thread/INFO]: Staff: [Admin] Chris
+[21:49:38] [Server thread/INFO]: Members: [AFK][Member] Raichu
+[21:49:38] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe]Twiixtor
+[21:50:24] [Server thread/INFO]: Staff: [Admin] Chris
+[21:50:24] [Server thread/INFO]: Members: [AFK][Member] Raichu
+[21:50:24] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe]Twiixtor
+[21:50:35] [Server thread/INFO]: Twiixtor issued server command: //cyl glass 30 10
+[21:50:38] [Server thread/INFO]: Twiixtor issued server command: //undo
+[21:50:41] [Server thread/INFO]: Twiixtor issued server command: //hcyl glass 30 10
+[21:50:49] [Server thread/INFO]: Twiixtor issued server command: //hcyl glass 30 30
+[21:50:53] [Server thread/INFO]: Twiixtor issued server command: //hcyl glass 30 40
+[21:50:55] [Server thread/INFO]: Twiixtor issued server command: //hcyl glass 30 60
+[21:50:57] [Server thread/INFO]: Twiixtor issued server command: //hcyl glass 30 100
+[21:51:01] [Server thread/INFO]: Twiixtor issued server command: //hcyl glass 30 120
+[21:51:03] [Server thread/INFO]: Twiixtor issued server command: //hcyl glass 30 140
+[21:51:07] [Server thread/INFO]: Twiixtor issued server command: //hcyl glass 30 170
+[21:51:13] [Server thread/INFO]: Twiixtor issued server command: //hcyl glass 30 200
+[21:51:52] [Server thread/INFO]: Staff: [Admin] Chris
+[21:51:52] [Server thread/INFO]: Members: [AFK][Member] Raichu
+[21:51:52] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe]Twiixtor
+[21:52:24] [Server thread/INFO]: Popey456963 issued server command: /gamemode 0 tw i
+[21:52:26] [Server thread/INFO]: Popey456963 issued server command: /gamemode 0 tw
+[21:52:28] [Server thread/INFO]: Popey456963 issued server command: /gamemode 0 twiix
+[21:52:39] [Server thread/INFO]: Staff: [Admin] Chris
+[21:52:39] [Server thread/INFO]: Members: [AFK][Member] Raichu
+[21:52:39] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe]Twiixtor
+[21:52:41] [Server thread/INFO]: Popey456963 issued server command: /gm 1
+[21:52:44] [Server thread/INFO]: Twiixtor fell from a high place
+[21:52:47] [Server thread/INFO]: Popey456963 issued server command: /gm 0
+[21:52:50] [Server thread/INFO]: Popey456963 issued server command: /tp twii
+[21:52:53] [Server thread/INFO]: Popey456963 issued server command: /tp twiix
+[21:52:55] [Server thread/INFO]: Popey456963 issued server command: /gm 1
+[21:53:25] [Server thread/INFO]: Staff: [Admin] Chris
+[21:53:25] [Server thread/INFO]: Members: [AFK][Member] Raichu
+[21:53:25] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe]Twiixtor
+[21:54:12] [Server thread/INFO]: Popey456963 issued server command: /gamemode 0 Crustifer
+[21:54:12] [Server thread/INFO]: Staff: [Admin] Chris
+[21:54:12] [Server thread/INFO]: Members: [AFK][Member] Raichu
+[21:54:12] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe]Twiixtor
+[21:54:14] [Server thread/INFO]: Crustifer fell from a high place
+[21:54:15] [Server thread/INFO]: Popey456963 issued server command: /gamemode 1 Crustifer
+[21:54:59] [Server thread/INFO]: Staff: [Admin] Chris
+[21:54:59] [Server thread/INFO]: Members: [AFK][Member] Raichu
+[21:54:59] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe]Twiixtor
+[21:55:46] [Server thread/INFO]: Staff: [Admin] Chris
+[21:55:46] [Server thread/INFO]: Members: [AFK][Member] Raichu
+[21:55:46] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe]Twiixtor
+[21:56:33] [Server thread/INFO]: Staff: [Admin] Chris
+[21:56:33] [Server thread/INFO]: Members: [AFK][Member] Raichu
+[21:56:33] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe]Twiixtor
+[21:57:19] [Server thread/INFO]: Staff: [Admin] Chris
+[21:57:19] [Server thread/INFO]: Members: [AFK][Member] Raichu
+[21:57:19] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe]Twiixtor
+[21:58:06] [Server thread/INFO]: Staff: [Admin] Chris
+[21:58:06] [Server thread/INFO]: Members: [AFK][Member] Raichu
+[21:58:06] [Server thread/INFO]: Developers: [Dev] Poopey, [AFK][Giraffe]Twiixtor
+[21:58:25] [Server thread/INFO]: Popey456963 issued server command: /toggledownfall
+[21:58:25] [Server thread/INFO]: [Popey456963: Toggled downfall]
+[21:58:52] [Server thread/INFO]: Staff: [Admin] Chris
+[21:58:52] [Server thread/INFO]: Members: [AFK][Member] Raichu
+[21:58:52] [Server thread/INFO]: Developers: [Dev] Poopey, [AFK][Giraffe]Twiixtor
+[21:59:39] [Server thread/INFO]: Staff: [Admin] Chris
+[21:59:39] [Server thread/INFO]: Members: [AFK][Member] Raichu
+[21:59:39] [Server thread/INFO]: Developers: [Dev] Poopey, [AFK][Giraffe]Twiixtor
+[21:59:50] [Server thread/INFO]: Twiixtor issued server command: /tp pop
+[21:59:53] [Server thread/INFO]: Twiixtor issued server command: /gm 1
+[22:00:02] [Server thread/INFO]: Popey456963 issued server command: /rapidfw 10
+[22:00:25] [Server thread/INFO]: Staff: [Admin] Chris
+[22:00:25] [Server thread/INFO]: Members: [AFK][Member] Raichu
+[22:00:25] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe]Twiixtor
+[22:01:19] [Server thread/INFO]: [Giraffe]Twiixtor: U CHOOSE A PERSON TO ASK U TRUTH OR DATE
+[22:01:22] [Server thread/INFO]: [Giraffe]Twiixtor: DARE*
+[22:01:24] [Server thread/INFO]: [Giraffe]Twiixtor: ya derp
+[22:01:52] [Server thread/INFO]: Staff: [Admin] Chris
+[22:01:52] [Server thread/INFO]: Members: [AFK][Member] Raichu
+[22:01:52] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe]Twiixtor
+[22:02:39] [Server thread/INFO]: Staff: [Admin] Chris
+[22:02:39] [Server thread/INFO]: Members: [AFK][Member] Raichu
+[22:02:39] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe]Twiixtor
+[22:03:17] [Server thread/INFO]: [Dev] Poopey: LMAO
+[22:03:25] [Server thread/INFO]: Staff: [Admin] Chris
+[22:03:25] [Server thread/INFO]: Members: [AFK][Member] Raichu
+[22:03:25] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe]Twiixtor
+[22:03:28] [Server thread/INFO]: [Dev] Poopey: I thought we asked the truth or dare xD
+[22:03:41] [Server thread/INFO]: [Dev] Poopey: It's different to first Truth/Dare
+[22:03:43] [Server thread/INFO]: [Dev] Poopey: Which got me.
+[22:04:12] [Server thread/INFO]: Staff: [Admin] Chris
+[22:04:12] [Server thread/INFO]: Members: [AFK][Member] Raichu
+[22:04:12] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe]Twiixtor
+[22:04:58] [Server thread/INFO]: Staff: [Admin] Chris
+[22:04:58] [Server thread/INFO]: Members: [AFK][Member] Raichu
+[22:04:58] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe]Twiixtor
+[22:05:45] [Server thread/INFO]: Staff: [Admin] Chris
+[22:05:45] [Server thread/INFO]: Members: [AFK][Member] Raichu
+[22:05:45] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe]Twiixtor
+[22:06:31] [Server thread/INFO]: Staff: [Admin] Chris
+[22:06:31] [Server thread/INFO]: Members: [AFK][Member] Raichu
+[22:06:31] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe]Twiixtor
+[22:07:18] [Server thread/INFO]: Staff: [Admin] Chris
+[22:07:18] [Server thread/INFO]: Members: [AFK][Member] Raichu
+[22:07:18] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe]Twiixtor
+[22:08:05] [Server thread/INFO]: Staff: [Admin] Chris
+[22:08:05] [Server thread/INFO]: Members: [AFK][Member] Raichu
+[22:08:05] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe]Twiixtor
+[22:08:51] [Server thread/INFO]: Staff: [Admin] Chris
+[22:08:51] [Server thread/INFO]: Members: [Member] Raichu
+[22:08:51] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe]Twiixtor
+[22:09:38] [Server thread/INFO]: Staff: [Admin] Chris
+[22:09:38] [Server thread/INFO]: Members: [Member] Raichu
+[22:09:38] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe]Twiixtor
+[22:09:45] [Server thread/INFO]: Twiixtor issued server command: /tp cru
+[22:09:48] [Server thread/INFO]: Twiixtor issued server command: /tp pop
+[22:09:54] [Server thread/INFO]: Twiixtor issued server command: /tp rai
+[22:10:24] [Server thread/INFO]: Staff: [Admin] Chris
+[22:10:24] [Server thread/INFO]: Members: [Member] Raichu
+[22:10:24] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe]Twiixtor
+[22:10:37] [Server thread/INFO]: Twiixtor issued server command: /tp cru
+[22:10:39] [Server thread/INFO]: Twiixtor issued server command: /tp pop
+[22:11:52] [Server thread/INFO]: Staff: [Admin] Chris
+[22:11:52] [Server thread/INFO]: Members: [Member] Raichu
+[22:11:52] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe]Twiixtor
+[22:12:39] [Server thread/INFO]: Staff: [Admin] Chris
+[22:12:39] [Server thread/INFO]: Members: [Member] Raichu
+[22:12:39] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe]Twiixtor
+[22:13:25] [Server thread/INFO]: Staff: [Admin] Chris
+[22:13:25] [Server thread/INFO]: Members: [Member] Raichu
+[22:13:25] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe]Twiixtor
+[22:13:39] [Server thread/INFO]: Twiixtor issued server command: //hcyl bedrock 5
+[22:13:41] [Server thread/INFO]: Twiixtor issued server command: //hcyl bedrock 10
+[22:13:43] [Server thread/INFO]: Twiixtor issued server command: //hcyl bedrock 15
+[22:13:47] [Server thread/INFO]: Twiixtor issued server command: //hcyl bedrock 20
+[22:13:49] [Server thread/INFO]: Twiixtor issued server command: //hcyl bedrock 25
+[22:14:10] [Server thread/INFO]: Twiixtor left the game.
+[22:14:12] [Server thread/INFO]: Staff: [Admin] Chris
+[22:14:12] [Server thread/INFO]: Members: [Member] Raichu
+[22:14:12] [Server thread/INFO]: Developers: [Dev] Poopey
+[22:14:58] [Server thread/INFO]: Staff: [Admin] Chris
+[22:14:58] [Server thread/INFO]: Members: [Member] Raichu
+[22:14:58] [Server thread/INFO]: Developers: [Dev] Poopey
+[22:15:45] [Server thread/INFO]: Staff: [Admin] Chris
+[22:15:45] [Server thread/INFO]: Members: [Member] Raichu
+[22:15:45] [Server thread/INFO]: Developers: [Dev] Poopey
+[22:16:31] [Server thread/INFO]: Staff: [Admin] Chris
+[22:16:31] [Server thread/INFO]: Members: [AFK][Member] Raichu
+[22:16:31] [Server thread/INFO]: Developers: [Dev] Poopey
+[22:17:18] [Server thread/INFO]: Staff: [Admin] Chris
+[22:17:18] [Server thread/INFO]: Members: [AFK][Member] Raichu
+[22:17:18] [Server thread/INFO]: Developers: [Dev] Poopey
+[22:18:05] [Server thread/INFO]: Staff: [Admin] Chris
+[22:18:05] [Server thread/INFO]: Members: [AFK][Member] Raichu
+[22:18:05] [Server thread/INFO]: Developers: [Dev] Poopey
+[22:18:51] [Server thread/INFO]: Staff: [Admin] Chris
+[22:18:51] [Server thread/INFO]: Members: [AFK][Member] Raichu
+[22:18:51] [Server thread/INFO]: Developers: [Dev] Poopey
+[22:19:38] [Server thread/INFO]: Staff: [Admin] Chris
+[22:19:38] [Server thread/INFO]: Members: [AFK][Member] Raichu
+[22:19:38] [Server thread/INFO]: Developers: [Dev] Poopey
+[22:20:08] [Server thread/INFO]: Popey456963 issued server command: /plugins
+[22:20:24] [Server thread/INFO]: Staff: [Admin] Chris
+[22:20:24] [Server thread/INFO]: Members: [AFK][Member] Raichu
+[22:20:24] [Server thread/INFO]: Developers: [Dev] Poopey
+[22:21:52] [Server thread/INFO]: Staff: [Admin] Chris
+[22:21:52] [Server thread/INFO]: Members: [AFK][Member] Raichu
+[22:21:52] [Server thread/INFO]: Developers: [Dev] Poopey
+[22:22:39] [Server thread/INFO]: Staff: [Admin] Chris
+[22:22:39] [Server thread/INFO]: Members: [AFK][Member] Raichu
+[22:22:39] [Server thread/INFO]: Developers: [Dev] Poopey
+[22:23:25] [Server thread/INFO]: Staff: [Admin] Chris
+[22:23:25] [Server thread/INFO]: Members: [AFK][Member] Raichu
+[22:23:25] [Server thread/INFO]: Developers: [Dev] Poopey
+[22:24:12] [Server thread/INFO]: Staff: [Admin] Chris
+[22:24:12] [Server thread/INFO]: Members: [AFK][Member] Raichu
+[22:24:12] [Server thread/INFO]: Developers: [Dev] Poopey
+[22:24:58] [Server thread/INFO]: Raichu3000 issued server command: //copy
+[22:24:58] [Server thread/INFO]: Staff: [Admin] Chris
+[22:24:58] [Server thread/INFO]: Members: [Member] Raichu
+[22:24:58] [Server thread/INFO]: Developers: [Dev] Poopey
+[22:25:45] [Server thread/INFO]: Staff: [Admin] Chris
+[22:25:45] [Server thread/INFO]: Members: [Member] Raichu
+[22:25:45] [Server thread/INFO]: Developers: [Dev] Poopey
+[22:26:31] [Server thread/INFO]: Staff: [Admin] Chris
+[22:26:31] [Server thread/INFO]: Members: [Member] Raichu
+[22:26:31] [Server thread/INFO]: Developers: [Dev] Poopey
+[22:26:43] [Server thread/INFO]: [Dev] Poopey: plugins
+[22:26:44] [Server thread/INFO]: Popey456963 issued server command: /plugins
+[22:27:18] [Server thread/INFO]: Staff: [Admin] Chris
+[22:27:18] [Server thread/INFO]: Members: [Member] Raichu
+[22:27:18] [Server thread/INFO]: Developers: [Dev] Poopey
+[22:28:05] [Server thread/INFO]: Staff: [AFK][Admin] Chris
+[22:28:05] [Server thread/INFO]: Members: [Member] Raichu
+[22:28:05] [Server thread/INFO]: Developers: [Dev] Poopey
+[22:28:51] [Server thread/INFO]: Staff: [Admin] Chris
+[22:28:51] [Server thread/INFO]: Members: [Member] Raichu
+[22:28:51] [Server thread/INFO]: Developers: [Dev] Poopey
+[22:29:38] [Server thread/INFO]: Staff: [Admin] Chris
+[22:29:38] [Server thread/INFO]: Members: [Member] Raichu
+[22:29:38] [Server thread/INFO]: Developers: [Dev] Poopey
+[22:29:49] [Server thread/INFO]: Raichu3000 issued server command: //flip
+[22:29:49] [Server thread/INFO]: Crustifer issued server command: //copyh
+[22:29:51] [Server thread/INFO]: [Admin] Chris: z
+[22:29:53] [Server thread/INFO]: Raichu3000 issued server command: //flip
+[22:29:54] [Server thread/INFO]: [Dev] Poopey: FACTIONS
+[22:29:57] [Server thread/INFO]: [Dev] Poopey: JOIN THIS CHANNEL
+[22:29:59] [Server thread/INFO]: Crustifer issued server command: //copy
+[22:30:01] [Server thread/INFO]: Crustifer issued server command: //flip
+[22:30:02] [Server thread/INFO]: Crustifer issued server command: //pawste
+[22:30:06] [Server thread/INFO]: Crustifer issued server command: //flip
+[22:30:09] [Server thread/INFO]: Raichu3000 issued server command: //paste
+[22:30:11] [Server thread/INFO]: Crustifer issued server command: //paste
+[22:30:17] [Server thread/INFO]: Raichu3000 issued server command: //undo
+[22:30:18] [Server thread/INFO]: Crustifer issued server command: //undo
+[22:30:24] [Server thread/INFO]: Staff: [Admin] Chris
+[22:30:24] [Server thread/INFO]: Members: [Member] Raichu
+[22:30:24] [Server thread/INFO]: Developers: [Dev] Poopey
+[22:30:41] [Server thread/INFO]: Raichu3000 issued server command: //pos2
+[22:30:46] [Server thread/INFO]: Raichu3000 issued server command: //copy
+[22:30:49] [Server thread/INFO]: Raichu3000 issued server command: //flip
+[22:30:51] [Server thread/INFO]: Raichu3000 issued server command: //paste
+[22:31:02] [Server thread/INFO]: [Admin] Chris: pw?
+[22:31:03] [Server thread/INFO]: [Admin] Chris: hello
+[22:31:07] [Server thread/INFO]: [Dev] Poopey: mcdev1
+[22:31:08] [Server thread/INFO]: [Dev] Poopey: I poked you
+[22:31:52] [Server thread/INFO]: Staff: [Admin] Chris
+[22:31:52] [Server thread/INFO]: Members: [Member] Raichu
+[22:31:52] [Server thread/INFO]: Developers: [Dev] Poopey
+[22:32:03] [Server thread/INFO]: Raichu3000 issued server command: //paste
+[22:32:20] [Server thread/INFO]: Crustifer issued server command: //flip
+[22:32:22] [Server thread/INFO]: Crustifer issued server command: //paste
+[22:32:29] [Server thread/INFO]: Crustifer issued server command: //undo
+[22:32:31] [Server thread/INFO]: Raichu3000 issued server command: //pos2
+[22:32:33] [Server thread/INFO]: Crustifer issued server command: //paste
+[22:32:39] [Server thread/INFO]: Staff: [Admin] Chris
+[22:32:39] [Server thread/INFO]: Members: [Member] Raichu
+[22:32:39] [Server thread/INFO]: Developers: [Dev] Poopey
+[22:33:25] [Server thread/INFO]: Staff: [Admin] Chris
+[22:33:25] [Server thread/INFO]: Members: [Member] Raichu
+[22:33:25] [Server thread/INFO]: Developers: [Dev] Poopey
+[22:33:28] [Server thread/INFO]: Raichu3000 issued server command: //copy
+[22:33:31] [Server thread/INFO]: Raichu3000 issued server command: /stack 4
+[22:33:34] [Server thread/INFO]: Raichu3000 issued server command: /stack 4
+[22:33:38] [Server thread/INFO]: Raichu3000 issued server command: //stack 4
+[22:33:43] [Server thread/INFO]: Raichu3000 issued server command: //stack 4
+[22:33:47] [Server thread/INFO]: Raichu3000 issued server command: //stack 4
+[22:34:05] [Server thread/INFO]: Popey456963 issued server command: /tp cr
+[22:34:12] [Server thread/INFO]: Staff: [Admin] Chris
+[22:34:12] [Server thread/INFO]: Members: [Member] Raichu
+[22:34:12] [Server thread/INFO]: Developers: [Dev] Poopey
+[22:34:20] [Server thread/INFO]: Popey456963 issued server command: /spawn
+[22:34:23] [Server thread/INFO]: Crustifer issued server command: /tp pop
+[22:34:50] [Server thread/INFO]: Popey456963 issued server command: /tp cru
+[22:34:58] [Server thread/INFO]: Staff: [Admin] Chris
+[22:34:58] [Server thread/INFO]: Members: [Member] Raichu
+[22:34:58] [Server thread/INFO]: Developers: [Dev] Poopey
+[22:35:45] [Server thread/INFO]: Staff: [Admin] Chris
+[22:35:45] [Server thread/INFO]: Members: [Member] Raichu
+[22:35:45] [Server thread/INFO]: Developers: [Dev] Poopey
+[22:36:31] [Server thread/INFO]: Staff: [Admin] Chris
+[22:36:31] [Server thread/INFO]: Members: [Member] Raichu
+[22:36:31] [Server thread/INFO]: Developers: [Dev] Poopey
+[22:36:34] [Server thread/INFO]: Crustifer issued server command: /tp pop
+[22:36:44] [Server thread/INFO]: [Dev] Poopey: SHUT UP
+[22:36:44] [Server thread/INFO]: [Dev] Poopey: GUYS
+[22:36:47] [Server thread/INFO]: [Admin] Chris: ?
+[22:36:47] [Server thread/INFO]: [Dev] Poopey: UPLOADING 3 MBs
+[22:36:50] [Server thread/INFO]: [Dev] Poopey: IS TOO HARD
+[22:36:52] [Server thread/INFO]: [Dev] Poopey: GOD DAMNIT
+[22:37:03] [Server thread/INFO]: [Member] Raichu: lol
+[22:37:18] [Server thread/INFO]: Staff: [Admin] Chris
+[22:37:18] [Server thread/INFO]: Members: [Member] Raichu
+[22:37:18] [Server thread/INFO]: Developers: [Dev] Poopey
+[22:37:28] [Server thread/INFO]: Popey456963 left the game.
+[22:38:05] [Server thread/INFO]: Staff: [Admin] Chris
+[22:38:05] [Server thread/INFO]: Members: [Member] Raichu
+[22:38:51] [Server thread/INFO]: Staff: [Admin] Chris
+[22:38:51] [Server thread/INFO]: Members: [Member] Raichu
+[22:38:51] [Server thread/INFO]: Developers: [Dev] Poopey
+[22:39:06] [Server thread/INFO]: [Dev] Poopey: RELOADING SERVER
+[22:39:22] [Server thread/INFO]: [Dev] Poopey: test?
+[22:39:38] [Server thread/INFO]: Staff: [Admin] Chris
+[22:39:38] [Server thread/INFO]: Members: [Member] Raichu
+[22:39:38] [Server thread/INFO]: Developers: [Dev] Poopey
+[22:39:59] [Server thread/INFO]: Stopping the server
+[22:39:59] [Server thread/INFO]: Stopping server
+[22:39:59] [Server thread/INFO]: [CraftBook] Disabling CraftBook v3.9-SNAPSHOT
+[22:39:59] [Server thread/INFO]: [OnTime] Disabling OnTime v4.1.3
+[22:39:59] [Server thread/INFO]: [EpicSpleef] Disabling EpicSpleef v0.0.19
+[22:39:59] [Server thread/INFO]: [SkyWars] Disabling SkyWars v1.1-m16
+[22:39:59] [Server thread/INFO]: [Multiverse-Core] World 'island-0' was unloaded from memory.
+[22:39:59] [Server thread/INFO]: [Multiverse-Core] World island-0 was DELETED.
+[22:39:59] [Server thread/INFO]: [CommandSigns] Disabling CommandSigns v1.9.3.2
+[22:39:59] [Server thread/INFO]: [HolographicDisplays] Disabling HolographicDisplays v2.1.10
+[22:39:59] [Server thread/INFO]: [TNTRun] Disabling TNTRun v3.4
+[22:39:59] [Server thread/INFO]: [MobArena] Disabling MobArena v0.97.1
+[22:39:59] [Server thread/INFO]: [MobArena] disabled.
+[22:39:59] [Server thread/INFO]: [Minigames] Disabling Minigames v1.7.0
+[22:39:59] [Server thread/INFO]: Minigames successfully disabled.
+[22:39:59] [Server thread/INFO]: [MinigamesLib] Disabling MinigamesLib v1.13.1
+[22:39:59] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn vTeamCity
+[22:39:59] [Server thread/INFO]: [Vault] Disabling Vault v1.5.6-b49
+[22:39:59] [Server thread/INFO]: [Multiverse-Portals] Disabling Multiverse-Portals v2.4-b548
+[22:39:59] [Server thread/INFO]: [SuperVanish] Disabling SuperVanish v5.4.3
+[22:39:59] [Server thread/INFO]: [Multiverse-NetherPortals] Disabling Multiverse-NetherPortals v2.4-b530
+[22:39:59] [Server thread/INFO]: [MultiVerse-NetherPortals] - Disabled
+[22:39:59] [Server thread/INFO]: [mcMMO] Disabling mcMMO v1.5.00-b3547
+[22:39:59] [Server thread/INFO]: [VoxelSniper] Disabling VoxelSniper v7.1.0
+[22:39:59] [Server thread/INFO]: [EssentialsProtect] Disabling EssentialsProtect vTeamCity
+[22:39:59] [Server thread/INFO]: [Splegg] Disabling Splegg v1.2
+[22:39:59] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v2.4-b527
+[22:39:59] [Server thread/INFO]: [Multiverse-Core] - Disabled
+[22:39:59] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v6.1
+[22:39:59] [Server thread/INFO]: [WorldGuard] Shutting down executor and waiting for any pending tasks...
+[22:39:59] [Server thread/INFO]: [LaggRemover] Disabling LaggRemover v0.1.8
+[22:39:59] [Server thread/INFO]: [LaggRemover] LaggRemover has been disabled!
+[22:39:59] [Server thread/INFO]: [PlugMan] Disabling PlugMan v2.0.7
+[22:39:59] [Server thread/INFO]: [Essentials] Disabling Essentials vTeamCity
+[22:39:59] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1;no_git_id
+[22:39:59] [Server thread/INFO]: [DisguiseCraft] Disabling DisguiseCraft v5.2
+[22:39:59] [Server thread/INFO]: Raichu3000 left the game.
+[22:39:59] [Server thread/INFO]: Popey456963 left the game.

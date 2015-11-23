@@ -1,0 +1,486 @@
+[20:52:12] [Server thread/INFO]: Loading properties
+[20:52:12] [Server thread/INFO]: Default game type: SURVIVAL
+[20:52:12] [Server thread/INFO]: Using epoll channel type
+[20:52:13] [Server thread/INFO]: [DisguiseCraft] Loading DisguiseCraft v5.2
+[20:52:13] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1;no_git_id
+[20:52:13] [Server thread/INFO]: [Essentials] Loading Essentials vTeamCity
+[20:52:13] [Server thread/INFO]: [PlugMan] Loading PlugMan v2.0.7
+[20:52:13] [Server thread/INFO]: [LaggRemover] Loading LaggRemover v0.1.8
+[20:52:13] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v6.1
+[20:52:13] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v2.4-b527
+[20:52:13] [Server thread/INFO]: [Splegg] Loading Splegg v1.2
+[20:52:13] [Server thread/INFO]: [EssentialsProtect] Loading EssentialsProtect vTeamCity
+[20:52:13] [Server thread/INFO]: [VoxelSniper] Loading VoxelSniper v7.1.0
+[20:52:13] [Server thread/INFO]: [mcMMO] Loading mcMMO v1.5.00-b3547
+[20:52:13] [Server thread/INFO]: [Multiverse-NetherPortals] Loading Multiverse-NetherPortals v2.4-b530
+[20:52:13] [Server thread/INFO]: [SuperVanish] Loading SuperVanish v5.4.3
+[20:52:13] [Server thread/INFO]: [Multiverse-Portals] Loading Multiverse-Portals v2.4-b548
+[20:52:13] [Server thread/INFO]: [Vault] Loading Vault v1.5.6-b49
+[20:52:13] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn vTeamCity
+[20:52:13] [Server thread/INFO]: [MinigamesLib] Loading MinigamesLib v1.13.1
+[20:52:13] [Server thread/INFO]: [Minigames] Loading Minigames v1.7.0
+[20:52:13] [Server thread/INFO]: [MobArena] Loading MobArena v0.97.1
+[20:52:13] [Server thread/INFO]: [TNTRun] Loading TNTRun v3.4
+[20:52:13] [Server thread/INFO]: [HolographicDisplays] Loading HolographicDisplays v2.1.10
+[20:52:13] [Server thread/INFO]: [CommandSigns] Loading CommandSigns v1.9.3.2
+[20:52:13] [Server thread/INFO]: [SkyWars] Loading SkyWars v1.1-m16
+[20:52:13] [Server thread/INFO]: [EpicSpleef] Loading EpicSpleef v0.0.19
+[20:52:13] [Server thread/INFO]: [OnTime] Loading OnTime v4.1.3
+[20:52:13] [Server thread/INFO]: [CraftBook] Loading CraftBook v3.9-SNAPSHOT
+[20:52:13] [Server thread/INFO]: [mcMMO] Enabling mcMMO v1.5.00-b3547
+[20:52:14] [Server thread/INFO]: [Vault] Enabling Vault v1.5.6-b49
+[20:52:16] [Server thread/INFO]: [DisguiseCraft] Enabling DisguiseCraft v5.2
+[20:52:16] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1;no_git_id
+[20:52:17] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_8_R3 as the Bukkit adapter
+[20:52:17] [Server thread/INFO]: [Essentials] Enabling Essentials vTeamCity
+[20:52:17] [Server thread/INFO]: git-Bukkit-9935adc (MC: 1.8.8)
+[20:52:17] [Server thread/INFO]: 1.8.8-R0.1-SNAPSHOT
+[20:52:17] [Server thread/INFO]: Using locale en_US
+[20:52:17] [Server thread/INFO]: Using locale en_US
+[20:52:17] [Server thread/INFO]: [PlugMan] Enabling PlugMan v2.0.7
+[20:52:17] [Server thread/INFO]: [LaggRemover] Enabling LaggRemover v0.1.8
+[20:52:17] [Server thread/INFO]: [LaggRemover] LaggRemover has been enabled!
+[20:52:17] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v6.1
+[20:52:18] [Server thread/INFO]: [WorldGuard] (TEST) Lighters are PERMITTED.
+[20:52:18] [Server thread/INFO]: [WorldGuard] (TEST) Lava fire is blocked.
+[20:52:18] [Server thread/INFO]: [WorldGuard] (TEST) Fire spread is UNRESTRICTED.
+[20:52:18] [Server thread/INFO]: [WorldGuard] (TEST_nether) Lighters are PERMITTED.
+[20:52:18] [Server thread/INFO]: [WorldGuard] (TEST_nether) Lava fire is blocked.
+[20:52:18] [Server thread/INFO]: [WorldGuard] (TEST_nether) Fire spread is UNRESTRICTED.
+[20:52:18] [Server thread/INFO]: [WorldGuard] (TEST_the_end) Lighters are PERMITTED.
+[20:52:18] [Server thread/INFO]: [WorldGuard] (TEST_the_end) Lava fire is blocked.
+[20:52:18] [Server thread/INFO]: [WorldGuard] (TEST_the_end) Fire spread is UNRESTRICTED.
+[20:52:18] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v2.4-b527
+[20:52:18] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'TEST' - Env: NORMAL - Type: NORMAL & seed: -2024018835920597302
+[20:52:18] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'TEST_nether' - Env: NETHER - Type: NORMAL & seed: -2024018835920597302
+[20:52:18] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'TEST_the_end' - Env: THE_END - Type: NORMAL & seed: -2024018835920597302
+[20:52:18] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'lobby' - Env: NORMAL - Type: NORMAL & seed: -3770714656453924402
+[20:52:19] [Server thread/INFO]: [WorldGuard] (lobby) Lighters are PERMITTED.
+[20:52:19] [Server thread/INFO]: [WorldGuard] (lobby) Lava fire is blocked.
+[20:52:19] [Server thread/INFO]: [WorldGuard] (lobby) Fire spread is UNRESTRICTED.
+[20:52:19] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'minigames' - Env: NORMAL - Type: FLAT & seed: 2973644325369467684
+[20:52:19] [Server thread/INFO]: [WorldGuard] (minigames) Lighters are PERMITTED.
+[20:52:19] [Server thread/INFO]: [WorldGuard] (minigames) Lava fire is blocked.
+[20:52:19] [Server thread/INFO]: [WorldGuard] (minigames) Fire spread is UNRESTRICTED.
+[20:52:20] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'Skywars' - Env: NORMAL - Type: FLAT & seed: 3121935573477155779
+[20:52:20] [Server thread/INFO]: [WorldGuard] (Skywars) Lighters are PERMITTED.
+[20:52:20] [Server thread/INFO]: [WorldGuard] (Skywars) Lava fire is blocked.
+[20:52:20] [Server thread/INFO]: [WorldGuard] (Skywars) Fire spread is UNRESTRICTED.
+[20:52:20] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'spawn' - Env: NORMAL - Type: NORMAL & seed: 2261197457111850464
+[20:52:20] [Server thread/INFO]: [WorldGuard] (spawn) Lighters are PERMITTED.
+[20:52:20] [Server thread/INFO]: [WorldGuard] (spawn) Lava fire is blocked.
+[20:52:20] [Server thread/INFO]: [WorldGuard] (spawn) Fire spread is UNRESTRICTED.
+[20:52:20] [Server thread/INFO]: [Multiverse-Core] 8 - World(s) loaded.
+[20:52:20] [Server thread/INFO]: [Splegg] Enabling Splegg v1.2
+[20:52:20] [Server thread/INFO]: [Splegg] Loading map SpleggOne.
+[20:52:20] [Server thread/INFO]: [Splegg] Map is usable
+[20:52:20] [Server thread/INFO]: [Splegg] Load Complete!
+[20:52:20] [Server thread/INFO]: [Splegg] Loading map ArenaOne.
+[20:52:20] [Server thread/INFO]: [Splegg] Spawn count is 0
+[20:52:20] [Server thread/INFO]: [Splegg] No floors are setup.
+[20:52:20] [Server thread/INFO]: [Splegg] --<>-- PLEASE SETUP MAP!! --<>--
+[20:52:20] [Server thread/INFO]: [Splegg] Load Complete!
+[20:52:20] [Server thread/INFO]: [EssentialsProtect] Enabling EssentialsProtect vTeamCity
+[20:52:20] [Server thread/INFO]: [VoxelSniper] Enabling VoxelSniper v7.1.0
+[20:52:21] [Server thread/INFO]: [Multiverse-NetherPortals] Enabling Multiverse-NetherPortals v2.4-b530
+[20:52:21] [Server thread/INFO]: [SuperVanish] Enabling SuperVanish v5.4.3
+[20:52:21] [Server thread/INFO]: [Multiverse-Portals] Enabling Multiverse-Portals v2.4-b548
+[20:52:21] [Server thread/INFO]: [Multiverse-Portals]  1 - Portals(s) loaded
+[20:52:21] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn vTeamCity
+[20:52:21] [Server thread/INFO]: [MinigamesLib] Enabling MinigamesLib v1.13.1
+[20:52:21] [Server thread/INFO]: [Minigames] Enabling Minigames v1.7.0
+[20:52:21] [Server thread/INFO]: [Minigames] Using lang en_AU
+[20:52:21] [Server thread/INFO]: Minigames successfully enabled.
+[20:52:21] [Server thread/INFO]: [MobArena] Enabling MobArena v0.97.1
+[20:52:22] [Server thread/INFO]: [MobArena] Loaded arena 'default'
+[20:52:22] [Server thread/INFO]: [MobArena] Loaded arena 'god-arena'
+[20:52:22] [Server thread/INFO]: [MobArena] v0.97.1 enabled.
+[20:52:22] [Server thread/INFO]: [TNTRun] Enabling TNTRun v3.4
+[20:52:22] [Server thread/INFO]: [HolographicDisplays] Enabling HolographicDisplays v2.1.10
+[20:52:22] [Server thread/INFO]: [CommandSigns] Enabling CommandSigns v1.9.3.2
+[20:52:22] [Server thread/INFO]: [CommandSigns] No signs found.
+[20:52:23] [Server thread/INFO]: [SkyWars] Enabling SkyWars v1.1-m16
+[20:52:24] [Server thread/INFO]: [WorldGuard] (island-0) Lighters are PERMITTED.
+[20:52:24] [Server thread/INFO]: [WorldGuard] (island-0) Lava fire is blocked.
+[20:52:24] [Server thread/INFO]: [WorldGuard] (island-0) Fire spread is UNRESTRICTED.
+[20:52:24] [Server thread/INFO]: [EpicSpleef] Enabling EpicSpleef v0.0.19
+[20:52:24] [Server thread/INFO]: [EpicSpleef] Enabling EpicSpleef by BtoBastian
+[20:52:25] [Server thread/INFO]: [EpicSpleef] Loading lobby SpleefOne
+[20:52:25] [Server thread/INFO]: [EpicSpleef] Loading arena ArenaOne
+[20:52:25] [Server thread/INFO]: [EpicSpleef] Successfully loaded arena ArenaOne. (world: minigames, blocks: 5233, maxPlayers: 0)
+[20:52:25] [Server thread/INFO]: [EpicSpleef] Loading arena SpleefOne
+[20:52:25] [Server thread/INFO]: [EpicSpleef] Successfully loaded arena SpleefOne. (world: minigames, blocks: 0, maxPlayers: 0)
+[20:52:25] [Server thread/INFO]: [OnTime] Enabling OnTime v4.1.3
+[20:52:25] [Server thread/INFO]: [CraftBook] Enabling CraftBook v3.9-SNAPSHOT
+[20:52:25] [Server thread/INFO]: [CraftBook] Successfully added 1 CommandItems!
+[20:52:25] [Server thread/INFO]: [CraftBook] Registered 3 custom recipes!
+[20:52:25] [Server thread/INFO]: [CraftBook] 5797 chunk(s) for 9 world(s) processed (34ms elapsed)
+[20:52:29] [Server thread/INFO]: Found 0 arenas.
+[20:52:33] [Server thread/INFO]: Raichu3000 issued server command: /warp sexyarena
+[20:52:45] [Server thread/INFO]: ThunderCS issued server command: /warp spawn
+[20:52:48] [Server thread/INFO]: ThunderCS issued server command: /warp skywars
+[20:52:57] [Server thread/INFO]: Popey456963 issued server command: /tp thund
+[20:53:04] [Server thread/INFO]: Popey456963 issued server command: /warp skywars
+[20:53:12] [Server thread/INFO]: Staff: [Admin] Chris, [Mod] ThunderCS
+[20:53:12] [Server thread/INFO]: Members: [Member] Raichu
+[20:53:12] [Server thread/INFO]: Developers: [Dev] Poopey
+[20:53:25] [Server thread/INFO]: Raichu3000 issued server command: /warp spawn
+[20:53:32] [Server thread/INFO]: Crustifer issued server command: /tp rAI
+[20:53:37] [Server thread/INFO]: Crustifer issued server command: /tp tunder
+[20:53:39] [Server thread/INFO]: Crustifer issued server command: /tp thund
+[20:53:46] [Server thread/INFO]: Raichu3000 issued server command: /sw leave
+[20:53:50] [Server thread/INFO]: Raichu3000 issued server command: /tp popey
+[20:53:56] [Server thread/INFO]: Raichu3000 issued server command: /gamemode 1
+[20:53:59] [Server thread/INFO]: Staff: [Admin] Chris, [Mod] ThunderCS
+[20:53:59] [Server thread/INFO]: Members: [Member] Raichu
+[20:53:59] [Server thread/INFO]: Developers: [Dev] Poopey
+[20:54:00] [Server thread/INFO]: Popey456963 issued server command: /gm 1
+[20:54:16] [Server thread/INFO]: Popey456963 issued server command: /tp crust
+[20:54:19] [Server thread/INFO]: Popey456963 issued server command: /gm 1
+[20:54:20] [Server thread/INFO]: ThunderCS issued server command: /gm 1
+[20:54:45] [Server thread/INFO]: Staff: [Admin] Chris, [Mod] ThunderCS
+[20:54:45] [Server thread/INFO]: Members: [Member] Raichu
+[20:54:45] [Server thread/INFO]: Developers: [Dev] Poopey
+[20:55:32] [Server thread/INFO]: Staff: [Admin] Chris, [Mod] ThunderCS
+[20:55:32] [Server thread/INFO]: Members: [Member] Raichu
+[20:55:32] [Server thread/INFO]: Developers: [Dev] Poopey
+[20:56:18] [Server thread/INFO]: Staff: [Admin] Chris, [Mod] ThunderCS
+[20:56:18] [Server thread/INFO]: Members: [Member] Raichu
+[20:56:18] [Server thread/INFO]: Developers: [Dev] Poopey
+[20:57:05] [Server thread/INFO]: Staff: [Admin] Chris, [Mod] ThunderCS
+[20:57:05] [Server thread/INFO]: Members: [Member] Raichu
+[20:57:05] [Server thread/INFO]: Developers: [Dev] Poopey
+[20:57:37] [Server thread/INFO]: Raichu3000 issued server command: /warp sexyarena
+[20:57:49] [Server thread/INFO]: ThunderCS issued server command: //paste
+[20:57:52] [Server thread/INFO]: Staff: [Admin] Chris, [Mod] ThunderCS
+[20:57:52] [Server thread/INFO]: Members: [Member] Raichu
+[20:57:52] [Server thread/INFO]: Developers: [Dev] Poopey
+[20:58:14] [Server thread/INFO]: Popey456963 issued server command: /tp thund
+[20:58:22] [Server thread/INFO]: Crustifer issued server command: /tp thund
+[20:58:32] [Server thread/INFO]: Crustifer issued server command: /tp pop
+[20:58:38] [Server thread/INFO]: Staff: [Admin] Chris, [Mod] ThunderCS
+[20:58:38] [Server thread/INFO]: Members: [Member] Raichu
+[20:58:38] [Server thread/INFO]: Developers: [Dev] Poopey
+[20:59:12] [Server thread/INFO]: Raichu3000 issued server command: //replace gray 43:8
+[20:59:15] [Server thread/INFO]: ThunderCS issued server command: //undo
+[20:59:25] [Server thread/INFO]: Staff: [Admin] Chris, [Mod] ThunderCS
+[20:59:25] [Server thread/INFO]: Members: [Member] Raichu
+[20:59:25] [Server thread/INFO]: Developers: [Dev] Poopey
+[21:00:11] [Server thread/INFO]: Staff: [Admin] Chris, [Mod] ThunderCS
+[21:00:11] [Server thread/INFO]: Members: [Member] Raichu
+[21:00:11] [Server thread/INFO]: Developers: [Dev] Poopey
+[21:00:58] [Server thread/INFO]: Staff: [Admin] Chris, [Mod] ThunderCS
+[21:00:58] [Server thread/INFO]: Members: [Member] Raichu
+[21:00:58] [Server thread/INFO]: Developers: [Dev] Poopey
+[21:01:44] [Server thread/INFO]: Staff: [Admin] Chris, [Mod] ThunderCS
+[21:01:44] [Server thread/INFO]: Members: [Member] Raichu
+[21:01:44] [Server thread/INFO]: Developers: [Dev] Poopey
+[21:03:03] [Server thread/INFO]: Staff: [Admin] Chris, [Mod] ThunderCS
+[21:03:03] [Server thread/INFO]: Members: [Member] Raichu
+[21:03:03] [Server thread/INFO]: Developers: [Dev] Poopey
+[21:03:49] [Server thread/INFO]: ThunderCS issued server command: /sw leave
+[21:03:50] [Server thread/INFO]: Staff: [Admin] Chris, [Mod] ThunderCS
+[21:03:50] [Server thread/INFO]: Members: [Member] Raichu
+[21:03:50] [Server thread/INFO]: Developers: [Dev] Poopey
+[21:03:59] [Server thread/INFO]: ThunderCS issued server command: /gm 1
+[21:04:36] [Server thread/INFO]: Staff: [Admin] Chris, [Mod] ThunderCS
+[21:04:36] [Server thread/INFO]: Members: [Member] Raichu
+[21:04:36] [Server thread/INFO]: Developers: [Dev] Poopey
+[21:05:23] [Server thread/INFO]: Staff: [Admin] Chris, [Mod] ThunderCS
+[21:05:23] [Server thread/INFO]: Members: [Member] Raichu
+[21:05:23] [Server thread/INFO]: Developers: [Dev] Poopey
+[21:06:10] [Server thread/INFO]: Staff: [Admin] Chris, [Mod] ThunderCS
+[21:06:10] [Server thread/INFO]: Members: [Member] Raichu
+[21:06:10] [Server thread/INFO]: Developers: [Dev] Poopey
+[21:06:56] [Server thread/INFO]: Staff: [Admin] Chris, [Mod] ThunderCS
+[21:06:56] [Server thread/INFO]: Members: [Member] Raichu
+[21:06:56] [Server thread/INFO]: Developers: [Dev] Poopey
+[21:07:43] [Server thread/INFO]: Staff: [Admin] Chris, [Mod] ThunderCS
+[21:07:43] [Server thread/INFO]: Members: [Member] Raichu
+[21:07:43] [Server thread/INFO]: Developers: [Dev] Poopey
+[21:07:58] [Server thread/INFO]: ThunderCS issued server command: /sw leave
+[21:08:00] [Server thread/INFO]: ThunderCS issued server command: /gm 1
+[21:08:29] [Server thread/INFO]: Staff: [Admin] Chris, [Mod] ThunderCS
+[21:08:29] [Server thread/INFO]: Members: [Member] Raichu
+[21:08:29] [Server thread/INFO]: Developers: [Dev] Poopey
+[21:08:51] [Server thread/INFO]: Crustifer issued server command: /tp rai
+[21:08:57] [Server thread/INFO]: ThunderCS issued server command: /tp pop
+[21:09:00] [Server thread/INFO]: ThunderCS issued server command: /tp rai
+[21:09:16] [Server thread/INFO]: Staff: [Admin] Chris, [Mod] ThunderCS
+[21:09:16] [Server thread/INFO]: Members: [Member] Raichu
+[21:09:16] [Server thread/INFO]: Developers: [Dev] Poopey
+[21:09:35] [Server thread/INFO]: ThunderCS issued server command: /butcher
+[21:09:58] [Server thread/INFO]: ThunderCS issued server command: /toggledownfall
+[21:09:58] [Server thread/INFO]: [ThunderCS: Toggled downfall]
+[21:09:58] [Server thread/INFO]: Raichu3000 issued server command: /toggledownfall
+[21:09:58] [Server thread/INFO]: [Raichu3000: Toggled downfall]
+[21:10:02] [Server thread/INFO]: Staff: [Admin] Chris, [Mod] ThunderCS
+[21:10:02] [Server thread/INFO]: Members: [Member] Raichu
+[21:10:02] [Server thread/INFO]: Developers: [Dev] Poopey
+[21:10:04] [Server thread/INFO]: ThunderCS issued server command: /warp sk
+[21:10:08] [Server thread/INFO]: ThunderCS issued server command: /warp skywars
+[21:10:13] [Server thread/INFO]: ThunderCS issued server command: /sw leave
+[21:10:15] [Server thread/INFO]: ThunderCS issued server command: /gm 1
+[21:10:25] [Server thread/INFO]: ThunderCS issued server command: /toggledownfall
+[21:10:25] [Server thread/INFO]: [ThunderCS: Toggled downfall]
+[21:10:35] [Server thread/INFO]: Popey456963 issued server command: /sw leave
+[21:10:39] [Server thread/INFO]: Popey456963 issued server command: /gm 1
+[21:10:49] [Server thread/INFO]: Staff: [Admin] Chris, [Mod] ThunderCS
+[21:10:49] [Server thread/INFO]: Members: [Member] Raichu
+[21:10:49] [Server thread/INFO]: Developers: [Dev] Poopey
+[21:11:21] [Server thread/INFO]: RangeRR404 left the game.
+[21:11:22] [Server thread/INFO]: [Member] Raichu: ?
+[21:11:35] [Server thread/INFO]: Staff: [Admin] Chris, [Mod] ThunderCS
+[21:11:35] [Server thread/INFO]: Members: [Member] Raichu
+[21:11:35] [Server thread/INFO]: Developers: [Dev] Poopey
+[21:11:51] [Server thread/INFO]: [Dev] Poopey: Uh, Hello Range.
+[21:12:39] [Server thread/INFO]: Twiixtor issued server command: /disguise
+[21:12:55] [Server thread/INFO]: Twiixtor issued server command: /disguise armorstand
+[21:13:03] [Server thread/INFO]: Staff: [Admin] Chris, [Mod] ThunderCS
+[21:13:03] [Server thread/INFO]: Members: [Member] Raichu
+[21:13:03] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe]Twiixtor
+[21:13:08] [Server thread/INFO]: Twiixtor issued server command: /tp pop
+[21:13:50] [Server thread/INFO]: Staff: [Admin] Chris, [Mod] ThunderCS
+[21:13:50] [Server thread/INFO]: Members: [Member] Raichu
+[21:13:50] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe]Twiixtor
+[21:13:55] [Server thread/INFO]: Twiixtor issued server command: /disguise TNTPrimed
+[21:14:15] [Server thread/INFO]: Twiixtor issued server command: /leave
+[21:14:18] [Server thread/INFO]: Twiixtor issued server command: /skywars leave
+[21:14:19] [Server thread/INFO]: Twiixtor issued server command: /help
+[21:14:21] [Server thread/INFO]: [Giraffe]Twiixtor: FAK
+[21:14:24] [Server thread/INFO]: [Giraffe]Twiixtor: How do I leave skywars
+[21:14:35] [Server thread/INFO]: Twiixtor issued server command: /sw leave
+[21:14:36] [Server thread/INFO]: Staff: [Admin] Chris, [Mod] ThunderCS
+[21:14:36] [Server thread/INFO]: Members: [Member] Raichu
+[21:14:36] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe]Twiixtor
+[21:14:37] [Server thread/INFO]: [Giraffe]Twiixtor: got it
+[21:14:41] [Server thread/INFO]: Twiixtor issued server command: /gm 1
+[21:14:46] [Server thread/INFO]: Twiixtor issued server command: /tp rai
+[21:14:47] [Server thread/INFO]: ThunderCS issued server command: /say twiix is poo
+[21:14:47] [Server thread/INFO]: [ThunderCS] twiix is poo
+[21:14:47] [Server thread/INFO]: [Dev] Poopey: Got wut?
+[21:14:55] [Server thread/INFO]: [Giraffe]Twiixtor: ?
+[21:15:06] [Server thread/INFO]: [Dev] Poopey: [Giraffe]Twiixtor: got it
+[21:15:23] [Server thread/INFO]: Staff: [Admin] Chris, [Mod] ThunderCS
+[21:15:23] [Server thread/INFO]: Members: [Member] Raichu
+[21:15:23] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe]Twiixtor
+[21:16:10] [Server thread/INFO]: Staff: [Admin] Chris, [Mod] ThunderCS
+[21:16:10] [Server thread/INFO]: Members: [Member] Raichu
+[21:16:10] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe]Twiixtor
+[21:16:56] [Server thread/INFO]: Staff: [Admin] Chris, [Mod] ThunderCS
+[21:16:56] [Server thread/INFO]: Members: [Member] Raichu
+[21:16:56] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe]Twiixtor
+[21:17:15] [Server thread/INFO]: [Giraffe]Twiixtor: Wellow Horld
+[21:17:27] [Server thread/INFO]: [Dev] Poopey: ^
+[21:17:43] [Server thread/INFO]: Staff: [Admin] Chris, [Mod] ThunderCS
+[21:17:43] [Server thread/INFO]: Members: [Member] Raichu
+[21:17:43] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe]Twiixtor
+[21:18:29] [Server thread/INFO]: Staff: [Admin] Chris, [Mod] ThunderCS
+[21:18:29] [Server thread/INFO]: Members: [Member] Raichu
+[21:18:29] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe]Twiixtor
+[21:19:16] [Server thread/INFO]: Staff: [Admin] Chris, [Mod] ThunderCS
+[21:19:16] [Server thread/INFO]: Members: [Member] Raichu
+[21:19:16] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe]Twiixtor
+[21:20:02] [Server thread/INFO]: Staff: [Admin] Chris, [Mod] ThunderCS
+[21:20:02] [Server thread/INFO]: Members: [Member] Raichu
+[21:20:02] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe]Twiixtor
+[21:20:35] [Server thread/INFO]: ThunderCS left the game.
+[21:20:49] [Server thread/INFO]: Staff: [AFK][Admin] Chris
+[21:20:49] [Server thread/INFO]: Members: [Member] Raichu
+[21:20:49] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe]Twiixtor
+[21:21:35] [Server thread/INFO]: Staff: [AFK][Admin] Chris
+[21:21:35] [Server thread/INFO]: Members: [Member] Raichu
+[21:21:35] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe]Twiixtor
+[21:22:27] [Server thread/INFO]: Twiixtor issued server command: //wand 1
+[21:22:28] [Server thread/INFO]: Twiixtor issued server command: //wand
+[21:22:33] [Server thread/INFO]: Twiixtor issued server command: /i compass 1
+[21:22:36] [Server thread/INFO]: Twiixtor issued server command: /i bedrock 1
+[21:22:40] [Server thread/INFO]: Twiixtor issued server command: /tp thund
+[21:22:44] [Server thread/INFO]: Twiixtor issued server command: /tp pop
+[21:23:03] [Server thread/INFO]: Staff: [AFK][Admin] Chris
+[21:23:03] [Server thread/INFO]: Members: [AFK][Member] Raichu
+[21:23:03] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe]Twiixtor
+[21:23:09] [Server thread/INFO]: Twiixtor issued server command: /gm 0 pop
+[21:23:24] [Server thread/INFO]: Twiixtor issued server command: /speed 1
+[21:23:50] [Server thread/INFO]: Staff: [AFK][Admin] Chris
+[21:23:50] [Server thread/INFO]: Members: [AFK][Member] Raichu
+[21:23:50] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe]Twiixtor
+[21:24:01] [Server thread/INFO]: Popey456963 issued server command: /feed Popey456963
+[21:24:11] [Server thread/INFO]: Twiixtor issued server command: /gm
+[21:24:16] [Server thread/INFO]: Popey456963 issued server command: /unhanded
+[21:24:16] [Server thread/INFO]: Twiixtor issued server command: /gm 0 Popey456963
+[21:24:34] [Server thread/INFO]: [Giraffe]Twiixtor: You're in survival yet I cant hit u
+[21:24:36] [Server thread/INFO]: Staff: [AFK][Admin] Chris
+[21:24:36] [Server thread/INFO]: Members: [AFK][Member] Raichu
+[21:24:36] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe]Twiixtor
+[21:24:38] [Server thread/INFO]: [Dev] Poopey: pvp is off.
+[21:24:40] [Server thread/INFO]: Popey456963 issued server command: /tp twiix
+[21:24:47] [Server thread/INFO]: [Giraffe]Twiixtor: stoopid
+[21:24:49] [Server thread/INFO]: Popey456963 issued server command: /mvm set pvp True
+[21:24:50] [Server thread/INFO]: [Dev] Poopey: Try now?
+[21:24:56] [Server thread/INFO]: [Giraffe]Twiixtor: yey
+[21:25:04] [Server thread/INFO]: Popey456963 issued server command: /heal Popey456963
+[21:25:15] [Server thread/INFO]: Popey456963 issued server command: /heal Popey456963
+[21:25:23] [Server thread/INFO]: [Giraffe]Twiixtor: y u smokin
+[21:25:23] [Server thread/INFO]: Staff: [AFK][Admin] Chris
+[21:25:23] [Server thread/INFO]: Members: [AFK][Member] Raichu
+[21:25:23] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe]Twiixtor
+[21:25:28] [Server thread/INFO]: [Dev] Poopey: I have no idea
+[21:25:29] [Server thread/INFO]: Popey456963 issued server command: /heal Popey456963
+[21:25:35] [Server thread/INFO]: Popey456963 issued server command: /heal Popey456963
+[21:25:39] [Server thread/INFO]: Popey456963 issued server command: /heal Popey456963
+[21:25:46] [Server thread/INFO]: Popey456963 issued server command: /pt heal Popey456963
+[21:25:47] [Server thread/INFO]: [PT] Popey456963 issued server command: /heal Popey456963
+[21:25:47] [Server thread/INFO]: [PT] Popey456963 issued server command: /heal Popey456963
+[21:25:47] [Server thread/INFO]: [PT] Popey456963 issued server command: /heal Popey456963
+[21:25:47] [Server thread/INFO]: [PT] Popey456963 issued server command: /heal Popey456963
+[21:25:47] [Server thread/INFO]: [PT] Popey456963 issued server command: /heal Popey456963
+[21:25:48] [Server thread/INFO]: [PT] Popey456963 issued server command: /heal Popey456963
+[21:25:48] [Server thread/INFO]: [PT] Popey456963 issued server command: /heal Popey456963
+[21:25:48] [Server thread/INFO]: [PT] Popey456963 issued server command: /heal Popey456963
+[21:25:49] [Server thread/INFO]: [PT] Popey456963 issued server command: /heal Popey456963
+[21:25:49] [Server thread/INFO]: [PT] Popey456963 issued server command: /heal Popey456963
+[21:25:49] [Server thread/INFO]: [PT] Popey456963 issued server command: /heal Popey456963
+[21:25:49] [Server thread/INFO]: [PT] Popey456963 issued server command: /heal Popey456963
+[21:25:53] [Server thread/INFO]: [PT] Popey456963 issued server command: /heal Popey456963
+[21:25:53] [Server thread/INFO]: [PT] Popey456963 issued server command: /heal Popey456963
+[21:25:53] [Server thread/INFO]: [PT] Popey456963 issued server command: /heal Popey456963
+[21:25:54] [Server thread/INFO]: [PT] Popey456963 issued server command: /heal Popey456963
+[21:25:54] [Server thread/INFO]: [PT] Popey456963 issued server command: /heal Popey456963
+[21:25:55] [Server thread/INFO]: [PT] Popey456963 issued server command: /heal Popey456963
+[21:25:55] [Server thread/INFO]: [PT] Popey456963 issued server command: /heal Popey456963
+[21:25:55] [Server thread/INFO]: [PT] Popey456963 issued server command: /heal Popey456963
+[21:25:55] [Server thread/INFO]: [PT] Popey456963 issued server command: /heal Popey456963
+[21:25:56] [Server thread/INFO]: [PT] Popey456963 issued server command: /heal Popey456963
+[21:25:56] [Server thread/INFO]: [PT] Popey456963 issued server command: /heal Popey456963
+[21:25:56] [Server thread/INFO]: [PT] Popey456963 issued server command: /heal Popey456963
+[21:25:57] [Server thread/INFO]: [PT] Popey456963 issued server command: /heal Popey456963
+[21:25:59] [Server thread/INFO]: Popey456963 issued server command: /v twi
+[21:26:02] [Server thread/INFO]: Popey456963 issued server command: /vanish twi
+[21:26:05] [Server thread/INFO]: Twiixtor issued server command: //stack 1
+[21:26:06] [Server thread/INFO]: Popey456963 issued server command: /vanish Twiixtor
+[21:26:10] [Server thread/INFO]: Staff: [Admin] Chris
+[21:26:10] [Server thread/INFO]: Members: [AFK][Member] Raichu
+[21:26:10] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe]Twiixtor
+[21:26:20] [Server thread/INFO]: [PT] Popey456963 issued server command: /heal Popey456963
+[21:26:20] [Server thread/INFO]: [PT] Popey456963 issued server command: /heal Popey456963
+[21:26:20] [Server thread/INFO]: [PT] Popey456963 issued server command: /heal Popey456963
+[21:26:20] [Server thread/INFO]: [PT] Popey456963 issued server command: /heal Popey456963
+[21:26:20] [Server thread/INFO]: [PT] Popey456963 issued server command: /heal Popey456963
+[21:26:21] [Server thread/INFO]: [PT] Popey456963 issued server command: /heal Popey456963
+[21:26:21] [Server thread/INFO]: [PT] Popey456963 issued server command: /heal Popey456963
+[21:26:21] [Server thread/INFO]: [PT] Popey456963 issued server command: /heal Popey456963
+[21:26:21] [Server thread/INFO]: [PT] Popey456963 issued server command: /heal Popey456963
+[21:26:21] [Server thread/INFO]: [PT] Popey456963 issued server command: /heal Popey456963
+[21:26:22] [Server thread/INFO]: Twiixtor issued server command: /tp rai
+[21:26:22] [Server thread/INFO]: [PT] Popey456963 issued server command: /heal Popey456963
+[21:26:22] [Server thread/INFO]: [PT] Popey456963 issued server command: /heal Popey456963
+[21:26:22] [Server thread/INFO]: [PT] Popey456963 issued server command: /heal Popey456963
+[21:26:22] [Server thread/INFO]: [PT] Popey456963 issued server command: /heal Popey456963
+[21:26:24] [Server thread/INFO]: [PT] Popey456963 issued server command: /heal Popey456963
+[21:26:24] [Server thread/INFO]: [PT] Popey456963 issued server command: /heal Popey456963
+[21:26:24] [Server thread/INFO]: [PT] Popey456963 issued server command: /heal Popey456963
+[21:26:25] [Server thread/INFO]: [PT] Popey456963 issued server command: /heal Popey456963
+[21:26:25] [Server thread/INFO]: [PT] Popey456963 issued server command: /heal Popey456963
+[21:26:25] [Server thread/INFO]: [PT] Popey456963 issued server command: /heal Popey456963
+[21:26:25] [Server thread/INFO]: [PT] Popey456963 issued server command: /heal Popey456963
+[21:26:27] [Server thread/INFO]: Popey456963 issued server command: /tnt
+[21:26:28] [Server thread/INFO]: Popey456963 issued server command: /tnt
+[21:26:28] [Server thread/INFO]: Popey456963 issued server command: /tnt
+[21:26:28] [Server thread/INFO]: Popey456963 issued server command: /tnt
+[21:26:32] [Server thread/INFO]: [PT] Popey456963 issued server command: /heal Popey456963
+[21:26:32] [Server thread/INFO]: [PT] Popey456963 issued server command: /heal Popey456963
+[21:26:32] [Server thread/INFO]: Popey456963 blew up
+[21:26:32] [Server thread/INFO]: [PT] Popey456963 issued server command: /heal Popey456963
+[21:26:35] [Server thread/INFO]: Popey456963 issued server command: /back
+[21:26:39] [Server thread/INFO]: Popey456963 issued server command: /gamemode 1
+[21:26:51] [Server thread/INFO]: Popey456963 issued server command: //set grass
+[21:26:56] [Server thread/INFO]: Staff: [Admin] Chris
+[21:26:56] [Server thread/INFO]: Members: [Member] Raichu
+[21:26:56] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe]Twiixtor
+[21:26:57] [Server thread/INFO]: Raichu3000 issued server command: //replace gray 43:8
+[21:27:23] [Server thread/INFO]: Popey456963 issued server command: /f
+[21:27:29] [Server thread/INFO]: Twiixtor issued server command: /help
+[21:27:29] [Server thread/INFO]: Popey456963 issued server command: /plugins
+[21:27:31] [Server thread/INFO]: Crustifer issued server command: /f
+[21:27:43] [Server thread/INFO]: Staff: [Admin] Chris
+[21:27:43] [Server thread/INFO]: Members: [Member] Raichu
+[21:27:43] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe]Twiixtor
+[21:27:51] [Server thread/INFO]: Twiixtor issued server command: /givegun
+[21:28:01] [Server thread/INFO]: [PT] Popey456963 issued server command: /heal Popey456963
+[21:28:04] [Server thread/INFO]: Twiixtor issued server command: /rapidfw 10
+[21:28:05] [Server thread/INFO]: Popey456963 issued server command: /tp raich
+[21:28:13] [Server thread/INFO]: Popey456963 issued server command: /fastfw
+[21:28:16] [Server thread/INFO]: Popey456963 issued server command: /quickfw
+[21:28:16] [Server thread/INFO]: Raichu3000 issued server command: /kill twiixtor
+[21:28:16] [Server thread/INFO]: Twiixtor died
+[21:28:22] [Server thread/INFO]: Twiixtor issued server command: /back
+[21:28:29] [Server thread/INFO]: Staff: [Admin] Chris
+[21:28:29] [Server thread/INFO]: Members: [Member] Raichu
+[21:28:29] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe]Twiixtor
+[21:28:31] [Server thread/INFO]: Popey456963 issued server command: /d
+[21:28:47] [Server thread/INFO]: Popey456963 issued server command: /rapidfw 100
+[21:28:51] [Server thread/INFO]: Popey456963 issued server command: /tp raichu
+[21:29:05] [Server thread/INFO]: Raichu3000 issued server command: /kill popey
+[21:29:05] [Server thread/INFO]: Popey456963 died
+[21:29:07] [Server thread/INFO]: Popey456963 issued server command: /back
+[21:29:09] [Server thread/INFO]: Popey456963 issued server command: /kill Raichu3000
+[21:29:10] [Server thread/INFO]: Raichu3000 died
+[21:29:16] [Server thread/INFO]: Staff: [Admin] Chris
+[21:29:16] [Server thread/INFO]: Members: [Member] Raichu
+[21:29:16] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe]Twiixtor
+[21:29:17] [Server thread/INFO]: Popey456963 issued server command: /tp Raichu3000 Popey456963
+[21:29:29] [Server thread/INFO]: Twiixtor issued server command: /kick Pope
+[21:29:46] [Server thread/INFO]: CONSOLE issued server command: /kick Popey456963
+[21:29:47] [Server thread/INFO]: Popey456963 left the game.
+[21:30:02] [Server thread/INFO]: Staff: [Admin] Chris
+[21:30:02] [Server thread/INFO]: Members: [Member] Raichu
+[21:30:02] [Server thread/INFO]: Developers: [Giraffe]Twiixtor
+[21:30:15] [Server thread/INFO]: Popey456963 issued server command: /rapidfw 100
+[21:30:21] [Server thread/INFO]: Raichu3000 left the game.
+[21:30:23] [Server thread/INFO]: Twiixtor left the game.
+[21:30:23] [Server thread/INFO]: Popey456963 left the game.
+[21:30:31] [Server thread/INFO]: Raichu3000 left the game.
+[21:30:33] [Server thread/INFO]: Popey456963 issued server command: /rapidfw 100
+[21:30:37] [Server thread/INFO]: Crustifer left the game.
+[21:30:49] [Server thread/INFO]: Staff: [Admin] Chris
+[21:30:49] [Server thread/INFO]: Members: [Member] Raichu
+[21:30:49] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe]Twiixtor
+[21:30:49] [Server thread/INFO]: Stopping the server
+[21:30:49] [Server thread/INFO]: Stopping server
+[21:30:49] [Server thread/INFO]: [CraftBook] Disabling CraftBook v3.9-SNAPSHOT
+[21:30:49] [Server thread/INFO]: [OnTime] Disabling OnTime v4.1.3
+[21:30:49] [Server thread/INFO]: [EpicSpleef] Disabling EpicSpleef v0.0.19
+[21:30:49] [Server thread/INFO]: [SkyWars] Disabling SkyWars v1.1-m16
+[21:30:49] [Server thread/INFO]: [Multiverse-Core] World 'island-0' was unloaded from memory.
+[21:30:49] [Server thread/INFO]: [Multiverse-Core] World island-0 was DELETED.
+[21:30:49] [Server thread/INFO]: [CommandSigns] Disabling CommandSigns v1.9.3.2
+[21:30:49] [Server thread/INFO]: [HolographicDisplays] Disabling HolographicDisplays v2.1.10
+[21:30:49] [Server thread/INFO]: [TNTRun] Disabling TNTRun v3.4
+[21:30:49] [Server thread/INFO]: [MobArena] Disabling MobArena v0.97.1
+[21:30:49] [Server thread/INFO]: [MobArena] disabled.
+[21:30:49] [Server thread/INFO]: [Minigames] Disabling Minigames v1.7.0
+[21:30:49] [Server thread/INFO]: Minigames successfully disabled.
+[21:30:49] [Server thread/INFO]: [MinigamesLib] Disabling MinigamesLib v1.13.1
+[21:30:49] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn vTeamCity
+[21:30:49] [Server thread/INFO]: [Vault] Disabling Vault v1.5.6-b49
+[21:30:49] [Server thread/INFO]: [Multiverse-Portals] Disabling Multiverse-Portals v2.4-b548
+[21:30:49] [Server thread/INFO]: [SuperVanish] Disabling SuperVanish v5.4.3
+[21:30:49] [Server thread/INFO]: [Multiverse-NetherPortals] Disabling Multiverse-NetherPortals v2.4-b530
+[21:30:49] [Server thread/INFO]: [MultiVerse-NetherPortals] - Disabled
+[21:30:49] [Server thread/INFO]: [mcMMO] Disabling mcMMO v1.5.00-b3547
+[21:30:52] [Server thread/INFO]: [VoxelSniper] Disabling VoxelSniper v7.1.0
+[21:30:52] [Server thread/INFO]: [EssentialsProtect] Disabling EssentialsProtect vTeamCity
+[21:30:52] [Server thread/INFO]: [Splegg] Disabling Splegg v1.2
+[21:30:52] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v2.4-b527
+[21:30:52] [Server thread/INFO]: [Multiverse-Core] - Disabled
+[21:30:52] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v6.1
+[21:30:52] [Server thread/INFO]: [WorldGuard] Shutting down executor and waiting for any pending tasks...
+[21:30:52] [Server thread/INFO]: [LaggRemover] Disabling LaggRemover v0.1.8
+[21:30:52] [Server thread/INFO]: [LaggRemover] LaggRemover has been disabled!
+[21:30:52] [Server thread/INFO]: [PlugMan] Disabling PlugMan v2.0.7
+[21:30:52] [Server thread/INFO]: [Essentials] Disabling Essentials vTeamCity
+[21:30:52] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1;no_git_id
+[21:30:52] [Server thread/INFO]: [DisguiseCraft] Disabling DisguiseCraft v5.2
+[21:30:52] [Server thread/INFO]: Popey456963 left the game.
+[21:30:52] [Server thread/INFO]: Twiixtor left the game.

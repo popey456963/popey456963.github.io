@@ -1,0 +1,191 @@
+[22:46:05] [Server thread/INFO]: Loading properties
+[22:46:05] [Server thread/INFO]: Default game type: SURVIVAL
+[22:46:05] [Server thread/INFO]: Using epoll channel type
+[22:46:06] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1;no_git_id
+[22:46:06] [Server thread/INFO]: [Essentials] Loading Essentials vTeamCity
+[22:46:06] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn vTeamCity
+[22:46:06] [Server thread/INFO]: [EssentialsProtect] Loading EssentialsProtect vTeamCity
+[22:46:07] [Server thread/INFO]: Preparing spawn area: 95%
+[22:46:08] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1;no_git_id
+[22:46:08] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_8_R3 as the Bukkit adapter
+[22:46:08] [Server thread/INFO]: [Essentials] Enabling Essentials vTeamCity
+[22:46:08] [Server thread/INFO]: git-Bukkit-9935adc (MC: 1.8.8)
+[22:46:08] [Server thread/INFO]: 1.8.8-R0.1-SNAPSHOT
+[22:46:08] [Server thread/INFO]: Using locale en_GB
+[22:46:08] [Server thread/INFO]: Using locale en_GB
+[22:46:09] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn vTeamCity
+[22:46:09] [Server thread/INFO]: [EssentialsProtect] Enabling EssentialsProtect vTeamCity
+[22:47:15] [Server thread/INFO]: Twiixtor issued server command: /plugins
+[22:47:20] [Server thread/INFO]: Twiixtor issued server command: /ci
+[22:47:26] [Server thread/INFO]: Twiixtor issued server command: /kill
+[22:47:29] [Server thread/INFO]: Twiixtor issued server command: /kill Twiix
+[22:47:29] [Server thread/INFO]: Twiixtor died
+[22:47:47] [Server thread/INFO]: Twiixtor issued server command: /home
+[22:47:49] [Server thread/INFO]: Twiixtor issued server command: /home home
+[22:48:03] [Server thread/INFO]: Twiixtor issued server command: /home top
+[22:50:32] [Server thread/INFO]: Twiixtor issued server command: /reload
+[22:50:32] [Server thread/INFO]: Twiixtor: If you encounter any issues please use the /stop command to restart your server.
+[22:50:32] [Server thread/INFO]: [EssentialsProtect] Disabling EssentialsProtect vTeamCity
+[22:50:32] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn vTeamCity
+[22:50:32] [Server thread/INFO]: [Essentials] Disabling Essentials vTeamCity
+[22:50:32] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1;no_git_id
+[22:50:32] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1;no_git_id
+[22:50:32] [Server thread/INFO]: [Essentials] Loading Essentials vTeamCity
+[22:50:32] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn vTeamCity
+[22:50:32] [Server thread/INFO]: [EssentialsProtect] Loading EssentialsProtect vTeamCity
+[22:50:32] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1;no_git_id
+[22:50:32] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_8_R3 as the Bukkit adapter
+[22:50:32] [Server thread/INFO]: [Essentials] Enabling Essentials vTeamCity
+[22:50:32] [Server thread/INFO]: git-Bukkit-9935adc (MC: 1.8.8)
+[22:50:32] [Server thread/INFO]: 1.8.8-R0.1-SNAPSHOT
+[22:50:32] [Server thread/INFO]: Using locale en_GB
+[22:50:32] [Server thread/INFO]: Using locale en_GB
+[22:50:32] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn vTeamCity
+[22:50:32] [Server thread/INFO]: [EssentialsProtect] Enabling EssentialsProtect vTeamCity
+[22:50:32] [Server thread/INFO]: Twiixtor: Reload complete.
+[22:50:44] [Server thread/INFO]: CONSOLE: If you encounter any issues please use the /stop command to restart your server.
+[22:50:44] [Server thread/INFO]: [EssentialsProtect] Disabling EssentialsProtect vTeamCity
+[22:50:44] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn vTeamCity
+[22:50:44] [Server thread/INFO]: [Essentials] Disabling Essentials vTeamCity
+[22:50:44] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1;no_git_id
+[22:50:46] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1;no_git_id
+[22:50:46] [Server thread/INFO]: [Essentials] Loading Essentials vTeamCity
+[22:50:46] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn vTeamCity
+[22:50:46] [Server thread/INFO]: [EssentialsProtect] Loading EssentialsProtect vTeamCity
+[22:50:46] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1;no_git_id
+[22:50:46] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_8_R3 as the Bukkit adapter
+[22:50:46] [Server thread/INFO]: [Essentials] Enabling Essentials vTeamCity
+[22:50:46] [Server thread/INFO]: git-Bukkit-9935adc (MC: 1.8.8)
+[22:50:46] [Server thread/INFO]: 1.8.8-R0.1-SNAPSHOT
+[22:50:46] [Server thread/INFO]: Using locale en_GB
+[22:50:46] [Server thread/INFO]: Using locale en_GB
+[22:50:47] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn vTeamCity
+[22:50:47] [Server thread/INFO]: [EssentialsProtect] Enabling EssentialsProtect vTeamCity
+[22:50:47] [Server thread/INFO]: CONSOLE: Reload complete.
+[22:50:55] [Server thread/INFO]: Twiixtor issued server command: /plugins
+[22:50:58] [Server thread/INFO]: Twiixtor issued server command: /i sign 1
+[22:51:21] [Server thread/INFO]: Twiixtor issued server command: /home home
+[22:51:35] [Server thread/INFO]: Twiixtor issued server command: /gamemode 0
+[22:51:39] [Server thread/INFO]: Twiixtor issued server command: /gamemode 1
+[22:51:44] [Server thread/INFO]: Twiixtor issued server command: /enchant
+[22:51:47] [Server thread/INFO]: Twiixtor issued server command: /enchant sharpness
+[22:51:49] [Server thread/INFO]: Twiixtor issued server command: /enchant sharpness 5
+[22:52:02] [Server thread/INFO]: Twiixtor issued server command: /enchant fire
+[22:52:07] [Server thread/INFO]: Twiixtor issued server command: /enchant fire 2
+[22:52:15] [Server thread/INFO]: Twiixtor issued server command: /gamemode 0
+[22:52:22] [Server thread/INFO]: Twiixtor issued server command: /butcher
+[22:52:29] [Server thread/INFO]: Twiixtor issued server command: /gamemode 1
+[22:53:05] [Server thread/INFO]: Twiixtor issued server command: /top
+[22:53:14] [Server thread/INFO]: Twiixtor issued server command: //wand
+[22:53:34] [Server thread/INFO]: Twiixtor issued server command: /home top
+[22:53:37] [Server thread/INFO]: Twiixtor issued server command: //expand vert
+[22:53:38] [Server thread/INFO]: Twiixtor issued server command: //regen
+[22:54:03] [Server thread/INFO]: Twiixtor issued server command: //expand vert
+[22:54:05] [Server thread/INFO]: Twiixtor issued server command: //regen
+[22:54:16] [Server thread/INFO]: Twiixtor issued server command: /yp
+[22:54:18] [Server thread/INFO]: Twiixtor issued server command: /tp
+[22:54:26] [Server thread/INFO]: Twiixtor issued server command: /tp 0 100 0
+[22:54:33] [Server thread/INFO]: Twiixtor issued server command: /time day
+[22:54:35] [Server thread/INFO]: Twiixtor issued server command: /butcher
+[22:55:16] [Server thread/INFO]: Twiixtor issued server command: //set 0
+[22:55:23] [Server thread/INFO]: Twiixtor issued server command: /top
+[22:55:27] [Server thread/INFO]: Twiixtor issued server command: /setspawn
+[22:55:30] [Server thread/INFO]: Twiixtor issued server command: /goto
+[22:55:34] [Server thread/INFO]: Twiixtor issued server command: /tpto
+[22:55:36] [Server thread/INFO]: Twiixtor issued server command: /warp
+[22:55:38] [Server thread/INFO]: Twiixtor issued server command: /thru
+[22:55:41] [Server thread/INFO]: Twiixtor issued server command: /i compass 1
+[22:55:58] [Server thread/INFO]: Twiixtor issued server command: //expand vert
+[22:55:59] [Server thread/INFO]: Twiixtor issued server command: //regen
+[22:56:06] [Server thread/INFO]: Twiixtor issued server command: //expand vert
+[22:56:07] [Server thread/INFO]: Twiixtor issued server command: //regen
+[22:56:12] [Server thread/INFO]: Twiixtor issued server command: /top
+[22:56:13] [Server thread/INFO]: Twiixtor issued server command: /top
+[22:56:13] [Server thread/INFO]: Twiixtor issued server command: /top
+[22:56:34] [Server thread/INFO]: Twiixtor issued server command: /spawn
+[23:01:30] [Server thread/INFO]: Twiixtor issued server command: //replace 160 1
+[23:01:33] [Server thread/INFO]: Twiixtor issued server command: //replace 1 fence
+[23:01:39] [Server thread/INFO]: Twiixtor issued server command: //replace 1 glass
+[23:01:43] [Server thread/INFO]: Twiixtor issued server command: //replace fence glass
+[23:01:47] [Server thread/INFO]: Twiixtor issued server command: //replace glass 0
+[23:04:54] [Server thread/INFO]: Twiixtor issued server command: /time day
+[23:06:03] [Server thread/INFO]: Twiixtor issued server command: /spawn
+[23:11:51] [Server thread/INFO]: CONSOLE: If you encounter any issues please use the /stop command to restart your server.
+[23:11:51] [Server thread/INFO]: [EssentialsProtect] Disabling EssentialsProtect vTeamCity
+[23:11:51] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn vTeamCity
+[23:11:51] [Server thread/INFO]: [Essentials] Disabling Essentials vTeamCity
+[23:11:51] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1;no_git_id
+[23:11:51] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1;no_git_id
+[23:11:51] [Server thread/INFO]: [Essentials] Loading Essentials vTeamCity
+[23:11:51] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn vTeamCity
+[23:11:51] [Server thread/INFO]: [EssentialsProtect] Loading EssentialsProtect vTeamCity
+[23:11:51] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1;no_git_id
+[23:11:51] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_8_R3 as the Bukkit adapter
+[23:11:51] [Server thread/INFO]: [Essentials] Enabling Essentials vTeamCity
+[23:11:51] [Server thread/INFO]: git-Bukkit-9935adc (MC: 1.8.8)
+[23:11:51] [Server thread/INFO]: 1.8.8-R0.1-SNAPSHOT
+[23:11:51] [Server thread/INFO]: Using locale en_GB
+[23:11:51] [Server thread/INFO]: Using locale en_GB
+[23:11:51] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn vTeamCity
+[23:11:51] [Server thread/INFO]: [EssentialsProtect] Enabling EssentialsProtect vTeamCity
+[23:11:51] [Server thread/INFO]: CONSOLE: Reload complete.
+[23:15:44] [Server thread/INFO]: CONSOLE: If you encounter any issues please use the /stop command to restart your server.
+[23:15:44] [Server thread/INFO]: [EssentialsProtect] Disabling EssentialsProtect vTeamCity
+[23:15:44] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn vTeamCity
+[23:15:44] [Server thread/INFO]: [Essentials] Disabling Essentials vTeamCity
+[23:15:44] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1;no_git_id
+[23:15:44] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1;no_git_id
+[23:15:44] [Server thread/INFO]: [CraftBook] Loading CraftBook v3.9-SNAPSHOT
+[23:15:44] [Server thread/INFO]: [Essentials] Loading Essentials vTeamCity
+[23:15:44] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn vTeamCity
+[23:15:44] [Server thread/INFO]: [EssentialsProtect] Loading EssentialsProtect vTeamCity
+[23:15:44] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1;no_git_id
+[23:15:44] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_8_R3 as the Bukkit adapter
+[23:15:44] [Server thread/INFO]: [CraftBook] Enabling CraftBook v3.9-SNAPSHOT
+[23:15:45] [Server thread/INFO]: [CraftBook] 441 chunk(s) for 3 world(s) processed (7ms elapsed)
+[23:15:45] [Server thread/INFO]: [Essentials] Enabling Essentials vTeamCity
+[23:15:45] [Server thread/INFO]: git-Bukkit-9935adc (MC: 1.8.8)
+[23:15:45] [Server thread/INFO]: 1.8.8-R0.1-SNAPSHOT
+[23:15:45] [Server thread/INFO]: Using locale en_GB
+[23:15:45] [Server thread/INFO]: Using locale en_GB
+[23:15:45] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn vTeamCity
+[23:15:45] [Server thread/INFO]: [EssentialsProtect] Enabling EssentialsProtect vTeamCity
+[23:15:45] [Server thread/INFO]: CONSOLE: Reload complete.
+[23:17:36] [Server thread/INFO]: Twiixtor issued server command: /plugins
+[23:17:49] [Server thread/INFO]: CONSOLE: If you encounter any issues please use the /stop command to restart your server.
+[23:17:49] [Server thread/INFO]: [EssentialsProtect] Disabling EssentialsProtect vTeamCity
+[23:17:49] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn vTeamCity
+[23:17:49] [Server thread/INFO]: [Essentials] Disabling Essentials vTeamCity
+[23:17:49] [Server thread/INFO]: [CraftBook] Disabling CraftBook v3.9-SNAPSHOT
+[23:17:49] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1;no_git_id
+[23:17:51] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1;no_git_id
+[23:17:51] [Server thread/INFO]: [CraftBook] Loading CraftBook v3.9-SNAPSHOT
+[23:17:51] [Server thread/INFO]: [Essentials] Loading Essentials vTeamCity
+[23:17:51] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn vTeamCity
+[23:17:51] [Server thread/INFO]: [EssentialsProtect] Loading EssentialsProtect vTeamCity
+[23:17:51] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1;no_git_id
+[23:17:52] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_8_R3 as the Bukkit adapter
+[23:17:52] [Server thread/INFO]: [CraftBook] Enabling CraftBook v3.9-SNAPSHOT
+[23:17:52] [Server thread/INFO]: [CraftBook] Successfully added 1 CommandItems!
+[23:17:52] [Server thread/INFO]: [CraftBook] Registered 3 custom recipes!
+[23:17:52] [Server thread/INFO]: [CraftBook] 441 chunk(s) for 3 world(s) processed (7ms elapsed)
+[23:17:52] [Server thread/INFO]: [Essentials] Enabling Essentials vTeamCity
+[23:17:52] [Server thread/INFO]: git-Bukkit-9935adc (MC: 1.8.8)
+[23:17:52] [Server thread/INFO]: 1.8.8-R0.1-SNAPSHOT
+[23:17:52] [Server thread/INFO]: Using locale en_GB
+[23:17:52] [Server thread/INFO]: Using locale en_GB
+[23:17:52] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn vTeamCity
+[23:17:52] [Server thread/INFO]: [EssentialsProtect] Enabling EssentialsProtect vTeamCity
+[23:17:52] [Server thread/INFO]: CONSOLE: Reload complete.
+[23:21:41] [Server thread/INFO]: Twiixtor issued server command: //expand vert
+[23:21:52] [Server thread/INFO]: Twiixtor issued server command: //replace 18 0
+[23:21:54] [Server thread/INFO]: Twiixtor issued server command: //replace 18:1 0
+[23:21:56] [Server thread/INFO]: Twiixtor issued server command: //replace 18:2 0
+[23:22:00] [Server thread/INFO]: Twiixtor issued server command: //replace 18:3 0
+[23:22:02] [Server thread/INFO]: Twiixtor issued server command: //replace 18:4 0
+[23:22:04] [Server thread/INFO]: Twiixtor issued server command: //replace 18:5 0
+[23:22:06] [Server thread/INFO]: Twiixtor issued server command: //replace 18:6 0
+[23:22:10] [Server thread/INFO]: Twiixtor issued server command: //replace 17 0
+[23:24:46] [Server thread/INFO]: Twiixtor issued server command: /top
+[23:28:58] [Server thread/INFO]: Twiixtor issued server command: /time night
+[23:34:14] [Server thread/INFO]: Twiixtor left the game.

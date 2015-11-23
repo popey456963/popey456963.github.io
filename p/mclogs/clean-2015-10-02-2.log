@@ -1,0 +1,2061 @@
+[21:27:29] [Server thread/INFO]: Loading properties
+[21:27:29] [Server thread/INFO]: Default game type: SURVIVAL
+[21:27:29] [Server thread/INFO]: Using epoll channel type
+[21:27:30] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1;no_git_id
+[21:27:30] [Server thread/INFO]: [Essentials] Loading Essentials vTeamCity
+[21:27:30] [Server thread/INFO]: [VoxelSniper] Loading VoxelSniper v7.1.0
+[21:27:30] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn vTeamCity
+[21:27:30] [Server thread/INFO]: [EssentialsProtect] Loading EssentialsProtect vTeamCity
+[21:27:32] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1;no_git_id
+[21:27:32] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_8_R3 as the Bukkit adapter
+[21:27:32] [Server thread/INFO]: [Essentials] Enabling Essentials vTeamCity
+[21:27:32] [Server thread/INFO]: git-Bukkit-9935adc (MC: 1.8.8)
+[21:27:32] [Server thread/INFO]: 1.8.8-R0.1-SNAPSHOT
+[21:27:32] [Server thread/INFO]: Using locale en_GB
+[21:27:32] [Server thread/INFO]: Using locale en_GB
+[21:27:32] [Server thread/INFO]: [VoxelSniper] Enabling VoxelSniper v7.1.0
+[21:27:33] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn vTeamCity
+[21:27:33] [Server thread/INFO]: [EssentialsProtect] Enabling EssentialsProtect vTeamCity
+[21:27:49] [Server thread/INFO]: Twiixtor issued server command: /plugins
+[21:29:47] [Netty Epoll Server IO #4/INFO]: <Crustifer> ayy
+[21:29:56] [Netty Epoll Server IO #1/INFO]: <Twiixtor> I am genius. Fixed it :3
+[21:29:59] [Netty Epoll Server IO #1/INFO]: <Twiixtor> Also how fuckin fast are you
+[21:30:25] [Netty Epoll Server IO #4/INFO]: <Crustifer> nolol
+[21:30:33] [Netty Epoll Server IO #4/INFO]: <Crustifer> i saw you and popey in a channel
+[21:30:35] [Netty Epoll Server IO #1/INFO]: <Twiixtor> Well I literally just fixed it like 2 mins ago and u joined
+[21:30:36] [Netty Epoll Server IO #1/INFO]: <Twiixtor> Oh lol
+[21:30:39] [Netty Epoll Server IO #4/INFO]: <Crustifer> so i thought the mc server would be fixed
+[21:30:47] [Server thread/INFO]: Twiixtor issued server command: /top
+[21:31:09] [Netty Epoll Server IO #4/INFO]: <Crustifer> fritzbox2000?
+[21:31:11] [Netty Epoll Server IO #1/INFO]: <Twiixtor> who you
+[21:31:18] [Netty Epoll Server IO #7/INFO]: <fritzbox2000> I am an awesome guy.
+[21:31:36] [Server thread/INFO]: fritzbox2000 fell from a high place
+[21:31:37] [Netty Epoll Server IO #1/INFO]: <Twiixtor> IDENTIFY YOURSELF DEMON
+[21:32:06] [Server thread/INFO]: Twiixtor issued server command: /i sign 1
+[21:32:07] [Netty Epoll Server IO #4/INFO]: <Crustifer> please friend
+[21:32:11] [Netty Epoll Server IO #4/INFO]: <Crustifer> give us your name
+[21:32:18] [Netty Epoll Server IO #7/INFO]: <fritzbox2000> You may call me friend.
+[21:33:05] [Server thread/INFO]: fritzbox2000 left the game.
+[21:33:19] [Server thread/INFO]: Twiixtor issued server command: /top
+[21:33:21] [Server thread/INFO]: Twiixtor issued server command: //expand vert
+[21:33:30] [Server thread/INFO]: Twiixtor issued server command: //regen
+[21:33:38] [Server thread/INFO]: Crustifer issued server command: /help
+[21:33:39] [Server thread/INFO]: Crustifer issued server command: /plugins
+[21:33:44] [Server thread/INFO]: Twiixtor issued server command: /top
+[21:33:48] [Netty Epoll Server IO #12/INFO]: <Popey456963> Sureee =)
+[21:33:48] [Netty Epoll Server IO #4/INFO]: <Crustifer> then use my perms
+[21:33:49] [Netty Epoll Server IO #4/INFO]: <Crustifer> pls
+[21:33:59] [Netty Epoll Server IO #4/INFO]: <Crustifer> my beautiful babies
+[21:35:15] [Server thread/INFO]: Crustifer issued server command: /reload
+[21:35:15] [Server thread/INFO]: Crustifer: If you encounter any issues please use the /stop command to restart your server.
+[21:35:15] [Server thread/INFO]: [EssentialsProtect] Disabling EssentialsProtect vTeamCity
+[21:35:15] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn vTeamCity
+[21:35:15] [Server thread/INFO]: [VoxelSniper] Disabling VoxelSniper v7.1.0
+[21:35:15] [Server thread/INFO]: [Essentials] Disabling Essentials vTeamCity
+[21:35:15] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1;no_git_id
+[21:35:15] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1;no_git_id
+[21:35:15] [Server thread/INFO]: [Essentials] Loading Essentials vTeamCity
+[21:35:15] [Server thread/INFO]: [VoxelSniper] Loading VoxelSniper v7.1.0
+[21:35:15] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn vTeamCity
+[21:35:15] [Server thread/INFO]: [EssentialsProtect] Loading EssentialsProtect vTeamCity
+[21:35:15] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1;no_git_id
+[21:35:16] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_8_R3 as the Bukkit adapter
+[21:35:16] [Server thread/INFO]: [Essentials] Enabling Essentials vTeamCity
+[21:35:16] [Server thread/INFO]: git-Bukkit-9935adc (MC: 1.8.8)
+[21:35:16] [Server thread/INFO]: 1.8.8-R0.1-SNAPSHOT
+[21:35:16] [Server thread/INFO]: Using locale en_GB
+[21:35:16] [Server thread/INFO]: Using locale en_GB
+[21:35:16] [Server thread/INFO]: [VoxelSniper] Enabling VoxelSniper v7.1.0
+[21:35:16] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn vTeamCity
+[21:35:16] [Server thread/INFO]: [EssentialsProtect] Enabling EssentialsProtect vTeamCity
+[21:35:16] [Server thread/INFO]: Crustifer: Reload complete.
+[21:35:39] [Netty Epoll Server IO #4/INFO]: <Crustifer> do /stophammertime twiix
+[21:35:48] [Server thread/INFO]: Crustifer issued server command: /stophammertime
+[21:35:57] [Server thread/INFO]: Twiixtor issued server command: /reload
+[21:35:57] [Server thread/INFO]: Twiixtor: If you encounter any issues please use the /stop command to restart your server.
+[21:35:57] [Server thread/INFO]: [EssentialsProtect] Disabling EssentialsProtect vTeamCity
+[21:35:57] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn vTeamCity
+[21:35:57] [Server thread/INFO]: [VoxelSniper] Disabling VoxelSniper v7.1.0
+[21:35:57] [Server thread/INFO]: [Essentials] Disabling Essentials vTeamCity
+[21:35:57] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1;no_git_id
+[21:35:57] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1;no_git_id
+[21:35:57] [Server thread/INFO]: [Essentials] Loading Essentials vTeamCity
+[21:35:57] [Server thread/INFO]: [VoxelSniper] Loading VoxelSniper v7.1.0
+[21:35:57] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn vTeamCity
+[21:35:57] [Server thread/INFO]: [EssentialsProtect] Loading EssentialsProtect vTeamCity
+[21:35:57] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1;no_git_id
+[21:35:57] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_8_R3 as the Bukkit adapter
+[21:35:57] [Server thread/INFO]: [Essentials] Enabling Essentials vTeamCity
+[21:35:57] [Server thread/INFO]: git-Bukkit-9935adc (MC: 1.8.8)
+[21:35:57] [Server thread/INFO]: 1.8.8-R0.1-SNAPSHOT
+[21:35:57] [Server thread/INFO]: Using locale en_GB
+[21:35:57] [Server thread/INFO]: Using locale en_GB
+[21:35:57] [Server thread/INFO]: [VoxelSniper] Enabling VoxelSniper v7.1.0
+[21:35:58] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn vTeamCity
+[21:35:58] [Server thread/INFO]: [EssentialsProtect] Enabling EssentialsProtect vTeamCity
+[21:35:58] [Server thread/INFO]: Twiixtor: Reload complete.
+[21:36:01] [Server thread/INFO]: Popey456963 issued server command: /plugins
+[21:36:05] [Server thread/INFO]: default: Crustifer, Popey456963, Twiixtor
+[21:36:10] [Server thread/INFO]: Crustifer issued server command: /plugins
+[21:36:12] [Server thread/INFO]: Twiixtor issued server command: //copy
+[21:36:14] [Netty Epoll Server IO #12/INFO]: <Popey456963> Courtesy of Twiixtror.
+[21:36:15] [Server thread/INFO]: Twiixtor issued server command: //copy
+[21:36:24] [Server thread/INFO]: Twiixtor issued server command: //paste
+[21:36:51] [Server thread/INFO]: default: Crustifer, Popey456963, Twiixtor
+[21:37:01] [Server thread/INFO]: Twiixtor issued server command: //replace 95 1
+[21:37:09] [Server thread/INFO]: Popey456963 left the game.
+[21:37:11] [Server thread/INFO]: Twiixtor issued server command: //replace 5:5 1
+[21:37:16] [Server thread/INFO]: Twiixtor issued server command: //replace 5:2 1
+[21:37:21] [Server thread/INFO]: Twiixtor issued server command: //replace 123 1
+[21:37:22] [Server thread/INFO]: Crustifer issued server command: /gamemode 0 popey
+[21:37:27] [Server thread/INFO]: Twiixtor issued server command: //replace 5 1
+[21:37:28] [Server thread/INFO]: Crustifer issued server command: /enchant
+[21:37:32] [Server thread/INFO]: Crustifer issued server command: /enchant knockback 10
+[21:37:38] [Server thread/INFO]: default: Crustifer, Popey456963, Twiixtor
+[21:37:41] [Server thread/INFO]: Crustifer issued server command: /enchant knockback 2
+[21:37:50] [Server thread/INFO]: Popey456963 fell from a high place
+[21:38:24] [Server thread/INFO]: default: Crustifer, Popey456963, Twiixtor
+[21:38:28] [Server thread/INFO]: Popey456963 issued server command: /gamemode 0 cru
+[21:38:42] [Server thread/INFO]: Crustifer issued server command: /gamemode 1
+[21:38:51] [Server thread/INFO]: Crustifer issued server command: /enchant knockback 2
+[21:38:56] [Server thread/INFO]: Popey456963 fell from a high place
+[21:39:10] [Server thread/INFO]: Twiixtor issued server command: /gamemode 1
+[21:39:11] [Server thread/INFO]: default: Crustifer, Popey456963, Twiixtor
+[21:39:11] [Server thread/INFO]: Twiixtor issued server command: /gamemode 0
+[21:39:12] [Server thread/INFO]: Crustifer issued server command: /gamemode 0
+[21:39:18] [Server thread/INFO]: Popey456963 fell from a high place
+[21:39:39] [Netty Epoll Server IO #1/INFO]: <Twiixtor> tet
+[21:39:58] [Server thread/INFO]: default: Crustifer, Popey456963, Twiixtor
+[21:40:09] [Server thread/INFO]: Popey456963 fell from a high place
+[21:40:10] [Server thread/INFO]: Crustifer fell from a high place
+[21:40:11] [Server thread/INFO]: Popey456963 issued server command: /gamemode 1
+[21:40:44] [Server thread/INFO]: default: Crustifer, Popey456963, Twiixtor
+[21:40:57] [Server thread/INFO]: Crustifer issued server command: //butcher
+[21:40:59] [Server thread/INFO]: Crustifer issued server command: /time 0
+[21:41:01] [Server thread/INFO]: Crustifer issued server command: /set time 0
+[21:41:04] [Server thread/INFO]: Crustifer issued server command: /time day
+[21:41:09] [Server thread/INFO]: Crustifer issued server command: /gamemode 1
+[21:41:17] [Server thread/INFO]: Crustifer issued server command: /give commandblock
+[21:41:21] [Server thread/INFO]: Popey456963 issued server command: /reload
+[21:41:21] [Server thread/INFO]: Popey456963: If you encounter any issues please use the /stop command to restart your server.
+[21:41:21] [Server thread/INFO]: [EssentialsProtect] Disabling EssentialsProtect vTeamCity
+[21:41:21] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn vTeamCity
+[21:41:21] [Server thread/INFO]: [VoxelSniper] Disabling VoxelSniper v7.1.0
+[21:41:21] [Server thread/INFO]: [Essentials] Disabling Essentials vTeamCity
+[21:41:21] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1;no_git_id
+[21:41:21] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1;no_git_id
+[21:41:21] [Server thread/INFO]: [CraftBook] Loading CraftBook v3.9-SNAPSHOT
+[21:41:21] [Server thread/INFO]: [Essentials] Loading Essentials vTeamCity
+[21:41:21] [Server thread/INFO]: [VoxelSniper] Loading VoxelSniper v7.1.0
+[21:41:21] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn vTeamCity
+[21:41:21] [Server thread/INFO]: [EssentialsProtect] Loading EssentialsProtect vTeamCity
+[21:41:21] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1;no_git_id
+[21:41:21] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_8_R3 as the Bukkit adapter
+[21:41:21] [Server thread/INFO]: [CraftBook] Enabling CraftBook v3.9-SNAPSHOT
+[21:41:22] [Server thread/INFO]: [CraftBook] 462 chunk(s) for 3 world(s) processed (10ms elapsed)
+[21:41:22] [Server thread/INFO]: [Essentials] Enabling Essentials vTeamCity
+[21:41:22] [Server thread/INFO]: git-Bukkit-9935adc (MC: 1.8.8)
+[21:41:22] [Server thread/INFO]: 1.8.8-R0.1-SNAPSHOT
+[21:41:22] [Server thread/INFO]: Using locale en_GB
+[21:41:22] [Server thread/INFO]: Using locale en_GB
+[21:41:22] [Server thread/INFO]: [VoxelSniper] Enabling VoxelSniper v7.1.0
+[21:41:22] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn vTeamCity
+[21:41:22] [Server thread/INFO]: [EssentialsProtect] Enabling EssentialsProtect vTeamCity
+[21:41:22] [Server thread/INFO]: Popey456963: Reload complete.
+[21:41:23] [Server thread/INFO]: Crustifer issued server command: /give crustifer commandblock
+[21:41:25] [Server thread/INFO]: Popey456963 issued server command: /plugins
+[21:41:26] [Server thread/INFO]: Crustifer issued server command: /pex
+[21:41:28] [Server thread/INFO]: Crustifer issued server command: /help
+[21:41:30] [Server thread/INFO]: Crustifer issued server command: /help 2
+[21:41:31] [Server thread/INFO]: Crustifer issued server command: /help 4
+[21:41:35] [Netty Epoll Server IO #1/INFO]: <Twiixtor> tet
+[21:41:38] [Server thread/INFO]: Twiixtor issued server command: /reload
+[21:41:38] [Server thread/INFO]: Twiixtor: If you encounter any issues please use the /stop command to restart your server.
+[21:41:38] [Server thread/INFO]: [EssentialsProtect] Disabling EssentialsProtect vTeamCity
+[21:41:38] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn vTeamCity
+[21:41:38] [Server thread/INFO]: [VoxelSniper] Disabling VoxelSniper v7.1.0
+[21:41:38] [Server thread/INFO]: [Essentials] Disabling Essentials vTeamCity
+[21:41:38] [Server thread/INFO]: [CraftBook] Disabling CraftBook v3.9-SNAPSHOT
+[21:41:38] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1;no_git_id
+[21:41:39] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1;no_git_id
+[21:41:39] [Server thread/INFO]: [Essentials] Loading Essentials vTeamCity
+[21:41:39] [Server thread/INFO]: [VoxelSniper] Loading VoxelSniper v7.1.0
+[21:41:39] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn vTeamCity
+[21:41:39] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v6.1
+[21:41:39] [Server thread/INFO]: [CraftBook] Loading CraftBook v3.9-SNAPSHOT
+[21:41:39] [Server thread/INFO]: [EssentialsProtect] Loading EssentialsProtect vTeamCity
+[21:41:39] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1;no_git_id
+[21:41:39] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_8_R3 as the Bukkit adapter
+[21:41:39] [Server thread/INFO]: [Essentials] Enabling Essentials vTeamCity
+[21:41:39] [Server thread/INFO]: git-Bukkit-9935adc (MC: 1.8.8)
+[21:41:39] [Server thread/INFO]: 1.8.8-R0.1-SNAPSHOT
+[21:41:39] [Server thread/INFO]: Using locale en_GB
+[21:41:39] [Server thread/INFO]: Using locale en_GB
+[21:41:39] [Server thread/INFO]: [VoxelSniper] Enabling VoxelSniper v7.1.0
+[21:41:39] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn vTeamCity
+[21:41:39] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v6.1
+[21:41:40] [Server thread/INFO]: [WorldGuard] (TEST) Lighters are PERMITTED.
+[21:41:40] [Server thread/INFO]: [WorldGuard] (TEST) Lava fire is blocked.
+[21:41:40] [Server thread/INFO]: [WorldGuard] (TEST) Fire spread is UNRESTRICTED.
+[21:41:40] [Server thread/INFO]: [WorldGuard] (TEST_nether) Lighters are PERMITTED.
+[21:41:40] [Server thread/INFO]: [WorldGuard] (TEST_nether) Lava fire is blocked.
+[21:41:40] [Server thread/INFO]: [WorldGuard] (TEST_nether) Fire spread is UNRESTRICTED.
+[21:41:40] [Server thread/INFO]: [WorldGuard] (TEST_the_end) Lighters are PERMITTED.
+[21:41:40] [Server thread/INFO]: [WorldGuard] (TEST_the_end) Lava fire is blocked.
+[21:41:40] [Server thread/INFO]: [WorldGuard] (TEST_the_end) Fire spread is UNRESTRICTED.
+[21:41:40] [Server thread/INFO]: [CraftBook] Enabling CraftBook v3.9-SNAPSHOT
+[21:41:40] [Server thread/INFO]: [CraftBook] 462 chunk(s) for 3 world(s) processed (5ms elapsed)
+[21:41:40] [Server thread/INFO]: [EssentialsProtect] Enabling EssentialsProtect vTeamCity
+[21:41:40] [Server thread/INFO]: Twiixtor: Reload complete.
+[21:41:40] [Server thread/INFO]: Popey456963 issued server command: /reload
+[21:41:40] [Server thread/INFO]: Popey456963: If you encounter any issues please use the /stop command to restart your server.
+[21:41:40] [Server thread/INFO]: [EssentialsProtect] Disabling EssentialsProtect vTeamCity
+[21:41:40] [Server thread/INFO]: [CraftBook] Disabling CraftBook v3.9-SNAPSHOT
+[21:41:40] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v6.1
+[21:41:40] [Server thread/INFO]: [WorldGuard] Shutting down executor and waiting for any pending tasks...
+[21:41:40] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn vTeamCity
+[21:41:40] [Server thread/INFO]: [VoxelSniper] Disabling VoxelSniper v7.1.0
+[21:41:40] [Server thread/INFO]: [Essentials] Disabling Essentials vTeamCity
+[21:41:40] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1;no_git_id
+[21:41:40] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1;no_git_id
+[21:41:40] [Server thread/INFO]: [Essentials] Loading Essentials vTeamCity
+[21:41:40] [Server thread/INFO]: [VoxelSniper] Loading VoxelSniper v7.1.0
+[21:41:40] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn vTeamCity
+[21:41:40] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v6.1
+[21:41:40] [Server thread/INFO]: [CraftBook] Loading CraftBook v3.9-SNAPSHOT
+[21:41:40] [Server thread/INFO]: [EssentialsProtect] Loading EssentialsProtect vTeamCity
+[21:41:40] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1;no_git_id
+[21:41:41] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_8_R3 as the Bukkit adapter
+[21:41:41] [Server thread/INFO]: [Essentials] Enabling Essentials vTeamCity
+[21:41:41] [Server thread/INFO]: git-Bukkit-9935adc (MC: 1.8.8)
+[21:41:41] [Server thread/INFO]: 1.8.8-R0.1-SNAPSHOT
+[21:41:41] [Server thread/INFO]: Using locale en_GB
+[21:41:41] [Server thread/INFO]: Using locale en_GB
+[21:41:41] [Server thread/INFO]: [VoxelSniper] Enabling VoxelSniper v7.1.0
+[21:41:41] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn vTeamCity
+[21:41:41] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v6.1
+[21:41:41] [Server thread/INFO]: [WorldGuard] (TEST) Lighters are PERMITTED.
+[21:41:41] [Server thread/INFO]: [WorldGuard] (TEST) Lava fire is blocked.
+[21:41:41] [Server thread/INFO]: [WorldGuard] (TEST) Fire spread is UNRESTRICTED.
+[21:41:41] [Server thread/INFO]: [WorldGuard] (TEST_nether) Lighters are PERMITTED.
+[21:41:41] [Server thread/INFO]: [WorldGuard] (TEST_nether) Lava fire is blocked.
+[21:41:41] [Server thread/INFO]: [WorldGuard] (TEST_nether) Fire spread is UNRESTRICTED.
+[21:41:41] [Server thread/INFO]: [WorldGuard] (TEST_the_end) Lighters are PERMITTED.
+[21:41:41] [Server thread/INFO]: [WorldGuard] (TEST_the_end) Lava fire is blocked.
+[21:41:41] [Server thread/INFO]: [WorldGuard] (TEST_the_end) Fire spread is UNRESTRICTED.
+[21:41:41] [Server thread/INFO]: [CraftBook] Enabling CraftBook v3.9-SNAPSHOT
+[21:41:41] [Server thread/INFO]: [CraftBook] 441 chunk(s) for 3 world(s) processed (8ms elapsed)
+[21:41:41] [Server thread/INFO]: [EssentialsProtect] Enabling EssentialsProtect vTeamCity
+[21:41:41] [Server thread/INFO]: Popey456963: Reload complete.
+[21:41:42] [Server thread/INFO]: Twiixtor issued server command: /plugins
+[21:41:42] [Server thread/INFO]: Popey456963 issued server command: /plugins
+[21:41:53] [Server thread/INFO]: Twiixtor issued server command: /top
+[21:41:58] [Server thread/INFO]: Twiixtor fell from a high place
+[21:42:05] [Server thread/INFO]: Twiixtor issued server command: /gm 1
+[21:42:13] [Server thread/INFO]: Twiixtor issued server command: /spawn
+[21:42:19] [Server thread/INFO]: Popey456963 left the game.
+[21:43:21] [Server thread/INFO]: Twiixtor issued server command: /reloading
+[21:43:24] [Server thread/INFO]: Twiixtor issued server command: /reload
+[21:43:24] [Server thread/INFO]: Twiixtor: If you encounter any issues please use the /stop command to restart your server.
+[21:43:24] [Server thread/INFO]: [EssentialsProtect] Disabling EssentialsProtect vTeamCity
+[21:43:24] [Server thread/INFO]: [CraftBook] Disabling CraftBook v3.9-SNAPSHOT
+[21:43:24] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v6.1
+[21:43:24] [Server thread/INFO]: [WorldGuard] Shutting down executor and waiting for any pending tasks...
+[21:43:24] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn vTeamCity
+[21:43:24] [Server thread/INFO]: [VoxelSniper] Disabling VoxelSniper v7.1.0
+[21:43:24] [Server thread/INFO]: [Essentials] Disabling Essentials vTeamCity
+[21:43:24] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1;no_git_id
+[21:43:24] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1;no_git_id
+[21:43:24] [Server thread/INFO]: [Essentials] Loading Essentials vTeamCity
+[21:43:24] [Server thread/INFO]: [VoxelSniper] Loading VoxelSniper v7.1.0
+[21:43:24] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn vTeamCity
+[21:43:24] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v6.1
+[21:43:24] [Server thread/INFO]: [CraftBook] Loading CraftBook v3.9-SNAPSHOT
+[21:43:24] [Server thread/INFO]: [EssentialsProtect] Loading EssentialsProtect vTeamCity
+[21:43:24] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1;no_git_id
+[21:43:24] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_8_R3 as the Bukkit adapter
+[21:43:24] [Server thread/INFO]: [Essentials] Enabling Essentials vTeamCity
+[21:43:24] [Server thread/INFO]: git-Bukkit-9935adc (MC: 1.8.8)
+[21:43:24] [Server thread/INFO]: 1.8.8-R0.1-SNAPSHOT
+[21:43:24] [Server thread/INFO]: Using locale en_GB
+[21:43:24] [Server thread/INFO]: Using locale en_GB
+[21:43:24] [Server thread/INFO]: [VoxelSniper] Enabling VoxelSniper v7.1.0
+[21:43:24] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn vTeamCity
+[21:43:24] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v6.1
+[21:43:24] [Server thread/INFO]: [WorldGuard] (TEST) Lighters are PERMITTED.
+[21:43:24] [Server thread/INFO]: [WorldGuard] (TEST) Lava fire is blocked.
+[21:43:24] [Server thread/INFO]: [WorldGuard] (TEST) Fire spread is UNRESTRICTED.
+[21:43:24] [Server thread/INFO]: [WorldGuard] (TEST_nether) Lighters are PERMITTED.
+[21:43:24] [Server thread/INFO]: [WorldGuard] (TEST_nether) Lava fire is blocked.
+[21:43:24] [Server thread/INFO]: [WorldGuard] (TEST_nether) Fire spread is UNRESTRICTED.
+[21:43:24] [Server thread/INFO]: [WorldGuard] (TEST_the_end) Lighters are PERMITTED.
+[21:43:24] [Server thread/INFO]: [WorldGuard] (TEST_the_end) Lava fire is blocked.
+[21:43:24] [Server thread/INFO]: [WorldGuard] (TEST_the_end) Fire spread is UNRESTRICTED.
+[21:43:24] [Server thread/INFO]: [CraftBook] Enabling CraftBook v3.9-SNAPSHOT
+[21:43:25] [Server thread/INFO]: [CraftBook] Successfully added 1 CommandItems!
+[21:43:25] [Server thread/INFO]: [CraftBook] Registered 3 custom recipes!
+[21:43:25] [Server thread/INFO]: [CraftBook] 482 chunk(s) for 3 world(s) processed (7ms elapsed)
+[21:43:25] [Server thread/INFO]: [EssentialsProtect] Enabling EssentialsProtect vTeamCity
+[21:43:25] [Server thread/INFO]: Twiixtor: Reload complete.
+[21:43:34] [Server thread/INFO]: Twiixtor issued server command: /plugins
+[21:43:46] [Server thread/INFO]: Crustifer issued server command: /plugins
+[21:44:05] [Server thread/INFO]: Twiixtor issued server command: //expand vert
+[21:44:07] [Server thread/INFO]: Twiixtor issued server command: //regen
+[21:44:09] [Server thread/INFO]: Popey456963 issued server command: /reload
+[21:44:09] [Server thread/INFO]: Popey456963: If you encounter any issues please use the /stop command to restart your server.
+[21:44:09] [Server thread/INFO]: [EssentialsProtect] Disabling EssentialsProtect vTeamCity
+[21:44:09] [Server thread/INFO]: [CraftBook] Disabling CraftBook v3.9-SNAPSHOT
+[21:44:10] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v6.1
+[21:44:10] [Server thread/INFO]: [WorldGuard] Shutting down executor and waiting for any pending tasks...
+[21:44:10] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn vTeamCity
+[21:44:10] [Server thread/INFO]: [VoxelSniper] Disabling VoxelSniper v7.1.0
+[21:44:10] [Server thread/INFO]: [Essentials] Disabling Essentials vTeamCity
+[21:44:10] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1;no_git_id
+[21:44:10] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1;no_git_id
+[21:44:10] [Server thread/INFO]: [Essentials] Loading Essentials vTeamCity
+[21:44:10] [Server thread/INFO]: [VoxelSniper] Loading VoxelSniper v7.1.0
+[21:44:10] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn vTeamCity
+[21:44:10] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v6.1
+[21:44:10] [Server thread/INFO]: [CraftBook] Loading CraftBook v3.9-SNAPSHOT
+[21:44:10] [Server thread/INFO]: [EssentialsProtect] Loading EssentialsProtect vTeamCity
+[21:44:10] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1;no_git_id
+[21:44:10] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_8_R3 as the Bukkit adapter
+[21:44:10] [Server thread/INFO]: [Essentials] Enabling Essentials vTeamCity
+[21:44:10] [Server thread/INFO]: git-Bukkit-9935adc (MC: 1.8.8)
+[21:44:10] [Server thread/INFO]: 1.8.8-R0.1-SNAPSHOT
+[21:44:10] [Server thread/INFO]: Using locale en_GB
+[21:44:10] [Server thread/INFO]: Using locale en_GB
+[21:44:10] [Server thread/INFO]: [VoxelSniper] Enabling VoxelSniper v7.1.0
+[21:44:10] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn vTeamCity
+[21:44:10] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v6.1
+[21:44:11] [Server thread/INFO]: [WorldGuard] (TEST) Lighters are PERMITTED.
+[21:44:11] [Server thread/INFO]: [WorldGuard] (TEST) Lava fire is blocked.
+[21:44:11] [Server thread/INFO]: [WorldGuard] (TEST) Fire spread is UNRESTRICTED.
+[21:44:11] [Server thread/INFO]: [WorldGuard] (TEST_nether) Lighters are PERMITTED.
+[21:44:11] [Server thread/INFO]: [WorldGuard] (TEST_nether) Lava fire is blocked.
+[21:44:11] [Server thread/INFO]: [WorldGuard] (TEST_nether) Fire spread is UNRESTRICTED.
+[21:44:11] [Server thread/INFO]: [WorldGuard] (TEST_the_end) Lighters are PERMITTED.
+[21:44:11] [Server thread/INFO]: [WorldGuard] (TEST_the_end) Lava fire is blocked.
+[21:44:11] [Server thread/INFO]: [WorldGuard] (TEST_the_end) Fire spread is UNRESTRICTED.
+[21:44:11] [Server thread/INFO]: [CraftBook] Enabling CraftBook v3.9-SNAPSHOT
+[21:44:11] [Server thread/INFO]: [CraftBook] Successfully added 1 CommandItems!
+[21:44:11] [Server thread/INFO]: [CraftBook] Registered 3 custom recipes!
+[21:44:11] [Server thread/INFO]: [CraftBook] 482 chunk(s) for 3 world(s) processed (5ms elapsed)
+[21:44:11] [Server thread/INFO]: [EssentialsProtect] Enabling EssentialsProtect vTeamCity
+[21:44:11] [Server thread/INFO]: Popey456963: Reload complete.
+[21:44:11] [Server thread/INFO]: Popey456963 issued server command: /plugins
+[21:44:13] [Server thread/INFO]: Popey456963 left the game.
+[21:44:17] [Server thread/INFO]: Crustifer issued server command: /plugins
+[21:44:52] [Server thread/INFO]: Twiixtor issued server command: /top
+[21:45:04] [Server thread/INFO]: Twiixtor issued server command: //set 0
+[21:45:08] [Server thread/INFO]: Twiixtor issued server command: /i barrier 1
+[21:45:37] [Server thread/INFO]: Twiixtor issued server command: //undo
+[21:45:39] [Server thread/INFO]: Twiixtor issued server command: //undo
+[21:45:41] [Server thread/INFO]: Twiixtor issued server command: //undo
+[21:45:44] [Server thread/INFO]: Twiixtor issued server command: //redo
+[21:46:40] [Server thread/INFO]: Twiixtor issued server command: //copy
+[21:46:44] [Server thread/INFO]: Crustifer issued server command: //pos1
+[21:46:53] [Server thread/INFO]: Crustifer issued server command: //pos2
+[21:47:01] [Server thread/INFO]: Crustifer issued server command: //copy
+[21:47:07] [Server thread/INFO]: Twiixtor issued server command: //pause
+[21:47:11] [Server thread/INFO]: Crustifer issued server command: //paste
+[21:47:18] [Server thread/INFO]: Popey456963 issued server command: /reload
+[21:47:18] [Server thread/INFO]: Popey456963: If you encounter any issues please use the /stop command to restart your server.
+[21:47:18] [Server thread/INFO]: [EssentialsProtect] Disabling EssentialsProtect vTeamCity
+[21:47:18] [Server thread/INFO]: [CraftBook] Disabling CraftBook v3.9-SNAPSHOT
+[21:47:18] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v6.1
+[21:47:18] [Server thread/INFO]: [WorldGuard] Shutting down executor and waiting for any pending tasks...
+[21:47:18] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn vTeamCity
+[21:47:18] [Server thread/INFO]: [VoxelSniper] Disabling VoxelSniper v7.1.0
+[21:47:18] [Server thread/INFO]: [Essentials] Disabling Essentials vTeamCity
+[21:47:18] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1;no_git_id
+[21:47:18] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1;no_git_id
+[21:47:18] [Server thread/INFO]: [Essentials] Loading Essentials vTeamCity
+[21:47:18] [Server thread/INFO]: [VoxelSniper] Loading VoxelSniper v7.1.0
+[21:47:18] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn vTeamCity
+[21:47:18] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v6.1
+[21:47:18] [Server thread/INFO]: [CraftBook] Loading CraftBook v3.9-SNAPSHOT
+[21:47:18] [Server thread/INFO]: [EssentialsProtect] Loading EssentialsProtect vTeamCity
+[21:47:18] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1;no_git_id
+[21:47:18] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_8_R3 as the Bukkit adapter
+[21:47:18] [Server thread/INFO]: [Essentials] Enabling Essentials vTeamCity
+[21:47:18] [Server thread/INFO]: git-Bukkit-9935adc (MC: 1.8.8)
+[21:47:18] [Server thread/INFO]: 1.8.8-R0.1-SNAPSHOT
+[21:47:18] [Server thread/INFO]: Using locale en_GB
+[21:47:18] [Server thread/INFO]: Using locale en_GB
+[21:47:18] [Server thread/INFO]: [VoxelSniper] Enabling VoxelSniper v7.1.0
+[21:47:18] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn vTeamCity
+[21:47:18] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v6.1
+[21:47:18] [Server thread/INFO]: [WorldGuard] (TEST) Lighters are PERMITTED.
+[21:47:18] [Server thread/INFO]: [WorldGuard] (TEST) Lava fire is blocked.
+[21:47:18] [Server thread/INFO]: [WorldGuard] (TEST) Fire spread is UNRESTRICTED.
+[21:47:18] [Server thread/INFO]: [WorldGuard] (TEST_nether) Lighters are PERMITTED.
+[21:47:18] [Server thread/INFO]: [WorldGuard] (TEST_nether) Lava fire is blocked.
+[21:47:18] [Server thread/INFO]: [WorldGuard] (TEST_nether) Fire spread is UNRESTRICTED.
+[21:47:18] [Server thread/INFO]: [WorldGuard] (TEST_the_end) Lighters are PERMITTED.
+[21:47:18] [Server thread/INFO]: [WorldGuard] (TEST_the_end) Lava fire is blocked.
+[21:47:18] [Server thread/INFO]: [WorldGuard] (TEST_the_end) Fire spread is UNRESTRICTED.
+[21:47:19] [Server thread/INFO]: [CraftBook] Enabling CraftBook v3.9-SNAPSHOT
+[21:47:19] [Server thread/INFO]: [CraftBook] Successfully added 1 CommandItems!
+[21:47:19] [Server thread/INFO]: [CraftBook] Registered 3 custom recipes!
+[21:47:19] [Server thread/INFO]: [CraftBook] 483 chunk(s) for 3 world(s) processed (6ms elapsed)
+[21:47:19] [Server thread/INFO]: [EssentialsProtect] Enabling EssentialsProtect vTeamCity
+[21:47:19] [Server thread/INFO]: Popey456963: Reload complete.
+[21:47:22] [Server thread/INFO]: Twiixtor issued server command: /plugins
+[21:47:24] [Server thread/INFO]: Popey456963 issued server command: /plugins
+[21:47:37] [Server thread/INFO]: Crustifer issued server command: /plugins
+[21:47:43] [Server thread/INFO]: Crustifer issued server command: //pos1
+[21:47:49] [Server thread/INFO]: Crustifer issued server command: /plugins
+[21:47:52] [Server thread/INFO]: Crustifer issued server command: //pos2
+[21:47:57] [Server thread/INFO]: Crustifer issued server command: //copy
+[21:48:03] [Server thread/INFO]: Crustifer issued server command: //paste
+[21:48:23] [Server thread/INFO]: Twiixtor issued server command: //undo chris
+[21:48:23] [Server thread/INFO]: Crustifer issued server command: //undo
+[21:48:26] [Server thread/INFO]: Popey456963 issued server command: /reload
+[21:48:26] [Server thread/INFO]: Popey456963: If you encounter any issues please use the /stop command to restart your server.
+[21:48:26] [Server thread/INFO]: [EssentialsProtect] Disabling EssentialsProtect vTeamCity
+[21:48:26] [Server thread/INFO]: [CraftBook] Disabling CraftBook v3.9-SNAPSHOT
+[21:48:26] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v6.1
+[21:48:26] [Server thread/INFO]: [WorldGuard] Shutting down executor and waiting for any pending tasks...
+[21:48:26] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn vTeamCity
+[21:48:26] [Server thread/INFO]: [VoxelSniper] Disabling VoxelSniper v7.1.0
+[21:48:26] [Server thread/INFO]: [Essentials] Disabling Essentials vTeamCity
+[21:48:26] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1;no_git_id
+[21:48:26] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1;no_git_id
+[21:48:26] [Server thread/INFO]: [Essentials] Loading Essentials vTeamCity
+[21:48:26] [Server thread/INFO]: [VoxelSniper] Loading VoxelSniper v7.1.0
+[21:48:26] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn vTeamCity
+[21:48:26] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v6.1
+[21:48:26] [Server thread/INFO]: [CraftBook] Loading CraftBook v3.9-SNAPSHOT
+[21:48:26] [Server thread/INFO]: [EssentialsProtect] Loading EssentialsProtect vTeamCity
+[21:48:26] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1;no_git_id
+[21:48:26] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_8_R3 as the Bukkit adapter
+[21:48:26] [Server thread/INFO]: [Essentials] Enabling Essentials vTeamCity
+[21:48:26] [Server thread/INFO]: git-Bukkit-9935adc (MC: 1.8.8)
+[21:48:26] [Server thread/INFO]: 1.8.8-R0.1-SNAPSHOT
+[21:48:26] [Server thread/INFO]: Using locale en_GB
+[21:48:26] [Server thread/INFO]: Using locale en_GB
+[21:48:26] [Server thread/INFO]: [VoxelSniper] Enabling VoxelSniper v7.1.0
+[21:48:26] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn vTeamCity
+[21:48:26] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v6.1
+[21:48:26] [Server thread/INFO]: [WorldGuard] (TEST) Lighters are PERMITTED.
+[21:48:26] [Server thread/INFO]: [WorldGuard] (TEST) Lava fire is blocked.
+[21:48:26] [Server thread/INFO]: [WorldGuard] (TEST) Fire spread is UNRESTRICTED.
+[21:48:26] [Server thread/INFO]: [WorldGuard] (TEST_nether) Lighters are PERMITTED.
+[21:48:26] [Server thread/INFO]: [WorldGuard] (TEST_nether) Lava fire is blocked.
+[21:48:26] [Server thread/INFO]: [WorldGuard] (TEST_nether) Fire spread is UNRESTRICTED.
+[21:48:26] [Server thread/INFO]: [WorldGuard] (TEST_the_end) Lighters are PERMITTED.
+[21:48:26] [Server thread/INFO]: [WorldGuard] (TEST_the_end) Lava fire is blocked.
+[21:48:26] [Server thread/INFO]: [WorldGuard] (TEST_the_end) Fire spread is UNRESTRICTED.
+[21:48:27] [Server thread/INFO]: [CraftBook] Enabling CraftBook v3.9-SNAPSHOT
+[21:48:27] [Server thread/INFO]: [CraftBook] Successfully added 1 CommandItems!
+[21:48:27] [Server thread/INFO]: [CraftBook] Registered 3 custom recipes!
+[21:48:27] [Server thread/INFO]: [CraftBook] 462 chunk(s) for 3 world(s) processed (4ms elapsed)
+[21:48:27] [Server thread/INFO]: [EssentialsProtect] Enabling EssentialsProtect vTeamCity
+[21:48:27] [Server thread/INFO]: Popey456963: Reload complete.
+[21:48:57] [Server thread/INFO]: Twiixtor left the game.
+[21:51:07] [Server thread/INFO]: Popey456963 issued server command: /reload
+[21:51:07] [Server thread/INFO]: Popey456963: If you encounter any issues please use the /stop command to restart your server.
+[21:51:07] [Server thread/INFO]: [EssentialsProtect] Disabling EssentialsProtect vTeamCity
+[21:51:07] [Server thread/INFO]: [CraftBook] Disabling CraftBook v3.9-SNAPSHOT
+[21:51:08] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v6.1
+[21:51:08] [Server thread/INFO]: [WorldGuard] Shutting down executor and waiting for any pending tasks...
+[21:51:08] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn vTeamCity
+[21:51:08] [Server thread/INFO]: [VoxelSniper] Disabling VoxelSniper v7.1.0
+[21:51:08] [Server thread/INFO]: [Essentials] Disabling Essentials vTeamCity
+[21:51:08] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1;no_git_id
+[21:51:08] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1;no_git_id
+[21:51:08] [Server thread/INFO]: [Essentials] Loading Essentials vTeamCity
+[21:51:08] [Server thread/INFO]: [VoxelSniper] Loading VoxelSniper v7.1.0
+[21:51:08] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn vTeamCity
+[21:51:08] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v6.1
+[21:51:08] [Server thread/INFO]: [CraftBook] Loading CraftBook v3.9-SNAPSHOT
+[21:51:08] [Server thread/INFO]: [EssentialsProtect] Loading EssentialsProtect vTeamCity
+[21:51:08] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1;no_git_id
+[21:51:08] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_8_R3 as the Bukkit adapter
+[21:51:08] [Server thread/INFO]: [Essentials] Enabling Essentials vTeamCity
+[21:51:08] [Server thread/INFO]: git-Bukkit-9935adc (MC: 1.8.8)
+[21:51:08] [Server thread/INFO]: 1.8.8-R0.1-SNAPSHOT
+[21:51:08] [Server thread/INFO]: Using locale en_GB
+[21:51:08] [Server thread/INFO]: Using locale en_GB
+[21:51:08] [Server thread/INFO]: [VoxelSniper] Enabling VoxelSniper v7.1.0
+[21:51:08] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn vTeamCity
+[21:51:08] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v6.1
+[21:51:08] [Server thread/INFO]: [WorldGuard] (TEST) Lighters are PERMITTED.
+[21:51:08] [Server thread/INFO]: [WorldGuard] (TEST) Lava fire is blocked.
+[21:51:08] [Server thread/INFO]: [WorldGuard] (TEST) Fire spread is UNRESTRICTED.
+[21:51:08] [Server thread/INFO]: [WorldGuard] (TEST_nether) Lighters are PERMITTED.
+[21:51:08] [Server thread/INFO]: [WorldGuard] (TEST_nether) Lava fire is blocked.
+[21:51:08] [Server thread/INFO]: [WorldGuard] (TEST_nether) Fire spread is UNRESTRICTED.
+[21:51:08] [Server thread/INFO]: [WorldGuard] (TEST_the_end) Lighters are PERMITTED.
+[21:51:08] [Server thread/INFO]: [WorldGuard] (TEST_the_end) Lava fire is blocked.
+[21:51:08] [Server thread/INFO]: [WorldGuard] (TEST_the_end) Fire spread is UNRESTRICTED.
+[21:51:08] [Server thread/INFO]: [CraftBook] Enabling CraftBook v3.9-SNAPSHOT
+[21:51:08] [Server thread/INFO]: [CraftBook] Successfully added 1 CommandItems!
+[21:51:08] [Server thread/INFO]: [CraftBook] Registered 3 custom recipes!
+[21:51:08] [Server thread/INFO]: [CraftBook] 441 chunk(s) for 3 world(s) processed (5ms elapsed)
+[21:51:08] [Server thread/INFO]: [EssentialsProtect] Enabling EssentialsProtect vTeamCity
+[21:51:08] [Server thread/INFO]: Popey456963: Reload complete.
+[21:51:23] [Server thread/INFO]: Popey456963 issued server command: /plugins
+[21:51:36] [Server thread/INFO]: guest: [Guest]Crustifer, [Guest]Popey456963
+[21:52:22] [Server thread/INFO]: guest: [Guest]Crustifer, [Guest]Popey456963
+[21:52:23] [Server thread/INFO]: Crustifer issued server command: /plugins
+[21:52:27] [Server thread/INFO]: Crustifer issued server command: /help
+[21:52:34] [Server thread/INFO]: Crustifer issued server command: /promote popey
+[21:52:41] [Netty Epoll Server IO #4/INFO]: <[Guest]Crustifer> ad
+[21:53:04] [Server thread/INFO]: Crustifer issued server command: /pex user
+[21:53:09] [Server thread/INFO]: guest: [Guest]Crustifer, [Guest]Popey456963
+[21:53:46] [Server thread/INFO]: User groups set!
+[21:53:48] [Netty Epoll Server IO #19/INFO]: <[Owner]Popey456963> Test
+[21:53:51] [Netty Epoll Server IO #4/INFO]: <[Guest]Crustifer> a
+[21:53:55] [Server thread/INFO]: Admins: [Owner]Popey456963
+[21:53:55] [Server thread/INFO]: guest: [Guest]Crustifer
+[21:53:57] [Server thread/INFO]: Crustifer issued server command: /deop popey
+[21:53:57] [Server thread/INFO]: User groups set!
+[21:53:59] [Netty Epoll Server IO #4/INFO]: <[Owner]Crustifer> asd
+[21:54:04] [Server thread/INFO]: User groups set!
+[21:54:05] [Server thread/INFO]: Crustifer issued server command: /deop popey456963
+[21:54:05] [Server thread/INFO]: [Crustifer: De-opped popey456963]
+[21:54:09] [Netty Epoll Server IO #19/INFO]: <[Owner]Popey456963> Tet
+[21:54:15] [Server thread/INFO]: Popey456963 issued server command: /deop popey
+[21:54:18] [Netty Epoll Server IO #4/INFO]: <[Owner]Crustifer> ad
+[21:54:27] [Server thread/INFO]: Popey456963 issued server command: /ops
+[21:54:30] [Server thread/INFO]: Crustifer issued server command: /deop Popey456963
+[21:54:32] [Netty Epoll Server IO #4/INFO]: <[Owner]Crustifer> sad
+[21:54:36] [Netty Epoll Server IO #19/INFO]: <[Owner]Popey456963> Test
+[21:54:37] [Netty Epoll Server IO #4/INFO]: <[Owner]Crustifer> :L
+[21:54:39] [Server thread/INFO]: Crustifer issued server command: /demote popeys
+[21:54:42] [Server thread/INFO]: Admins: [Owner]Crustifer, [Owner]Popey456963
+[21:54:48] [Server thread/INFO]: Crustifer issued server command: /help pex
+[21:54:52] [Server thread/INFO]: Crustifer issued server command: /pex
+[21:55:01] [Server thread/INFO]: Popey456963 issued server command: /reload
+[21:55:04] [Server thread/INFO]: Crustifer issued server command: /pex user Popey456963
+[21:55:12] [Server thread/INFO]: CONSOLE: If you encounter any issues please use the /stop command to restart your server.
+[21:55:12] [Server thread/INFO]: [EssentialsProtect] Disabling EssentialsProtect vTeamCity
+[21:55:12] [Server thread/INFO]: [CraftBook] Disabling CraftBook v3.9-SNAPSHOT
+[21:55:12] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v6.1
+[21:55:12] [Server thread/INFO]: [WorldGuard] Shutting down executor and waiting for any pending tasks...
+[21:55:12] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn vTeamCity
+[21:55:12] [Server thread/INFO]: [VoxelSniper] Disabling VoxelSniper v7.1.0
+[21:55:12] [Server thread/INFO]: [Essentials] Disabling Essentials vTeamCity
+[21:55:12] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1;no_git_id
+[21:55:12] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1;no_git_id
+[21:55:12] [Server thread/INFO]: [Essentials] Loading Essentials vTeamCity
+[21:55:12] [Server thread/INFO]: [VoxelSniper] Loading VoxelSniper v7.1.0
+[21:55:12] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn vTeamCity
+[21:55:12] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v6.1
+[21:55:12] [Server thread/INFO]: [CraftBook] Loading CraftBook v3.9-SNAPSHOT
+[21:55:12] [Server thread/INFO]: [EssentialsProtect] Loading EssentialsProtect vTeamCity
+[21:55:12] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1;no_git_id
+[21:55:13] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_8_R3 as the Bukkit adapter
+[21:55:13] [Server thread/INFO]: [Essentials] Enabling Essentials vTeamCity
+[21:55:13] [Server thread/INFO]: git-Bukkit-9935adc (MC: 1.8.8)
+[21:55:13] [Server thread/INFO]: 1.8.8-R0.1-SNAPSHOT
+[21:55:13] [Server thread/INFO]: Using locale en_GB
+[21:55:13] [Server thread/INFO]: Using locale en_GB
+[21:55:13] [Server thread/INFO]: [VoxelSniper] Enabling VoxelSniper v7.1.0
+[21:55:13] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn vTeamCity
+[21:55:13] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v6.1
+[21:55:13] [Server thread/INFO]: [WorldGuard] (TEST) Lighters are PERMITTED.
+[21:55:13] [Server thread/INFO]: [WorldGuard] (TEST) Lava fire is blocked.
+[21:55:13] [Server thread/INFO]: [WorldGuard] (TEST) Fire spread is UNRESTRICTED.
+[21:55:13] [Server thread/INFO]: [WorldGuard] (TEST_nether) Lighters are PERMITTED.
+[21:55:13] [Server thread/INFO]: [WorldGuard] (TEST_nether) Lava fire is blocked.
+[21:55:13] [Server thread/INFO]: [WorldGuard] (TEST_nether) Fire spread is UNRESTRICTED.
+[21:55:13] [Server thread/INFO]: [WorldGuard] (TEST_the_end) Lighters are PERMITTED.
+[21:55:13] [Server thread/INFO]: [WorldGuard] (TEST_the_end) Lava fire is blocked.
+[21:55:13] [Server thread/INFO]: [WorldGuard] (TEST_the_end) Fire spread is UNRESTRICTED.
+[21:55:13] [Server thread/INFO]: [CraftBook] Enabling CraftBook v3.9-SNAPSHOT
+[21:55:13] [Server thread/INFO]: [CraftBook] Successfully added 1 CommandItems!
+[21:55:13] [Server thread/INFO]: [CraftBook] Registered 3 custom recipes!
+[21:55:13] [Server thread/INFO]: [CraftBook] 462 chunk(s) for 3 world(s) processed (5ms elapsed)
+[21:55:13] [Server thread/INFO]: [EssentialsProtect] Enabling EssentialsProtect vTeamCity
+[21:55:13] [Server thread/INFO]: CONSOLE: Reload complete.
+[21:55:17] [Netty Epoll Server IO #19/INFO]: <[Owner]Popey456963> Test
+[21:55:25] [Server thread/INFO]: Crustifer issued server command: /plugins
+[21:55:29] [Server thread/INFO]: Admins: [Owner]Crustifer, [Owner]Popey456963
+[21:55:40] [Server thread/INFO]: Crustifer issued server command: /help craftbook
+[21:56:06] [Server thread/INFO]: Popey456963 issued server command: /reload
+[21:56:06] [Server thread/INFO]: Popey456963: If you encounter any issues please use the /stop command to restart your server.
+[21:56:06] [Server thread/INFO]: [EssentialsProtect] Disabling EssentialsProtect vTeamCity
+[21:56:06] [Server thread/INFO]: [CraftBook] Disabling CraftBook v3.9-SNAPSHOT
+[21:56:06] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v6.1
+[21:56:06] [Server thread/INFO]: [WorldGuard] Shutting down executor and waiting for any pending tasks...
+[21:56:06] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn vTeamCity
+[21:56:06] [Server thread/INFO]: [VoxelSniper] Disabling VoxelSniper v7.1.0
+[21:56:06] [Server thread/INFO]: [Essentials] Disabling Essentials vTeamCity
+[21:56:06] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1;no_git_id
+[21:56:06] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1;no_git_id
+[21:56:06] [Server thread/INFO]: [Essentials] Loading Essentials vTeamCity
+[21:56:06] [Server thread/INFO]: [VoxelSniper] Loading VoxelSniper v7.1.0
+[21:56:06] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn vTeamCity
+[21:56:06] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v6.1
+[21:56:06] [Server thread/INFO]: [CraftBook] Loading CraftBook v3.9-SNAPSHOT
+[21:56:06] [Server thread/INFO]: [EssentialsProtect] Loading EssentialsProtect vTeamCity
+[21:56:07] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1;no_git_id
+[21:56:07] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_8_R3 as the Bukkit adapter
+[21:56:07] [Server thread/INFO]: [Essentials] Enabling Essentials vTeamCity
+[21:56:07] [Server thread/INFO]: git-Bukkit-9935adc (MC: 1.8.8)
+[21:56:07] [Server thread/INFO]: 1.8.8-R0.1-SNAPSHOT
+[21:56:07] [Server thread/INFO]: Using locale en_GB
+[21:56:07] [Server thread/INFO]: Using locale en_GB
+[21:56:07] [Server thread/INFO]: [VoxelSniper] Enabling VoxelSniper v7.1.0
+[21:56:07] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn vTeamCity
+[21:56:07] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v6.1
+[21:56:07] [Server thread/INFO]: [WorldGuard] (TEST) Lighters are PERMITTED.
+[21:56:07] [Server thread/INFO]: [WorldGuard] (TEST) Lava fire is blocked.
+[21:56:07] [Server thread/INFO]: [WorldGuard] (TEST) Fire spread is UNRESTRICTED.
+[21:56:07] [Server thread/INFO]: [WorldGuard] (TEST_nether) Lighters are PERMITTED.
+[21:56:07] [Server thread/INFO]: [WorldGuard] (TEST_nether) Lava fire is blocked.
+[21:56:07] [Server thread/INFO]: [WorldGuard] (TEST_nether) Fire spread is UNRESTRICTED.
+[21:56:07] [Server thread/INFO]: [WorldGuard] (TEST_the_end) Lighters are PERMITTED.
+[21:56:07] [Server thread/INFO]: [WorldGuard] (TEST_the_end) Lava fire is blocked.
+[21:56:07] [Server thread/INFO]: [WorldGuard] (TEST_the_end) Fire spread is UNRESTRICTED.
+[21:56:07] [Server thread/INFO]: [CraftBook] Enabling CraftBook v3.9-SNAPSHOT
+[21:56:07] [Server thread/INFO]: [CraftBook] Successfully added 1 CommandItems!
+[21:56:07] [Server thread/INFO]: [CraftBook] Registered 3 custom recipes!
+[21:56:07] [Server thread/INFO]: [CraftBook] 482 chunk(s) for 3 world(s) processed (5ms elapsed)
+[21:56:07] [Server thread/INFO]: [EssentialsProtect] Enabling EssentialsProtect vTeamCity
+[21:56:07] [Server thread/INFO]: Popey456963: Reload complete.
+[21:56:11] [Server thread/INFO]: Popey456963 issued server command: /plugins
+[21:56:13] [Netty Epoll Server IO #19/INFO]: <[Guest]Popey456963> test
+[21:56:15] [Server thread/INFO]: guest: [Guest]Popey456963, [Guest]Crustifer
+[21:56:16] [Netty Epoll Server IO #4/INFO]: <[Guest]Crustifer> asf
+[21:56:20] [Server thread/INFO]: Crustifer issued server command: /
+[21:56:21] [Server thread/INFO]: User groups set!
+[21:56:29] [Server thread/INFO]: User groups set!
+[21:56:39] [Server thread/INFO]: User groups set!
+[21:56:39] [Server thread/INFO]: Twiixtor issued server command: /gm
+[21:56:43] [Netty Epoll Server IO #21/INFO]: <[Owner]Twiixtor> tere
+[21:56:45] [Server thread/INFO]: Popey456963 issued server command: /reload
+[21:56:45] [Server thread/INFO]: Popey456963: If you encounter any issues please use the /stop command to restart your server.
+[21:56:45] [Server thread/INFO]: [EssentialsProtect] Disabling EssentialsProtect vTeamCity
+[21:56:45] [Server thread/INFO]: [CraftBook] Disabling CraftBook v3.9-SNAPSHOT
+[21:56:45] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v6.1
+[21:56:45] [Server thread/INFO]: [WorldGuard] Shutting down executor and waiting for any pending tasks...
+[21:56:45] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn vTeamCity
+[21:56:45] [Server thread/INFO]: [VoxelSniper] Disabling VoxelSniper v7.1.0
+[21:56:45] [Server thread/INFO]: [Essentials] Disabling Essentials vTeamCity
+[21:56:45] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1;no_git_id
+[21:56:45] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1;no_git_id
+[21:56:45] [Server thread/INFO]: [Essentials] Loading Essentials vTeamCity
+[21:56:45] [Server thread/INFO]: [VoxelSniper] Loading VoxelSniper v7.1.0
+[21:56:45] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn vTeamCity
+[21:56:45] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v6.1
+[21:56:45] [Server thread/INFO]: [CraftBook] Loading CraftBook v3.9-SNAPSHOT
+[21:56:45] [Server thread/INFO]: [EssentialsProtect] Loading EssentialsProtect vTeamCity
+[21:56:45] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1;no_git_id
+[21:56:45] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_8_R3 as the Bukkit adapter
+[21:56:45] [Server thread/INFO]: [Essentials] Enabling Essentials vTeamCity
+[21:56:45] [Server thread/INFO]: git-Bukkit-9935adc (MC: 1.8.8)
+[21:56:45] [Server thread/INFO]: 1.8.8-R0.1-SNAPSHOT
+[21:56:45] [Server thread/INFO]: Using locale en_GB
+[21:56:45] [Server thread/INFO]: Using locale en_GB
+[21:56:45] [Server thread/INFO]: [VoxelSniper] Enabling VoxelSniper v7.1.0
+[21:56:46] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn vTeamCity
+[21:56:46] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v6.1
+[21:56:46] [Server thread/INFO]: [WorldGuard] (TEST) Lighters are PERMITTED.
+[21:56:46] [Server thread/INFO]: [WorldGuard] (TEST) Lava fire is blocked.
+[21:56:46] [Server thread/INFO]: [WorldGuard] (TEST) Fire spread is UNRESTRICTED.
+[21:56:46] [Server thread/INFO]: [WorldGuard] (TEST_nether) Lighters are PERMITTED.
+[21:56:46] [Server thread/INFO]: [WorldGuard] (TEST_nether) Lava fire is blocked.
+[21:56:46] [Server thread/INFO]: [WorldGuard] (TEST_nether) Fire spread is UNRESTRICTED.
+[21:56:46] [Server thread/INFO]: [WorldGuard] (TEST_the_end) Lighters are PERMITTED.
+[21:56:46] [Server thread/INFO]: [WorldGuard] (TEST_the_end) Lava fire is blocked.
+[21:56:46] [Server thread/INFO]: [WorldGuard] (TEST_the_end) Fire spread is UNRESTRICTED.
+[21:56:46] [Server thread/INFO]: [CraftBook] Enabling CraftBook v3.9-SNAPSHOT
+[21:56:46] [Server thread/INFO]: [CraftBook] Successfully added 1 CommandItems!
+[21:56:46] [Server thread/INFO]: [CraftBook] Registered 3 custom recipes!
+[21:56:46] [Server thread/INFO]: [CraftBook] 483 chunk(s) for 3 world(s) processed (6ms elapsed)
+[21:56:46] [Server thread/INFO]: [EssentialsProtect] Enabling EssentialsProtect vTeamCity
+[21:56:46] [Server thread/INFO]: Popey456963: Reload complete.
+[21:56:50] [Netty Epoll Server IO #21/INFO]: <[Owner]Twiixtor> im owner
+[21:56:51] [Netty Epoll Server IO #21/INFO]: <[Owner]Twiixtor> rekt
+[21:56:55] [Netty Epoll Server IO #4/INFO]: <[Guest]Crustifer> af
+[21:57:02] [Server thread/INFO]: Admins: [Owner]Popey456963, [Owner]Twiixtor
+[21:57:02] [Server thread/INFO]: guest: [Guest]Crustifer
+[21:57:07] [Server thread/INFO]: User groups set!
+[21:57:14] [Server thread/INFO]: User groups set!
+[21:57:17] [Netty Epoll Server IO #19/INFO]: <[Owner]Popey456963> Test
+[21:57:20] [Netty Epoll Server IO #4/INFO]: <[Owner]Crustifer> af
+[21:57:24] [Server thread/INFO]: Crustifer issued server command: /deop crustifer
+[21:57:24] [Server thread/INFO]: [Crustifer: De-opped crustifer]
+[21:57:25] [Netty Epoll Server IO #4/INFO]: <[Owner]Crustifer> afd
+[21:57:27] [Netty Epoll Server IO #4/INFO]: <[Owner]Crustifer> Beautiful
+[21:57:29] [Server thread/INFO]: Popey456963 issued server command: /plugins
+[21:57:31] [Server thread/INFO]: Popey456963 issued server command: /reload
+[21:57:31] [Server thread/INFO]: Popey456963: If you encounter any issues please use the /stop command to restart your server.
+[21:57:31] [Server thread/INFO]: [EssentialsProtect] Disabling EssentialsProtect vTeamCity
+[21:57:31] [Server thread/INFO]: [CraftBook] Disabling CraftBook v3.9-SNAPSHOT
+[21:57:31] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v6.1
+[21:57:31] [Server thread/INFO]: [WorldGuard] Shutting down executor and waiting for any pending tasks...
+[21:57:31] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn vTeamCity
+[21:57:31] [Server thread/INFO]: [VoxelSniper] Disabling VoxelSniper v7.1.0
+[21:57:31] [Server thread/INFO]: [Essentials] Disabling Essentials vTeamCity
+[21:57:31] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1;no_git_id
+[21:57:31] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1;no_git_id
+[21:57:31] [Server thread/INFO]: [Essentials] Loading Essentials vTeamCity
+[21:57:31] [Server thread/INFO]: [VoxelSniper] Loading VoxelSniper v7.1.0
+[21:57:31] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn vTeamCity
+[21:57:31] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v6.1
+[21:57:31] [Server thread/INFO]: [CraftBook] Loading CraftBook v3.9-SNAPSHOT
+[21:57:31] [Server thread/INFO]: [EssentialsProtect] Loading EssentialsProtect vTeamCity
+[21:57:31] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1;no_git_id
+[21:57:31] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_8_R3 as the Bukkit adapter
+[21:57:31] [Server thread/INFO]: [Essentials] Enabling Essentials vTeamCity
+[21:57:31] [Server thread/INFO]: git-Bukkit-9935adc (MC: 1.8.8)
+[21:57:31] [Server thread/INFO]: 1.8.8-R0.1-SNAPSHOT
+[21:57:31] [Server thread/INFO]: Using locale en_GB
+[21:57:31] [Server thread/INFO]: Using locale en_GB
+[21:57:31] [Server thread/INFO]: [VoxelSniper] Enabling VoxelSniper v7.1.0
+[21:57:31] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn vTeamCity
+[21:57:31] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v6.1
+[21:57:31] [Server thread/INFO]: [WorldGuard] (TEST) Lighters are PERMITTED.
+[21:57:31] [Server thread/INFO]: [WorldGuard] (TEST) Lava fire is blocked.
+[21:57:31] [Server thread/INFO]: [WorldGuard] (TEST) Fire spread is UNRESTRICTED.
+[21:57:31] [Server thread/INFO]: [WorldGuard] (TEST_nether) Lighters are PERMITTED.
+[21:57:31] [Server thread/INFO]: [WorldGuard] (TEST_nether) Lava fire is blocked.
+[21:57:31] [Server thread/INFO]: [WorldGuard] (TEST_nether) Fire spread is UNRESTRICTED.
+[21:57:31] [Server thread/INFO]: [WorldGuard] (TEST_the_end) Lighters are PERMITTED.
+[21:57:31] [Server thread/INFO]: [WorldGuard] (TEST_the_end) Lava fire is blocked.
+[21:57:31] [Server thread/INFO]: [WorldGuard] (TEST_the_end) Fire spread is UNRESTRICTED.
+[21:57:31] [Server thread/INFO]: [CraftBook] Enabling CraftBook v3.9-SNAPSHOT
+[21:57:32] [Server thread/INFO]: [CraftBook] Successfully added 1 CommandItems!
+[21:57:32] [Server thread/INFO]: [CraftBook] Registered 3 custom recipes!
+[21:57:32] [Server thread/INFO]: [CraftBook] 482 chunk(s) for 3 world(s) processed (6ms elapsed)
+[21:57:32] [Server thread/INFO]: [EssentialsProtect] Enabling EssentialsProtect vTeamCity
+[21:57:32] [Server thread/INFO]: Popey456963: Reload complete.
+[21:57:36] [Server thread/INFO]: Popey456963 issued server command: /plugins
+[21:57:45] [Netty Epoll Server IO #4/INFO]: <[Owner]Crustifer> a
+[21:57:45] [Server thread/INFO]: Twiixtor issued server command: /group
+[21:57:47] [Server thread/INFO]: Twiixtor issued server command: /help
+[21:57:48] [Server thread/INFO]: Admins: [Owner]Crustifer, [Owner]Popey456963, [Owner]Twiixtor
+[21:57:55] [Netty Epoll Server IO #4/INFO]: <[Owner]Crustifer> a
+[21:57:55] [Server thread/INFO]: Twiixtor issued server command: /promote
+[21:57:56] [Netty Epoll Server IO #4/INFO]: <[Owner]Crustifer> a
+[21:57:57] [Netty Epoll Server IO #4/INFO]: <[Owner]Crustifer> a
+[21:57:58] [Server thread/INFO]: Popey456963 issued server command: /pex user Crustifer group set guest
+[21:57:58] [Netty Epoll Server IO #4/INFO]: <[Owner]Crustifer> a
+[21:57:59] [Netty Epoll Server IO #4/INFO]: <[Guest]Crustifer> a
+[21:58:00] [Netty Epoll Server IO #4/INFO]: <[Guest]Crustifer> a
+[21:58:03] [Server thread/INFO]: Twiixtor issued server command: /promote Crustifier
+[21:58:03] [Server thread/INFO]: Popey456963 issued server command: /pex user Crustifer group set member
+[21:58:07] [Server thread/INFO]: Twiixtor issued server command: /promote Crustifer Member
+[21:58:15] [Server thread/INFO]: Twiixtor issued server command: /promote Crustifer
+[21:58:35] [Server thread/INFO]: Admins: [Owner]Popey456963, [Owner]Twiixtor
+[21:58:37] [Server thread/INFO]: Twiixtor issued server command: /promote Crustifer
+[21:58:40] [Server thread/INFO]: Popey456963 issued server command: /pex user Crustifer group set member
+[21:59:21] [Server thread/INFO]: Admins: [Owner]Popey456963, [Owner]Twiixtor
+[22:00:08] [Server thread/INFO]: Admins: [Owner]Popey456963, [Owner]Twiixtor
+[22:00:21] [Server thread/INFO]: Twiixtor issued server command: //set 0
+[22:00:35] [Server thread/INFO]: Twiixtor issued server command: //replace 5:5 grass
+[22:00:37] [Server thread/INFO]: Twiixtor issued server command: //replace dirt grass
+[22:00:55] [Server thread/INFO]: Admins: [Owner]Popey456963, [Owner]Twiixtor
+[22:01:27] [Server thread/INFO]: Twiixtor issued server command: /hsphere
+[22:01:30] [Server thread/INFO]: Twiixtor issued server command: //hsphere
+[22:01:35] [Server thread/INFO]: Twiixtor issued server command: //hsphere glass 15
+[22:01:41] [Server thread/INFO]: Admins: [Owner]Popey456963, [Owner]Twiixtor
+[22:01:43] [Server thread/INFO]: Twiixtor issued server command: //dome
+[22:01:51] [Server thread/INFO]: Twiixtor issued server command: //hcircle
+[22:01:56] [Server thread/INFO]: Twiixtor issued server command: //undo
+[22:02:09] [Server thread/INFO]: Twiixtor left the game.
+[22:02:20] [Netty Epoll Server IO #19/INFO]: <[Owner]Popey456963> Twiixtor, you okay?
+[22:02:28] [Server thread/INFO]: Admins: [Owner]Popey456963, [Owner]Twiixtor
+[22:03:14] [Server thread/INFO]: Admins: [Owner]Popey456963, [Owner]Twiixtor
+[22:03:57] [Server thread/INFO]: Popey456963 issued server command: /tp twiix
+[22:04:01] [Server thread/INFO]: Admins: [Owner]Popey456963, [Owner]Twiixtor
+[22:04:08] [Server thread/INFO]: Popey456963 issued server command: //cyl
+[22:04:34] [Server thread/INFO]: Twiixtor issued server command: //hsphere glass 15
+[22:04:39] [Server thread/INFO]: Popey456963 issued server command: //dome
+[22:04:47] [Server thread/INFO]: Admins: [Owner]Popey456963, [Owner]Twiixtor
+[22:05:00] [Server thread/INFO]: Twiixtor issued server command: //expand
+[22:05:06] [Server thread/INFO]: Twiixtor issued server command: //expand 50 down
+[22:05:10] [Server thread/INFO]: Twiixtor issued server command: //replace glass dirt
+[22:05:34] [Server thread/INFO]: Admins: [Owner]Popey456963, [Owner]Twiixtor
+[22:05:55] [Netty Epoll Server IO #19/INFO]: <[Owner]Popey456963> Hello Crust!
+[22:06:20] [Server thread/INFO]: Admins: [Owner]Popey456963, [Owner]Twiixtor
+[22:07:07] [Server thread/INFO]: Admins: [Owner]Popey456963, [Owner]Twiixtor
+[22:07:54] [Server thread/INFO]: Admins: [Owner]Popey456963, [Owner]Twiixtor
+[22:08:40] [Server thread/INFO]: Admins: [Owner]Popey456963, [Owner]Twiixtor
+[22:09:16] [Server thread/INFO]: Popey456963 issued server command: /reload
+[22:09:16] [Server thread/INFO]: Popey456963: If you encounter any issues please use the /stop command to restart your server.
+[22:09:16] [Server thread/INFO]: [EssentialsProtect] Disabling EssentialsProtect vTeamCity
+[22:09:16] [Server thread/INFO]: [CraftBook] Disabling CraftBook v3.9-SNAPSHOT
+[22:09:16] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v6.1
+[22:09:16] [Server thread/INFO]: [WorldGuard] Shutting down executor and waiting for any pending tasks...
+[22:09:16] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn vTeamCity
+[22:09:16] [Server thread/INFO]: [VoxelSniper] Disabling VoxelSniper v7.1.0
+[22:09:16] [Server thread/INFO]: [Essentials] Disabling Essentials vTeamCity
+[22:09:16] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1;no_git_id
+[22:09:17] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1;no_git_id
+[22:09:17] [Server thread/INFO]: [Essentials] Loading Essentials vTeamCity
+[22:09:17] [Server thread/INFO]: [VoxelSniper] Loading VoxelSniper v7.1.0
+[22:09:17] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn vTeamCity
+[22:09:17] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v6.1
+[22:09:17] [Server thread/INFO]: [CraftBook] Loading CraftBook v3.9-SNAPSHOT
+[22:09:17] [Server thread/INFO]: [EssentialsProtect] Loading EssentialsProtect vTeamCity
+[22:09:17] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1;no_git_id
+[22:09:17] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_8_R3 as the Bukkit adapter
+[22:09:17] [Server thread/INFO]: [Essentials] Enabling Essentials vTeamCity
+[22:09:17] [Server thread/INFO]: git-Bukkit-9935adc (MC: 1.8.8)
+[22:09:17] [Server thread/INFO]: 1.8.8-R0.1-SNAPSHOT
+[22:09:17] [Server thread/INFO]: Using locale en_GB
+[22:09:17] [Server thread/INFO]: Using locale en_GB
+[22:09:17] [Server thread/INFO]: [VoxelSniper] Enabling VoxelSniper v7.1.0
+[22:09:17] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn vTeamCity
+[22:09:17] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v6.1
+[22:09:18] [Server thread/INFO]: [WorldGuard] (TEST) Lighters are PERMITTED.
+[22:09:18] [Server thread/INFO]: [WorldGuard] (TEST) Lava fire is blocked.
+[22:09:18] [Server thread/INFO]: [WorldGuard] (TEST) Fire spread is UNRESTRICTED.
+[22:09:18] [Server thread/INFO]: [WorldGuard] (TEST_nether) Lighters are PERMITTED.
+[22:09:18] [Server thread/INFO]: [WorldGuard] (TEST_nether) Lava fire is blocked.
+[22:09:18] [Server thread/INFO]: [WorldGuard] (TEST_nether) Fire spread is UNRESTRICTED.
+[22:09:18] [Server thread/INFO]: [WorldGuard] (TEST_the_end) Lighters are PERMITTED.
+[22:09:18] [Server thread/INFO]: [WorldGuard] (TEST_the_end) Lava fire is blocked.
+[22:09:18] [Server thread/INFO]: [WorldGuard] (TEST_the_end) Fire spread is UNRESTRICTED.
+[22:09:18] [Server thread/INFO]: [CraftBook] Enabling CraftBook v3.9-SNAPSHOT
+[22:09:18] [Server thread/INFO]: [CraftBook] Successfully added 1 CommandItems!
+[22:09:18] [Server thread/INFO]: [CraftBook] Registered 3 custom recipes!
+[22:09:18] [Server thread/INFO]: [CraftBook] 525 chunk(s) for 3 world(s) processed (10ms elapsed)
+[22:09:18] [Server thread/INFO]: [EssentialsProtect] Enabling EssentialsProtect vTeamCity
+[22:09:18] [Server thread/INFO]: Popey456963: Reload complete.
+[22:09:27] [Server thread/INFO]: guest: [Guest]Crustifer, [Guest]Popey456963, [Guest]Twiixtor
+[22:09:27] [Server thread/INFO]: Popey456963 issued server command: /plugins
+[22:09:34] [Netty Epoll Server IO #4/INFO]: <[Guest]Crustifer> a
+[22:09:35] [Netty Epoll Server IO #4/INFO]: <[Guest]Crustifer> a
+[22:09:56] [Server thread/INFO]: Crustifer left the game.
+[22:10:13] [Server thread/INFO]: guest: [Guest]Popey456963, [Guest]Twiixtor
+[22:10:49] [Netty Epoll Server IO #1/INFO]: <[Guest]Crustifer> a
+[22:10:54] [Netty Epoll Server IO #1/INFO]: <[Guest]Crustifer> a
+[22:11:00] [Netty Epoll Server IO #1/INFO]: <[Guest]Crustifer> a
+[22:11:00] [Server thread/INFO]: guest: [Guest]Crustifer, [Guest]Popey456963, [Guest]Twiixtor
+[22:11:05] [Server thread/INFO]: Crustifer left the game.
+[22:11:12] [Netty Epoll Server IO #3/INFO]: <[Guest]Crustifer> a
+[22:11:13] [Netty Epoll Server IO #3/INFO]: <[Guest]Crustifer> a
+[22:11:24] [Server thread/INFO]: Crustifer issued server command: /helpop
+[22:11:25] [Netty Epoll Server IO #23/INFO]: <[Guest]Twiixtor> ytert
+[22:11:33] [Server thread/INFO]: Twiixtor issued server command: /promote
+[22:11:36] [Server thread/INFO]: Twiixtor issued server command: /promote Twiixtor
+[22:11:46] [Server thread/INFO]: guest: [Guest]Crustifer, [Guest]Popey456963, [Guest]Twiixtor
+[22:12:33] [Server thread/INFO]: guest: [Guest]Crustifer, [Guest]Popey456963, [Guest]Twiixtor
+[22:13:19] [Server thread/INFO]: guest: [Guest]Crustifer, [Guest]Popey456963, [Guest]Twiixtor
+[22:14:06] [Server thread/INFO]: guest: [Guest]Crustifer, [Guest]Popey456963, [Guest]Twiixtor
+[22:14:53] [Server thread/INFO]: guest: [Guest]Crustifer, [Guest]Popey456963, [Guest]Twiixtor
+[22:14:57] [Server thread/INFO]: Popey456963 issued server command: /plugins
+[22:15:04] [Server thread/INFO]: Twiixtor issued server command: //cut
+[22:15:05] [Netty Epoll Server IO #3/INFO]: <[Guest]Crustifer> afd
+[22:15:06] [Netty Epoll Server IO #3/INFO]: <[Guest]Crustifer> ad
+[22:15:18] [Server thread/INFO]: Twiixtor issued server command: //paste
+[22:15:24] [Netty Epoll Server IO #3/INFO]: <[Guest]Crustifer> ad
+[22:15:39] [Server thread/INFO]: guest: [Guest]Crustifer, [Guest]Popey456963, [Guest]Twiixtor
+[22:15:44] [Netty Epoll Server IO #19/INFO]: <[Guest]Popey456963> Test
+[22:15:47] [Netty Epoll Server IO #19/INFO]: <[Guest]Popey456963> TESTTTS
+[22:15:50] [Server thread/INFO]: Twiixtor issued server command: /i lever 1
+[22:15:59] [Netty Epoll Server IO #3/INFO]: <[Guest]Crustifer> ad
+[22:16:26] [Server thread/INFO]: guest: [Guest]Crustifer, [Guest]Popey456963, [Guest]Twiixtor
+[22:16:34] [Server thread/INFO]: Popey456963 issued server command: /reload
+[22:16:37] [Netty Epoll Server IO #3/INFO]: <[Guest]Crustifer> ad
+[22:16:39] [Server thread/INFO]: CONSOLE: If you encounter any issues please use the /stop command to restart your server.
+[22:16:39] [Server thread/INFO]: [EssentialsProtect] Disabling EssentialsProtect vTeamCity
+[22:16:39] [Server thread/INFO]: [CraftBook] Disabling CraftBook v3.9-SNAPSHOT
+[22:16:39] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v6.1
+[22:16:39] [Server thread/INFO]: [WorldGuard] Shutting down executor and waiting for any pending tasks...
+[22:16:39] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn vTeamCity
+[22:16:39] [Server thread/INFO]: [VoxelSniper] Disabling VoxelSniper v7.1.0
+[22:16:39] [Server thread/INFO]: [Essentials] Disabling Essentials vTeamCity
+[22:16:39] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1;no_git_id
+[22:16:40] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1;no_git_id
+[22:16:40] [Server thread/INFO]: [Essentials] Loading Essentials vTeamCity
+[22:16:40] [Server thread/INFO]: [VoxelSniper] Loading VoxelSniper v7.1.0
+[22:16:40] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn vTeamCity
+[22:16:40] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v6.1
+[22:16:40] [Server thread/INFO]: [CraftBook] Loading CraftBook v3.9-SNAPSHOT
+[22:16:40] [Server thread/INFO]: [EssentialsProtect] Loading EssentialsProtect vTeamCity
+[22:16:40] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1;no_git_id
+[22:16:40] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_8_R3 as the Bukkit adapter
+[22:16:40] [Server thread/INFO]: [Essentials] Enabling Essentials vTeamCity
+[22:16:40] [Server thread/INFO]: git-Bukkit-9935adc (MC: 1.8.8)
+[22:16:40] [Server thread/INFO]: 1.8.8-R0.1-SNAPSHOT
+[22:16:40] [Server thread/INFO]: Using locale en_GB
+[22:16:40] [Server thread/INFO]: Using locale en_GB
+[22:16:40] [Server thread/INFO]: [VoxelSniper] Enabling VoxelSniper v7.1.0
+[22:16:40] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn vTeamCity
+[22:16:40] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v6.1
+[22:16:40] [Server thread/INFO]: [WorldGuard] (TEST) Lighters are PERMITTED.
+[22:16:40] [Server thread/INFO]: [WorldGuard] (TEST) Lava fire is blocked.
+[22:16:40] [Server thread/INFO]: [WorldGuard] (TEST) Fire spread is UNRESTRICTED.
+[22:16:40] [Server thread/INFO]: [WorldGuard] (TEST_nether) Lighters are PERMITTED.
+[22:16:40] [Server thread/INFO]: [WorldGuard] (TEST_nether) Lava fire is blocked.
+[22:16:40] [Server thread/INFO]: [WorldGuard] (TEST_nether) Fire spread is UNRESTRICTED.
+[22:16:40] [Server thread/INFO]: [WorldGuard] (TEST_the_end) Lighters are PERMITTED.
+[22:16:40] [Server thread/INFO]: [WorldGuard] (TEST_the_end) Lava fire is blocked.
+[22:16:40] [Server thread/INFO]: [WorldGuard] (TEST_the_end) Fire spread is UNRESTRICTED.
+[22:16:40] [Server thread/INFO]: [CraftBook] Enabling CraftBook v3.9-SNAPSHOT
+[22:16:40] [Server thread/INFO]: [CraftBook] Successfully added 1 CommandItems!
+[22:16:40] [Server thread/INFO]: [CraftBook] Registered 3 custom recipes!
+[22:16:40] [Server thread/INFO]: [CraftBook] 504 chunk(s) for 3 world(s) processed (5ms elapsed)
+[22:16:40] [Server thread/INFO]: [EssentialsProtect] Enabling EssentialsProtect vTeamCity
+[22:16:40] [Server thread/INFO]: CONSOLE: Reload complete.
+[22:16:47] [Server thread/INFO]: Crustifer issued server command: /plugins
+[22:16:48] [Server thread/INFO]: Twiixtor issued server command: //pos 2
+[22:16:51] [Server thread/INFO]: Popey456963 issued server command: /plugins
+[22:16:51] [Server thread/INFO]: Twiixtor issued server command: /pos 2
+[22:16:54] [Server thread/INFO]: Twiixtor issued server command: //pos 2
+[22:16:55] [Server thread/INFO]: Twiixtor issued server command: //pos
+[22:16:57] [Server thread/INFO]: Twiixtor issued server command: /pos
+[22:16:58] [Server thread/INFO]: Twiixtor issued server command: //pos
+[22:17:05] [Server thread/INFO]: Twiixtor issued server command: //pos ?
+[22:17:07] [Netty Epoll Server IO #23/INFO]: <[Guest]Twiixtor> .//pos
+[22:17:09] [Netty Epoll Server IO #19/INFO]: <[Guest]Popey456963> Test
+[22:17:12] [Server thread/INFO]: guest: [Guest]Crustifer, [Guest]Popey456963, [Guest]Twiixtor
+[22:17:14] [Server thread/INFO]: Twiixtor issued server command: //post2
+[22:17:15] [Server thread/INFO]: Twiixtor issued server command: //pos2
+[22:17:23] [Server thread/INFO]: Twiixtor issued server command: //regen
+[22:17:35] [Server thread/INFO]: Twiixtor issued server command: //pos1
+[22:17:36] [Server thread/INFO]: User groups set!
+[22:17:39] [Server thread/INFO]: Twiixtor issued server command: //pos2
+[22:17:41] [Netty Epoll Server IO #19/INFO]: <[Owner]Popey456963> Test
+[22:17:42] [Server thread/INFO]: Twiixtor issued server command: //regen
+[22:17:52] [Server thread/INFO]: Twiixtor issued server command: //replace glass 0
+[22:17:52] [Server thread/INFO]: Crustifer issued server command: /deop Popey456963
+[22:17:59] [Server thread/INFO]: Admins: [Owner]Popey456963
+[22:17:59] [Server thread/INFO]: guest: [Guest]Crustifer, [Guest]Twiixtor
+[22:18:10] [Server thread/INFO]: Twiixtor issued server command: //replace glass 0
+[22:18:12] [Server thread/INFO]: Twiixtor issued server command: //regen
+[22:18:45] [Server thread/INFO]: Admins: [Owner]Popey456963
+[22:18:45] [Server thread/INFO]: guest: [Guest]Crustifer, [Guest]Twiixtor
+[22:19:06] [Server thread/INFO]: Twiixtor issued server command: //forest
+[22:19:11] [Server thread/INFO]: Popey456963 issued server command: /reload
+[22:19:11] [Server thread/INFO]: Popey456963: If you encounter any issues please use the /stop command to restart your server.
+[22:19:11] [Server thread/INFO]: [EssentialsProtect] Disabling EssentialsProtect vTeamCity
+[22:19:11] [Server thread/INFO]: [CraftBook] Disabling CraftBook v3.9-SNAPSHOT
+[22:19:11] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v6.1
+[22:19:11] [Server thread/INFO]: [WorldGuard] Shutting down executor and waiting for any pending tasks...
+[22:19:11] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn vTeamCity
+[22:19:11] [Server thread/INFO]: [VoxelSniper] Disabling VoxelSniper v7.1.0
+[22:19:11] [Server thread/INFO]: [Essentials] Disabling Essentials vTeamCity
+[22:19:11] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1;no_git_id
+[22:19:11] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1;no_git_id
+[22:19:11] [Server thread/INFO]: [Essentials] Loading Essentials vTeamCity
+[22:19:11] [Server thread/INFO]: [VoxelSniper] Loading VoxelSniper v7.1.0
+[22:19:11] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn vTeamCity
+[22:19:11] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v6.1
+[22:19:11] [Server thread/INFO]: [CraftBook] Loading CraftBook v3.9-SNAPSHOT
+[22:19:11] [Server thread/INFO]: [EssentialsProtect] Loading EssentialsProtect vTeamCity
+[22:19:11] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1;no_git_id
+[22:19:11] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_8_R3 as the Bukkit adapter
+[22:19:11] [Server thread/INFO]: [Essentials] Enabling Essentials vTeamCity
+[22:19:11] [Server thread/INFO]: git-Bukkit-9935adc (MC: 1.8.8)
+[22:19:11] [Server thread/INFO]: 1.8.8-R0.1-SNAPSHOT
+[22:19:11] [Server thread/INFO]: Using locale en_GB
+[22:19:11] [Server thread/INFO]: Using locale en_GB
+[22:19:11] [Server thread/INFO]: [VoxelSniper] Enabling VoxelSniper v7.1.0
+[22:19:12] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn vTeamCity
+[22:19:12] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v6.1
+[22:19:12] [Server thread/INFO]: [WorldGuard] (TEST) Lighters are PERMITTED.
+[22:19:12] [Server thread/INFO]: [WorldGuard] (TEST) Lava fire is blocked.
+[22:19:12] [Server thread/INFO]: [WorldGuard] (TEST) Fire spread is UNRESTRICTED.
+[22:19:12] [Server thread/INFO]: [WorldGuard] (TEST_nether) Lighters are PERMITTED.
+[22:19:12] [Server thread/INFO]: [WorldGuard] (TEST_nether) Lava fire is blocked.
+[22:19:12] [Server thread/INFO]: [WorldGuard] (TEST_nether) Fire spread is UNRESTRICTED.
+[22:19:12] [Server thread/INFO]: [WorldGuard] (TEST_the_end) Lighters are PERMITTED.
+[22:19:12] [Server thread/INFO]: [WorldGuard] (TEST_the_end) Lava fire is blocked.
+[22:19:12] [Server thread/INFO]: [WorldGuard] (TEST_the_end) Fire spread is UNRESTRICTED.
+[22:19:12] [Server thread/INFO]: [CraftBook] Enabling CraftBook v3.9-SNAPSHOT
+[22:19:12] [Server thread/INFO]: [CraftBook] Successfully added 1 CommandItems!
+[22:19:12] [Server thread/INFO]: [CraftBook] Registered 3 custom recipes!
+[22:19:12] [Server thread/INFO]: [CraftBook] 523 chunk(s) for 3 world(s) processed (6ms elapsed)
+[22:19:12] [Server thread/INFO]: [EssentialsProtect] Enabling EssentialsProtect vTeamCity
+[22:19:12] [Server thread/INFO]: Popey456963: Reload complete.
+[22:19:14] [Netty Epoll Server IO #19/INFO]: <[Owner]Popey456963> Test
+[22:19:16] [Netty Epoll Server IO #19/INFO]: <[Owner]Popey456963> TTESST
+[22:19:17] [Netty Epoll Server IO #23/INFO]: <[Guest]Twiixtor> test
+[22:19:22] [Server thread/INFO]: Popey456963 issued server command: /reload
+[22:19:22] [Server thread/INFO]: Popey456963: If you encounter any issues please use the /stop command to restart your server.
+[22:19:22] [Server thread/INFO]: [EssentialsProtect] Disabling EssentialsProtect vTeamCity
+[22:19:22] [Server thread/INFO]: [CraftBook] Disabling CraftBook v3.9-SNAPSHOT
+[22:19:22] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v6.1
+[22:19:22] [Server thread/INFO]: [WorldGuard] Shutting down executor and waiting for any pending tasks...
+[22:19:22] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn vTeamCity
+[22:19:22] [Server thread/INFO]: [VoxelSniper] Disabling VoxelSniper v7.1.0
+[22:19:22] [Server thread/INFO]: [Essentials] Disabling Essentials vTeamCity
+[22:19:22] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1;no_git_id
+[22:19:22] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1;no_git_id
+[22:19:22] [Server thread/INFO]: [Essentials] Loading Essentials vTeamCity
+[22:19:22] [Server thread/INFO]: [VoxelSniper] Loading VoxelSniper v7.1.0
+[22:19:22] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn vTeamCity
+[22:19:22] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v6.1
+[22:19:22] [Server thread/INFO]: [CraftBook] Loading CraftBook v3.9-SNAPSHOT
+[22:19:22] [Server thread/INFO]: [EssentialsProtect] Loading EssentialsProtect vTeamCity
+[22:19:22] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1;no_git_id
+[22:19:22] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_8_R3 as the Bukkit adapter
+[22:19:22] [Server thread/INFO]: [Essentials] Enabling Essentials vTeamCity
+[22:19:22] [Server thread/INFO]: git-Bukkit-9935adc (MC: 1.8.8)
+[22:19:22] [Server thread/INFO]: 1.8.8-R0.1-SNAPSHOT
+[22:19:22] [Server thread/INFO]: Using locale en_GB
+[22:19:22] [Server thread/INFO]: Using locale en_GB
+[22:19:22] [Server thread/INFO]: [VoxelSniper] Enabling VoxelSniper v7.1.0
+[22:19:22] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn vTeamCity
+[22:19:22] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v6.1
+[22:19:22] [Server thread/INFO]: [WorldGuard] (TEST) Lighters are PERMITTED.
+[22:19:22] [Server thread/INFO]: [WorldGuard] (TEST) Lava fire is blocked.
+[22:19:22] [Server thread/INFO]: [WorldGuard] (TEST) Fire spread is UNRESTRICTED.
+[22:19:22] [Server thread/INFO]: [WorldGuard] (TEST_nether) Lighters are PERMITTED.
+[22:19:22] [Server thread/INFO]: [WorldGuard] (TEST_nether) Lava fire is blocked.
+[22:19:22] [Server thread/INFO]: [WorldGuard] (TEST_nether) Fire spread is UNRESTRICTED.
+[22:19:22] [Server thread/INFO]: [WorldGuard] (TEST_the_end) Lighters are PERMITTED.
+[22:19:22] [Server thread/INFO]: [WorldGuard] (TEST_the_end) Lava fire is blocked.
+[22:19:22] [Server thread/INFO]: [WorldGuard] (TEST_the_end) Fire spread is UNRESTRICTED.
+[22:19:22] [Server thread/INFO]: [CraftBook] Enabling CraftBook v3.9-SNAPSHOT
+[22:19:22] [Server thread/INFO]: [CraftBook] Successfully added 1 CommandItems!
+[22:19:22] [Server thread/INFO]: [CraftBook] Registered 3 custom recipes!
+[22:19:23] [Server thread/INFO]: [CraftBook] 483 chunk(s) for 3 world(s) processed (5ms elapsed)
+[22:19:23] [Server thread/INFO]: [EssentialsProtect] Enabling EssentialsProtect vTeamCity
+[22:19:23] [Server thread/INFO]: Popey456963: Reload complete.
+[22:19:23] [Netty Epoll Server IO #19/INFO]: <[Owner]Popey456963> Test
+[22:19:25] [Netty Epoll Server IO #19/INFO]: <[Owner]Popey456963> Bloody hell
+[22:19:25] [Netty Epoll Server IO #23/INFO]: <[Guest]Twiixtor> MAKE ME OWNER YA PEASANT
+[22:19:26] [Netty Epoll Server IO #19/INFO]: <[Owner]Popey456963> Thank God
+[22:19:32] [Server thread/INFO]: Admins: [Owner]Popey456963
+[22:19:32] [Server thread/INFO]: guest: [Guest]Crustifer, [Guest]Twiixtor
+[22:19:35] [Server thread/INFO]: Popey456963 issued server command: /pex user Twiixtor group set owner
+[22:19:44] [Netty Epoll Server IO #3/INFO]: <[Guest]Crustifer> a
+[22:19:48] [Server thread/INFO]: Twiixtor left the game.
+[22:19:53] [Server thread/INFO]: Popey456963 issued server command: /pex user Crustifer group set member
+[22:20:18] [Server thread/INFO]: Admins: [Owner]Popey456963
+[22:20:22] [Server thread/INFO]: Crustifer left the game.
+[22:20:44] [Server thread/INFO]: Popey456963 issued server command: /pex user Crustifer group set Owner
+[22:21:00] [Netty Epoll Server IO #6/INFO]: <[Owner]Crustifer> ad
+[22:21:04] [Server thread/INFO]: Crustifer issued server command: /pex
+[22:21:05] [Server thread/INFO]: Admins: [Owner]Crustifer, [Owner]Popey456963
+[22:21:10] [Server thread/INFO]: Popey456963 issued server command: /rename
+[22:21:12] [Server thread/INFO]: Popey456963 issued server command: /name
+[22:21:13] [Server thread/INFO]: Popey456963 issued server command: /pex
+[22:21:52] [Server thread/INFO]: Admins: [Owner]Crustifer, [Owner]Popey456963
+[22:22:37] [Server thread/INFO]: Crustifer issued server command: /pex group member &1[Member]&f
+[22:22:38] [Netty Epoll Server IO #6/INFO]: <[Owner]Crustifer> ad
+[22:22:38] [Server thread/INFO]: Admins: [Owner]Crustifer, [Owner]Popey456963
+[22:22:59] [Netty Epoll Server IO #8/INFO]: <[Owner]Twiixtor> RED
+[22:23:13] [Server thread/INFO]: Crustifer issued server command: /pex group member prefix &1[Member]&f
+[22:23:14] [Netty Epoll Server IO #6/INFO]: <[Owner]Crustifer> ad
+[22:23:19] [Server thread/INFO]: Popey456963 issued server command: /pex user Crustifer group set member
+[22:23:25] [Server thread/INFO]: Admins: [Owner]Popey456963, [Owner]Twiixtor
+[22:23:25] [Server thread/INFO]: member: [Member]Crustifer
+[22:23:25] [Netty Epoll Server IO #6/INFO]: <[Member]Crustifer> asd
+[22:23:26] [Netty Epoll Server IO #6/INFO]: <[Member]Crustifer> adfg
+[22:23:55] [Netty Epoll Server IO #19/INFO]: <[Owner]Popey456963> Niiice
+[22:24:00] [Server thread/INFO]: Popey456963 issued server command: /pex user Crustifer group set owner
+[22:24:11] [Server thread/INFO]: Admins: [Owner]Crustifer, [Owner]Popey456963, [Owner]Twiixtor
+[22:24:43] [Server thread/INFO]: Crustifer issued server command: /pex group member prefix &9[Member]&f
+[22:24:50] [Server thread/INFO]: Popey456963 issued server command: /pex user Crustifer group set member
+[22:24:57] [Netty Epoll Server IO #6/INFO]: <[Member]Crustifer> ad
+[22:24:58] [Server thread/INFO]: Admins: [Owner]Popey456963, [Owner]Twiixtor
+[22:24:58] [Server thread/INFO]: member: [Member]Crustifer
+[22:24:58] [Netty Epoll Server IO #8/INFO]: <[Owner]Twiixtor> TER
+[22:25:06] [Server thread/INFO]: Twiixtor issued server command: /nick &cTwiixtor
+[22:25:16] [Server thread/INFO]: Twiixtor issued server command: /nick &2Twiixtor
+[22:25:19] [Server thread/INFO]: Twiixtor issued server command: /nick &3Twiixtor
+[22:25:23] [Server thread/INFO]: Twiixtor issued server command: /nick &4Twiixtor
+[22:25:23] [Server thread/INFO]: Popey456963 issued server command: /pex user Crustifer group set owner
+[22:25:26] [Server thread/INFO]: Twiixtor issued server command: /nick &5Twiixtor
+[22:25:29] [Server thread/INFO]: Twiixtor issued server command: /nick &6Twiixtor
+[22:25:33] [Server thread/INFO]: Twiixtor issued server command: /nick &7Twiixtor
+[22:25:36] [Server thread/INFO]: Twiixtor issued server command: /nick &8Twiixtor
+[22:25:37] [Server thread/INFO]: Popey456963 issued server command: /pex user Crustifer group set guest
+[22:25:38] [Server thread/INFO]: Twiixtor issued server command: /nick &1Twiixtor
+[22:25:40] [Netty Epoll Server IO #6/INFO]: <[Guest]Crustifer> rad
+[22:25:42] [Server thread/INFO]: Twiixtor issued server command: /nick &9Twiixtor
+[22:25:44] [Server thread/INFO]: Admins: [Owner]Popey456963, [Owner]~Twiixtor
+[22:25:44] [Server thread/INFO]: guest: [Guest]Crustifer
+[22:25:48] [Server thread/INFO]: Twiixtor issued server command: /nick &3Twiixtor
+[22:25:51] [Server thread/INFO]: Crustifer issued server command: /help
+[22:25:52] [Server thread/INFO]: Twiixtor issued server command: /nick &5Twiixtor
+[22:25:56] [Server thread/INFO]: Crustifer issued server command: /rules
+[22:26:01] [Server thread/INFO]: Crustifer issued server command: /rules
+[22:26:01] [Netty Epoll Server IO #8/INFO]: <[Owner]~Twiixtor> PINK
+[22:26:03] [Server thread/INFO]: Popey456963 issued server command: /motd
+[22:26:07] [Server thread/INFO]: Popey456963 issued server command: /help
+[22:26:09] [Server thread/INFO]: Crustifer issued server command: /helpop gay
+[22:26:09] [Server thread/INFO]: §4[HelpOp]§r §6§7[Guest]§fCrustifer§r:§r gay
+[22:26:11] [Server thread/INFO]: Twiixtor issued server command: /nick off
+[22:26:16] [Netty Epoll Server IO #8/INFO]: <[Owner]Twiixtor> Fak off
+[22:26:19] [Server thread/INFO]: Popey456963 issued server command: /helpop Test
+[22:26:19] [Server thread/INFO]: §4[HelpOp]§r §6§4[Owner]§fPopey456963§r:§r Test
+[22:26:23] [Server thread/INFO]: Twiixtor issued server command: /help
+[22:26:25] [Server thread/INFO]: Twiixtor issued server command: /helpop
+[22:26:29] [Server thread/INFO]: Twiixtor issued server command: /helpop FAK OFF
+[22:26:29] [Server thread/INFO]: §4[HelpOp]§r §6§4[Owner]§f§4Twiixtor§r:§r FAK OFF
+[22:26:31] [Server thread/INFO]: Admins: [Owner]Popey456963, [Owner]Twiixtor
+[22:26:31] [Server thread/INFO]: guest: [Guest]Crustifer
+[22:26:33] [Server thread/INFO]: Crustifer issued server command: /motd
+[22:26:37] [Netty Epoll Server IO #6/INFO]: <[Guest]Crustifer> afd
+[22:26:38] [Server thread/INFO]: Popey456963 issued server command: /msg Crust You fak off.
+[22:26:42] [Server thread/INFO]: Popey456963 issued server command: /pex user Crustifer group set membe
+[22:26:44] [Server thread/INFO]: Popey456963 issued server command: /pex user Crustifer group set member
+[22:26:57] [Netty Epoll Server IO #19/INFO]: <[Owner]Popey456963> ./pex user Crustifer group set member
+[22:27:05] [Server thread/INFO]: Twiixtor issued server command: /pex
+[22:27:07] [Server thread/INFO]: Twiixtor issued server command: /pex user
+[22:27:12] [Netty Epoll Server IO #6/INFO]: <[Member]Crustifer> as
+[22:27:16] [Server thread/INFO]: Popey456963 issued server command: /msg Crustifer &1test
+[22:27:16] [Server thread/INFO]: Twiixtor issued server command: /pex user
+[22:27:17] [Server thread/INFO]: Admins: [Owner]Popey456963, [Owner]Twiixtor
+[22:27:17] [Server thread/INFO]: member: [Member]Crustifer
+[22:27:19] [Server thread/INFO]: Twiixtor issued server command: /pex user Crustifer
+[22:27:20] [Server thread/INFO]: Crustifer issued server command: /afk
+[22:27:23] [Server thread/INFO]: Crustifer issued server command: /afk
+[22:27:28] [Server thread/INFO]: Crustifer issued server command: /ignore popey
+[22:27:34] [Server thread/INFO]: Crustifer issued server command: /info
+[22:27:37] [Server thread/INFO]: Popey456963 issued server command: /infop
+[22:27:38] [Server thread/INFO]: Popey456963 issued server command: /info
+[22:27:41] [Server thread/INFO]: Twiixtor issued server command: /info
+[22:27:42] [Server thread/INFO]: Crustifer issued server command: /gamemode 0
+[22:27:43] [Server thread/INFO]: Crustifer issued server command: /info
+[22:27:48] [Server thread/INFO]: Crustifer issued server command: /
+[22:27:52] [Server thread/INFO]: Twiixtor issued server command: /info
+[22:27:54] [Server thread/INFO]: Popey456963 issued server command: /gamemode 0 Crustifer
+[22:27:55] [Server thread/INFO]: Crustifer issued server command: /info
+[22:28:00] [Server thread/INFO]: Twiixtor issued server command: /powertool
+[22:28:04] [Server thread/INFO]: Admins: [Owner]Popey456963, [Owner]Twiixtor
+[22:28:04] [Server thread/INFO]: member: [Member]Crustifer
+[22:28:10] [Server thread/INFO]: Crustifer issued server command: /mail
+[22:28:12] [Server thread/INFO]: Popey456963 issued server command: /reload
+[22:28:12] [Server thread/INFO]: Popey456963: If you encounter any issues please use the /stop command to restart your server.
+[22:28:12] [Server thread/INFO]: [EssentialsProtect] Disabling EssentialsProtect vTeamCity
+[22:28:12] [Server thread/INFO]: [CraftBook] Disabling CraftBook v3.9-SNAPSHOT
+[22:28:12] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v6.1
+[22:28:12] [Server thread/INFO]: [WorldGuard] Shutting down executor and waiting for any pending tasks...
+[22:28:12] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn vTeamCity
+[22:28:12] [Server thread/INFO]: [VoxelSniper] Disabling VoxelSniper v7.1.0
+[22:28:12] [Server thread/INFO]: [Essentials] Disabling Essentials vTeamCity
+[22:28:12] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1;no_git_id
+[22:28:13] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1;no_git_id
+[22:28:13] [Server thread/INFO]: [Essentials] Loading Essentials vTeamCity
+[22:28:13] [Server thread/INFO]: [VoxelSniper] Loading VoxelSniper v7.1.0
+[22:28:13] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn vTeamCity
+[22:28:13] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v6.1
+[22:28:13] [Server thread/INFO]: [CraftBook] Loading CraftBook v3.9-SNAPSHOT
+[22:28:13] [Server thread/INFO]: [EssentialsProtect] Loading EssentialsProtect vTeamCity
+[22:28:13] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1;no_git_id
+[22:28:13] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_8_R3 as the Bukkit adapter
+[22:28:13] [Server thread/INFO]: [Essentials] Enabling Essentials vTeamCity
+[22:28:13] [Server thread/INFO]: git-Bukkit-9935adc (MC: 1.8.8)
+[22:28:13] [Server thread/INFO]: 1.8.8-R0.1-SNAPSHOT
+[22:28:13] [Server thread/INFO]: Using locale en_GB
+[22:28:13] [Server thread/INFO]: Using locale en_GB
+[22:28:13] [Server thread/INFO]: [VoxelSniper] Enabling VoxelSniper v7.1.0
+[22:28:13] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn vTeamCity
+[22:28:13] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v6.1
+[22:28:13] [Server thread/INFO]: [WorldGuard] (TEST) Lighters are PERMITTED.
+[22:28:13] [Server thread/INFO]: [WorldGuard] (TEST) Lava fire is blocked.
+[22:28:13] [Server thread/INFO]: [WorldGuard] (TEST) Fire spread is UNRESTRICTED.
+[22:28:13] [Server thread/INFO]: [WorldGuard] (TEST_nether) Lighters are PERMITTED.
+[22:28:13] [Server thread/INFO]: [WorldGuard] (TEST_nether) Lava fire is blocked.
+[22:28:13] [Server thread/INFO]: [WorldGuard] (TEST_nether) Fire spread is UNRESTRICTED.
+[22:28:13] [Server thread/INFO]: [WorldGuard] (TEST_the_end) Lighters are PERMITTED.
+[22:28:13] [Server thread/INFO]: [WorldGuard] (TEST_the_end) Lava fire is blocked.
+[22:28:13] [Server thread/INFO]: [WorldGuard] (TEST_the_end) Fire spread is UNRESTRICTED.
+[22:28:13] [Server thread/INFO]: [CraftBook] Enabling CraftBook v3.9-SNAPSHOT
+[22:28:13] [Server thread/INFO]: [CraftBook] Successfully added 1 CommandItems!
+[22:28:13] [Server thread/INFO]: [CraftBook] Registered 3 custom recipes!
+[22:28:13] [Server thread/INFO]: [CraftBook] 462 chunk(s) for 3 world(s) processed (4ms elapsed)
+[22:28:13] [Server thread/INFO]: [EssentialsProtect] Enabling EssentialsProtect vTeamCity
+[22:28:13] [Server thread/INFO]: Popey456963: Reload complete.
+[22:28:13] [Server thread/INFO]: Crustifer issued server command: /help
+[22:28:20] [Server thread/INFO]: Crustifer issued server command: /help
+[22:28:34] [Server thread/INFO]: [Server] <jakubbreszka@gmail.com (Twiixtor)> HOW DO I CHANGE MY NICKNAME IN CHAT MODE HALP
+[22:28:47] [Server thread/INFO]: Crustifer issued server command: /nick
+[22:28:50] [Server thread/INFO]: Admins: [Owner]Popey456963, [Owner]Twiixtor
+[22:28:50] [Server thread/INFO]: member: [Member]Crustifer
+[22:29:20] [Server thread/INFO]: Popey456963 issued server command: /reload
+[22:29:20] [Server thread/INFO]: Popey456963: If you encounter any issues please use the /stop command to restart your server.
+[22:29:20] [Server thread/INFO]: [EssentialsProtect] Disabling EssentialsProtect vTeamCity
+[22:29:20] [Server thread/INFO]: [CraftBook] Disabling CraftBook v3.9-SNAPSHOT
+[22:29:20] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v6.1
+[22:29:20] [Server thread/INFO]: [WorldGuard] Shutting down executor and waiting for any pending tasks...
+[22:29:20] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn vTeamCity
+[22:29:20] [Server thread/INFO]: [VoxelSniper] Disabling VoxelSniper v7.1.0
+[22:29:20] [Server thread/INFO]: [Essentials] Disabling Essentials vTeamCity
+[22:29:20] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1;no_git_id
+[22:29:20] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1;no_git_id
+[22:29:20] [Server thread/INFO]: [Essentials] Loading Essentials vTeamCity
+[22:29:20] [Server thread/INFO]: [VoxelSniper] Loading VoxelSniper v7.1.0
+[22:29:20] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn vTeamCity
+[22:29:20] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v6.1
+[22:29:20] [Server thread/INFO]: [CraftBook] Loading CraftBook v3.9-SNAPSHOT
+[22:29:20] [Server thread/INFO]: [EssentialsProtect] Loading EssentialsProtect vTeamCity
+[22:29:20] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1;no_git_id
+[22:29:20] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_8_R3 as the Bukkit adapter
+[22:29:20] [Server thread/INFO]: [Essentials] Enabling Essentials vTeamCity
+[22:29:20] [Server thread/INFO]: git-Bukkit-9935adc (MC: 1.8.8)
+[22:29:20] [Server thread/INFO]: 1.8.8-R0.1-SNAPSHOT
+[22:29:20] [Server thread/INFO]: Using locale en_GB
+[22:29:20] [Server thread/INFO]: Using locale en_GB
+[22:29:20] [Server thread/INFO]: [VoxelSniper] Enabling VoxelSniper v7.1.0
+[22:29:20] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn vTeamCity
+[22:29:20] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v6.1
+[22:29:20] [Server thread/INFO]: [WorldGuard] (TEST) Lighters are PERMITTED.
+[22:29:20] [Server thread/INFO]: [WorldGuard] (TEST) Lava fire is blocked.
+[22:29:20] [Server thread/INFO]: [WorldGuard] (TEST) Fire spread is UNRESTRICTED.
+[22:29:20] [Server thread/INFO]: [WorldGuard] (TEST_nether) Lighters are PERMITTED.
+[22:29:20] [Server thread/INFO]: [WorldGuard] (TEST_nether) Lava fire is blocked.
+[22:29:20] [Server thread/INFO]: [WorldGuard] (TEST_nether) Fire spread is UNRESTRICTED.
+[22:29:20] [Server thread/INFO]: [WorldGuard] (TEST_the_end) Lighters are PERMITTED.
+[22:29:20] [Server thread/INFO]: [WorldGuard] (TEST_the_end) Lava fire is blocked.
+[22:29:20] [Server thread/INFO]: [WorldGuard] (TEST_the_end) Fire spread is UNRESTRICTED.
+[22:29:20] [Server thread/INFO]: [CraftBook] Enabling CraftBook v3.9-SNAPSHOT
+[22:29:21] [Server thread/INFO]: [CraftBook] Successfully added 1 CommandItems!
+[22:29:21] [Server thread/INFO]: [CraftBook] Registered 3 custom recipes!
+[22:29:21] [Server thread/INFO]: [CraftBook] 482 chunk(s) for 3 world(s) processed (7ms elapsed)
+[22:29:21] [Server thread/INFO]: [EssentialsProtect] Enabling EssentialsProtect vTeamCity
+[22:29:21] [Server thread/INFO]: Popey456963: Reload complete.
+[22:29:27] [Netty Epoll Server IO #6/INFO]: <[Member]Crustifer> ad
+[22:29:29] [Server thread/INFO]: Crustifer issued server command: /help
+[22:29:30] [Server thread/INFO]: Twiixtor issued server command: /op
+[22:29:37] [Server thread/INFO]: Crustifer issued server command: /mail
+[22:29:37] [Server thread/INFO]: Admins: [Owner]Popey456963, [Owner]Twiixtor
+[22:29:37] [Server thread/INFO]: member: [Member]Crustifer
+[22:29:41] [Server thread/INFO]: Twiixtor issued server command: /i stick 1
+[22:29:41] [Server thread/INFO]: Popey456963 issued server command: /mail
+[22:29:43] [Server thread/INFO]: Twiixtor issued server command: /enchant
+[22:29:47] [Server thread/INFO]: Twiixtor issued server command: /enchant knockback 10
+[22:29:49] [Server thread/INFO]: Twiixtor issued server command: /enchant knockback 2
+[22:30:08] [Server thread/INFO]: Crustifer issued server command: /mail
+[22:30:22] [Server thread/INFO]: Crustifer fell from a high place
+[22:30:24] [Server thread/INFO]: Admins: [Owner]Popey456963, [Owner]Twiixtor
+[22:30:24] [Server thread/INFO]: member: [Member]Crustifer
+[22:30:55] [Server thread/INFO]: Popey456963 issued server command: /reload
+[22:30:55] [Server thread/INFO]: Popey456963: If you encounter any issues please use the /stop command to restart your server.
+[22:30:55] [Server thread/INFO]: [EssentialsProtect] Disabling EssentialsProtect vTeamCity
+[22:30:55] [Server thread/INFO]: [CraftBook] Disabling CraftBook v3.9-SNAPSHOT
+[22:30:55] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v6.1
+[22:30:55] [Server thread/INFO]: [WorldGuard] Shutting down executor and waiting for any pending tasks...
+[22:30:55] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn vTeamCity
+[22:30:55] [Server thread/INFO]: [VoxelSniper] Disabling VoxelSniper v7.1.0
+[22:30:55] [Server thread/INFO]: [Essentials] Disabling Essentials vTeamCity
+[22:30:55] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1;no_git_id
+[22:30:55] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1;no_git_id
+[22:30:55] [Server thread/INFO]: [Essentials] Loading Essentials vTeamCity
+[22:30:55] [Server thread/INFO]: [VoxelSniper] Loading VoxelSniper v7.1.0
+[22:30:55] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn vTeamCity
+[22:30:55] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v6.1
+[22:30:55] [Server thread/INFO]: [CraftBook] Loading CraftBook v3.9-SNAPSHOT
+[22:30:55] [Server thread/INFO]: [EssentialsProtect] Loading EssentialsProtect vTeamCity
+[22:30:55] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1;no_git_id
+[22:30:55] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_8_R3 as the Bukkit adapter
+[22:30:55] [Server thread/INFO]: [Essentials] Enabling Essentials vTeamCity
+[22:30:55] [Server thread/INFO]: git-Bukkit-9935adc (MC: 1.8.8)
+[22:30:55] [Server thread/INFO]: 1.8.8-R0.1-SNAPSHOT
+[22:30:55] [Server thread/INFO]: Using locale en_GB
+[22:30:55] [Server thread/INFO]: Using locale en_GB
+[22:30:55] [Server thread/INFO]: [VoxelSniper] Enabling VoxelSniper v7.1.0
+[22:30:56] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn vTeamCity
+[22:30:56] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v6.1
+[22:30:56] [Server thread/INFO]: [WorldGuard] (TEST) Lighters are PERMITTED.
+[22:30:56] [Server thread/INFO]: [WorldGuard] (TEST) Lava fire is blocked.
+[22:30:56] [Server thread/INFO]: [WorldGuard] (TEST) Fire spread is UNRESTRICTED.
+[22:30:56] [Server thread/INFO]: [WorldGuard] (TEST_nether) Lighters are PERMITTED.
+[22:30:56] [Server thread/INFO]: [WorldGuard] (TEST_nether) Lava fire is blocked.
+[22:30:56] [Server thread/INFO]: [WorldGuard] (TEST_nether) Fire spread is UNRESTRICTED.
+[22:30:56] [Server thread/INFO]: [WorldGuard] (TEST_the_end) Lighters are PERMITTED.
+[22:30:56] [Server thread/INFO]: [WorldGuard] (TEST_the_end) Lava fire is blocked.
+[22:30:56] [Server thread/INFO]: [WorldGuard] (TEST_the_end) Fire spread is UNRESTRICTED.
+[22:30:56] [Server thread/INFO]: [CraftBook] Enabling CraftBook v3.9-SNAPSHOT
+[22:30:56] [Server thread/INFO]: [CraftBook] Successfully added 1 CommandItems!
+[22:30:56] [Server thread/INFO]: [CraftBook] Registered 3 custom recipes!
+[22:30:56] [Server thread/INFO]: [CraftBook] 483 chunk(s) for 3 world(s) processed (5ms elapsed)
+[22:30:56] [Server thread/INFO]: [EssentialsProtect] Enabling EssentialsProtect vTeamCity
+[22:30:56] [Server thread/INFO]: Popey456963: Reload complete.
+[22:30:59] [Server thread/INFO]: Crustifer issued server command: /mail
+[22:31:02] [Server thread/INFO]: Crustifer fell from a high place
+[22:31:10] [Server thread/INFO]: Admins: [Owner]Popey456963, [Owner]Twiixtor
+[22:31:10] [Server thread/INFO]: member: [Member]Crustifer
+[22:31:34] [Server thread/INFO]: Crustifer fell from a high place
+[22:31:39] [Server thread/INFO]: Crustifer issued server command: /msg
+[22:31:41] [Server thread/INFO]: Popey456963 issued server command: /reload
+[22:31:41] [Server thread/INFO]: Popey456963: If you encounter any issues please use the /stop command to restart your server.
+[22:31:41] [Server thread/INFO]: [EssentialsProtect] Disabling EssentialsProtect vTeamCity
+[22:31:41] [Server thread/INFO]: [CraftBook] Disabling CraftBook v3.9-SNAPSHOT
+[22:31:41] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v6.1
+[22:31:41] [Server thread/INFO]: [WorldGuard] Shutting down executor and waiting for any pending tasks...
+[22:31:41] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn vTeamCity
+[22:31:41] [Server thread/INFO]: [VoxelSniper] Disabling VoxelSniper v7.1.0
+[22:31:41] [Server thread/INFO]: [Essentials] Disabling Essentials vTeamCity
+[22:31:41] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1;no_git_id
+[22:31:41] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1;no_git_id
+[22:31:41] [Server thread/INFO]: [Essentials] Loading Essentials vTeamCity
+[22:31:41] [Server thread/INFO]: [VoxelSniper] Loading VoxelSniper v7.1.0
+[22:31:41] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn vTeamCity
+[22:31:41] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v6.1
+[22:31:41] [Server thread/INFO]: [CraftBook] Loading CraftBook v3.9-SNAPSHOT
+[22:31:41] [Server thread/INFO]: [EssentialsProtect] Loading EssentialsProtect vTeamCity
+[22:31:41] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1;no_git_id
+[22:31:41] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_8_R3 as the Bukkit adapter
+[22:31:41] [Server thread/INFO]: [Essentials] Enabling Essentials vTeamCity
+[22:31:41] [Server thread/INFO]: git-Bukkit-9935adc (MC: 1.8.8)
+[22:31:41] [Server thread/INFO]: 1.8.8-R0.1-SNAPSHOT
+[22:31:41] [Server thread/INFO]: Using locale en_GB
+[22:31:41] [Server thread/INFO]: Using locale en_GB
+[22:31:41] [Server thread/INFO]: [VoxelSniper] Enabling VoxelSniper v7.1.0
+[22:31:42] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn vTeamCity
+[22:31:42] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v6.1
+[22:31:42] [Server thread/INFO]: [WorldGuard] (TEST) Lighters are PERMITTED.
+[22:31:42] [Server thread/INFO]: [WorldGuard] (TEST) Lava fire is blocked.
+[22:31:42] [Server thread/INFO]: [WorldGuard] (TEST) Fire spread is UNRESTRICTED.
+[22:31:42] [Server thread/INFO]: [WorldGuard] (TEST_nether) Lighters are PERMITTED.
+[22:31:42] [Server thread/INFO]: [WorldGuard] (TEST_nether) Lava fire is blocked.
+[22:31:42] [Server thread/INFO]: [WorldGuard] (TEST_nether) Fire spread is UNRESTRICTED.
+[22:31:42] [Server thread/INFO]: [WorldGuard] (TEST_the_end) Lighters are PERMITTED.
+[22:31:42] [Server thread/INFO]: [WorldGuard] (TEST_the_end) Lava fire is blocked.
+[22:31:42] [Server thread/INFO]: [WorldGuard] (TEST_the_end) Fire spread is UNRESTRICTED.
+[22:31:42] [Server thread/INFO]: [CraftBook] Enabling CraftBook v3.9-SNAPSHOT
+[22:31:42] [Server thread/INFO]: [CraftBook] Successfully added 1 CommandItems!
+[22:31:42] [Server thread/INFO]: [CraftBook] Registered 3 custom recipes!
+[22:31:42] [Server thread/INFO]: [CraftBook] 483 chunk(s) for 3 world(s) processed (5ms elapsed)
+[22:31:42] [Server thread/INFO]: [EssentialsProtect] Enabling EssentialsProtect vTeamCity
+[22:31:42] [Server thread/INFO]: Popey456963: Reload complete.
+[22:31:42] [Server thread/INFO]: Crustifer issued server command: /msg
+[22:31:45] [Server thread/INFO]: Crustifer issued server command: /msg popey gay
+[22:31:50] [Server thread/INFO]: Crustifer issued server command: /nick
+[22:31:52] [Server thread/INFO]: Crustifer issued server command: /nick memelord
+[22:31:52] [Server thread/INFO]: Popey456963 issued server command: /nick
+[22:31:55] [Server thread/INFO]: Crustifer issued server command: /whois memelord
+[22:31:57] [Server thread/INFO]: Admins: [Owner]Popey456963, [Owner]Twiixtor
+[22:31:57] [Server thread/INFO]: member: [Member]~memelord
+[22:32:01] [Server thread/INFO]: Popey456963 issued server command: /whois me
+[22:32:14] [Server thread/INFO]: Crustifer issued server command: /whois popey
+[22:32:23] [Server thread/INFO]: Twiixtor issued server command: /whois Twiixtor
+[22:32:29] [Server thread/INFO]: Crustifer issued server command: /whois
+[22:32:35] [Server thread/INFO]: Twiixtor issued server command: /whois Crustifer
+[22:32:36] [Server thread/INFO]: Crustifer issued server command: /whois
+[22:32:43] [Server thread/INFO]: Admins: [Owner]Popey456963, [Owner]Twiixtor
+[22:32:43] [Server thread/INFO]: member: [Member]~memelord
+[22:32:54] [Server thread/INFO]: Crustifer issued server command: /whois
+[22:32:56] [Server thread/INFO]: Popey456963 issued server command: /gamemode 1 Crustifer
+[22:32:56] [Server thread/INFO]: Crustifer issued server command: /whois
+[22:32:56] [Server thread/INFO]: Twiixtor issued server command: /gm
+[22:32:59] [Server thread/INFO]: Twiixtor issued server command: /gm 1 Crustifer
+[22:32:59] [Server thread/INFO]: Popey456963 issued server command: /whois
+[22:33:02] [Server thread/INFO]: Twiixtor issued server command: /top
+[22:33:30] [Server thread/INFO]: Admins: [Owner]Popey456963, [Owner]Twiixtor
+[22:33:30] [Server thread/INFO]: member: [Member]~memelord
+[22:34:03] [Server thread/INFO]: Twiixtor issued server command: /reload
+[22:34:03] [Server thread/INFO]: Twiixtor: If you encounter any issues please use the /stop command to restart your server.
+[22:34:03] [Server thread/INFO]: [EssentialsProtect] Disabling EssentialsProtect vTeamCity
+[22:34:03] [Server thread/INFO]: [CraftBook] Disabling CraftBook v3.9-SNAPSHOT
+[22:34:03] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v6.1
+[22:34:03] [Server thread/INFO]: [WorldGuard] Shutting down executor and waiting for any pending tasks...
+[22:34:03] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn vTeamCity
+[22:34:03] [Server thread/INFO]: [VoxelSniper] Disabling VoxelSniper v7.1.0
+[22:34:03] [Server thread/INFO]: [Essentials] Disabling Essentials vTeamCity
+[22:34:03] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1;no_git_id
+[22:34:03] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1;no_git_id
+[22:34:03] [Server thread/INFO]: [Essentials] Loading Essentials vTeamCity
+[22:34:03] [Server thread/INFO]: [VoxelSniper] Loading VoxelSniper v7.1.0
+[22:34:03] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn vTeamCity
+[22:34:03] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v6.1
+[22:34:03] [Server thread/INFO]: [CraftBook] Loading CraftBook v3.9-SNAPSHOT
+[22:34:03] [Server thread/INFO]: [EssentialsProtect] Loading EssentialsProtect vTeamCity
+[22:34:03] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1;no_git_id
+[22:34:03] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_8_R3 as the Bukkit adapter
+[22:34:03] [Server thread/INFO]: [Essentials] Enabling Essentials vTeamCity
+[22:34:03] [Server thread/INFO]: git-Bukkit-9935adc (MC: 1.8.8)
+[22:34:03] [Server thread/INFO]: 1.8.8-R0.1-SNAPSHOT
+[22:34:03] [Server thread/INFO]: Using locale en_GB
+[22:34:04] [Server thread/INFO]: Using locale en_GB
+[22:34:04] [Server thread/INFO]: [VoxelSniper] Enabling VoxelSniper v7.1.0
+[22:34:04] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn vTeamCity
+[22:34:04] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v6.1
+[22:34:04] [Server thread/INFO]: [WorldGuard] (TEST) Lighters are PERMITTED.
+[22:34:04] [Server thread/INFO]: [WorldGuard] (TEST) Lava fire is blocked.
+[22:34:04] [Server thread/INFO]: [WorldGuard] (TEST) Fire spread is UNRESTRICTED.
+[22:34:04] [Server thread/INFO]: [WorldGuard] (TEST_nether) Lighters are PERMITTED.
+[22:34:04] [Server thread/INFO]: [WorldGuard] (TEST_nether) Lava fire is blocked.
+[22:34:04] [Server thread/INFO]: [WorldGuard] (TEST_nether) Fire spread is UNRESTRICTED.
+[22:34:04] [Server thread/INFO]: [WorldGuard] (TEST_the_end) Lighters are PERMITTED.
+[22:34:04] [Server thread/INFO]: [WorldGuard] (TEST_the_end) Lava fire is blocked.
+[22:34:04] [Server thread/INFO]: [WorldGuard] (TEST_the_end) Fire spread is UNRESTRICTED.
+[22:34:04] [Server thread/INFO]: [CraftBook] Enabling CraftBook v3.9-SNAPSHOT
+[22:34:04] [Server thread/INFO]: [CraftBook] Successfully added 1 CommandItems!
+[22:34:04] [Server thread/INFO]: [CraftBook] Registered 3 custom recipes!
+[22:34:04] [Server thread/INFO]: [CraftBook] 462 chunk(s) for 3 world(s) processed (6ms elapsed)
+[22:34:04] [Server thread/INFO]: [EssentialsProtect] Enabling EssentialsProtect vTeamCity
+[22:34:04] [Server thread/INFO]: Twiixtor: Reload complete.
+[22:34:09] [Server thread/INFO]: Twiixtor issued server command: /enchant
+[22:34:12] [Server thread/INFO]: Twiixtor issued server command: /enchant knockback 10
+[22:34:16] [Server thread/INFO]: Admins: [Owner]Popey456963, [Owner]Twiixtor
+[22:34:16] [Server thread/INFO]: member: [Member]~memelord
+[22:34:21] [Server thread/INFO]: Twiixtor issued server command: /gm crust 0
+[22:34:24] [Server thread/INFO]: Popey456963 issued server command: /reload
+[22:34:24] [Server thread/INFO]: Popey456963: If you encounter any issues please use the /stop command to restart your server.
+[22:34:24] [Server thread/INFO]: [EssentialsProtect] Disabling EssentialsProtect vTeamCity
+[22:34:24] [Server thread/INFO]: [CraftBook] Disabling CraftBook v3.9-SNAPSHOT
+[22:34:24] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v6.1
+[22:34:24] [Server thread/INFO]: [WorldGuard] Shutting down executor and waiting for any pending tasks...
+[22:34:24] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn vTeamCity
+[22:34:24] [Server thread/INFO]: [VoxelSniper] Disabling VoxelSniper v7.1.0
+[22:34:24] [Server thread/INFO]: [Essentials] Disabling Essentials vTeamCity
+[22:34:24] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1;no_git_id
+[22:34:24] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1;no_git_id
+[22:34:24] [Server thread/INFO]: [Essentials] Loading Essentials vTeamCity
+[22:34:24] [Server thread/INFO]: [VoxelSniper] Loading VoxelSniper v7.1.0
+[22:34:24] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn vTeamCity
+[22:34:24] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v6.1
+[22:34:24] [Server thread/INFO]: [CraftBook] Loading CraftBook v3.9-SNAPSHOT
+[22:34:24] [Server thread/INFO]: [EssentialsProtect] Loading EssentialsProtect vTeamCity
+[22:34:24] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1;no_git_id
+[22:34:24] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_8_R3 as the Bukkit adapter
+[22:34:24] [Server thread/INFO]: [Essentials] Enabling Essentials vTeamCity
+[22:34:24] [Server thread/INFO]: git-Bukkit-9935adc (MC: 1.8.8)
+[22:34:24] [Server thread/INFO]: 1.8.8-R0.1-SNAPSHOT
+[22:34:24] [Server thread/INFO]: Using locale en_GB
+[22:34:24] [Server thread/INFO]: Using locale en_GB
+[22:34:24] [Server thread/INFO]: [VoxelSniper] Enabling VoxelSniper v7.1.0
+[22:34:24] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn vTeamCity
+[22:34:24] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v6.1
+[22:34:24] [Server thread/INFO]: [WorldGuard] (TEST) Lighters are PERMITTED.
+[22:34:24] [Server thread/INFO]: [WorldGuard] (TEST) Lava fire is blocked.
+[22:34:24] [Server thread/INFO]: [WorldGuard] (TEST) Fire spread is UNRESTRICTED.
+[22:34:24] [Server thread/INFO]: [WorldGuard] (TEST_nether) Lighters are PERMITTED.
+[22:34:24] [Server thread/INFO]: [WorldGuard] (TEST_nether) Lava fire is blocked.
+[22:34:24] [Server thread/INFO]: [WorldGuard] (TEST_nether) Fire spread is UNRESTRICTED.
+[22:34:24] [Server thread/INFO]: [WorldGuard] (TEST_the_end) Lighters are PERMITTED.
+[22:34:24] [Server thread/INFO]: [WorldGuard] (TEST_the_end) Lava fire is blocked.
+[22:34:24] [Server thread/INFO]: [WorldGuard] (TEST_the_end) Fire spread is UNRESTRICTED.
+[22:34:24] [Server thread/INFO]: [CraftBook] Enabling CraftBook v3.9-SNAPSHOT
+[22:34:24] [Server thread/INFO]: [CraftBook] Successfully added 1 CommandItems!
+[22:34:24] [Server thread/INFO]: [CraftBook] Registered 3 custom recipes!
+[22:34:25] [Server thread/INFO]: [CraftBook] 483 chunk(s) for 3 world(s) processed (7ms elapsed)
+[22:34:25] [Server thread/INFO]: [EssentialsProtect] Enabling EssentialsProtect vTeamCity
+[22:34:25] [Server thread/INFO]: Popey456963: Reload complete.
+[22:34:26] [Server thread/INFO]: Twiixtor issued server command: /gm 0 Crustifer
+[22:34:27] [Server thread/INFO]: Popey456963 issued server command: /whois Crustifer
+[22:34:34] [Server thread/INFO]: Twiixtor issued server command: /enchant knockback 20
+[22:34:48] [Server thread/INFO]: Crustifer issued server command: /whois
+[22:34:49] [Server thread/INFO]: Crustifer fell from a high place
+[22:34:55] [Server thread/INFO]: Twiixtor issued server command: /enchant knockback 100
+[22:34:59] [Server thread/INFO]: Crustifer fell from a high place
+[22:34:59] [Server thread/INFO]: Popey456963 issued server command: /gamemode 0
+[22:35:02] [Server thread/INFO]: Popey456963 fell from a high place
+[22:35:03] [Server thread/INFO]: Admins: [Owner]Popey456963, [Owner]Twiixtor
+[22:35:03] [Server thread/INFO]: member: [Member]~memelord
+[22:35:04] [Server thread/INFO]: Crustifer issued server command: /whois popey
+[22:35:10] [Server thread/INFO]: Popey456963 fell from a high place
+[22:35:12] [Server thread/INFO]: Crustifer fell from a high place
+[22:35:20] [Server thread/INFO]: Twiixtor issued server command: /gm 0
+[22:35:26] [Server thread/INFO]: Popey456963 issued server command: /reload
+[22:35:26] [Server thread/INFO]: Popey456963: If you encounter any issues please use the /stop command to restart your server.
+[22:35:26] [Server thread/INFO]: [EssentialsProtect] Disabling EssentialsProtect vTeamCity
+[22:35:26] [Server thread/INFO]: [CraftBook] Disabling CraftBook v3.9-SNAPSHOT
+[22:35:26] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v6.1
+[22:35:26] [Server thread/INFO]: [WorldGuard] Shutting down executor and waiting for any pending tasks...
+[22:35:26] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn vTeamCity
+[22:35:26] [Server thread/INFO]: [VoxelSniper] Disabling VoxelSniper v7.1.0
+[22:35:26] [Server thread/INFO]: [Essentials] Disabling Essentials vTeamCity
+[22:35:26] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1;no_git_id
+[22:35:26] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1;no_git_id
+[22:35:26] [Server thread/INFO]: [Essentials] Loading Essentials vTeamCity
+[22:35:26] [Server thread/INFO]: [VoxelSniper] Loading VoxelSniper v7.1.0
+[22:35:26] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn vTeamCity
+[22:35:26] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v6.1
+[22:35:26] [Server thread/INFO]: [CraftBook] Loading CraftBook v3.9-SNAPSHOT
+[22:35:26] [Server thread/INFO]: [EssentialsProtect] Loading EssentialsProtect vTeamCity
+[22:35:26] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1;no_git_id
+[22:35:26] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_8_R3 as the Bukkit adapter
+[22:35:26] [Server thread/INFO]: [Essentials] Enabling Essentials vTeamCity
+[22:35:26] [Server thread/INFO]: git-Bukkit-9935adc (MC: 1.8.8)
+[22:35:26] [Server thread/INFO]: 1.8.8-R0.1-SNAPSHOT
+[22:35:26] [Server thread/INFO]: Using locale en_GB
+[22:35:26] [Server thread/INFO]: Using locale en_GB
+[22:35:26] [Server thread/INFO]: [VoxelSniper] Enabling VoxelSniper v7.1.0
+[22:35:26] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn vTeamCity
+[22:35:26] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v6.1
+[22:35:26] [Server thread/INFO]: [WorldGuard] (TEST) Lighters are PERMITTED.
+[22:35:26] [Server thread/INFO]: [WorldGuard] (TEST) Lava fire is blocked.
+[22:35:26] [Server thread/INFO]: [WorldGuard] (TEST) Fire spread is UNRESTRICTED.
+[22:35:26] [Server thread/INFO]: [WorldGuard] (TEST_nether) Lighters are PERMITTED.
+[22:35:26] [Server thread/INFO]: [WorldGuard] (TEST_nether) Lava fire is blocked.
+[22:35:26] [Server thread/INFO]: [WorldGuard] (TEST_nether) Fire spread is UNRESTRICTED.
+[22:35:26] [Server thread/INFO]: [WorldGuard] (TEST_the_end) Lighters are PERMITTED.
+[22:35:26] [Server thread/INFO]: [WorldGuard] (TEST_the_end) Lava fire is blocked.
+[22:35:26] [Server thread/INFO]: [WorldGuard] (TEST_the_end) Fire spread is UNRESTRICTED.
+[22:35:26] [Server thread/INFO]: [CraftBook] Enabling CraftBook v3.9-SNAPSHOT
+[22:35:27] [Server thread/INFO]: [CraftBook] Successfully added 1 CommandItems!
+[22:35:27] [Server thread/INFO]: [CraftBook] Registered 3 custom recipes!
+[22:35:27] [Server thread/INFO]: [CraftBook] 462 chunk(s) for 3 world(s) processed (5ms elapsed)
+[22:35:27] [Server thread/INFO]: [EssentialsProtect] Enabling EssentialsProtect vTeamCity
+[22:35:27] [Server thread/INFO]: Popey456963: Reload complete.
+[22:35:36] [Server thread/INFO]: Twiixtor issued server command: /setspawn
+[22:35:37] [Server thread/INFO]: Popey456963 issued server command: /whois
+[22:35:42] [Server thread/INFO]: Twiixtor issued server command: /whois
+[22:35:43] [Server thread/INFO]: Crustifer issued server command: /whois
+[22:35:45] [Server thread/INFO]: Twiixtor issued server command: /whois Popey456963
+[22:35:49] [Server thread/INFO]: Admins: [Owner]Popey456963, [Owner]Twiixtor
+[22:35:49] [Server thread/INFO]: member: [Member]~memelord
+[22:35:53] [Server thread/INFO]: Twiixtor issued server command: /ci
+[22:36:06] [Netty Epoll Server IO #6/INFO]: <[Member]~memelord> ad
+[22:36:08] [Server thread/INFO]: Popey456963 issued server command: /pex user Crustifer group set owner
+[22:36:08] [Server thread/INFO]: Twiixtor issued server command: /gm 1
+[22:36:12] [Netty Epoll Server IO #6/INFO]: <[Owner]~memelord> ad
+[22:36:17] [Server thread/INFO]: Crustifer issued server command: /pex help
+[22:36:20] [Server thread/INFO]: Crustifer issued server command: /gamemode 1
+[22:36:22] [Server thread/INFO]: Crustifer issued server command: /
+[22:36:28] [Server thread/INFO]: Crustifer issued server command: /help pex
+[22:36:31] [Server thread/INFO]: Crustifer issued server command: /plugins
+[22:36:32] [Server thread/INFO]: Crustifer issued server command: /pex
+[22:36:33] [Server thread/INFO]: Popey456963 issued server command: /chickentornado
+[22:36:36] [Server thread/INFO]: Admins: [Owner]Popey456963, [Owner]Twiixtor, [Owner]~memelord
+[22:36:38] [Server thread/INFO]: Popey456963 issued server command: /gamemode 1
+[22:36:51] [Server thread/INFO]: Crustifer issued server command: /fireball
+[22:37:10] [Server thread/INFO]: Popey456963 issued server command: /killall
+[22:37:16] [Server thread/INFO]: Popey456963 issued server command: /killall chickens
+[22:37:22] [Server thread/INFO]: Popey456963 issued server command: /killall mobs
+[22:37:23] [Server thread/INFO]: Admins: [Owner]Popey456963, [Owner]Twiixtor, [Owner]~memelord
+[22:37:55] [Server thread/INFO]: Twiixtor issued server command: /smite
+[22:38:04] [Server thread/INFO]: Twiixtor issued server command: /powertool smite
+[22:38:05] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:38:07] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:38:07] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:38:07] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:38:07] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:38:07] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:38:07] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:38:08] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:38:08] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:38:08] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:38:08] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:38:08] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:38:08] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:38:08] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:38:09] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:38:09] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:38:09] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:38:09] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:38:09] [Server thread/INFO]: Admins: [Owner]Popey456963, [Owner]Twiixtor, [Owner]~memelord
+[22:38:09] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:38:09] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:38:10] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:38:10] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:38:10] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:38:10] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:38:10] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:38:10] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:38:11] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:38:11] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:38:11] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:38:11] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:38:11] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:38:11] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:38:12] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:38:12] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:38:12] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:38:12] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:38:12] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:38:12] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:38:13] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:38:14] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:38:15] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:38:16] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:38:16] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:38:18] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:38:19] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:38:19] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:38:20] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:38:27] [Server thread/INFO]: Twiixtor issued server command: /powertool
+[22:38:53] [Server thread/INFO]: Twiixtor issued server command: /i snowball 64
+[22:38:56] [Server thread/INFO]: Admins: [Owner]Popey456963, [Owner]Twiixtor, [Owner]~memelord
+[22:38:58] [Server thread/INFO]: Twiixtor issued server command: /enchant knockback 1000
+[22:39:12] [Server thread/INFO]: Twiixtor issued server command: /gm 0
+[22:39:22] [Server thread/INFO]: Twiixtor issued server command: /gm 0 Popey456963
+[22:39:26] [Server thread/INFO]: Popey456963 fell from a high place
+[22:39:33] [Server thread/INFO]: Crustifer issued server command: /pex group member add essentials.signs.color
+[22:39:42] [Server thread/INFO]: Admins: [Owner]Popey456963, [Owner]Twiixtor, [Owner]~memelord
+[22:39:45] [Server thread/INFO]: Popey456963 fell from a high place
+[22:39:51] [Netty Epoll Server IO #19/INFO]: <[Owner]Popey456963> Test
+[22:39:57] [Server thread/INFO]: Twiixtor fell from a high place
+[22:40:05] [Server thread/INFO]: Popey456963 fell from a high place
+[22:40:13] [Server thread/INFO]: Popey456963 fell from a high place
+[22:40:16] [Server thread/INFO]: Crustifer issued server command: /pex user Popey456963 group member
+[22:40:24] [Server thread/INFO]: Crustifer issued server command: /pex help
+[22:40:27] [Server thread/INFO]: Crustifer issued server command: /pex user
+[22:40:28] [Server thread/INFO]: Popey456963 fell from a high place
+[22:40:29] [Server thread/INFO]: Twiixtor issued server command: /i bow 1
+[22:40:29] [Server thread/INFO]: Admins: [Owner]Popey456963, [Owner]Twiixtor, [Owner]~memelord
+[22:40:31] [Server thread/INFO]: Twiixtor issued server command: /i arrow 1
+[22:40:35] [Server thread/INFO]: Twiixtor issued server command: /enchant infinity 1
+[22:40:38] [Server thread/INFO]: Twiixtor issued server command: /enchant knockback 1000
+[22:40:41] [Server thread/INFO]: Popey456963 issued server command: /pex user Popey456963 group set member
+[22:40:42] [Netty Epoll Server IO #19/INFO]: <[Member]Popey456963> Test
+[22:40:53] [Server thread/INFO]: Twiixtor issued server command: /i sign 1
+[22:40:56] [Server thread/INFO]: Twiixtor fell from a high place
+[22:41:05] [Server thread/INFO]: Twiixtor issued server command: /god
+[22:41:11] [Server thread/INFO]: Twiixtor issued server command: /top
+[22:41:14] [Server thread/INFO]: Twiixtor issued server command: /top
+[22:41:15] [Server thread/INFO]: Admins: [Owner]Twiixtor, [Owner]~memelord
+[22:41:15] [Server thread/INFO]: member: [Member]Popey456963
+[22:41:31] [Server thread/INFO]: Crustifer issued server command: /realname
+[22:42:02] [Server thread/INFO]: Popey456963 issued server command: /antioch
+[22:42:02] [Server thread/INFO]: Admins: [Owner]Twiixtor, [Owner]~memelord
+[22:42:02] [Server thread/INFO]: member: [Member]Popey456963
+[22:42:04] [Server thread/INFO]: Twiixtor issued server command: /anti
+[22:42:06] [Server thread/INFO]: Twiixtor issued server command: /antiafk
+[22:42:08] [Netty Epoll Server IO #19/INFO]: <[Member]Popey456963> ./antioch
+[22:42:11] [Server thread/INFO]: Twiixtor issued server command: /antioch
+[22:42:27] [Server thread/INFO]: Popey456963 was shot by Twiixtor
+[22:42:33] [Server thread/INFO]: Crustifer issued server command: /ban marc
+[22:42:33] [Server thread/INFO]: marcgdoyle left the game.
+[22:42:33] [Server thread/INFO]: §6Player§c §4[Owner]§f~memelord§r §6banned§c marcgdoyle §6for: §c§cYou have been banned:
+[22:42:39] [Server thread/INFO]: Crustifer issued server command: /unban marc
+[22:42:44] [Server thread/INFO]: Crustifer issued server command: /unban marcgdoyle
+[22:42:44] [Server thread/INFO]: §6Player§c §4[Owner]§f~memelord§r §6unbanned§c marcgdoyle.
+[22:42:48] [Server thread/INFO]: Twiixtor issued server command: /enchant knockback 100
+[22:42:49] [Server thread/INFO]: Admins: [Owner]Twiixtor, [Owner]~memelord
+[22:42:49] [Server thread/INFO]: guest: [Guest]marcgdoyle
+[22:42:49] [Server thread/INFO]: member: [Member]Popey456963
+[22:42:49] [Server thread/INFO]: [PT] Twiixtor issued server command: /fireball
+[22:42:49] [Server thread/INFO]: [PT] Twiixtor issued server command: /fireball
+[22:42:51] [Server thread/INFO]: Popey456963 fell from a high place
+[22:42:56] [Server thread/INFO]: Popey456963 issued server command: /realname
+[22:43:00] [Server thread/INFO]: Crustifer issued server command: /fly
+[22:43:01] [Server thread/INFO]: Crustifer issued server command: /fly
+[22:43:01] [Server thread/INFO]: Twiixtor issued server command: /fly marcgdoyle
+[22:43:02] [Server thread/INFO]: Popey456963 issued server command: /realname Crustifer
+[22:43:05] [Server thread/INFO]: Crustifer issued server command: /fly marcgdoyle
+[22:43:06] [Server thread/INFO]: marcgdoyle fell from a high place
+[22:43:12] [Server thread/INFO]: Twiixtor issued server command: /fly marcgdoyle
+[22:43:12] [Server thread/INFO]: Crustifer issued server command: /fly marcgdoyle
+[22:43:16] [Server thread/INFO]: Popey456963 issued server command: /realname memelord
+[22:43:20] [Server thread/INFO]: [PT] Twiixtor issued server command: /fireball
+[22:43:22] [Server thread/INFO]: [PT] Twiixtor issued server command: /fireball
+[22:43:22] [Server thread/INFO]: [PT] Twiixtor issued server command: /fireball
+[22:43:23] [Server thread/INFO]: marcgdoyle fell from a high place
+[22:43:23] [Server thread/INFO]: [PT] Twiixtor issued server command: /fireball
+[22:43:23] [Server thread/INFO]: Popey456963 issued server command: /whois Crustifer
+[22:43:24] [Server thread/INFO]: [PT] Twiixtor issued server command: /fireball
+[22:43:24] [Server thread/INFO]: [PT] Twiixtor issued server command: /fireball
+[22:43:24] [Server thread/INFO]: [PT] Twiixtor issued server command: /fireball
+[22:43:28] [Server thread/INFO]: [PT] Twiixtor issued server command: /fireball
+[22:43:28] [Server thread/INFO]: [PT] Twiixtor issued server command: /fireball
+[22:43:28] [Server thread/INFO]: [PT] Twiixtor issued server command: /fireball
+[22:43:28] [Server thread/INFO]: Popey456963 issued server command: /suicide
+[22:43:28] [Server thread/INFO]: Popey456963 died
+[22:43:28] [Server thread/INFO]: [PT] Twiixtor issued server command: /fireball
+[22:43:32] [Server thread/INFO]: [PT] Twiixtor issued server command: /fireball
+[22:43:34] [Server thread/INFO]: marcgdoyle fell from a high place
+[22:43:35] [Server thread/INFO]: Admins: [Owner]Twiixtor, [Owner]~memelord
+[22:43:35] [Server thread/INFO]: guest: [Guest]marcgdoyle
+[22:43:35] [Server thread/INFO]: member: [Member]Popey456963
+[22:43:35] [Server thread/INFO]: Twiixtor issued server command: /powertool
+[22:43:38] [Server thread/INFO]: Popey456963 issued server command: /spawn
+[22:43:40] [Server thread/INFO]: Twiixtor issued server command: /spawn
+[22:43:43] [Server thread/INFO]: Twiixtor issued server command: /ci
+[22:43:43] [Server thread/INFO]: Popey456963 issued server command: /clearinv
+[22:43:46] [Server thread/INFO]: marcgdoyle issued server command: /spawn
+[22:43:47] [Server thread/INFO]: Twiixtor issued server command: /powertool
+[22:43:47] [Server thread/INFO]: Crustifer issued server command: /home bed
+[22:43:47] [Server thread/INFO]: Popey456963 issued server command: /clearinventory
+[22:43:49] [Server thread/INFO]: Crustifer issued server command: /home bed
+[22:43:52] [Server thread/INFO]: Twiixtor issued server command: /disablepowertool
+[22:43:53] [Server thread/INFO]: Crustifer issued server command: /time night
+[22:43:55] [Server thread/INFO]: Twiixtor issued server command: /powertooldisable
+[22:44:21] [Server thread/INFO]: Admins: [Owner]Twiixtor, [Owner]~memelord
+[22:44:21] [Server thread/INFO]: guest: [Guest]marcgdoyle
+[22:44:21] [Server thread/INFO]: member: [Member]Popey456963
+[22:44:28] [Netty Epoll Server IO #6/INFO]: <[Owner]~memelord> zzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[22:44:30] [Netty Epoll Server IO #6/INFO]: <[Owner]~memelord> zzzzzzzzzzzzzzzzz
+[22:44:32] [Netty Epoll Server IO #8/INFO]: <[Owner]Twiixtor> z
+[22:44:40] [Server thread/INFO]: Popey456963 issued server command: /home bed
+[22:44:45] [Server thread/INFO]: Twiixtor issued server command: /home
+[22:44:51] [Server thread/INFO]: Crustifer issued server command: /warp
+[22:44:53] [Server thread/INFO]: Twiixtor issued server command: /ci
+[22:44:53] [Server thread/INFO]: Crustifer issued server command: /warp set dank
+[22:44:55] [Server thread/INFO]: Twiixtor issued server command: /ci marc
+[22:44:56] [Server thread/INFO]: Crustifer issued server command: /warpset dank
+[22:44:56] [Server thread/INFO]: marcgdoyle has just earned the achievement [Taking Inventory]
+[22:44:58] [Server thread/INFO]: Crustifer issued server command: /warp
+[22:44:59] [Server thread/INFO]: Crustifer issued server command: /warp help
+[22:45:01] [Server thread/INFO]: Crustifer issued server command: /help warp
+[22:45:03] [Server thread/INFO]: Twiixtor issued server command: /ci
+[22:45:05] [Server thread/INFO]: Crustifer issued server command: /setwarp dank
+[22:45:08] [Server thread/INFO]: marcgdoyle fell from a high place
+[22:45:08] [Server thread/INFO]: Admins: [Owner]Twiixtor, [Owner]~memelord
+[22:45:08] [Server thread/INFO]: guest: [Guest]marcgdoyle
+[22:45:08] [Server thread/INFO]: member: [Member]Popey456963
+[22:45:10] [Server thread/INFO]: Popey456963 fell from a high place
+[22:45:16] [Server thread/INFO]: Popey456963 issued server command: /warp
+[22:45:17] [Netty Epoll Server IO #6/INFO]: <[Owner]~memelord> ./warp dank
+[22:45:18] [Server thread/INFO]: Popey456963 issued server command: /warp dank
+[22:45:19] [Server thread/INFO]: Twiixtor issued server command: /kit
+[22:45:21] [Server thread/INFO]: Crustifer issued server command: /delwarp dank
+[22:45:25] [Server thread/INFO]: marcgdoyle issued server command: /warp dank
+[22:45:28] [Server thread/INFO]: Popey456963 issued server command: /warp
+[22:45:32] [Server thread/INFO]: Twiixtor issued server command: /gm 1
+[22:45:40] [Server thread/INFO]: Popey456963 issued server command: /kit
+[22:45:55] [Server thread/INFO]: Admins: [Owner]Twiixtor, [Owner]~memelord
+[22:45:55] [Server thread/INFO]: guest: [Guest]marcgdoyle
+[22:45:55] [Server thread/INFO]: member: [Member]Popey456963
+[22:46:28] [Server thread/INFO]: Twiixtor left the game.
+[22:46:41] [Server thread/INFO]: Popey456963 fell from a high place
+[22:46:41] [Server thread/INFO]: Admins: [Owner]~memelord
+[22:46:41] [Server thread/INFO]: guest: [Guest]marcgdoyle
+[22:46:46] [Server thread/INFO]: marcgdoyle fell from a high place
+[22:47:28] [Server thread/INFO]: Admins: [Owner]~memelord
+[22:47:28] [Server thread/INFO]: guest: [Guest]marcgdoyle
+[22:47:51] [Server thread/INFO]: Popey456963 issued server command: /help
+[22:48:14] [Server thread/INFO]: Admins: [Owner]~memelord
+[22:48:14] [Server thread/INFO]: guest: [Guest]marcgdoyle
+[22:48:19] [Server thread/INFO]: Crustifer issued server command: /pex group member add essentials.signs.use.disposal
+[22:48:29] [Server thread/INFO]: marcgdoyle fell from a high place
+[22:48:51] [Server thread/INFO]: Crustifer issued server command: /pex group member remove essentials.signs.use.disposal
+[22:49:01] [Server thread/INFO]: Admins: [Owner]~memelord
+[22:49:01] [Server thread/INFO]: guest: [Guest]marcgdoyle
+[22:49:17] [Netty Epoll Server IO #6/INFO]: <[Owner]~memelord> adf
+[22:49:22] [Server thread/INFO]: Crustifer issued server command: /reload
+[22:49:22] [Server thread/INFO]: Crustifer: If you encounter any issues please use the /stop command to restart your server.
+[22:49:22] [Server thread/INFO]: [EssentialsProtect] Disabling EssentialsProtect vTeamCity
+[22:49:22] [Server thread/INFO]: [CraftBook] Disabling CraftBook v3.9-SNAPSHOT
+[22:49:22] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v6.1
+[22:49:22] [Server thread/INFO]: [WorldGuard] Shutting down executor and waiting for any pending tasks...
+[22:49:22] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn vTeamCity
+[22:49:22] [Server thread/INFO]: [VoxelSniper] Disabling VoxelSniper v7.1.0
+[22:49:22] [Server thread/INFO]: [Essentials] Disabling Essentials vTeamCity
+[22:49:22] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1;no_git_id
+[22:49:22] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1;no_git_id
+[22:49:22] [Server thread/INFO]: [Essentials] Loading Essentials vTeamCity
+[22:49:22] [Server thread/INFO]: [VoxelSniper] Loading VoxelSniper v7.1.0
+[22:49:22] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn vTeamCity
+[22:49:22] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v6.1
+[22:49:22] [Server thread/INFO]: [CraftBook] Loading CraftBook v3.9-SNAPSHOT
+[22:49:22] [Server thread/INFO]: [EssentialsProtect] Loading EssentialsProtect vTeamCity
+[22:49:22] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1;no_git_id
+[22:49:22] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_8_R3 as the Bukkit adapter
+[22:49:22] [Server thread/INFO]: [Essentials] Enabling Essentials vTeamCity
+[22:49:22] [Server thread/INFO]: git-Bukkit-9935adc (MC: 1.8.8)
+[22:49:22] [Server thread/INFO]: 1.8.8-R0.1-SNAPSHOT
+[22:49:22] [Server thread/INFO]: Using locale en_GB
+[22:49:22] [Server thread/INFO]: Using locale en_GB
+[22:49:22] [Server thread/INFO]: [VoxelSniper] Enabling VoxelSniper v7.1.0
+[22:49:23] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn vTeamCity
+[22:49:23] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v6.1
+[22:49:23] [Server thread/INFO]: [WorldGuard] (TEST) Lighters are PERMITTED.
+[22:49:23] [Server thread/INFO]: [WorldGuard] (TEST) Lava fire is blocked.
+[22:49:23] [Server thread/INFO]: [WorldGuard] (TEST) Fire spread is UNRESTRICTED.
+[22:49:23] [Server thread/INFO]: [WorldGuard] (TEST_nether) Lighters are PERMITTED.
+[22:49:23] [Server thread/INFO]: [WorldGuard] (TEST_nether) Lava fire is blocked.
+[22:49:23] [Server thread/INFO]: [WorldGuard] (TEST_nether) Fire spread is UNRESTRICTED.
+[22:49:23] [Server thread/INFO]: [WorldGuard] (TEST_the_end) Lighters are PERMITTED.
+[22:49:23] [Server thread/INFO]: [WorldGuard] (TEST_the_end) Lava fire is blocked.
+[22:49:23] [Server thread/INFO]: [WorldGuard] (TEST_the_end) Fire spread is UNRESTRICTED.
+[22:49:23] [Server thread/INFO]: [CraftBook] Enabling CraftBook v3.9-SNAPSHOT
+[22:49:23] [Server thread/INFO]: [CraftBook] Successfully added 1 CommandItems!
+[22:49:23] [Server thread/INFO]: [CraftBook] Registered 3 custom recipes!
+[22:49:23] [Server thread/INFO]: [CraftBook] 441 chunk(s) for 3 world(s) processed (6ms elapsed)
+[22:49:23] [Server thread/INFO]: [EssentialsProtect] Enabling EssentialsProtect vTeamCity
+[22:49:23] [Server thread/INFO]: Crustifer: Reload complete.
+[22:49:47] [Server thread/INFO]: Admins: [Owner]~memelord
+[22:49:47] [Server thread/INFO]: guest: [Guest]marcgdoyle
+[22:50:04] [Server thread/INFO]: marcgdoyle fell from a high place
+[22:50:33] [Server thread/INFO]: Popey456963 fell from a high place
+[22:50:34] [Server thread/INFO]: Admins: [Owner]~memelord
+[22:50:34] [Server thread/INFO]: guest: [Guest]marcgdoyle
+[22:50:46] [Server thread/INFO]: marcgdoyle fell from a high place
+[22:50:54] [Server thread/INFO]: Popey456963 issued server command: /clearinventory
+[22:50:59] [Server thread/INFO]: Crustifer issued server command: /spawn
+[22:51:02] [Server thread/INFO]: Popey456963 issued server command: /spawn
+[22:51:08] [Server thread/INFO]: marcgdoyle issued server command: /spawn
+[22:51:18] [Server thread/INFO]: Popey456963 fell from a high place
+[22:51:20] [Server thread/INFO]: Admins: [Owner]~memelord
+[22:51:20] [Server thread/INFO]: guest: [Guest]marcgdoyle
+[22:51:49] [Server thread/INFO]: Crustifer issued server command: /powertool
+[22:51:53] [Server thread/INFO]: Crustifer issued server command: /powertool spawn
+[22:51:54] [Server thread/INFO]: [PT] Crustifer issued server command: /spawn
+[22:52:00] [Server thread/INFO]: marcgdoyle fell from a high place
+[22:52:04] [Server thread/INFO]: Popey456963 issued server command: /powertool spawn
+[22:52:07] [Server thread/INFO]: Admins: [Owner]~memelord
+[22:52:07] [Server thread/INFO]: guest: [Guest]marcgdoyle
+[22:52:16] [Server thread/INFO]: Popey456963 issued server command: /powertoolspawn
+[22:52:20] [Server thread/INFO]: marcgdoyle fell from a high place
+[22:52:44] [Server thread/INFO]: marcgdoyle fell from a high place
+[22:52:54] [Server thread/INFO]: Admins: [Owner]~memelord
+[22:52:54] [Server thread/INFO]: guest: [Guest]marcgdoyle
+[22:53:15] [Server thread/INFO]: marcgdoyle fell from a high place
+[22:53:40] [Server thread/INFO]: Admins: [Owner]~memelord
+[22:53:40] [Server thread/INFO]: guest: [Guest]marcgdoyle
+[22:53:41] [Netty Epoll Server IO #17/INFO]: <[Guest]marcgdoyle> y
+[22:54:18] [Server thread/INFO]: marcgdoyle fell from a high place
+[22:54:27] [Server thread/INFO]: Admins: [Owner]~memelord
+[22:54:27] [Server thread/INFO]: guest: [Guest]marcgdoyle
+[22:54:32] [Server thread/INFO]: marcgdoyle fell from a high place
+[22:54:32] [Server thread/INFO]: Crustifer issued server command: /pex group guest add - -modifyworld.*
+[22:54:53] [Server thread/INFO]: Crustifer issued server command: /pex group guest add '- -modifyworld.*'
+[22:54:58] [Server thread/INFO]: marcgdoyle fell from a high place
+[22:55:13] [Server thread/INFO]: Admins: [Owner]~memelord
+[22:55:13] [Server thread/INFO]: guest: [Guest]marcgdoyle
+[22:56:00] [Server thread/INFO]: Admins: [Owner]~memelord
+[22:56:00] [Server thread/INFO]: guest: [Guest]marcgdoyle
+[22:56:46] [Server thread/INFO]: Admins: [Owner]~memelord
+[22:56:46] [Server thread/INFO]: guest: [Guest]marcgdoyle
+[22:57:33] [Server thread/INFO]: Admins: [Owner]~memelord
+[22:57:33] [Server thread/INFO]: guest: [Guest]marcgdoyle
+[22:58:19] [Server thread/INFO]: Admins: [Owner]~memelord
+[22:58:19] [Server thread/INFO]: guest: [Guest]marcgdoyle
+[22:58:25] [Server thread/INFO]: Popey456963 issued server command: /reload
+[22:58:32] [Server thread/INFO]: Crustifer issued server command: /reload
+[22:58:32] [Server thread/INFO]: Crustifer: If you encounter any issues please use the /stop command to restart your server.
+[22:58:32] [Server thread/INFO]: [EssentialsProtect] Disabling EssentialsProtect vTeamCity
+[22:58:32] [Server thread/INFO]: [CraftBook] Disabling CraftBook v3.9-SNAPSHOT
+[22:58:32] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v6.1
+[22:58:32] [Server thread/INFO]: [WorldGuard] Shutting down executor and waiting for any pending tasks...
+[22:58:32] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn vTeamCity
+[22:58:32] [Server thread/INFO]: [VoxelSniper] Disabling VoxelSniper v7.1.0
+[22:58:32] [Server thread/INFO]: [Essentials] Disabling Essentials vTeamCity
+[22:58:32] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1;no_git_id
+[22:58:32] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1;no_git_id
+[22:58:32] [Server thread/INFO]: [Essentials] Loading Essentials vTeamCity
+[22:58:32] [Server thread/INFO]: [VoxelSniper] Loading VoxelSniper v7.1.0
+[22:58:32] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn vTeamCity
+[22:58:32] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v6.1
+[22:58:32] [Server thread/INFO]: [CraftBook] Loading CraftBook v3.9-SNAPSHOT
+[22:58:32] [Server thread/INFO]: [EssentialsProtect] Loading EssentialsProtect vTeamCity
+[22:58:32] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1;no_git_id
+[22:58:32] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_8_R3 as the Bukkit adapter
+[22:58:32] [Server thread/INFO]: [Essentials] Enabling Essentials vTeamCity
+[22:58:32] [Server thread/INFO]: git-Bukkit-9935adc (MC: 1.8.8)
+[22:58:32] [Server thread/INFO]: 1.8.8-R0.1-SNAPSHOT
+[22:58:32] [Server thread/INFO]: Using locale en_GB
+[22:58:32] [Server thread/INFO]: Using locale en_GB
+[22:58:32] [Server thread/INFO]: [VoxelSniper] Enabling VoxelSniper v7.1.0
+[22:58:32] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn vTeamCity
+[22:58:32] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v6.1
+[22:58:32] [Server thread/INFO]: [WorldGuard] (TEST) Lighters are PERMITTED.
+[22:58:32] [Server thread/INFO]: [WorldGuard] (TEST) Lava fire is blocked.
+[22:58:32] [Server thread/INFO]: [WorldGuard] (TEST) Fire spread is UNRESTRICTED.
+[22:58:32] [Server thread/INFO]: [WorldGuard] (TEST_nether) Lighters are PERMITTED.
+[22:58:32] [Server thread/INFO]: [WorldGuard] (TEST_nether) Lava fire is blocked.
+[22:58:32] [Server thread/INFO]: [WorldGuard] (TEST_nether) Fire spread is UNRESTRICTED.
+[22:58:32] [Server thread/INFO]: [WorldGuard] (TEST_the_end) Lighters are PERMITTED.
+[22:58:32] [Server thread/INFO]: [WorldGuard] (TEST_the_end) Lava fire is blocked.
+[22:58:32] [Server thread/INFO]: [WorldGuard] (TEST_the_end) Fire spread is UNRESTRICTED.
+[22:58:33] [Server thread/INFO]: [CraftBook] Enabling CraftBook v3.9-SNAPSHOT
+[22:58:33] [Server thread/INFO]: [CraftBook] Successfully added 1 CommandItems!
+[22:58:33] [Server thread/INFO]: [CraftBook] Registered 3 custom recipes!
+[22:58:33] [Server thread/INFO]: [CraftBook] 441 chunk(s) for 3 world(s) processed (4ms elapsed)
+[22:58:33] [Server thread/INFO]: [EssentialsProtect] Enabling EssentialsProtect vTeamCity
+[22:58:33] [Server thread/INFO]: Crustifer: Reload complete.
+[22:59:06] [Server thread/INFO]: Admins: [Owner]~memelord
+[22:59:06] [Server thread/INFO]: guest: [Guest]marcgdoyle
+[22:59:25] [Server thread/INFO]: Popey456963 fell from a high place
+[22:59:27] [Server thread/INFO]: marcgdoyle fell from a high place
+[22:59:32] [Server thread/INFO]: Popey456963 issued server command: /powertool spawn
+[22:59:45] [Server thread/INFO]: marcgdoyle fell from a high place
+[22:59:52] [Server thread/INFO]: Admins: [Owner]~memelord
+[22:59:52] [Server thread/INFO]: guest: [Guest]marcgdoyle
+[23:00:19] [Netty Epoll Server IO #6/INFO]: <[Owner]~memelord> '
+[23:00:39] [Server thread/INFO]: Admins: [Owner]~memelord
+[23:00:39] [Server thread/INFO]: guest: [Guest]marcgdoyle
+[23:01:26] [Server thread/INFO]: Admins: [Owner]~memelord
+[23:01:26] [Server thread/INFO]: guest: [Guest]marcgdoyle
+[23:02:12] [Server thread/INFO]: Admins: [Owner]~memelord
+[23:02:12] [Server thread/INFO]: guest: [Guest]marcgdoyle
+[23:02:59] [Server thread/INFO]: Admins: [Owner]~memelord
+[23:02:59] [Server thread/INFO]: guest: [Guest]marcgdoyle
+[23:03:45] [Server thread/INFO]: Admins: [Owner]~memelord
+[23:03:45] [Server thread/INFO]: guest: [Guest]marcgdoyle
+[23:04:32] [Server thread/INFO]: Admins: [Owner]~memelord
+[23:04:32] [Server thread/INFO]: guest: [Guest]marcgdoyle
+[23:05:18] [Server thread/INFO]: Admins: [Owner]~memelord
+[23:05:18] [Server thread/INFO]: guest: [Guest]marcgdoyle
+[23:06:05] [Server thread/INFO]: Admins: [Owner]~memelord
+[23:06:05] [Server thread/INFO]: guest: [Guest]marcgdoyle
+[23:06:51] [Server thread/INFO]: Admins: [Owner]~memelord
+[23:06:51] [Server thread/INFO]: guest: [Guest]marcgdoyle
+[23:07:38] [Server thread/INFO]: Admins: [Owner]~memelord
+[23:07:38] [Server thread/INFO]: guest: [Guest]marcgdoyle
+[23:08:25] [Server thread/INFO]: Admins: [Owner]~memelord
+[23:08:25] [Server thread/INFO]: guest: [Guest]marcgdoyle
+[23:09:11] [Server thread/INFO]: Admins: [Owner]~memelord
+[23:09:11] [Server thread/INFO]: guest: [Guest]marcgdoyle
+[23:09:58] [Server thread/INFO]: Admins: [AFK][Owner]~memelord
+[23:09:58] [Server thread/INFO]: guest: [Guest]marcgdoyle
+[23:10:44] [Server thread/INFO]: Admins: [AFK][Owner]~memelord
+[23:10:44] [Server thread/INFO]: guest: [Guest]marcgdoyle
+[23:11:31] [Server thread/INFO]: Admins: [AFK][Owner]~memelord
+[23:11:31] [Server thread/INFO]: guest: [Guest]marcgdoyle
+[23:12:17] [Server thread/INFO]: Admins: [AFK][Owner]~memelord
+[23:12:17] [Server thread/INFO]: guest: [Guest]marcgdoyle
+[23:13:04] [Server thread/INFO]: Admins: [Owner]~memelord
+[23:13:04] [Server thread/INFO]: guest: [Guest]marcgdoyle
+[23:13:50] [Server thread/INFO]: Admins: [Owner]~memelord
+[23:13:50] [Server thread/INFO]: guest: [Guest]marcgdoyle
+[23:14:37] [Server thread/INFO]: Admins: [Owner]~memelord
+[23:14:37] [Server thread/INFO]: guest: [Guest]marcgdoyle
+[23:15:21] [Netty Epoll Server IO #6/INFO]: <[Owner]~memelord> r
+[23:15:23] [Server thread/INFO]: Crustifer issued server command: /reload
+[23:15:23] [Server thread/INFO]: Crustifer: If you encounter any issues please use the /stop command to restart your server.
+[23:15:23] [Server thread/INFO]: [EssentialsProtect] Disabling EssentialsProtect vTeamCity
+[23:15:23] [Server thread/INFO]: [CraftBook] Disabling CraftBook v3.9-SNAPSHOT
+[23:15:23] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v6.1
+[23:15:23] [Server thread/INFO]: [WorldGuard] Shutting down executor and waiting for any pending tasks...
+[23:15:23] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn vTeamCity
+[23:15:23] [Server thread/INFO]: [VoxelSniper] Disabling VoxelSniper v7.1.0
+[23:15:23] [Server thread/INFO]: [Essentials] Disabling Essentials vTeamCity
+[23:15:23] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1;no_git_id
+[23:15:23] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1;no_git_id
+[23:15:23] [Server thread/INFO]: [Essentials] Loading Essentials vTeamCity
+[23:15:23] [Server thread/INFO]: [VoxelSniper] Loading VoxelSniper v7.1.0
+[23:15:23] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn vTeamCity
+[23:15:23] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v6.1
+[23:15:23] [Server thread/INFO]: [CraftBook] Loading CraftBook v3.9-SNAPSHOT
+[23:15:23] [Server thread/INFO]: [EssentialsProtect] Loading EssentialsProtect vTeamCity
+[23:15:23] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1;no_git_id
+[23:15:23] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_8_R3 as the Bukkit adapter
+[23:15:23] [Server thread/INFO]: [Essentials] Enabling Essentials vTeamCity
+[23:15:23] [Server thread/INFO]: git-Bukkit-9935adc (MC: 1.8.8)
+[23:15:23] [Server thread/INFO]: 1.8.8-R0.1-SNAPSHOT
+[23:15:23] [Server thread/INFO]: Using locale en_GB
+[23:15:23] [Server thread/INFO]: Using locale en_GB
+[23:15:23] [Server thread/INFO]: [VoxelSniper] Enabling VoxelSniper v7.1.0
+[23:15:23] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn vTeamCity
+[23:15:23] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v6.1
+[23:15:23] [Server thread/INFO]: [WorldGuard] (TEST) Lighters are PERMITTED.
+[23:15:23] [Server thread/INFO]: [WorldGuard] (TEST) Lava fire is blocked.
+[23:15:23] [Server thread/INFO]: [WorldGuard] (TEST) Fire spread is UNRESTRICTED.
+[23:15:23] [Server thread/INFO]: [WorldGuard] (TEST_nether) Lighters are PERMITTED.
+[23:15:23] [Server thread/INFO]: [WorldGuard] (TEST_nether) Lava fire is blocked.
+[23:15:23] [Server thread/INFO]: [WorldGuard] (TEST_nether) Fire spread is UNRESTRICTED.
+[23:15:23] [Server thread/INFO]: [WorldGuard] (TEST_the_end) Lighters are PERMITTED.
+[23:15:23] [Server thread/INFO]: [WorldGuard] (TEST_the_end) Lava fire is blocked.
+[23:15:23] [Server thread/INFO]: [WorldGuard] (TEST_the_end) Fire spread is UNRESTRICTED.
+[23:15:24] [Server thread/INFO]: [CraftBook] Enabling CraftBook v3.9-SNAPSHOT
+[23:15:24] [Server thread/INFO]: [CraftBook] Successfully added 1 CommandItems!
+[23:15:24] [Server thread/INFO]: [CraftBook] Registered 3 custom recipes!
+[23:15:24] [Server thread/INFO]: [CraftBook] 441 chunk(s) for 3 world(s) processed (6ms elapsed)
+[23:15:24] [Server thread/INFO]: [EssentialsProtect] Enabling EssentialsProtect vTeamCity
+[23:15:24] [Server thread/INFO]: Crustifer: Reload complete.
+[23:15:24] [Server thread/INFO]: Admins: [Owner]~memelord
+[23:15:24] [Server thread/INFO]: guest: [Guest]marcgdoyle
+[23:15:30] [Server thread/INFO]: Popey456963 issued server command: /powertool
+[23:15:33] [Server thread/INFO]: Popey456963 issued server command: /powertool spawn
+[23:15:43] [Server thread/INFO]: Crustifer issued server command: /powertool
+[23:16:10] [Server thread/INFO]: Admins: [Owner]~memelord
+[23:16:10] [Server thread/INFO]: guest: [Guest]marcgdoyle
+[23:16:34] [Netty Epoll Server IO #6/INFO]: <[Owner]~memelord> zzz
+[23:16:45] [Server thread/INFO]: Crustifer issued server command: /skull
+[23:16:53] [Server thread/INFO]: Popey456963 issued server command: /skull
+[23:16:53] [Netty Epoll Server IO #6/INFO]: <[Owner]~memelord> ./skull
+[23:16:57] [Server thread/INFO]: Admins: [Owner]~memelord
+[23:16:57] [Server thread/INFO]: guest: [Guest]marcgdoyle
+[23:16:57] [Server thread/INFO]: Popey456963 issued server command: /skull
+[23:17:08] [Netty Epoll Server IO #19/INFO]: <[Mod]Popey456963> Test
+[23:17:18] [Server thread/INFO]: Popey456963 issued server command: /kick Crustifer
+[23:17:22] [Server thread/INFO]: Popey456963 issued server command: /kick marc
+[23:17:31] [Server thread/INFO]: Popey456963 fell from a high place
+[23:17:44] [Server thread/INFO]: Admins: [Owner]~memelord
+[23:17:44] [Server thread/INFO]: guest: [Guest]marcgdoyle
+[23:17:53] [Server thread/INFO]: Popey456963 issued server command: /powertool toggle
+[23:17:54] [Server thread/INFO]: Crustifer issued server command: /powertooltoggle
+[23:17:58] [Server thread/INFO]: Popey456963 issued server command: /powertooltoggle
+[23:18:01] [Netty Epoll Server IO #19/INFO]: <[Mod]Popey456963> ../powertooltoggle
+[23:18:04] [Server thread/INFO]: Popey456963 issued server command: /powertooltoggle
+[23:18:14] [Server thread/INFO]: Popey456963 fell from a high place
+[23:18:30] [Server thread/INFO]: Admins: [Owner]~memelord
+[23:18:30] [Server thread/INFO]: guest: [Guest]marcgdoyle
+[23:19:16] [Server thread/INFO]: Admins: [Owner]~memelord
+[23:19:16] [Server thread/INFO]: guest: [Guest]marcgdoyle
+[23:19:41] [Server thread/INFO]: marcgdoyle left the game.
+[23:20:03] [Server thread/INFO]: Admins: [Owner]~memelord
+[23:20:49] [Server thread/INFO]: Admins: [Owner]~memelord
+[23:21:36] [Server thread/INFO]: Admins: [Owner]~memelord
+[23:22:22] [Server thread/INFO]: Admins: [Owner]~memelord
+[23:23:09] [Server thread/INFO]: Admins: [AFK][Owner]~memelord
+[23:23:56] [Server thread/INFO]: Admins: [AFK][Owner]~memelord
+[23:24:42] [Server thread/INFO]: Admins: [Owner]~memelord
+[23:25:29] [Server thread/INFO]: Admins: [Owner]~memelord
+[23:26:15] [Server thread/INFO]: Admins: [Owner]~memelord
+[23:27:02] [Server thread/INFO]: Admins: [Owner]~memelord
+[23:27:48] [Server thread/INFO]: Admins: [Owner]~memelord
+[23:28:35] [Server thread/INFO]: Admins: [Owner]~memelord
+[23:29:21] [Server thread/INFO]: Admins: [Owner]~memelord
+[23:30:08] [Server thread/INFO]: Admins: [Owner]~memelord
+[23:30:54] [Server thread/INFO]: Admins: [Owner]~memelord
+[23:31:41] [Server thread/INFO]: Admins: [Owner]~memelord
+[23:32:28] [Server thread/INFO]: Admins: [Owner]~memelord
+[23:33:14] [Server thread/INFO]: Admins: [Owner]~memelord
+[23:34:01] [Server thread/INFO]: Admins: [Owner]~memelord
+[23:34:47] [Server thread/INFO]: Admins: [Owner]~memelord
+[23:35:34] [Server thread/INFO]: Admins: [AFK][Owner]~memelord
+[23:36:20] [Server thread/INFO]: Admins: [AFK][Owner]~memelord
+[23:37:07] [Server thread/INFO]: Admins: [AFK][Owner]~memelord
+[23:37:53] [Server thread/INFO]: Admins: [AFK][Owner]~memelord
+[23:38:40] [Server thread/INFO]: Admins: [AFK][Owner]~memelord
+[23:38:53] [Server thread/INFO]: Twiixtor issued server command: /ci
+[23:38:54] [Server thread/INFO]: Twiixtor issued server command: /kit
+[23:38:58] [Server thread/INFO]: Twiixtor issued server command: /kit firework
+[23:39:27] [Server thread/INFO]: Admins: [Owner]Twiixtor, [AFK][Owner]~memelord
+[23:39:55] [Server thread/INFO]: Twiixtor issued server command: /kit color
+[23:40:05] [Netty Epoll Server IO #20/INFO]: <[Owner]Twiixtor>  LEL
+[23:40:13] [Server thread/INFO]: Admins: [Owner]Twiixtor, [AFK][Owner]~memelord
+[23:40:21] [Server thread/INFO]: Twiixtor issued server command: /tp crus
+[23:40:35] [Server thread/INFO]: Twiixtor issued server command: /spawn
+[23:41:00] [Server thread/INFO]: Twiixtor issued server command: /tp 420 100 420
+[23:41:00] [Server thread/INFO]: Admins: [Owner]Twiixtor, [AFK][Owner]~memelord
+[23:41:31] [Server thread/INFO]: Twiixtor left the game.
+[23:41:46] [Server thread/INFO]: Admins: [Owner]Twiixtor, [AFK][Owner]~memelord
+[23:42:26] [Server thread/INFO]: Twiixtor issued server command: //cyl
+[23:42:33] [Server thread/INFO]: Admins: [Owner]Twiixtor, [AFK][Owner]~memelord
+[23:42:36] [Server thread/INFO]: Twiixtor issued server command: //cyl grass 50
+[23:43:07] [Server thread/INFO]: Popey456963 left the game.
+[23:43:07] [Server thread/INFO]: Crustifer left the game.
+[23:43:07] [Server thread/INFO]: Twiixtor left the game.
+[23:43:19] [Server thread/INFO]: Admins: [Owner]Twiixtor
+[23:44:06] [Server thread/INFO]: Admins: [Owner]Twiixtor
+[23:44:52] [Server thread/INFO]: Admins: [Owner]Twiixtor
+[23:45:11] [Server thread/INFO]: Twiixtor issued server command: /time day
+[23:45:12] [Server thread/INFO]: Twiixtor issued server command: /butcher
+[23:45:39] [Server thread/INFO]: Admins: [Owner]Twiixtor
+[23:46:12] [Server thread/INFO]: Twiixtor issued server command: /i fence 1
+[23:46:17] [Server thread/INFO]: Twiixtor issued server command: /i sign 1
+[23:46:26] [Server thread/INFO]: Admins: [Owner]Twiixtor
+[23:47:12] [Server thread/INFO]: Admins: [Owner]Twiixtor
+[23:47:59] [Server thread/INFO]: Admins: [Owner]Twiixtor
+[23:47:59] [Server thread/INFO]: Twiixtor issued server command: //wand
+[23:48:24] [Server thread/INFO]: Twiixtor issued server command: //set 0
+[23:48:45] [Server thread/INFO]: Admins: [Owner]Twiixtor
+[23:49:32] [Server thread/INFO]: Admins: [Owner]Twiixtor
+[23:50:05] [Server thread/INFO]: Popey456963 issued server command: /gamemode 1
+[23:50:18] [Server thread/INFO]: Admins: [Owner]Twiixtor
+[23:50:30] [Server thread/INFO]: Twiixtor issued server command: //replace air 5:2
+[23:51:05] [Server thread/INFO]: Admins: [Owner]Twiixtor
+[23:51:51] [Server thread/INFO]: Admins: [Owner]Twiixtor
+[23:51:59] [Server thread/INFO]: Twiixtor left the game.
+[23:52:38] [Server thread/INFO]: Admins: [Owner]Twiixtor
+[23:52:38] [Server thread/INFO]: Twiixtor issued server command: /brush
+[23:52:46] [Server thread/INFO]: Twiixtor issued server command: /brush gravity
+[23:52:51] [Server thread/INFO]: Twiixtor issued server command: /i stick 1
+[23:52:55] [Server thread/INFO]: Twiixtor issued server command: /brush gravity
+[23:53:22] [Netty Epoll Server IO #7/INFO]: <[Owner]Twiixtor> test
+[23:53:22] [Server thread/INFO]: Twiixtor left the game.
+[23:53:41] [Server thread/INFO]: Popey456963 fell from a high place
+[23:54:11] [Server thread/INFO]: Admins: [Owner]Twiixtor
+[23:54:58] [Server thread/INFO]: Admins: [Owner]Twiixtor
+[23:55:01] [Server thread/INFO]: Twiixtor issued server command: //cut
+[23:55:09] [Server thread/INFO]: Twiixtor issued server command: //paste
+[23:55:44] [Server thread/INFO]: Admins: [Owner]Twiixtor
+[23:56:18] [Server thread/INFO]: Twiixtor issued server command: /top
+[23:56:24] [Server thread/INFO]: Twiixtor issued server command: /home
+[23:56:29] [Server thread/INFO]: Twiixtor issued server command: /home top
+[23:56:31] [Server thread/INFO]: Admins: [Owner]Twiixtor
+[23:56:35] [Server thread/INFO]: Twiixtor issued server command: /delhome top
+[23:56:37] [Server thread/INFO]: Twiixtor issued server command: /home home
+[23:56:39] [Server thread/INFO]: Twiixtor issued server command: /delhome home
+[23:56:41] [Server thread/INFO]: Twiixtor issued server command: /spawn
+[23:56:47] [Server thread/INFO]: Twiixtor issued server command: /tp pope
+[23:56:52] [Server thread/INFO]: Twiixtor issued server command: /tp pop
+[23:57:05] [Server thread/INFO]: Twiixtor issued server command: /time day
+[23:57:15] [Server thread/INFO]: Twiixtor issued server command: /tp pop
+[23:57:17] [Server thread/INFO]: Admins: [Owner]Twiixtor
+[23:57:20] [Server thread/INFO]: Twiixtor issued server command: /spawn
+[23:57:22] [Server thread/INFO]: Twiixtor issued server command: /tphere pop
+[23:58:04] [Server thread/INFO]: Admins: [Owner]Twiixtor
+[23:58:13] [Server thread/INFO]: Twiixtor issued server command: /descend
+[23:58:50] [Server thread/INFO]: Admins: [Owner]Twiixtor
+[23:59:37] [Server thread/INFO]: Admins: [Owner]Twiixtor

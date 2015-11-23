@@ -1,0 +1,310 @@
+[19:32:08] [main/INFO]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[19:32:12] [Server thread/INFO]: MinecraftForge v10.13.4.1448 Initialized
+[19:32:12] [Server thread/INFO]: Replaced 183 ore recipies
+[19:32:12] [Server thread/INFO]: Found 0 mods from the command line. Injecting into mod discoverer
+[19:32:12] [Server thread/INFO]: Searching /home/root/multicraft/servers/server435620/mods for mods
+[19:32:12] [Server thread/INFO]: Also searching /home/root/multicraft/servers/server435620/mods/1.7.10 for mods
+[19:32:14] [Server thread/INFO]: Forge Mod Loader has identified 40 mods to load
+[19:32:17] [Server thread/INFO]: Mantle (1.7.10-0.3.2.jenkins184) -- Preparing for launch.
+[19:32:19] [Server thread/INFO]: Designs found: Bed(6), Chisel(9), FlowerPot(18), Tile(13)
+[19:32:20] [Server thread/INFO]: Gear module active. Adding gear cast.
+[19:32:20] [Server thread/INFO]: Biomes O' Plenty Detected
+[19:32:20] [Server thread/INFO]: Twilight Forest Detected
+[19:32:20] [Server thread/INFO]: Thaumcraft Detected
+[19:32:24] [Server thread/INFO]: Applying holder lookups
+[19:32:24] [Server thread/INFO]: Holder lookups applied
+[19:32:24] [Server thread/INFO]: Injecting itemstacks
+[19:32:24] [Server thread/INFO]: Loading properties
+[19:32:24] [Server thread/INFO]: Default game type: SURVIVAL
+[19:32:25] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[19:32:25] [Server thread/INFO]: Using 4 threads for Netty based IO
+[19:32:25] [Server thread/INFO]: Waila detected.
+[19:32:26] [Server thread/INFO]: Thaumcraft detected. Registering harvestables.
+[19:32:26] [Server thread/INFO]: InfernalMobsCore load() completed! Modifiers ready: 27
+[19:32:26] [Server thread/INFO]: Injecting itemstacks
+[19:32:26] [Server thread/INFO]: Loading Manual XML from: /assets/mantle/manuals/test.xml
+[19:32:26] [Server thread/INFO]: ## Chest items register ##
+[19:32:26] [Server thread/INFO]: Thaumcraft detected. Adding thaumium tools.
+[19:32:27] [Server thread/INFO]: item.apple0: 15: 1: 3
+[19:32:27] [Server thread/INFO]: item.appleGold0: 1: 1: 1
+[19:32:27] [Server thread/INFO]: item.arrow0: 30: 2: 7
+[19:32:27] [Server thread/INFO]: item.book0: 20: 1: 3
+[19:32:27] [Server thread/INFO]: item.bread0: 14: 1: 1
+[19:32:27] [Server thread/INFO]: item.bucket0: 10: 1: 1
+[19:32:27] [Server thread/INFO]: item.coal0: 10: 3: 8
+[19:32:27] [Server thread/INFO]: item.compass0: 1: 1: 1
+[19:32:27] [Server thread/INFO]: item.dyePowder.blue4: 5: 4: 9
+[19:32:27] [Server thread/INFO]: item.emerald0: 2: 1: 3
+[19:32:27] [Server thread/INFO]: item.emptyMap0: 1: 1: 1
+[19:32:27] [Server thread/INFO]: item.enchantedBook0: 1: 1: 1
+[19:32:27] [Server thread/INFO]: item.enderPearl0: 10: 1: 1
+[19:32:27] [Server thread/INFO]: item.flippers0: 5: 1: 1
+[19:32:27] [Server thread/INFO]: item.horsearmorgold0: 1: 1: 1
+[19:32:27] [Server thread/INFO]: item.horsearmormetal0: 1: 1: 1
+[19:32:27] [Server thread/INFO]: item.ingotGold0: 5: 1: 3
+[19:32:27] [Server thread/INFO]: item.misc.ash1: 25: 2: 8
+[19:32:27] [Server thread/INFO]: item.nameTag0: 10: 1: 1
+[19:32:27] [Server thread/INFO]: item.paper0: 20: 2: 7
+[19:32:27] [Server thread/INFO]: item.record0: 10: 1: 1
+[19:32:27] [Server thread/INFO]: item.rottenFlesh0: 16: 3: 7
+[19:32:27] [Server thread/INFO]: item.saddle0: 2: 1: 1
+[19:32:27] [Server thread/INFO]: item.seeds_pumpkin0: 10: 2: 4
+[19:32:27] [Server thread/INFO]: item.string0: 10: 1: 4
+[19:32:27] [Server thread/INFO]: item.sulphur0: 10: 1: 4
+[19:32:27] [Server thread/INFO]: item.wadingBoots0: 5: 1: 1
+[19:32:27] [Server thread/INFO]: tile.flowers.deadbloom2: 25: 1: 4
+[19:32:27] [Server thread/INFO]: tile.flowers.glowflower3: 25: 1: 4
+[19:32:27] [Server thread/INFO]: tile.obsidian0: 5: 3: 7
+[19:32:27] [Server thread/INFO]: tile.plants.thorn5: 20: 4: 6
+[19:32:27] [Server thread/INFO]: tile.rail0: 1: 4: 8
+[19:32:27] [Server thread/INFO]: tile.sapling.oak0: 5: 3: 7
+[19:32:27] [Server thread/INFO]: Total Weight: 480
+[19:32:27] [Server thread/INFO]: TwilightForestMod mod found.
+[19:32:27] [Server thread/INFO]: Success in registering ThaumicTinkerer
+[19:32:27] [Server thread/INFO]: Forge Mod Loader has successfully loaded 40 mods
+[19:32:29] [Server thread/INFO]: [WorldBorder] Loading WorldBorder v1.7.9
+[19:32:29] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v5.6.3
+[19:32:31] [Server thread/INFO]: Preparing spawn area: 73%
+[19:32:31] [Server thread/INFO]: [WorldBorder] Enabling WorldBorder v1.7.9
+[19:32:31] [Server thread/INFO]: [WorldBorder] [CONFIG] Using elliptic/round border, knockback of 3.0 blocks, and timer delay of 5.
+[19:32:31] [Server thread/INFO]: [WorldBorder] [CONFIG] Border-checking timed task started.
+[19:32:31] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v5.6.3
+[19:35:53] [Server thread/INFO]: Assigning initial aspects to Crustifer
+[19:37:14] [Server thread/INFO]: Crustifer has just earned the achievement [Taking Inventory]
+[19:37:20] [Server thread/INFO]: Crustifer issued server command: /plugins
+[19:40:22] [Server thread/INFO]: Crustifer issued server command: /fly
+[19:40:25] [Server thread/INFO]: Crustifer issued server command: /help
+[19:40:29] [Server thread/INFO]: Crustifer issued server command: /gamemode set 1
+[19:40:34] [Server thread/INFO]: Crustifer issued server command: /gamemode set Crustifr
+[19:40:38] [Server thread/INFO]: Crustifer issued server command: /gamemode set Crustifer 1
+[19:40:48] [Server thread/INFO]: Crustifer issued server command: /gamemode
+[19:40:54] [Server thread/INFO]: Crustifer issued server command: /gamemode 1 Crustifer
+[19:40:54] [Server thread/INFO]: Crustifer: Set own game mode to CREATIVE mode
+[19:41:17] [Server thread/INFO]: Crustifer issued server command: //set 1
+[19:41:20] [Server thread/INFO]: Crustifer issued server command: //set 1
+[19:41:23] [Server thread/INFO]: Crustifer issued server command: //set
+[19:41:26] [Server thread/INFO]: Crustifer issued server command: //help
+[19:41:46] [Server thread/INFO]: Crustifer issued server command: //pos1
+[19:42:03] [Server thread/INFO]: Crustifer issued server command: //pos 2
+[19:42:06] [Server thread/INFO]: Crustifer issued server command: //pos2
+[19:42:07] [Server thread/INFO]: Crustifer issued server command: //copy
+[19:42:24] [Server thread/INFO]: Crustifer issued server command: //paste
+[19:42:33] [Server thread/INFO]: Crustifer issued server command: //undo
+[19:42:43] [Server thread/INFO]: Crustifer issued server command: //pos2
+[19:42:45] [Server thread/INFO]: Crustifer issued server command: //copy
+[19:43:00] [Server thread/INFO]: Crustifer issued server command: //pos1
+[19:43:09] [Server thread/INFO]: Crustifer issued server command: //pos2
+[19:43:30] [Server thread/INFO]: Crustifer issued server command: //paste
+[19:45:27] [Server thread/INFO]: Crustifer issued server command: //pos1
+[19:45:41] [Server thread/INFO]: Crustifer issued server command: //pos2
+[19:45:54] [Server thread/INFO]: Crustifer issued server command: //replace 44:1 22
+[19:47:05] [Server thread/INFO]: Crustifer issued server command: /set 24:2
+[19:47:08] [Server thread/INFO]: Crustifer issued server command: //set 24:2
+[19:47:35] [Server thread/INFO]: Crustifer issued server command: //set 43:1
+[19:47:38] [Server thread/INFO]: Crustifer issued server command: //set 43:2
+[19:47:42] [Server thread/INFO]: Crustifer issued server command: //set 43:3
+[19:48:04] [Server thread/INFO]: Crustifer issued server command: //set 44:1
+[19:48:13] [Server thread/INFO]: Crustifer issued server command: //set 43
+[19:49:02] [Server thread/INFO]: [Crustifer: Given [Heavy Mecha Golem] * 1 to Crustifer]
+[19:49:02] [Server thread/INFO]: [Crustifer: Given [Heavy Mecha Golem] * 1 to Crustifer]
+[19:50:33] [Server thread/INFO]: Crustifer has just earned the achievement [Learning to Tinker]
+[19:51:00] [Server thread/INFO]: Crustifer issued server command: /plugins
+[19:51:03] [Server thread/INFO]: Crustifer issued server command: /tp 0 0
+[19:51:06] [Server thread/INFO]: Crustifer issued server command: /tp 0 64 0
+[19:51:06] [Server thread/INFO]: Crustifer: Teleported Crustifer to 0.50, 64.50, 0.50
+[19:52:38] [Server thread/INFO]: Crustifer issued server command: /tp 0 64 0
+[19:52:38] [Server thread/INFO]: Crustifer: Teleported Crustifer to 0.50, 64.50, 0.50
+[19:52:43] [Server thread/INFO]: Crustifer issued server command: /wb
+[19:53:09] [Server thread/INFO]: Crustifer issued server command: /wb set 10000
+[19:53:36] [Server thread/INFO]: Crustifer issued server command: /wb shape round
+[19:53:36] [Server thread/INFO]: [WorldBorder] Set default border shape to elliptic/round.
+[19:54:24] [Server thread/INFO]: Crustifer issued server command: /wb fill 3 208 true
+[19:55:25] [Server thread/INFO]: Crustifer issued server command: /wb fill pause
+[19:55:28] [Server thread/INFO]: Crustifer issued server command: /wb fill stop
+[19:55:43] [Server thread/INFO]: Crustifer issued server command: /wb fill 40 208 true
+[19:57:20] [Server thread/INFO]: Crustifer issued server command: /wb
+[19:57:21] [Server thread/INFO]: Crustifer issued server command: /wb stop
+[19:57:26] [Server thread/INFO]: Crustifer issued server command: /wb fill stop
+[19:57:41] [Server thread/INFO]: Crustifer issued server command: /wb fill 1000 208 false
+[20:01:42] [Server thread/INFO]: Crustifer issued server command: /wb fill end
+[20:01:46] [Server thread/INFO]: Crustifer issued server command: /wb fill cancel
+[20:01:53] [Server thread/INFO]: Crustifer issued server command: /wb fill 1000 208 false
+[20:02:34] [Server thread/INFO]: Crustifer issued server command: /wb fill cancel
+[20:03:38] [Server thread/INFO]: Crustifer issued server command: //pos1
+[20:04:07] [Server thread/INFO]: Crustifer issued server command: //pos2
+[20:04:10] [Server thread/INFO]: Crustifer issued server command: //copy
+[20:04:36] [Server thread/INFO]: Crustifer issued server command: //paste
+[20:12:40] [Server thread/INFO]: Crustifer issued server command: /brush
+[20:12:46] [Server thread/INFO]: Crustifer issued server command: /brush sphere
+[20:12:49] [Server thread/INFO]: Crustifer issued server command: /brush sphere dirt
+[20:13:00] [Server thread/INFO]: Crustifer issued server command: //undo 10
+[20:13:03] [Server thread/INFO]: Crustifer issued server command: /undo 1-
+[20:13:04] [Server thread/INFO]: Crustifer issued server command: //undo 10
+[20:13:09] [Server thread/INFO]: Crustifer issued server command: //undo 3
+[20:13:22] [Server thread/INFO]: Crustifer issued server command: //undo
+[20:13:23] [Server thread/INFO]: Crustifer issued server command: //undo
+[20:13:25] [Server thread/INFO]: Crustifer issued server command: //undo
+[20:13:26] [Server thread/INFO]: Crustifer issued server command: //undo
+[20:15:43] [Server thread/INFO]: Crustifer issued server command: //
+[20:15:45] [Server thread/INFO]: Crustifer issued server command: //
+[20:15:46] [Server thread/INFO]: Crustifer issued server command: //help
+[20:15:47] [Server thread/INFO]: Crustifer issued server command: //cyl
+[20:20:10] [Server thread/INFO]: Crustifer issued server command: //
+[20:20:11] [Server thread/INFO]: Crustifer issued server command: //
+[20:20:13] [Server thread/INFO]: Crustifer issued server command: //help
+[20:22:11] [Server thread/INFO]: Crustifer issued server command: //pos1
+[20:22:43] [Server thread/INFO]: Crustifer issued server command: //pos2
+[20:22:59] [Server thread/INFO]: Crustifer issued server command: //copy
+[20:23:04] [Server thread/INFO]: Crustifer issued server command: //paste
+[20:23:22] [Server thread/INFO]: Crustifer issued server command: //kill
+[20:23:57] [Server thread/INFO]: Crustifer issued server command: //cover
+[20:23:59] [Server thread/INFO]: Crustifer issued server command: //layer
+[20:24:20] [Server thread/INFO]: Crustifer issued server command: /back
+[20:24:33] [Server thread/INFO]: Crustifer issued server command: //paste
+[20:24:57] [Server thread/INFO]: Crustifer issued server command: //paste
+[20:28:50] [Server thread/INFO]: Crustifer issued server command: //pos1
+[20:29:01] [Server thread/INFO]: Crustifer issued server command: //pos2
+[20:29:24] [Server thread/INFO]: Crustifer issued server command: //cut
+[20:29:42] [Server thread/INFO]: Crustifer issued server command: //paste
+[20:30:00] [Server thread/INFO]: Crustifer issued server command: //undo
+[20:30:08] [Server thread/INFO]: Crustifer issued server command: //paste
+[20:31:02] [Server thread/INFO]: Crustifer issued server command: //stack 2
+[20:31:11] [Server thread/INFO]: Crustifer issued server command: //stack 2
+[20:31:25] [Server thread/INFO]: Crustifer issued server command: //stack 2
+[20:31:49] [Server thread/INFO]: Crustifer issued server command: //stack 2
+[20:31:58] [Server thread/INFO]: Crustifer issued server command: //stack 2
+[20:32:08] [Server thread/INFO]: Crustifer issued server command: //stack 2
+[20:32:17] [Server thread/INFO]: Crustifer issued server command: //stack 2
+[20:32:29] [Server thread/INFO]: Crustifer issued server command: //stack 2
+[20:34:16] [Server thread/INFO]: Crustifer issued server command: //move
+[20:34:23] [Server thread/INFO]: Crustifer issued server command: //move 3
+[20:34:26] [Server thread/INFO]: Crustifer issued server command: //move 4
+[20:34:30] [Server thread/INFO]: Crustifer issued server command: //move 10
+[20:34:36] [Server thread/INFO]: Crustifer issued server command: //undo
+[20:34:40] [Server thread/INFO]: Crustifer issued server command: //move 4
+[20:34:45] [Server thread/INFO]: Crustifer issued server command: //undo
+[20:35:33] [Server thread/INFO]: Crustifer issued server command: //move 3
+[20:35:37] [Server thread/INFO]: Crustifer issued server command: //undo
+[20:36:09] [Server thread/INFO]: Crustifer issued server command: //cop
+[20:36:09] [Server thread/INFO]: Crustifer issued server command: //copy
+[20:36:09] [Server thread/INFO]: Crustifer issued server command: //paste
+[20:47:01] [Server thread/INFO]: Crustifer issued server command: /kill
+[20:47:01] [Server thread/INFO]: Crustifer died
+[20:47:29] [Server thread/INFO]: 0
+[20:47:29] [Server thread/INFO]: 0
+[20:47:29] [Server thread/INFO]: 0
+[20:47:43] [Server thread/INFO]: Crustifer left the game.
+[20:48:12] [Server thread/INFO]: Crustifer left the game.
+[20:48:23] [Server thread/INFO]: Crustifer left the game.
+[20:49:51] [Server thread/INFO]: 0
+[20:49:51] [Server thread/INFO]: 0
+[20:50:24] [Server thread/INFO]: Crustifer left the game.
+[20:56:18] [Server thread/INFO]: [Crustifer: Given [Paper] * ∞ to Crustifer]
+[20:57:54] [Server thread/INFO]: [Crustifer: Given [Torch] * 64 to Crustifer]
+[20:58:00] [Server thread/INFO]: [Crustifer: Given [Coal] * 64 to Crustifer]
+[20:58:04] [Server thread/INFO]: [Crustifer: Given [Grass Block] * 64 to Crustifer]
+[20:58:11] [Server thread/INFO]: [Crustifer: Given [Trapdoor] * 64 to Crustifer]
+[20:58:15] [Server thread/INFO]: [Crustifer: Given [Chest] * 64 to Crustifer]
+[20:58:31] [Server thread/INFO]: [Crustifer: Given [Glass] * 64 to Crustifer]
+[20:59:36] [Server thread/INFO]: [Crustifer: Given [Raw Chicken] * 64 to Crustifer]
+[20:59:45] [Server thread/INFO]: [Crustifer: Given [Soul Sand] * 64 to Crustifer]
+[20:59:55] [Server thread/INFO]: [Crustifer: Given [Rotten Flesh] * 64 to Crustifer]
+[21:00:18] [Server thread/INFO]: [Crustifer: Given [Flint] * 64 to Crustifer]
+[21:00:22] [Server thread/INFO]: [Crustifer: Given [Obsidian] * 64 to Crustifer]
+[21:01:16] [Server thread/INFO]: [Crustifer: Given [Coal Ore] * 64 to Crustifer]
+[21:02:51] [Server thread/INFO]: [Crustifer: Given [Raw Chicken] * 64 to Crustifer]
+[21:04:19] [Server thread/INFO]: [Crustifer: Given [item.itemAspect] * ∞ to Crustifer]
+[21:04:19] [Server thread/INFO]: [Crustifer: Given [item.itemAspect] * ∞ to Crustifer]
+[21:04:20] [Server thread/INFO]: [Crustifer: Given [item.itemAspect] * ∞ to Crustifer]
+[21:04:20] [Server thread/INFO]: [Crustifer: Given [item.itemAspect] * ∞ to Crustifer]
+[21:04:20] [Server thread/INFO]: [Crustifer: Given [item.itemAspect] * ∞ to Crustifer]
+[21:04:20] [Server thread/INFO]: [Crustifer: Given [item.itemAspect] * ∞ to Crustifer]
+[21:04:21] [Server thread/INFO]: [Crustifer: Given [item.itemAspect] * ∞ to Crustifer]
+[21:04:28] [Server thread/INFO]: [Crustifer: Given [item.itemAspect] * 1 to Crustifer]
+[21:04:29] [Server thread/INFO]: [Crustifer: Given [item.itemAspect] * 1 to Crustifer]
+[21:04:35] [Server thread/INFO]: [Crustifer: Given [item.itemAspect] * 1 to Crustifer]
+[21:04:35] [Server thread/INFO]: [Crustifer: Given [item.itemAspect] * 1 to Crustifer]
+[21:04:36] [Server thread/INFO]: [Crustifer: Given [item.itemAspect] * 1 to Crustifer]
+[21:04:36] [Server thread/INFO]: [Crustifer: Given [item.itemAspect] * 1 to Crustifer]
+[21:04:36] [Server thread/INFO]: [Crustifer: Given [item.itemAspect] * 1 to Crustifer]
+[21:04:36] [Server thread/INFO]: [Crustifer: Given [item.itemAspect] * 1 to Crustifer]
+[21:04:37] [Server thread/INFO]: [Crustifer: Given [item.itemAspect] * 1 to Crustifer]
+[21:04:43] [Server thread/INFO]: [Crustifer: Given [item.itemAspect] * 1 to Crustifer]
+[21:04:44] [Server thread/INFO]: [Crustifer: Given [item.itemAspect] * 1 to Crustifer]
+[21:04:44] [Server thread/INFO]: [Crustifer: Given [item.itemAspect] * 1 to Crustifer]
+[21:04:44] [Server thread/INFO]: [Crustifer: Given [item.itemAspect] * 1 to Crustifer]
+[21:04:44] [Server thread/INFO]: [Crustifer: Given [item.itemAspect] * 1 to Crustifer]
+[21:04:45] [Server thread/INFO]: [Crustifer: Given [item.itemAspect] * 1 to Crustifer]
+[21:04:45] [Server thread/INFO]: [Crustifer: Given [item.itemAspect] * 1 to Crustifer]
+[21:04:45] [Server thread/INFO]: [Crustifer: Given [item.itemAspect] * 1 to Crustifer]
+[21:04:59] [Server thread/INFO]: [Crustifer: Given [item.itemAspect] * 1 to Crustifer]
+[21:04:59] [Server thread/INFO]: [Crustifer: Given [item.itemAspect] * 1 to Crustifer]
+[21:04:59] [Server thread/INFO]: [Crustifer: Given [item.itemAspect] * 1 to Crustifer]
+[21:04:59] [Server thread/INFO]: [Crustifer: Given [item.itemAspect] * 1 to Crustifer]
+[21:05:00] [Server thread/INFO]: [Crustifer: Given [item.itemAspect] * 1 to Crustifer]
+[21:05:00] [Server thread/INFO]: [Crustifer: Given [item.itemAspect] * 1 to Crustifer]
+[21:05:00] [Server thread/INFO]: [Crustifer: Given [item.itemAspect] * 1 to Crustifer]
+[21:05:01] [Server thread/INFO]: [Crustifer: Given [item.itemAspect] * 1 to Crustifer]
+[21:05:01] [Server thread/INFO]: [Crustifer: Given [item.itemAspect] * 1 to Crustifer]
+[21:05:11] [Server thread/INFO]: [Crustifer: Given [item.itemAspect] * 1 to Crustifer]
+[21:05:12] [Server thread/INFO]: [Crustifer: Given [item.itemAspect] * 1 to Crustifer]
+[21:05:12] [Server thread/INFO]: [Crustifer: Given [item.itemAspect] * 1 to Crustifer]
+[21:05:12] [Server thread/INFO]: [Crustifer: Given [item.itemAspect] * 1 to Crustifer]
+[21:05:12] [Server thread/INFO]: [Crustifer: Given [item.itemAspect] * 1 to Crustifer]
+[21:05:13] [Server thread/INFO]: [Crustifer: Given [item.itemAspect] * 1 to Crustifer]
+[21:05:13] [Server thread/INFO]: [Crustifer: Given [item.itemAspect] * 1 to Crustifer]
+[21:05:13] [Server thread/INFO]: [Crustifer: Given [item.itemAspect] * 1 to Crustifer]
+[21:05:14] [Server thread/INFO]: [Crustifer: Given [item.itemAspect] * 1 to Crustifer]
+[21:05:27] [Server thread/INFO]: [Crustifer: Given [item.itemAspect] * 1 to Crustifer]
+[21:05:32] [Server thread/INFO]: [Crustifer: Given [Ethereal Essence] * 1 to Crustifer]
+[21:05:34] [Server thread/INFO]: [Crustifer: Given [item.itemAspect] * 1 to Crustifer]
+[21:05:37] [Server thread/INFO]: [Crustifer: Given [item.itemAspect] * 1 to Crustifer]
+[21:05:37] [Server thread/INFO]: [Crustifer: Given [item.itemAspect] * 1 to Crustifer]
+[21:05:37] [Server thread/INFO]: [Crustifer: Given [item.itemAspect] * 1 to Crustifer]
+[21:05:38] [Server thread/INFO]: [Crustifer: Given [item.itemAspect] * 1 to Crustifer]
+[21:05:39] [Server thread/INFO]: [Crustifer: Given [item.itemAspect] * 1 to Crustifer]
+[21:12:09] [Server thread/INFO]: 0
+[21:12:09] [Server thread/INFO]: 0
+[21:13:28] [Server thread/INFO]: [Crustifer: Given [Thaumium Pickaxe] * 1 to Crustifer]
+[21:25:29] [Server thread/INFO]: Assigning initial aspects to 
+[21:32:13] [Server thread/INFO]: [Crustifer: Given [Phial of Essentia] * 1 to Crustifer]
+[21:33:03] [Server thread/INFO]: [Crustifer: Given [Void Aspected §kAlchemical§r Wand] * 1 to Crustifer]
+[21:39:58] [Server thread/INFO]: Crustifer left the game.
+[21:41:43] [Server thread/INFO]: [Crustifer: Given [Wand Focus: Shadowbeam] * 1 to Crustifer]
+[21:41:44] [Server thread/INFO]: [Crustifer: Given [Wand Focus: Mending] * 1 to Crustifer]
+[21:41:44] [Server thread/INFO]: [Crustifer: Given [Wand Focus: Uprising] * 1 to Crustifer]
+[21:41:45] [Server thread/INFO]: [Crustifer: Given [Wand Focus: Efreet's Flame] * 1 to Crustifer]
+[21:41:46] [Server thread/INFO]: [Crustifer: Given [Wand Focus: Blink] * 1 to Crustifer]
+[21:41:46] [Server thread/INFO]: [Crustifer: Given [Wand Focus: Purity] * 1 to Crustifer]
+[21:41:47] [Server thread/INFO]: [Crustifer: Given [Compound Recharge Focus] * 1 to Crustifer]
+[21:41:50] [Server thread/INFO]: [Crustifer: Given [Wand Focus: Fire] * 1 to Crustifer]
+[21:41:51] [Server thread/INFO]: [Crustifer: Given [Wand Focus: Shock] * 1 to Crustifer]
+[21:41:51] [Server thread/INFO]: [Crustifer: Given [Wand Focus: Nine Hells] * 1 to Crustifer]
+[21:41:51] [Server thread/INFO]: [Crustifer: Given [Wand Focus: Frost] * 1 to Crustifer]
+[21:41:52] [Server thread/INFO]: [Crustifer: Given [Wand Focus: Equal Trade] * 1 to Crustifer]
+[21:41:53] [Server thread/INFO]: [Crustifer: Given [Wand Focus: Portable Hole] * 1 to Crustifer]
+[21:41:53] [Server thread/INFO]: [Crustifer: Given [Wand Focus: Pech's Curse] * 1 to Crustifer]
+[21:41:54] [Server thread/INFO]: [Crustifer: Given [Wand Focus: Warding] * 1 to Crustifer]
+[21:41:54] [Server thread/INFO]: [Crustifer: Given [Wand Focus: Primal] * 1 to Crustifer]
+[21:41:55] [Server thread/INFO]: [Crustifer: Given [Wand Focus: Celestial Recall] * 1 to Crustifer]
+[21:41:55] [Server thread/INFO]: [Crustifer: Given [Wand Focus: Ender Rift] * 1 to Crustifer]
+[21:41:56] [Server thread/INFO]: [Crustifer: Given [Wand Focus: Telekinesis] * 1 to Crustifer]
+[21:41:56] [Server thread/INFO]: [Crustifer: Given [Wand Focus: Experience Drain] * 1 to Crustifer]
+[21:45:02] [Server thread/INFO]: [Crustifer: Given [TNT] * 1 to Crustifer]
+[21:45:05] [Server thread/INFO]: [Crustifer: Given [TNT] * 1 to Crustifer]
+[21:45:07] [Server thread/INFO]: [Crustifer: Given [TNT] * 64 to Crustifer]
+[21:45:17] [Server thread/INFO]: [Crustifer: Given [Lever] * 1 to Crustifer]
+[21:46:15] [Server thread/INFO]: 0
+[21:46:15] [Server thread/INFO]: 0
+[21:46:15] [Server thread/INFO]: 0
+[21:46:16] [Server thread/INFO]: Crustifer was slain by Zombie
+[21:49:25] [Server thread/INFO]: [Crustifer: Given [Wand Focus: Purity] * 1 to Crustifer]
+[21:49:29] [Server thread/INFO]: Crustifer left the game.
+[21:50:30] [Server thread/INFO]: Crustifer left the game.
+[21:56:45] [Server thread/INFO]: CONSOLE: Stopping the server..
+[21:56:45] [Server thread/INFO]: Stopping server
+[21:56:45] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v5.6.3
+[21:56:45] [Server thread/INFO]: [WorldBorder] Disabling WorldBorder v1.7.9
+[21:56:45] [Server thread/INFO]: [WorldBorder] [CONFIG] Border-checking timed task stopped.
+[21:56:45] [Server thread/INFO]: Applying holder lookups
+[21:56:45] [Server thread/INFO]: Holder lookups applied

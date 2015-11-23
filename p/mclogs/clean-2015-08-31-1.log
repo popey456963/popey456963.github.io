@@ -1,0 +1,39 @@
+[00:33:30] [Server thread/INFO]: Failed
+[01:35:38] [Server thread/INFO]: Failed
+[02:37:44] [Server thread/INFO]: Failed
+[03:39:51] [Server thread/INFO]: Failed
+[04:41:58] [Server thread/INFO]: Failed
+[05:44:05] [Server thread/INFO]: Failed
+[06:46:12] [Server thread/INFO]: Failed
+[07:48:19] [Server thread/INFO]: Failed
+[08:50:25] [Server thread/INFO]: Failed
+[09:52:33] [Server thread/INFO]: Failed
+[10:54:39] [Server thread/INFO]: Failed
+[11:56:46] [Server thread/INFO]: Failed
+[12:58:53] [Server thread/INFO]: Failed
+[14:01:00] [Server thread/INFO]: Failed
+[15:03:07] [Server thread/INFO]: Failed
+[16:05:14] [Server thread/INFO]: Failed
+[17:07:21] [Server thread/INFO]: Failed
+[18:09:28] [Server thread/INFO]: Failed
+[19:11:35] [Server thread/INFO]: Failed
+[20:13:43] [Server thread/INFO]: Failed
+[20:15:27] [Server thread/INFO]: CONSOLE: Stopping the server..
+[20:15:27] [Server thread/INFO]: Stopping server
+[20:15:27] [Server thread/INFO]: [HeroBounty] Disabling HeroBounty v1.9.5
+[20:15:27] [Server thread/INFO]: [EssentialsProtect] Disabling EssentialsProtect v2.12.2
+[20:15:27] [Server thread/INFO]: [EssentialsXMPP] Disabling EssentialsXMPP v2.12.2
+[20:15:27] [Server thread/INFO]: [EpicQuest] Disabling EpicQuest v3.5.4
+[20:15:27] [Server thread/INFO]: [EpicQuest] succesfully disabled.
+[20:15:27] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v6.0.0-beta-03.1514-
+[20:15:27] [Server thread/INFO]: [WorldGuard] Shutting down executor and waiting for any pending tasks...
+[20:15:27] [Server thread/INFO]: [MassiveCore] Disabling MassiveCore v7.4.0
+[20:15:27] [Server thread/INFO]: [MassiveCore 7.4.0] Disabled
+[20:15:27] [Server thread/INFO]: [CommandBook] Disabling CommandBook v2.4:1692-75bb1c8,master
+[20:15:27] [Server thread/INFO]: [Vault] Disabling Vault v1.2.31-b411
+[20:15:27] [Server thread/INFO]: [WorldBorder] Disabling WorldBorder v1.7.9
+[20:15:27] [Server thread/INFO]: [WorldBorder] [CONFIG] Border-checking timed task stopped.
+[20:15:27] [Server thread/INFO]: [Modifyworld] Disabling Modifyworld v1.19.7
+[20:15:27] [Server thread/INFO]: [Modifyworld] Modifyworld successfully disabled!
+[20:15:27] [Server thread/INFO]: [mcMMO] Disabling mcMMO v1.5.00-b3547
+[20:15:59] [Thread-6/INFO]: Stopping server

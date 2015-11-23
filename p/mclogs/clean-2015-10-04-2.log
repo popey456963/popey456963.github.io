@@ -1,0 +1,331 @@
+[21:37:23] [Server thread/INFO]: Loading properties
+[21:37:23] [Server thread/INFO]: Default game type: SURVIVAL
+[21:37:24] [Server thread/INFO]: Using epoll channel type
+[21:37:24] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v5.6.1
+[21:37:24] [Server thread/INFO]: [Essentials] Loading Essentials vTeamCity
+[21:37:24] [Server thread/INFO]: [LaggRemover] Loading LaggRemover v0.1.7
+[21:37:24] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v6.1
+[21:37:24] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v2.4-b527
+[21:37:24] [Server thread/INFO]: [Splegg] Loading Splegg v1.2
+[21:37:24] [Server thread/INFO]: [EssentialsProtect] Loading EssentialsProtect vTeamCity
+[21:37:24] [Server thread/INFO]: [VoxelSniper] Loading VoxelSniper v7.1.0
+[21:37:24] [Server thread/INFO]: [mcMMO] Loading mcMMO v1.5.00-b3547
+[21:37:24] [Server thread/INFO]: [Multiverse-NetherPortals] Loading Multiverse-NetherPortals v2.4-b530
+[21:37:24] [Server thread/INFO]: [Multiverse-Portals] Loading Multiverse-Portals v2.4-b548
+[21:37:24] [Server thread/INFO]: [Vault] Loading Vault v1.5.6-b49
+[21:37:24] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn vTeamCity
+[21:37:24] [Server thread/INFO]: [SkyWarsReloaded] Loading SkyWarsReloaded v2.8
+[21:37:24] [Server thread/INFO]: [MinigamesLib] Loading MinigamesLib v1.13.1
+[21:37:24] [Server thread/INFO]: [Minigames] Loading Minigames v1.7.0
+[21:37:24] [Server thread/INFO]: [MobArena] Loading MobArena v0.97.1
+[21:37:24] [Server thread/INFO]: [TNTRun] Loading TNTRun v3.4
+[21:37:24] [Server thread/INFO]: [HolographicDisplays] Loading HolographicDisplays v2.1.10
+[21:37:24] [Server thread/INFO]: [CommandSigns] Loading CommandSigns v1.9.3.2
+[21:37:24] [Server thread/INFO]: [EpicSpleef] Loading EpicSpleef v0.0.19
+[21:37:24] [Server thread/INFO]: [OnTime] Loading OnTime v4.1.3
+[21:37:24] [Server thread/INFO]: [CraftBook] Loading CraftBook v3.9-SNAPSHOT
+[21:37:24] [Server thread/INFO]: [mcMMO] Enabling mcMMO v1.5.00-b3547
+[21:37:26] [Server thread/INFO]: [Vault] Enabling Vault v1.5.6-b49
+[21:37:27] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v5.6.1
+[21:37:28] [Server thread/INFO]: [Essentials] Enabling Essentials vTeamCity
+[21:37:28] [Server thread/INFO]: git-Bukkit-9935adc (MC: 1.8.8)
+[21:37:28] [Server thread/INFO]: 1.8.8-R0.1-SNAPSHOT
+[21:37:28] [Server thread/INFO]: Using locale en_US
+[21:37:28] [Server thread/INFO]: Using locale en_US
+[21:37:28] [Server thread/INFO]: =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+[21:37:28] [Server thread/INFO]:         Developed by AgentR
+[21:37:28] [Server thread/INFO]:               Loading...
+[21:37:28] [Server thread/INFO]: =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+[21:37:28] [Server thread/INFO]: =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+[21:37:28] [Server thread/INFO]:         Loaded successfully!
+[21:37:28] [Server thread/INFO]: =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+[21:37:28] [Server thread/INFO]: [LaggRemover] Enabling LaggRemover v0.1.7
+[21:37:28] [Server thread/INFO]: [LaggRemover] LaggRemover has been enabled!
+[21:37:28] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v6.1
+[21:37:28] [Server thread/INFO]: [WorldGuard] (TEST) Lighters are PERMITTED.
+[21:37:28] [Server thread/INFO]: [WorldGuard] (TEST) Lava fire is blocked.
+[21:37:28] [Server thread/INFO]: [WorldGuard] (TEST) Fire spread is UNRESTRICTED.
+[21:37:28] [Server thread/INFO]: [WorldGuard] (TEST_nether) Lighters are PERMITTED.
+[21:37:28] [Server thread/INFO]: [WorldGuard] (TEST_nether) Lava fire is blocked.
+[21:37:28] [Server thread/INFO]: [WorldGuard] (TEST_nether) Fire spread is UNRESTRICTED.
+[21:37:28] [Server thread/INFO]: [WorldGuard] (TEST_the_end) Lighters are PERMITTED.
+[21:37:28] [Server thread/INFO]: [WorldGuard] (TEST_the_end) Lava fire is blocked.
+[21:37:28] [Server thread/INFO]: [WorldGuard] (TEST_the_end) Fire spread is UNRESTRICTED.
+[21:37:29] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v2.4-b527
+[21:37:29] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'TEST' - Env: NORMAL - Type: NORMAL & seed: -2024018835920597302
+[21:37:29] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'TEST_nether' - Env: NETHER - Type: NORMAL & seed: -2024018835920597302
+[21:37:29] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'TEST_the_end' - Env: THE_END - Type: NORMAL & seed: -2024018835920597302
+[21:37:29] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'lobby' - Env: NORMAL - Type: NORMAL & seed: -3770714656453924402
+[21:37:29] [Server thread/INFO]: [WorldGuard] (lobby) Lighters are PERMITTED.
+[21:37:29] [Server thread/INFO]: [WorldGuard] (lobby) Lava fire is blocked.
+[21:37:29] [Server thread/INFO]: [WorldGuard] (lobby) Fire spread is UNRESTRICTED.
+[21:37:29] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'minigames' - Env: NORMAL - Type: FLAT & seed: 2973644325369467684
+[21:37:29] [Server thread/INFO]: [WorldGuard] (minigames) Lighters are PERMITTED.
+[21:37:29] [Server thread/INFO]: [WorldGuard] (minigames) Lava fire is blocked.
+[21:37:29] [Server thread/INFO]: [WorldGuard] (minigames) Fire spread is UNRESTRICTED.
+[21:37:30] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'Skyscraper' - Env: NORMAL - Type: FLAT & seed: -2845274568091306621
+[21:37:30] [Server thread/INFO]: [WorldGuard] (Skyscraper) Lighters are PERMITTED.
+[21:37:30] [Server thread/INFO]: [WorldGuard] (Skyscraper) Lava fire is blocked.
+[21:37:30] [Server thread/INFO]: [WorldGuard] (Skyscraper) Fire spread is UNRESTRICTED.
+[21:37:31] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'Skywars' - Env: NORMAL - Type: FLAT & seed: 3121935573477155779
+[21:37:31] [Server thread/INFO]: [WorldGuard] (Skywars) Lighters are PERMITTED.
+[21:37:31] [Server thread/INFO]: [WorldGuard] (Skywars) Lava fire is blocked.
+[21:37:31] [Server thread/INFO]: [WorldGuard] (Skywars) Fire spread is UNRESTRICTED.
+[21:37:31] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'spawn' - Env: NORMAL - Type: NORMAL & seed: 2261197457111850464
+[21:37:31] [Server thread/INFO]: [WorldGuard] (spawn) Lighters are PERMITTED.
+[21:37:31] [Server thread/INFO]: [WorldGuard] (spawn) Lava fire is blocked.
+[21:37:31] [Server thread/INFO]: [WorldGuard] (spawn) Fire spread is UNRESTRICTED.
+[21:37:32] [Server thread/INFO]: [Multiverse-Core] 9 - World(s) loaded.
+[21:37:32] [Server thread/INFO]: [Splegg] Enabling Splegg v1.2
+[21:37:32] [Server thread/INFO]: [Splegg] Loading map SpleggOne.
+[21:37:32] [Server thread/INFO]: [Splegg] Map is usable
+[21:37:32] [Server thread/INFO]: [Splegg] Load Complete!
+[21:37:32] [Server thread/INFO]: [Splegg] Loading map ArenaOne.
+[21:37:32] [Server thread/INFO]: [Splegg] Spawn count is 0
+[21:37:32] [Server thread/INFO]: [Splegg] No floors are setup.
+[21:37:32] [Server thread/INFO]: [Splegg] --<>-- PLEASE SETUP MAP!! --<>--
+[21:37:32] [Server thread/INFO]: [Splegg] Load Complete!
+[21:37:32] [Server thread/INFO]: [EssentialsProtect] Enabling EssentialsProtect vTeamCity
+[21:37:32] [Server thread/INFO]: [VoxelSniper] Enabling VoxelSniper v7.1.0
+[21:37:32] [Server thread/INFO]: [Multiverse-NetherPortals] Enabling Multiverse-NetherPortals v2.4-b530
+[21:37:33] [Server thread/INFO]: [Multiverse-Portals] Enabling Multiverse-Portals v2.4-b548
+[21:37:34] [Server thread/INFO]: [Multiverse-Portals]  1 - Portals(s) loaded
+[21:37:34] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn vTeamCity
+[21:37:34] [Server thread/INFO]: [SkyWarsReloaded] Enabling SkyWarsReloaded v2.8
+[21:37:34] [Server thread/INFO]: [SkyWarsReloaded] Loading support for v1_8_R3
+[21:37:34] [Server thread/INFO]: [WorldGuard] (caves) Lighters are PERMITTED.
+[21:37:34] [Server thread/INFO]: [WorldGuard] (caves) Lava fire is blocked.
+[21:37:34] [Server thread/INFO]: [WorldGuard] (caves) Fire spread is UNRESTRICTED.
+[21:37:35] [Server thread/INFO]: [SkyWarsReloaded] Registered Map caves!
+[21:37:37] [Server thread/INFO]: [MinigamesLib] Enabling MinigamesLib v1.13.1
+[21:37:37] [Server thread/INFO]: [Minigames] Enabling Minigames v1.7.0
+[21:37:37] [Server thread/INFO]: [Minigames] Using lang en_AU
+[21:37:37] [Server thread/INFO]: Minigames successfully enabled.
+[21:37:43] [Server thread/INFO]: [MobArena] Enabling MobArena v0.97.1
+[21:37:45] [Server thread/INFO]: [MobArena] Loaded arena 'default'
+[21:37:45] [Server thread/INFO]: [MobArena] Loaded arena 'god-arena'
+[21:37:45] [Server thread/INFO]: [MobArena] v0.97.1 enabled.
+[21:37:45] [Server thread/INFO]: [TNTRun] Enabling TNTRun v3.4
+[21:37:45] [Server thread/INFO]: [HolographicDisplays] Enabling HolographicDisplays v2.1.10
+[21:37:45] [Server thread/INFO]: [CommandSigns] Enabling CommandSigns v1.9.3.2
+[21:37:45] [Server thread/INFO]: [CommandSigns] No signs found.
+[21:37:57] [Server thread/INFO]: [EpicSpleef] Enabling EpicSpleef v0.0.19
+[21:37:57] [Server thread/INFO]: [EpicSpleef] Enabling EpicSpleef by BtoBastian
+[21:37:57] [Server thread/INFO]: [EpicSpleef] Loading lobby SpleefOne
+[21:37:57] [Server thread/INFO]: [EpicSpleef] Loading arena ArenaOne
+[21:37:58] [Server thread/INFO]: [EpicSpleef] Successfully loaded arena ArenaOne. (world: minigames, blocks: 5233, maxPlayers: 0)
+[21:37:58] [Server thread/INFO]: [EpicSpleef] Loading arena SpleefOne
+[21:37:58] [Server thread/INFO]: [EpicSpleef] Successfully loaded arena SpleefOne. (world: minigames, blocks: 0, maxPlayers: 0)
+[21:37:58] [Server thread/INFO]: [OnTime] Enabling OnTime v4.1.3
+[21:37:59] [Server thread/INFO]: [CraftBook] Enabling CraftBook v3.9-SNAPSHOT
+[21:38:00] [Server thread/INFO]: [CraftBook] Successfully added 1 CommandItems!
+[21:38:00] [Server thread/INFO]: [CraftBook] Registered 3 custom recipes!
+[21:38:00] [Server thread/INFO]: [CraftBook] 6373 chunk(s) for 9 world(s) processed (35ms elapsed)
+[21:38:12] [Server thread/INFO]: Found 0 arenas.
+[21:38:14] [Server thread/INFO]: ThunderCS issued server command: /warp skywars
+[21:38:22] [Server thread/INFO]: Twiixtor issued server command: /tp thun
+[21:38:30] [Server thread/INFO]: ThunderCS issued server command: //pos1
+[21:38:45] [Server thread/INFO]: ThunderCS issued server command: //pos2
+[21:38:47] [Server thread/INFO]: ThunderCS issued server command: //copy
+[21:38:50] [Server thread/INFO]: Staff: [Mod] ThunderCS
+[21:38:50] [Server thread/INFO]: Developers: [Dev] Chris, [Dev] Twiixtor, [Dev] UnSeen
+[21:38:59] [Server thread/INFO]: Crustifer issued server command: /tp thunder
+[21:39:03] [Server thread/INFO]: Twiixtor issued server command: /tp ThunderCS
+[21:39:05] [Server thread/INFO]: Twiixtor issued server command: /tp AttrebusMede
+[21:39:06] [Server thread/INFO]: [WorldGuard] (skywars1) Lighters are PERMITTED.
+[21:39:06] [Server thread/INFO]: [WorldGuard] (skywars1) Lava fire is blocked.
+[21:39:06] [Server thread/INFO]: [WorldGuard] (skywars1) Fire spread is UNRESTRICTED.
+[21:39:09] [Server thread/INFO]: Twiixtor issued server command: //wand
+[21:39:24] [Server thread/INFO]: Crustifer issued server command: /plugins
+[21:39:26] [Server thread/INFO]: ThunderCS issued server command: //paste
+[21:39:36] [Server thread/INFO]: Crustifer issued server command: /mcmmo
+[21:39:36] [Server thread/INFO]: Staff: [Mod] ThunderCS
+[21:39:36] [Server thread/INFO]: Developers: [Dev] Chris, [Dev] Twiixtor, [Dev] UnSeen
+[21:40:23] [Server thread/INFO]: Staff: [Mod] ThunderCS
+[21:40:23] [Server thread/INFO]: Developers: [Dev] Chris, [Dev] Twiixtor, [Dev] UnSeen
+[21:40:29] [Server thread/INFO]: Twiixtor issued server command: /kit color
+[21:40:32] [Server thread/INFO]: ThunderCS issued server command: /deletewarp Skywars
+[21:40:39] [Server thread/INFO]: ThunderCS issued server command: /warpdelete Skywars
+[21:40:53] [Server thread/INFO]: Twiixtor issued server command: /nick &6[Giraffe]&4Twiixtor
+[21:41:09] [Server thread/INFO]: Staff: [Mod] ThunderCS
+[21:41:09] [Server thread/INFO]: Developers: [Dev] Chris, [Dev] Twiixtor, [Dev] UnSeen
+[21:41:10] [Server thread/INFO]: Crustifer issued server command: //copy
+[21:41:12] [Server thread/INFO]: Twiixtor issued server command: /nick &6Giraffe_&4Twiixtor
+[21:41:18] [Server thread/INFO]: Crustifer issued server command: //paste
+[21:41:23] [Server thread/INFO]: Twiixtor issued server command: /nick &6Giraffe&f_&4Twiixtor
+[21:41:40] [Server thread/INFO]: ThunderCS issued server command: /delwarp SkyWars
+[21:41:45] [Server thread/INFO]: ThunderCS issued server command: /setwarp SkyWars
+[21:41:48] [Server thread/INFO]: ThunderCS issued server command: /time set 0
+[21:41:49] [Server thread/INFO]: Twiixtor issued server command: /nick off
+[21:41:56] [Server thread/INFO]: Staff: [Mod] ThunderCS
+[21:41:56] [Server thread/INFO]: Developers: [Dev] Chris, [Dev] Twiixtor, [Dev] UnSeen
+[21:41:57] [Server thread/INFO]: Twiixtor issued server command: /nick &9Twiixtor
+[21:42:18] [Server thread/INFO]: ThunderCS issued server command: /swr join
+[21:42:43] [Server thread/INFO]: Staff: [Mod] ThunderCS
+[21:42:43] [Server thread/INFO]: Developers: [Dev] Chris, [Dev] Twiixtor, [Dev] UnSeen
+[21:42:46] [Server thread/INFO]: Twiixtor issued server command: /tp Twiixtor 465 20 -894
+[21:42:46] [Server thread/INFO]: Twiixtor issued server command: /tppos 465 20 -894
+[21:43:04] [Server thread/INFO]: Twiixtor issued server command: /tp Twiixtor 640 4 257
+[21:43:05] [Server thread/INFO]: Twiixtor issued server command: /tppos 640 4 257
+[21:43:13] [Server thread/INFO]: ThunderCS issued server command: /wawp spawn
+[21:43:16] [Server thread/INFO]: Twiixtor issued server command: /speed 5
+[21:43:17] [Server thread/INFO]: ThunderCS issued server command: /warp spawn
+[21:43:20] [Server thread/INFO]: ThunderCS issued server command: /swr join
+[21:43:24] [Server thread/INFO]: ThunderCS issued server command: /swr lobby
+[21:43:29] [Server thread/INFO]: ThunderCS issued server command: /swr menu
+[21:43:29] [Server thread/INFO]: Staff: [Mod] ThunderCS
+[21:43:29] [Server thread/INFO]: Developers: [Dev] Chris, [Dev] Twiixtor, [Dev] UnSeen
+[21:43:32] [Server thread/INFO]: Twiixtor issued server command: //expand 30 up
+[21:43:33] [Server thread/INFO]: Twiixtor issued server command: //set 0
+[21:43:42] [Server thread/INFO]: Twiixtor issued server command: //set grass
+[21:43:44] [Server thread/INFO]: Twiixtor issued server command: /killall mobs
+[21:43:52] [Server thread/INFO]: Twiixtor issued server command: /tp Twiixtor -425 4 0
+[21:43:52] [Server thread/INFO]: Twiixtor issued server command: /tppos -425 4 0
+[21:43:53] [Server thread/INFO]: ThunderCS issued server command: /swr lobby
+[21:43:57] [Server thread/INFO]: ThunderCS issued server command: /swr adlobby
+[21:44:16] [Server thread/INFO]: Staff: [Mod] ThunderCS
+[21:44:16] [Server thread/INFO]: Developers: [Dev] Chris, [Dev] Twiixtor, [Dev] UnSeen
+[21:44:19] [Server thread/INFO]: Twiixtor issued server command: //set grass
+[21:44:26] [Server thread/INFO]: ThunderCS issued server command: /swr register SkyWars1
+[21:44:29] [Server thread/INFO]: Twiixtor issued server command: //expand 30 up
+[21:44:30] [Server thread/INFO]: Twiixtor issued server command: //set 0
+[21:44:39] [Server thread/INFO]: Twiixtor issued server command: //expand 30 down
+[21:44:39] [Server thread/INFO]: ThunderCS issued server command: /swr register SkyWars1
+[21:44:48] [Server thread/INFO]: Twiixtor issued server command: //set grass
+[21:44:56] [Server thread/INFO]: ThunderCS issued server command: /warp SkyWars
+[21:45:01] [Server thread/INFO]: ThunderCS issued server command: /warp SkyWars
+[21:45:01] [Server thread/INFO]: Twiixtor issued server command: /killall mobs
+[21:45:02] [Server thread/INFO]: Twiixtor left the game.
+[21:45:02] [Server thread/INFO]: Staff: [Mod] ThunderCS
+[21:45:02] [Server thread/INFO]: Developers: [Dev] Chris, [Dev] UnSeen
+[21:45:04] [Server thread/INFO]: ThunderCS issued server command: /back
+[21:45:12] [Server thread/INFO]: ThunderCS issued server command: /swr Skywars
+[21:45:14] [Server thread/INFO]: ThunderCS issued server command: /swr Skywars1
+[21:45:19] [Server thread/INFO]: ThunderCS issued server command: /swr join Skywars1
+[21:45:30] [Server thread/INFO]: ThunderCS issued server command: /swr menu
+[21:45:42] [Server thread/INFO]: ThunderCS issued server command: /swr edit Skywars1
+[21:45:48] [Server thread/INFO]: ThunderCS issued server command: /warp skywars
+[21:45:49] [Server thread/INFO]: Staff: [Mod] ThunderCS
+[21:45:49] [Server thread/INFO]: Developers: [Dev] Chris, [Dev] UnSeen
+[21:45:56] [Server thread/INFO]: ThunderCS issued server command: //paste
+[21:46:35] [Server thread/INFO]: Staff: [Mod] ThunderCS
+[21:46:35] [Server thread/INFO]: Developers: [Dev] Chris, [Dev] UnSeen
+[21:46:52] [Server thread/INFO]: ThunderCS issued server command: /swr setspawn
+[21:46:59] [Server thread/INFO]: ThunderCS issued server command: /swr menu
+[21:47:22] [Server thread/INFO]: Staff: [Mod] ThunderCS
+[21:47:22] [Server thread/INFO]: Developers: [Dev] Chris, [Dev] UnSeen
+[21:47:38] [Server thread/INFO]: ThunderCS issued server command: /swr register skywars1
+[21:48:14] [Server thread/INFO]: Staff: [Mod] ThunderCS
+[21:48:14] [Server thread/INFO]: Developers: [Dev] Chris, [Dev] UnSeen
+[21:49:01] [Server thread/INFO]: Staff: [Mod] ThunderCS
+[21:49:01] [Server thread/INFO]: Developers: [Dev] Chris, [Dev] UnSeen
+[21:49:47] [Server thread/INFO]: Staff: [Mod] ThunderCS
+[21:49:47] [Server thread/INFO]: Developers: [Dev] Chris, [Dev] UnSeen
+[21:50:34] [Server thread/INFO]: Staff: [Mod] ThunderCS
+[21:50:34] [Server thread/INFO]: Developers: [Dev] Chris, [Dev] UnSeen
+[21:51:20] [Server thread/INFO]: Staff: [Mod] ThunderCS
+[21:51:20] [Server thread/INFO]: Developers: [Dev] Chris, [Dev] Popey, [Dev] UnSeen
+[21:52:07] [Server thread/INFO]: Staff: [Mod] ThunderCS
+[21:52:07] [Server thread/INFO]: Developers: [Dev] Chris, [Dev] Popey, [Dev] UnSeen
+[21:52:21] [Server thread/INFO]: Crustifer issued server command: //replace oak
+[21:52:25] [Server thread/INFO]: Crustifer issued server command: //undo
+[21:52:30] [Server thread/INFO]: Crustifer issued server command: //replace netherbrick oak
+[21:52:54] [Server thread/INFO]: Staff: [AFK][Mod] ThunderCS
+[21:52:54] [Server thread/INFO]: Developers: [Dev] Chris, [Dev] Popey, [Dev] UnSeen
+[21:53:01] [Server thread/INFO]: Crustifer issued server command: //undo
+[21:53:18] [Server thread/INFO]: Crustifer issued server command: //copy
+[21:53:22] [Server thread/INFO]: Crustifer issued server command: //paste
+[21:53:28] [Server thread/INFO]: ThunderCS left the game.
+[21:53:35] [Server thread/INFO]: Crustifer issued server command: //set netherbcik
+[21:53:38] [Server thread/INFO]: Crustifer issued server command: //set netherbrick
+[21:53:40] [Server thread/INFO]: Staff: [Mod] ThunderCS
+[21:53:40] [Server thread/INFO]: Developers: [Dev] Chris, [Dev] Popey, [Dev] UnSeen
+[21:53:47] [Server thread/INFO]: Crustifer issued server command: //move
+[21:53:52] [Server thread/INFO]: ThunderCS issued server command: /warp Skywars
+[21:53:55] [Server thread/INFO]: Crustifer issued server command: //move
+[21:54:02] [Server thread/INFO]: Crustifer issued server command: //stack
+[21:54:10] [Server thread/INFO]: ThunderCS issued server command: //paste
+[21:54:22] [Server thread/INFO]: ThunderCS issued server command: /time set 0
+[21:54:27] [Server thread/INFO]: Staff: [Mod] ThunderCS
+[21:54:27] [Server thread/INFO]: Developers: [Dev] Chris, [Dev] Popey, [Dev] UnSeen
+[21:54:43] [Server thread/INFO]: Crustifer issued server command: //set oak
+[21:54:50] [Server thread/INFO]: Crustifer issued server command: //set oak
+[21:55:13] [Server thread/INFO]: Staff: [Mod] ThunderCS
+[21:55:13] [Server thread/INFO]: Developers: [Dev] Chris, [Dev] Popey, [Dev] UnSeen
+[21:56:00] [Server thread/INFO]: Staff: [Mod] ThunderCS
+[21:56:00] [Server thread/INFO]: Developers: [Dev] Chris, [Dev] Popey, [Dev] UnSeen
+[21:56:01] [Server thread/INFO]: Popey456963 issued server command: /plugins
+[21:56:04] [Server thread/INFO]: Popey456963 issued server command: /tp thund
+[21:56:08] [Server thread/INFO]: Popey456963 issued server command: /tp thund
+[21:56:22] [Server thread/INFO]: Popey456963 issued server command: //pos1
+[21:56:27] [Server thread/INFO]: Popey456963 issued server command: //pos1
+[21:56:36] [Server thread/INFO]: Popey456963 issued server command: //pos2
+[21:56:42] [Server thread/INFO]: Popey456963 issued server command: //copy
+[21:56:46] [Server thread/INFO]: Staff: [Mod] ThunderCS
+[21:56:46] [Server thread/INFO]: Developers: [Dev] Chris, [Dev] Popey, [Dev] UnSeen
+[21:56:52] [Server thread/INFO]: Popey456963 issued server command: /plugins
+[21:57:56] [Server thread/INFO]: ThunderCS issued server command: /warp spawn
+[21:57:59] [Server thread/INFO]: Popey456963 issued server command: /speed 1
+[21:58:14] [Server thread/INFO]: Staff: [Mod] ThunderCS
+[21:58:14] [Server thread/INFO]: Developers: [Dev] Chris, [Dev] Popey, [Dev] UnSeen
+[21:58:17] [Server thread/INFO]: Crustifer issued server command: //move
+[21:58:40] [Server thread/INFO]: Crustifer issued server command: //move
+[21:58:53] [Server thread/INFO]: Crustifer issued server command: //move
+[21:59:01] [Server thread/INFO]: Staff: [Mod] ThunderCS
+[21:59:01] [Server thread/INFO]: Developers: [Dev] Chris, [Dev] Popey, [Dev] UnSeen
+[21:59:02] [Server thread/INFO]: Crustifer issued server command: //move
+[21:59:47] [Server thread/INFO]: Staff: [Mod] ThunderCS
+[21:59:47] [Server thread/INFO]: Developers: [Dev] Chris, [Dev] Popey, [Dev] UnSeen
+[21:59:48] [Server thread/INFO]: ThunderCS issued server command: /swr setspawn
+[22:00:15] [Server thread/INFO]: Popey456963 issued server command: /tp chri
+[22:00:34] [Server thread/INFO]: Staff: [Mod] ThunderCS
+[22:00:34] [Server thread/INFO]: Developers: [Dev] Chris, [Dev] Popey, [Dev] UnSeen
+[22:01:12] [Server thread/INFO]: ThunderCS issued server command: /swr delete skywars1
+[22:01:12] [Server thread/ERROR]: null
+[22:01:18] [Server thread/INFO]: ThunderCS issued server command: /swr edit skywars1
+[22:01:20] [Server thread/INFO]: Staff: [Mod] ThunderCS
+[22:01:20] [Server thread/INFO]: Developers: [Dev] Chris, [Dev] Popey, [Dev] UnSeen
+[22:02:07] [Server thread/INFO]: Staff: [Mod] ThunderCS
+[22:02:07] [Server thread/INFO]: Developers: [Dev] Chris, [Dev] Popey, [Dev] UnSeen
+[22:02:12] [Server thread/INFO]: Popey456963 issued server command: /eco
+[22:02:16] [Server thread/INFO]: Popey456963 issued server command: /eco give Popey456963 900000
+[22:02:54] [Server thread/INFO]: Staff: [Mod] ThunderCS
+[22:02:54] [Server thread/INFO]: Developers: [Dev] Chris, [Dev] Popey, [Dev] UnSeen
+[22:02:56] [Server thread/INFO]: ThunderCS issued server command: /warp skywars
+[22:02:56] [Server thread/INFO]: Crustifer issued server command: /lobbymenu
+[22:02:59] [Server thread/INFO]: ThunderCS issued server command: //paste
+[22:03:11] [Server thread/INFO]: Crustifer left the game.
+[22:03:40] [Server thread/INFO]: Staff: [Mod] ThunderCS
+[22:03:40] [Server thread/INFO]: Developers: [Dev] Chris, [Dev] Popey, [Dev] UnSeen
+[22:04:27] [Server thread/INFO]: Staff: [Mod] ThunderCS
+[22:04:27] [Server thread/INFO]: Developers: [Dev] Chris, [Dev] Popey, [Dev] UnSeen
+[22:04:28] [Server thread/INFO]: Crustifer issued server command: //move
+[22:04:40] [Server thread/INFO]: Crustifer issued server command: //move
+[22:04:48] [Server thread/INFO]: Crustifer issued server command: //undo
+[22:05:13] [Server thread/INFO]: Staff: [Mod] ThunderCS
+[22:05:13] [Server thread/INFO]: Developers: [Dev] Chris, [Dev] Popey, [Dev] UnSeen
+[22:05:14] [Server thread/INFO]: ThunderCS issued server command: /swr reload
+[22:05:14] [Server thread/ERROR]: null
+[22:05:23] [Server thread/INFO]: Crustifer issued server command: //replace netherbrick quartz
+[22:05:24] [Server thread/INFO]: Popey456963 issued server command: /ping
+[22:05:30] [Server thread/INFO]: AttrebusMede left the game.
+[22:05:56] [Server thread/INFO]: Stopping the server
+[22:05:56] [Server thread/INFO]: Stopping server
+[22:05:56] [Server thread/INFO]: [CraftBook] Disabling CraftBook v3.9-SNAPSHOT
+[22:05:56] [Server thread/INFO]: [OnTime] Disabling OnTime v4.1.3
+[22:05:56] [Server thread/INFO]: [EpicSpleef] Disabling EpicSpleef v0.0.19
+[22:05:56] [Server thread/INFO]: [CommandSigns] Disabling CommandSigns v1.9.3.2
+[22:05:56] [Server thread/INFO]: [HolographicDisplays] Disabling HolographicDisplays v2.1.10
+[22:05:56] [Server thread/INFO]: [TNTRun] Disabling TNTRun v3.4
+[22:05:56] [Server thread/INFO]: [MobArena] Disabling MobArena v0.97.1
+[22:05:56] [Server thread/INFO]: [MobArena] disabled.
+[22:05:56] [Server thread/INFO]: [Minigames] Disabling Minigames v1.7.0
+[22:05:56] [Server thread/INFO]: Minigames successfully disabled.
+[22:05:56] [Server thread/INFO]: [MinigamesLib] Disabling MinigamesLib v1.13.1
+[22:05:56] [Server thread/INFO]: [SkyWarsReloaded] Disabling SkyWarsReloaded v2.8
+[22:05:56] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn vTeamCity
+[22:05:56] [Server thread/INFO]: [Vault] Disabling Vault v1.5.6-b49
+[22:05:56] [Server thread/INFO]: [Multiverse-Portals] Disabling Multiverse-Portals v2.4-b548
+[22:05:56] [Server thread/INFO]: [Multiverse-NetherPortals] Disabling Multiverse-NetherPortals v2.4-b530
+[22:05:56] [Server thread/INFO]: [MultiVerse-NetherPortals] - Disabled
+[22:05:56] [Server thread/INFO]: [mcMMO] Disabling mcMMO v1.5.00-b3547

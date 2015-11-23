@@ -1,0 +1,317 @@
+[21:05:07] [Server thread/INFO]: Loading properties
+[21:05:07] [Server thread/INFO]: Default game type: SURVIVAL
+[21:05:07] [Server thread/INFO]: Using epoll channel type
+[21:05:47] [Server thread/INFO]: [DisguiseCraft] Loading DisguiseCraft v5.2
+[21:05:47] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1;no_git_id
+[21:05:47] [Server thread/INFO]: [Essentials] Loading Essentials vTeamCity
+[21:05:47] [Server thread/INFO]: [PlugMan] Loading PlugMan v2.0.7
+[21:05:47] [Server thread/INFO]: [LaggRemover] Loading LaggRemover v0.1.9
+[21:05:47] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v6.1
+[21:05:47] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v2.4-b527
+[21:05:48] [Server thread/INFO]: [Splegg] Loading Splegg v1.2
+[21:05:48] [Server thread/INFO]: [EssentialsProtect] Loading EssentialsProtect vTeamCity
+[21:05:48] [Server thread/INFO]: [VoxelSniper] Loading VoxelSniper v7.1.0
+[21:05:49] [Server thread/INFO]: [mcMMO] Loading mcMMO v1.5.00-b3547
+[21:05:49] [Server thread/INFO]: [Multiverse-NetherPortals] Loading Multiverse-NetherPortals v2.4-b530
+[21:05:49] [Server thread/INFO]: [SuperVanish] Loading SuperVanish v5.4.3
+[21:05:49] [Server thread/INFO]: [Multiverse-Portals] Loading Multiverse-Portals v2.4-b548
+[21:05:49] [Server thread/INFO]: [Vault] Loading Vault v1.5.6-b49
+[21:05:49] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn vTeamCity
+[21:05:49] [Server thread/INFO]: [MassiveCore] Loading MassiveCore v2.8.0
+[21:05:49] [Server thread/INFO]: TimeUnit.MILLIS_PER_MINUTE: 60000
+[21:05:49] [Server thread/INFO]: [MinigamesLib] Loading MinigamesLib v1.13.1
+[21:05:49] [Server thread/INFO]: [Minigames] Loading Minigames v1.7.0
+[21:05:49] [Server thread/INFO]: [MobArena] Loading MobArena v0.97.1
+[21:05:49] [Server thread/INFO]: [TNTRun] Loading TNTRun v3.4
+[21:05:49] [Server thread/INFO]: [HolographicDisplays] Loading HolographicDisplays v2.1.10
+[21:05:49] [Server thread/INFO]: [CommandSigns] Loading CommandSigns v1.9.3.2
+[21:05:49] [Server thread/INFO]: [SkyWars] Loading SkyWars v1.1-m16
+[21:05:49] [Server thread/INFO]: [EpicSpleef] Loading EpicSpleef v0.0.19
+[21:05:49] [Server thread/INFO]: [OnTime] Loading OnTime v4.1.3
+[21:05:49] [Server thread/INFO]: [CraftBook] Loading CraftBook v3.9-SNAPSHOT
+[21:05:49] [Server thread/INFO]: [mcMMO] Enabling mcMMO v1.5.00-b3547
+[21:05:59] [Server thread/INFO]: [Vault] Enabling Vault v1.5.6-b49
+[21:06:00] [Server thread/INFO]: [MassiveCore] Enabling MassiveCore v2.8.0
+[21:06:01] [Server thread/INFO]: [MassiveCore 2.8.0] === ENABLE START ===
+[21:06:05] [Server thread/INFO]: [MassiveCore 2.8.0] §eSetup of IdUtil took §d532§ems.
+[21:06:11] [Server thread/INFO]: [MassiveCore 2.8.0] === ENABLE §aCOMPLETE §e(Took §d10883ms§e) ===
+[21:06:23] [Server thread/INFO]: Preparing spawn area: 0%
+[21:06:24] [Server thread/INFO]: Preparing spawn area: 1%
+[21:06:25] [Server thread/INFO]: Preparing spawn area: 1%
+[21:06:26] [Server thread/INFO]: Preparing spawn area: 2%
+[21:06:27] [Server thread/INFO]: Preparing spawn area: 3%
+[21:06:28] [Server thread/INFO]: Preparing spawn area: 4%
+[21:06:29] [Server thread/INFO]: Preparing spawn area: 5%
+[21:06:30] [Server thread/INFO]: Preparing spawn area: 6%
+[21:06:31] [Server thread/INFO]: Preparing spawn area: 7%
+[21:06:32] [Server thread/INFO]: Preparing spawn area: 9%
+[21:06:33] [Server thread/INFO]: Preparing spawn area: 10%
+[21:06:35] [Server thread/INFO]: Preparing spawn area: 12%
+[21:06:36] [Server thread/INFO]: Preparing spawn area: 13%
+[21:06:37] [Server thread/INFO]: Preparing spawn area: 16%
+[21:06:38] [Server thread/INFO]: Preparing spawn area: 19%
+[21:06:39] [Server thread/INFO]: Preparing spawn area: 20%
+[21:06:40] [Server thread/INFO]: Preparing spawn area: 21%
+[21:06:42] [Server thread/INFO]: Preparing spawn area: 22%
+[21:06:43] [Server thread/INFO]: Preparing spawn area: 24%
+[21:06:44] [Server thread/INFO]: Preparing spawn area: 30%
+[21:06:45] [Server thread/INFO]: Preparing spawn area: 34%
+[21:06:46] [Server thread/INFO]: Preparing spawn area: 37%
+[21:06:48] [Server thread/INFO]: Preparing spawn area: 37%
+[21:06:49] [Server thread/INFO]: Preparing spawn area: 41%
+[21:06:50] [Server thread/INFO]: Preparing spawn area: 44%
+[21:06:52] [Server thread/INFO]: Preparing spawn area: 48%
+[21:06:53] [Server thread/INFO]: Preparing spawn area: 49%
+[21:06:54] [Server thread/INFO]: Preparing spawn area: 50%
+[21:06:55] [Server thread/INFO]: Preparing spawn area: 51%
+[21:06:56] [Server thread/INFO]: Preparing spawn area: 51%
+[21:06:57] [Server thread/INFO]: Preparing spawn area: 52%
+[21:06:58] [Server thread/INFO]: Preparing spawn area: 64%
+[21:06:59] [Server thread/INFO]: Preparing spawn area: 69%
+[21:07:01] [Server thread/INFO]: Preparing spawn area: 0%
+[21:07:02] [Server thread/INFO]: Preparing spawn area: 2%
+[21:07:03] [Server thread/INFO]: Preparing spawn area: 5%
+[21:07:04] [Server thread/INFO]: Preparing spawn area: 6%
+[21:07:05] [Server thread/INFO]: Preparing spawn area: 7%
+[21:07:06] [Server thread/INFO]: Preparing spawn area: 8%
+[21:07:08] [Server thread/INFO]: Preparing spawn area: 10%
+[21:07:09] [Server thread/INFO]: Preparing spawn area: 13%
+[21:07:10] [Server thread/INFO]: Preparing spawn area: 14%
+[21:07:11] [Server thread/INFO]: Preparing spawn area: 16%
+[21:07:13] [Server thread/INFO]: Preparing spawn area: 18%
+[21:07:14] [Server thread/INFO]: Preparing spawn area: 22%
+[21:07:15] [Server thread/INFO]: Preparing spawn area: 27%
+[21:07:16] [Server thread/INFO]: Preparing spawn area: 42%
+[21:07:17] [Server thread/INFO]: Preparing spawn area: 48%
+[21:07:21] [Server thread/INFO]: Preparing spawn area: 50%
+[21:07:22] [Server thread/INFO]: Preparing spawn area: 52%
+[21:07:23] [Server thread/INFO]: Preparing spawn area: 56%
+[21:07:24] [Server thread/INFO]: Preparing spawn area: 59%
+[21:07:25] [Server thread/INFO]: Preparing spawn area: 62%
+[21:07:26] [Server thread/INFO]: Preparing spawn area: 66%
+[21:07:27] [Server thread/INFO]: Preparing spawn area: 66%
+[21:07:29] [Server thread/INFO]: Preparing spawn area: 1%
+[21:07:31] [Server thread/INFO]: Preparing spawn area: 2%
+[21:07:32] [Server thread/INFO]: Preparing spawn area: 3%
+[21:07:33] [Server thread/INFO]: Preparing spawn area: 4%
+[21:07:34] [Server thread/INFO]: Preparing spawn area: 7%
+[21:07:35] [Server thread/INFO]: Preparing spawn area: 10%
+[21:07:36] [Server thread/INFO]: Preparing spawn area: 14%
+[21:07:37] [Server thread/INFO]: Preparing spawn area: 15%
+[21:07:38] [Server thread/INFO]: Preparing spawn area: 18%
+[21:07:39] [Server thread/INFO]: Preparing spawn area: 25%
+[21:07:40] [Server thread/INFO]: Preparing spawn area: 48%
+[21:07:41] [Server thread/INFO]: Preparing spawn area: 48%
+[21:07:43] [Server thread/INFO]: Preparing spawn area: 51%
+[21:07:44] [Server thread/INFO]: Preparing spawn area: 52%
+[21:07:45] [Server thread/INFO]: Preparing spawn area: 54%
+[21:07:47] [Server thread/INFO]: Preparing spawn area: 56%
+[21:07:48] [Server thread/INFO]: Preparing spawn area: 59%
+[21:07:49] [Server thread/INFO]: Preparing spawn area: 64%
+[21:07:50] [Server thread/INFO]: Preparing spawn area: 71%
+[21:07:51] [Server thread/INFO]: Preparing spawn area: 91%
+[21:07:51] [Server thread/INFO]: [DisguiseCraft] Enabling DisguiseCraft v5.2
+[21:07:52] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1;no_git_id
+[21:08:01] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_8_R3 as the Bukkit adapter
+[21:08:01] [Server thread/INFO]: [Essentials] Enabling Essentials vTeamCity
+[21:08:02] [Server thread/INFO]: git-Bukkit-9935adc (MC: 1.8.8)
+[21:08:02] [Server thread/INFO]: 1.8.8-R0.1-SNAPSHOT
+[21:08:06] [Server thread/INFO]: Using locale en_US
+[21:08:09] [Server thread/INFO]: Using locale en_US
+[21:08:09] [Server thread/INFO]: [PlugMan] Enabling PlugMan v2.0.7
+[21:08:10] [Server thread/INFO]: [LaggRemover] Enabling LaggRemover v0.1.9
+[21:08:10] [Server thread/INFO]: [LaggRemover] LaggRemover has been enabled!
+[21:08:11] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v6.1
+[21:08:16] [Server thread/INFO]: [WorldGuard] (survival) Lighters are PERMITTED.
+[21:08:16] [Server thread/INFO]: [WorldGuard] (survival) Lava fire is blocked.
+[21:08:16] [Server thread/INFO]: [WorldGuard] (survival) Fire spread is UNRESTRICTED.
+[21:08:16] [Server thread/INFO]: [WorldGuard] (survival_nether) Lighters are PERMITTED.
+[21:08:16] [Server thread/INFO]: [WorldGuard] (survival_nether) Lava fire is blocked.
+[21:08:16] [Server thread/INFO]: [WorldGuard] (survival_nether) Fire spread is UNRESTRICTED.
+[21:08:16] [Server thread/INFO]: [WorldGuard] (survival_the_end) Lighters are PERMITTED.
+[21:08:16] [Server thread/INFO]: [WorldGuard] (survival_the_end) Lava fire is blocked.
+[21:08:16] [Server thread/INFO]: [WorldGuard] (survival_the_end) Fire spread is UNRESTRICTED.
+[21:08:17] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v2.4-b527
+[21:08:18] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'lobby' - Env: NORMAL - Type: NORMAL & seed: -3770714656453924402
+[21:08:20] [Server thread/INFO]: Preparing spawn area for lobby, 0%
+[21:08:21] [Server thread/INFO]: Preparing spawn area for lobby, 0%
+[21:08:22] [Server thread/INFO]: Preparing spawn area for lobby, 4%
+[21:08:23] [Server thread/INFO]: Preparing spawn area for lobby, 8%
+[21:08:25] [Server thread/INFO]: Preparing spawn area for lobby, 12%
+[21:08:26] [Server thread/INFO]: Preparing spawn area for lobby, 16%
+[21:08:27] [Server thread/INFO]: Preparing spawn area for lobby, 20%
+[21:08:28] [Server thread/INFO]: Preparing spawn area for lobby, 24%
+[21:08:29] [Server thread/INFO]: Preparing spawn area for lobby, 28%
+[21:08:30] [Server thread/INFO]: Preparing spawn area for lobby, 32%
+[21:08:31] [Server thread/INFO]: Preparing spawn area for lobby, 32%
+[21:08:32] [Server thread/INFO]: Preparing spawn area for lobby, 36%
+[21:08:33] [Server thread/INFO]: Preparing spawn area for lobby, 36%
+[21:08:34] [Server thread/INFO]: Preparing spawn area for lobby, 40%
+[21:08:36] [Server thread/INFO]: Preparing spawn area for lobby, 44%
+[21:08:37] [Server thread/INFO]: Preparing spawn area for lobby, 44%
+[21:08:38] [Server thread/INFO]: Preparing spawn area for lobby, 48%
+[21:08:39] [Server thread/INFO]: Preparing spawn area for lobby, 53%
+[21:08:40] [Server thread/INFO]: Preparing spawn area for lobby, 61%
+[21:08:41] [Server thread/INFO]: Preparing spawn area for lobby, 65%
+[21:08:42] [Server thread/INFO]: Preparing spawn area for lobby, 69%
+[21:08:43] [Server thread/INFO]: Preparing spawn area for lobby, 73%
+[21:08:44] [Server thread/INFO]: Preparing spawn area for lobby, 77%
+[21:08:45] [Server thread/INFO]: Preparing spawn area for lobby, 89%
+[21:08:46] [Server thread/INFO]: Preparing spawn area for lobby, 97%
+[21:08:47] [Server thread/INFO]: [WorldGuard] (lobby) Lighters are PERMITTED.
+[21:08:47] [Server thread/INFO]: [WorldGuard] (lobby) Lava fire is blocked.
+[21:08:47] [Server thread/INFO]: [WorldGuard] (lobby) Fire spread is UNRESTRICTED.
+[21:08:48] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'minigames' - Env: NORMAL - Type: FLAT & seed: 2973644325369467684
+[21:08:50] [Server thread/INFO]: Preparing spawn area for minigames, 0%
+[21:08:51] [Server thread/INFO]: Preparing spawn area for minigames, 0%
+[21:08:52] [Server thread/INFO]: Preparing spawn area for minigames, 4%
+[21:08:53] [Server thread/INFO]: Preparing spawn area for minigames, 8%
+[21:08:54] [Server thread/INFO]: Preparing spawn area for minigames, 12%
+[21:08:55] [Server thread/INFO]: Preparing spawn area for minigames, 12%
+[21:08:56] [Server thread/INFO]: Preparing spawn area for minigames, 20%
+[21:08:57] [Server thread/INFO]: Preparing spawn area for minigames, 24%
+[21:08:58] [Server thread/INFO]: Preparing spawn area for minigames, 28%
+[21:08:59] [Server thread/INFO]: Preparing spawn area for minigames, 36%
+[21:09:00] [Server thread/INFO]: Preparing spawn area for minigames, 40%
+[21:09:01] [Server thread/INFO]: Preparing spawn area for minigames, 40%
+[21:09:03] [Server thread/INFO]: Preparing spawn area for minigames, 44%
+[21:09:04] [Server thread/INFO]: Preparing spawn area for minigames, 44%
+[21:09:05] [Server thread/INFO]: Preparing spawn area for minigames, 48%
+[21:09:07] [Server thread/INFO]: Preparing spawn area for minigames, 48%
+[21:09:08] [Server thread/INFO]: Preparing spawn area for minigames, 52%
+[21:09:09] [Server thread/INFO]: Preparing spawn area for minigames, 53%
+[21:09:10] [Server thread/INFO]: Preparing spawn area for minigames, 60%
+[21:09:11] [Server thread/INFO]: Preparing spawn area for minigames, 61%
+[21:09:12] [Server thread/INFO]: Preparing spawn area for minigames, 65%
+[21:09:13] [Server thread/INFO]: Preparing spawn area for minigames, 69%
+[21:09:14] [Server thread/INFO]: Preparing spawn area for minigames, 89%
+[21:09:15] [Server thread/INFO]: Preparing spawn area for minigames, 93%
+[21:09:17] [Server thread/INFO]: Preparing spawn area for minigames, 97%
+[21:09:17] [Server thread/INFO]: [WorldGuard] (minigames) Lighters are PERMITTED.
+[21:09:17] [Server thread/INFO]: [WorldGuard] (minigames) Lava fire is blocked.
+[21:09:17] [Server thread/INFO]: [WorldGuard] (minigames) Fire spread is UNRESTRICTED.
+[21:09:17] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'Skywars' - Env: NORMAL - Type: FLAT & seed: 3121935573477155779
+[21:09:19] [Server thread/INFO]: Preparing spawn area for Skywars, 0%
+[21:09:20] [Server thread/INFO]: Preparing spawn area for Skywars, 20%
+[21:09:21] [Server thread/INFO]: Preparing spawn area for Skywars, 20%
+[21:09:22] [Server thread/INFO]: Preparing spawn area for Skywars, 28%
+[21:09:23] [Server thread/INFO]: Preparing spawn area for Skywars, 32%
+[21:09:24] [Server thread/INFO]: Preparing spawn area for Skywars, 36%
+[21:09:25] [Server thread/INFO]: Preparing spawn area for Skywars, 40%
+[21:09:26] [Server thread/INFO]: Preparing spawn area for Skywars, 44%
+[21:09:27] [Server thread/INFO]: Preparing spawn area for Skywars, 57%
+[21:09:28] [Server thread/INFO]: Preparing spawn area for Skywars, 61%
+[21:09:29] [Server thread/INFO]: Preparing spawn area for Skywars, 65%
+[21:09:30] [Server thread/INFO]: Preparing spawn area for Skywars, 65%
+[21:09:31] [Server thread/INFO]: Preparing spawn area for Skywars, 69%
+[21:09:32] [Server thread/INFO]: Preparing spawn area for Skywars, 73%
+[21:09:33] [Server thread/INFO]: Preparing spawn area for Skywars, 77%
+[21:09:34] [Server thread/INFO]: Preparing spawn area for Skywars, 81%
+[21:09:36] [Server thread/INFO]: Preparing spawn area for Skywars, 81%
+[21:09:37] [Server thread/INFO]: Preparing spawn area for Skywars, 85%
+[21:09:38] [Server thread/INFO]: Preparing spawn area for Skywars, 89%
+[21:09:39] [Server thread/INFO]: Preparing spawn area for Skywars, 93%
+[21:09:39] [Server thread/INFO]: [WorldGuard] (Skywars) Lighters are PERMITTED.
+[21:09:39] [Server thread/INFO]: [WorldGuard] (Skywars) Lava fire is blocked.
+[21:09:39] [Server thread/INFO]: [WorldGuard] (Skywars) Fire spread is UNRESTRICTED.
+[21:09:40] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'survival' - Env: NORMAL - Type: NORMAL & seed: 417882899938927719
+[21:09:41] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'survival_nether' - Env: NETHER - Type: NORMAL & seed: 6261662807370706275
+[21:09:41] [Server thread/ERROR]: [Multiverse-Core] New safe spawn NOT found!!!
+[21:09:41] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'survival_the_end' - Env: THE_END - Type: NORMAL & seed: 6261662807370706275
+[21:09:41] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'hyena' - Env: NORMAL - Type: NORMAL & seed: -8173056472171201028
+[21:09:44] [Server thread/INFO]: Preparing spawn area for hyena, 0%
+[21:09:45] [Server thread/INFO]: Preparing spawn area for hyena, 0%
+[21:09:46] [Server thread/INFO]: Preparing spawn area for hyena, 0%
+[21:09:47] [Server thread/INFO]: Preparing spawn area for hyena, 3%
+[21:09:48] [Server thread/INFO]: Preparing spawn area for hyena, 4%
+[21:09:49] [Server thread/INFO]: Preparing spawn area for hyena, 8%
+[21:09:50] [Server thread/INFO]: Preparing spawn area for hyena, 12%
+[21:09:51] [Server thread/INFO]: Preparing spawn area for hyena, 12%
+[21:09:52] [Server thread/INFO]: Preparing spawn area for hyena, 20%
+[21:09:53] [Server thread/INFO]: Preparing spawn area for hyena, 24%
+[21:09:54] [Server thread/INFO]: Preparing spawn area for hyena, 28%
+[21:09:56] [Server thread/INFO]: Preparing spawn area for hyena, 40%
+[21:09:57] [Server thread/INFO]: Preparing spawn area for hyena, 56%
+[21:09:58] [Server thread/INFO]: Preparing spawn area for hyena, 60%
+[21:09:59] [Server thread/INFO]: Preparing spawn area for hyena, 61%
+[21:10:00] [Server thread/INFO]: Preparing spawn area for hyena, 65%
+[21:10:01] [Server thread/INFO]: Preparing spawn area for hyena, 65%
+[21:10:02] [Server thread/INFO]: Preparing spawn area for hyena, 69%
+[21:10:04] [Server thread/INFO]: Preparing spawn area for hyena, 69%
+[21:10:05] [Server thread/INFO]: Preparing spawn area for hyena, 73%
+[21:10:06] [Server thread/INFO]: [WorldGuard] (hyena) Lighters are PERMITTED.
+[21:10:06] [Server thread/INFO]: [WorldGuard] (hyena) Lava fire is blocked.
+[21:10:06] [Server thread/INFO]: [WorldGuard] (hyena) Fire spread is UNRESTRICTED.
+[21:10:07] [Server thread/INFO]: [Multiverse-Core] 7 - World(s) loaded.
+[21:10:07] [Server thread/INFO]: [Splegg] Enabling Splegg v1.2
+[21:10:07] [Server thread/INFO]: [Splegg] Loading map SpleggOne.
+[21:10:07] [Server thread/INFO]: [Splegg] Map is usable
+[21:10:07] [Server thread/INFO]: [Splegg] Load Complete!
+[21:10:07] [Server thread/INFO]: [Splegg] Loading map ArenaOne.
+[21:10:07] [Server thread/INFO]: [Splegg] Spawn count is 0
+[21:10:07] [Server thread/INFO]: [Splegg] No floors are setup.
+[21:10:07] [Server thread/INFO]: [Splegg] --<>-- PLEASE SETUP MAP!! --<>--
+[21:10:07] [Server thread/INFO]: [Splegg] Load Complete!
+[21:10:07] [Server thread/INFO]: [EssentialsProtect] Enabling EssentialsProtect vTeamCity
+[21:10:07] [Server thread/INFO]: [VoxelSniper] Enabling VoxelSniper v7.1.0
+[21:10:09] [Server thread/INFO]: [Multiverse-NetherPortals] Enabling Multiverse-NetherPortals v2.4-b530
+[21:10:09] [Server thread/INFO]: [SuperVanish] Enabling SuperVanish v5.4.3
+[21:10:09] [Server thread/INFO]: [Multiverse-Portals] Enabling Multiverse-Portals v2.4-b548
+[21:10:10] [Server thread/INFO]: [Multiverse-Portals]  1 - Portals(s) loaded
+[21:10:10] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn vTeamCity
+[21:10:10] [Server thread/INFO]: [MinigamesLib] Enabling MinigamesLib v1.13.1
+[21:10:11] [Server thread/INFO]: [Minigames] Enabling Minigames v1.7.0
+[21:10:11] [Server thread/INFO]: [Minigames] Using lang en_AU
+[21:10:13] [Server thread/INFO]: Minigames successfully enabled.
+[21:10:13] [Server thread/INFO]: [MobArena] Enabling MobArena v0.97.1
+[21:10:14] [Server thread/INFO]: [MobArena] Loaded arena 'god-arena'
+[21:10:15] [Server thread/INFO]: [MobArena] v0.97.1 enabled.
+[21:10:15] [Server thread/INFO]: [TNTRun] Enabling TNTRun v3.4
+[21:10:15] [Server thread/INFO]: [HolographicDisplays] Enabling HolographicDisplays v2.1.10
+[21:10:17] [Server thread/INFO]: [CommandSigns] Enabling CommandSigns v1.9.3.2
+[21:10:18] [Server thread/INFO]: [CommandSigns] Successfully loaded 0 signs
+[21:10:21] [Server thread/INFO]: [SkyWars] Enabling SkyWars v1.1-m16
+[21:10:25] [Server thread/INFO]: Preparing spawn area for island-0, 57%
+[21:10:26] [Server thread/INFO]: [WorldGuard] (island-0) Lighters are PERMITTED.
+[21:10:26] [Server thread/INFO]: [WorldGuard] (island-0) Lava fire is blocked.
+[21:10:26] [Server thread/INFO]: [WorldGuard] (island-0) Fire spread is UNRESTRICTED.
+[21:10:27] [Server thread/INFO]: [EpicSpleef] Enabling EpicSpleef v0.0.19
+[21:10:27] [Server thread/INFO]: [EpicSpleef] Enabling EpicSpleef by BtoBastian
+[21:10:32] [Server thread/INFO]: [EpicSpleef] Loading lobby SpleefOne
+[21:10:32] [Server thread/INFO]: [EpicSpleef] Loading arena ArenaOne
+[21:10:33] [Server thread/INFO]: [EpicSpleef] Successfully loaded arena ArenaOne. (world: minigames, blocks: 5233, maxPlayers: 0)
+[21:10:33] [Server thread/INFO]: [EpicSpleef] Loading arena SpleefOne
+[21:10:33] [Server thread/INFO]: [EpicSpleef] Successfully loaded arena SpleefOne. (world: minigames, blocks: 0, maxPlayers: 0)
+[21:10:37] [Server thread/INFO]: [OnTime] Enabling OnTime v4.1.3
+[21:10:38] [Server thread/INFO]: [CraftBook] Enabling CraftBook v3.9-SNAPSHOT
+[21:10:39] [Server thread/INFO]: [CraftBook] Successfully added 1 CommandItems!
+[21:10:39] [Server thread/INFO]: [CraftBook] Registered 3 custom recipes!
+[21:10:41] [Server thread/INFO]: [CraftBook] 5075 chunk(s) for 8 world(s) processed (285ms elapsed)
+[21:10:48] [Server thread/INFO]: Found 0 arenas.
+[21:26:58] [Server thread/INFO]: [Server] §7This server is run by §fMulticraft
+[21:26:58] [Server thread/INFO]: [Server] §9http://www.multicraft.org
+[21:35:06] [Server thread/INFO]: Stopping the server
+[21:35:06] [Server thread/INFO]: Stopping server
+[21:35:06] [Server thread/INFO]: [CraftBook] Disabling CraftBook v3.9-SNAPSHOT
+[21:35:06] [Server thread/INFO]: [OnTime] Disabling OnTime v4.1.3
+[21:35:06] [Server thread/INFO]: [EpicSpleef] Disabling EpicSpleef v0.0.19
+[21:35:06] [Server thread/INFO]: [SkyWars] Disabling SkyWars v1.1-m16
+[21:35:06] [Server thread/INFO]: [Multiverse-Core] World 'island-0' was unloaded from memory.
+[21:35:07] [Server thread/INFO]: [Multiverse-Core] World island-0 was DELETED.
+[21:35:07] [Server thread/INFO]: [CommandSigns] Disabling CommandSigns v1.9.3.2
+[21:35:07] [Server thread/INFO]: [HolographicDisplays] Disabling HolographicDisplays v2.1.10
+[21:35:07] [Server thread/INFO]: [TNTRun] Disabling TNTRun v3.4
+[21:35:07] [Server thread/INFO]: [MobArena] Disabling MobArena v0.97.1
+[21:35:08] [Server thread/INFO]: [MobArena] disabled.
+[21:35:08] [Server thread/INFO]: [Minigames] Disabling Minigames v1.7.0
+[21:35:08] [Server thread/INFO]: Minigames successfully disabled.
+[21:35:08] [Server thread/INFO]: [MinigamesLib] Disabling MinigamesLib v1.13.1
+[21:35:08] [Server thread/INFO]: [MassiveCore] Disabling MassiveCore v2.8.0
+[21:35:08] [Server thread/INFO]: [MassiveCore 2.8.0] Disabled
+[21:35:08] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn vTeamCity
+[21:35:08] [Server thread/INFO]: [Vault] Disabling Vault v1.5.6-b49
+[21:35:08] [Server thread/INFO]: [Multiverse-Portals] Disabling Multiverse-Portals v2.4-b548
+[21:35:08] [Server thread/INFO]: [SuperVanish] Disabling SuperVanish v5.4.3
+[21:35:08] [Server thread/INFO]: [Multiverse-NetherPortals] Disabling Multiverse-NetherPortals v2.4-b530
+[21:35:08] [Server thread/INFO]: [MultiVerse-NetherPortals] - Disabled
+[21:35:08] [Server thread/INFO]: [mcMMO] Disabling mcMMO v1.5.00-b3547

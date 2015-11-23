@@ -1,0 +1,738 @@
+[18:57:51] [Server thread/INFO]: Loading properties
+[18:57:51] [Server thread/INFO]: Default game type: SURVIVAL
+[18:57:51] [Server thread/INFO]: Using epoll channel type
+[18:57:52] [Server thread/INFO]: [DisguiseCraft] Loading DisguiseCraft v5.2
+[18:57:52] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1;no_git_id
+[18:57:52] [Server thread/INFO]: [Essentials] Loading Essentials vTeamCity
+[18:57:52] [Server thread/INFO]: [PlugMan] Loading PlugMan v2.0.7
+[18:57:52] [Server thread/INFO]: [LaggRemover] Loading LaggRemover v0.1.8
+[18:57:52] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v6.1
+[18:57:52] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v2.4-b527
+[18:57:52] [Server thread/INFO]: [Splegg] Loading Splegg v1.2
+[18:57:52] [Server thread/INFO]: [EssentialsProtect] Loading EssentialsProtect vTeamCity
+[18:57:52] [Server thread/INFO]: [VoxelSniper] Loading VoxelSniper v7.1.0
+[18:57:52] [Server thread/INFO]: [mcMMO] Loading mcMMO v1.5.00-b3547
+[18:57:52] [Server thread/INFO]: [Multiverse-NetherPortals] Loading Multiverse-NetherPortals v2.4-b530
+[18:57:52] [Server thread/INFO]: [SuperVanish] Loading SuperVanish v5.4.3
+[18:57:52] [Server thread/INFO]: [Multiverse-Portals] Loading Multiverse-Portals v2.4-b548
+[18:57:52] [Server thread/INFO]: [Vault] Loading Vault v1.5.6-b49
+[18:57:52] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn vTeamCity
+[18:57:52] [Server thread/INFO]: [MassiveCore] Loading MassiveCore v2.8.0
+[18:57:52] [Server thread/INFO]: TimeUnit.MILLIS_PER_MINUTE: 60000
+[18:57:52] [Server thread/INFO]: [MinigamesLib] Loading MinigamesLib v1.13.1
+[18:57:52] [Server thread/INFO]: [Minigames] Loading Minigames v1.7.0
+[18:57:52] [Server thread/INFO]: [MobArena] Loading MobArena v0.97.1
+[18:57:52] [Server thread/INFO]: [TNTRun] Loading TNTRun v3.4
+[18:57:52] [Server thread/INFO]: [HolographicDisplays] Loading HolographicDisplays v2.1.10
+[18:57:52] [Server thread/INFO]: [CommandSigns] Loading CommandSigns v1.9.3.2
+[18:57:52] [Server thread/INFO]: [SkyWars] Loading SkyWars v1.1-m16
+[18:57:52] [Server thread/INFO]: [EpicSpleef] Loading EpicSpleef v0.0.19
+[18:57:52] [Server thread/INFO]: [OnTime] Loading OnTime v4.1.3
+[18:57:52] [Server thread/INFO]: [CraftBook] Loading CraftBook v3.9-SNAPSHOT
+[18:57:52] [Server thread/INFO]: [mcMMO] Enabling mcMMO v1.5.00-b3547
+[18:57:54] [Server thread/INFO]: [Vault] Enabling Vault v1.5.6-b49
+[18:57:54] [Server thread/INFO]: [MassiveCore] Enabling MassiveCore v2.8.0
+[18:57:54] [Server thread/INFO]: [MassiveCore 2.8.0] === ENABLE START ===
+[18:57:54] [Server thread/INFO]: [MassiveCore 2.8.0] §eSetup of IdUtil took §d9§ems.
+[18:57:54] [Server thread/INFO]: [MassiveCore 2.8.0] === ENABLE §aCOMPLETE §e(Took §d110ms§e) ===
+[18:57:55] [Server thread/INFO]: [DisguiseCraft] Enabling DisguiseCraft v5.2
+[18:57:55] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1;no_git_id
+[18:57:55] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_8_R3 as the Bukkit adapter
+[18:57:55] [Server thread/INFO]: [Essentials] Enabling Essentials vTeamCity
+[18:57:55] [Server thread/INFO]: git-Bukkit-9935adc (MC: 1.8.8)
+[18:57:55] [Server thread/INFO]: 1.8.8-R0.1-SNAPSHOT
+[18:57:56] [Server thread/INFO]: Using locale en_US
+[18:57:56] [Server thread/INFO]: Using locale en_US
+[18:57:56] [Server thread/INFO]: [PlugMan] Enabling PlugMan v2.0.7
+[18:57:56] [Server thread/INFO]: [LaggRemover] Enabling LaggRemover v0.1.8
+[18:57:56] [Server thread/INFO]: [LaggRemover] LaggRemover has been enabled!
+[18:57:56] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v6.1
+[18:57:56] [Server thread/INFO]: [WorldGuard] (survival) Lighters are PERMITTED.
+[18:57:56] [Server thread/INFO]: [WorldGuard] (survival) Lava fire is blocked.
+[18:57:56] [Server thread/INFO]: [WorldGuard] (survival) Fire spread is UNRESTRICTED.
+[18:57:56] [Server thread/INFO]: [WorldGuard] (survival_nether) Lighters are PERMITTED.
+[18:57:56] [Server thread/INFO]: [WorldGuard] (survival_nether) Lava fire is blocked.
+[18:57:56] [Server thread/INFO]: [WorldGuard] (survival_nether) Fire spread is UNRESTRICTED.
+[18:57:56] [Server thread/INFO]: [WorldGuard] (survival_the_end) Lighters are PERMITTED.
+[18:57:56] [Server thread/INFO]: [WorldGuard] (survival_the_end) Lava fire is blocked.
+[18:57:56] [Server thread/INFO]: [WorldGuard] (survival_the_end) Fire spread is UNRESTRICTED.
+[18:57:57] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v2.4-b527
+[18:57:57] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'lobby' - Env: NORMAL - Type: NORMAL & seed: -3770714656453924402
+[18:57:57] [Server thread/INFO]: [WorldGuard] (lobby) Lighters are PERMITTED.
+[18:57:57] [Server thread/INFO]: [WorldGuard] (lobby) Lava fire is blocked.
+[18:57:57] [Server thread/INFO]: [WorldGuard] (lobby) Fire spread is UNRESTRICTED.
+[18:57:57] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'minigames' - Env: NORMAL - Type: FLAT & seed: 2973644325369467684
+[18:57:57] [Server thread/INFO]: [WorldGuard] (minigames) Lighters are PERMITTED.
+[18:57:57] [Server thread/INFO]: [WorldGuard] (minigames) Lava fire is blocked.
+[18:57:57] [Server thread/INFO]: [WorldGuard] (minigames) Fire spread is UNRESTRICTED.
+[18:57:57] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'Skywars' - Env: NORMAL - Type: FLAT & seed: 3121935573477155779
+[18:57:58] [Server thread/INFO]: [WorldGuard] (Skywars) Lighters are PERMITTED.
+[18:57:58] [Server thread/INFO]: [WorldGuard] (Skywars) Lava fire is blocked.
+[18:57:58] [Server thread/INFO]: [WorldGuard] (Skywars) Fire spread is UNRESTRICTED.
+[18:57:58] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'survival' - Env: NORMAL - Type: NORMAL & seed: 417882899938927719
+[18:57:58] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'survival_nether' - Env: NETHER - Type: NORMAL & seed: 6261662807370706275
+[18:57:58] [Server thread/ERROR]: [Multiverse-Core] New safe spawn NOT found!!!
+[18:57:58] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'survival_the_end' - Env: THE_END - Type: NORMAL & seed: 6261662807370706275
+[18:57:58] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'hyena' - Env: NORMAL - Type: NORMAL & seed: -8173056472171201028
+[18:57:58] [Server thread/INFO]: [WorldGuard] (hyena) Lighters are PERMITTED.
+[18:57:58] [Server thread/INFO]: [WorldGuard] (hyena) Lava fire is blocked.
+[18:57:58] [Server thread/INFO]: [WorldGuard] (hyena) Fire spread is UNRESTRICTED.
+[18:57:59] [Server thread/INFO]: [WorldGuard] (island-0) Lighters are PERMITTED.
+[18:57:59] [Server thread/INFO]: [WorldGuard] (island-0) Lava fire is blocked.
+[18:57:59] [Server thread/INFO]: [WorldGuard] (island-0) Fire spread is UNRESTRICTED.
+[18:57:59] [Server thread/INFO]: Preparing spawn area for island-0, 8%
+[18:58:00] [Server thread/INFO]: Preparing spawn area for island-0, 20%
+[18:58:01] [Server thread/INFO]: Preparing spawn area for island-0, 32%
+[18:58:02] [Server thread/INFO]: Preparing spawn area for island-0, 48%
+[18:58:03] [Server thread/INFO]: Preparing spawn area for island-0, 61%
+[18:58:04] [Server thread/INFO]: Preparing spawn area for island-0, 81%
+[18:58:05] [Server thread/INFO]: Preparing spawn area for island-0, 97%
+[18:58:08] [Server thread/INFO]: [Multiverse-Core] 8 - World(s) loaded.
+[18:58:08] [Server thread/INFO]: [Splegg] Enabling Splegg v1.2
+[18:58:08] [Server thread/INFO]: [Splegg] Loading map SpleggOne.
+[18:58:08] [Server thread/INFO]: [Splegg] Map is usable
+[18:58:08] [Server thread/INFO]: [Splegg] Load Complete!
+[18:58:08] [Server thread/INFO]: [Splegg] Loading map ArenaOne.
+[18:58:08] [Server thread/INFO]: [Splegg] Spawn count is 0
+[18:58:08] [Server thread/INFO]: [Splegg] No floors are setup.
+[18:58:08] [Server thread/INFO]: [Splegg] --<>-- PLEASE SETUP MAP!! --<>--
+[18:58:08] [Server thread/INFO]: [Splegg] Load Complete!
+[18:58:08] [Server thread/INFO]: [EssentialsProtect] Enabling EssentialsProtect vTeamCity
+[18:58:08] [Server thread/INFO]: [VoxelSniper] Enabling VoxelSniper v7.1.0
+[18:58:09] [Server thread/INFO]: [Multiverse-NetherPortals] Enabling Multiverse-NetherPortals v2.4-b530
+[18:58:09] [Server thread/INFO]: [SuperVanish] Enabling SuperVanish v5.4.3
+[18:58:09] [Server thread/INFO]: [Multiverse-Portals] Enabling Multiverse-Portals v2.4-b548
+[18:58:09] [Server thread/INFO]: [Multiverse-Portals]  1 - Portals(s) loaded
+[18:58:09] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn vTeamCity
+[18:58:09] [Server thread/INFO]: [MinigamesLib] Enabling MinigamesLib v1.13.1
+[18:58:09] [Server thread/INFO]: [Minigames] Enabling Minigames v1.7.0
+[18:58:09] [Server thread/INFO]: [Minigames] Using lang en_AU
+[18:58:09] [Server thread/INFO]: Minigames successfully enabled.
+[18:58:10] [Server thread/INFO]: [MobArena] Enabling MobArena v0.97.1
+[18:58:10] [Server thread/INFO]: [MobArena] Loaded arena 'god-arena'
+[18:58:10] [Server thread/INFO]: [MobArena] v0.97.1 enabled.
+[18:58:10] [Server thread/INFO]: [TNTRun] Enabling TNTRun v3.4
+[18:58:10] [Server thread/INFO]: [HolographicDisplays] Enabling HolographicDisplays v2.1.10
+[18:58:10] [Server thread/INFO]: [CommandSigns] Enabling CommandSigns v1.9.3.2
+[18:58:10] [Server thread/INFO]: [CommandSigns] Successfully loaded 0 signs
+[18:58:11] [Server thread/INFO]: [SkyWars] Enabling SkyWars v1.1-m16
+[18:58:12] [Server thread/INFO]: [Multiverse-Core] World 'island-0' was unloaded from memory.
+[18:58:12] [Server thread/INFO]: [Multiverse-Core] World island-0 was DELETED.
+[18:58:13] [Server thread/INFO]: [EpicSpleef] Enabling EpicSpleef v0.0.19
+[18:58:13] [Server thread/INFO]: [EpicSpleef] Enabling EpicSpleef by BtoBastian
+[18:58:14] [Server thread/INFO]: [EpicSpleef] Loading lobby SpleefOne
+[18:58:14] [Server thread/INFO]: [EpicSpleef] Loading arena ArenaOne
+[18:58:14] [Server thread/INFO]: [EpicSpleef] Successfully loaded arena ArenaOne. (world: minigames, blocks: 5233, maxPlayers: 0)
+[18:58:14] [Server thread/INFO]: [EpicSpleef] Loading arena SpleefOne
+[18:58:14] [Server thread/INFO]: [EpicSpleef] Successfully loaded arena SpleefOne. (world: minigames, blocks: 0, maxPlayers: 0)
+[18:58:14] [Server thread/INFO]: [OnTime] Enabling OnTime v4.1.3
+[18:58:14] [Server thread/INFO]: [CraftBook] Enabling CraftBook v3.9-SNAPSHOT
+[18:58:14] [Server thread/INFO]: [CraftBook] Successfully added 1 CommandItems!
+[18:58:14] [Server thread/INFO]: [CraftBook] Registered 3 custom recipes!
+[18:58:14] [Server thread/INFO]: [CraftBook] 5075 chunk(s) for 8 world(s) processed (24ms elapsed)
+[18:58:17] [Server thread/INFO]: Found 0 arenas.
+[18:58:29] [Server thread/INFO]: MrHappyHyena issued server command: /day
+[18:59:01] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[18:59:01] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[18:59:48] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[18:59:48] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[19:00:34] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[19:00:34] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[19:01:21] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[19:01:21] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[19:02:07] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[19:02:07] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[19:02:35] [Server thread/INFO]: MrHappyHyena issued server command: /day
+[19:02:38] [Server thread/INFO]: MrHappyHyena issued server command: /flu
+[19:02:40] [Server thread/INFO]: MrHappyHyena issued server command: /fly
+[19:02:54] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[19:02:54] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[19:02:58] [Server thread/INFO]: MrHappyHyena issued server command: /fly
+[19:03:40] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[19:03:40] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[19:04:06] [Server thread/INFO]: Twiixtor issued server command: /tp mr
+[19:04:27] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[19:04:27] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[19:04:57] [Server thread/INFO]: Twiixtor issued server command: /home home
+[19:05:00] [Server thread/INFO]: Twiixtor issued server command: /backl
+[19:05:01] [Server thread/INFO]: Twiixtor issued server command: /back
+[19:05:13] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[19:05:13] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[19:06:00] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[19:06:00] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[19:06:47] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[19:06:47] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[19:07:33] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[19:07:33] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[19:08:42] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[19:08:42] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[19:09:28] [Server thread/INFO]: Twiixtor issued server command: /tp mr
+[19:09:29] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[19:09:29] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[19:10:15] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[19:10:15] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[19:11:02] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[19:11:02] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[19:11:11] [Server thread/INFO]: Twiixtor issued server command: /home home
+[19:11:15] [Server thread/INFO]: MrHappyHyena issued server command: /tp twi
+[19:11:48] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[19:11:48] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[19:12:26] [Server thread/INFO]: MrHappyHyena issued server command: /tp home
+[19:12:30] [Server thread/INFO]: MrHappyHyena issued server command: /home home
+[19:12:35] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[19:12:35] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[19:12:54] [Server thread/INFO]: MrHappyHyena issued server command: /tp twi
+[19:13:22] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[19:13:22] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[19:14:08] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[19:14:08] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[19:14:55] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[19:14:55] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[19:15:41] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[19:15:41] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[19:16:28] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[19:16:28] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[19:17:14] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[19:17:14] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[19:17:40] [Server thread/INFO]: MrHappyHyena was killed by Witch using magic
+[19:17:49] [Server thread/INFO]: MrHappyHyena issued server command: /back
+[19:18:42] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[19:18:42] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[19:19:29] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[19:19:29] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[19:20:15] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[19:20:15] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[19:20:47] [Server thread/INFO]: MrHappyHyena issued server command: /tp twi\
+[19:20:49] [Server thread/INFO]: MrHappyHyena issued server command: /tp twiu
+[19:20:50] [Server thread/INFO]: MrHappyHyena issued server command: /tp twi
+[19:21:02] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[19:21:02] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[19:21:22] [Server thread/INFO]: MrHappyHyena issued server command: /back
+[19:21:49] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[19:21:49] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[19:21:49] [Server thread/INFO]: Twiixtor issued server command: /i torch 30
+[19:21:54] [Server thread/INFO]: Twiixtor issued server command: /i 320 10
+[19:22:35] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[19:22:35] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[19:22:54] [Server thread/INFO]: Twiixtor issued server command: /tp mr
+[19:22:55] [Server thread/INFO]: MrHappyHyena issued server command: /t twi
+[19:23:02] [Server thread/INFO]: MrHappyHyena issued server command: /t twi sex
+[19:23:22] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[19:23:22] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[19:23:24] [Server thread/INFO]: MrHappyHyena issued server command: /tp twi
+[19:23:33] [Server thread/INFO]: Twiixtor issued server command: /broadcast Your daily broadcast from broadcastpenis.com HappyHyena doesn't have a penis.
+[19:24:08] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[19:24:08] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[19:24:55] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[19:24:55] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[19:25:38] [Server thread/INFO]: MrHappyHyena issued server command: /tp twi
+[19:25:41] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[19:25:41] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[19:25:49] [Server thread/INFO]: MrHappyHyena issued server command: /tp hye
+[19:26:28] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[19:26:28] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[19:27:14] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[19:27:14] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[19:28:42] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[19:28:42] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[19:29:29] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[19:29:29] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[19:30:16] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[19:30:16] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[19:31:03] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[19:31:03] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[19:31:18] [Server thread/INFO]: MrHappyHyena issued server command: /tp twi
+[19:31:49] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[19:31:49] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[19:32:36] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[19:32:36] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[19:33:22] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[19:33:22] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[19:33:35] [Server thread/INFO]: Twiixtor issued server command: /i torch 30
+[19:34:09] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[19:34:09] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[19:34:55] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[19:34:55] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[19:35:42] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[19:35:42] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[19:36:28] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[19:36:28] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[19:37:15] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[19:37:15] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[19:37:29] [Server thread/INFO]: Twiixtor issued server command: /fly
+[19:37:53] [Server thread/INFO]: Twiixtor issued server command: /back
+[19:38:15] [Server thread/INFO]: Twiixtor issued server command: /fly
+[19:38:42] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[19:38:42] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[19:39:29] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[19:39:29] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[19:40:15] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[19:40:15] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[19:41:02] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[19:41:02] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[19:41:49] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[19:41:49] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[19:42:35] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[19:42:35] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[19:43:22] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[19:43:22] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[19:44:08] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[19:44:08] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[19:44:55] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[19:44:55] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[19:45:41] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[19:45:41] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[19:46:00] [Server thread/INFO]: Twiixtor issued server command: /home home
+[19:46:02] [Server thread/INFO]: MrHappyHyena issued server command: /home twix
+[19:46:28] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[19:46:28] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[19:46:46] [Server thread/INFO]: MrHappyHyena issued server command: /home
+[19:46:47] [Server thread/INFO]: MrHappyHyena issued server command: /home home
+[19:47:11] [Server thread/INFO]: MrHappyHyena issued server command: /rain no
+[19:47:14] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[19:47:14] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[19:48:42] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[19:48:42] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[19:49:29] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[19:49:29] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[19:50:15] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[19:50:15] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[19:51:02] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[19:51:02] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[19:51:49] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[19:51:49] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[19:52:07] [Server thread/INFO]: Twiixtor issued server command: /home home
+[19:52:35] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[19:52:35] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[19:53:22] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[19:53:22] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[19:53:46] [Server thread/INFO]: MrHappyHyena issued server command: /tp twi
+[19:54:08] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[19:54:08] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[19:54:34] [Server thread/INFO]: MrHappyHyena issued server command: /home home
+[19:54:55] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[19:54:55] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[19:54:59] [Server thread/INFO]: MrHappyHyena issued server command: /tp twi
+[19:55:41] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[19:55:41] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[19:56:28] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[19:56:28] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[19:57:14] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[19:57:14] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[19:58:43] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[19:58:43] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[19:59:30] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[19:59:30] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[19:59:30] [Server thread/INFO]: [Guest] MrHappyHyena: there
+[20:00:16] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[20:00:16] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[20:01:03] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[20:01:03] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[20:01:25] [Server thread/INFO]: Twiixtor issued server command: /god
+[20:01:40] [Server thread/INFO]: Twiixtor issued server command: /god
+[20:01:49] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[20:01:49] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[20:02:14] [Server thread/INFO]: Twiixtor issued server command: /god
+[20:02:16] [Server thread/INFO]: Twiixtor issued server command: //drain 10
+[20:02:18] [Server thread/INFO]: Twiixtor issued server command: /god
+[20:02:36] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[20:02:36] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[20:03:22] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[20:03:22] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[20:04:09] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[20:04:09] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[20:04:28] [Server thread/INFO]: Twiixtor issued server command: /tp hye
+[20:04:44] [Server thread/INFO]: Twiixtor issued server command: /back
+[20:04:56] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[20:04:56] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[20:05:42] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[20:05:42] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[20:06:04] [Server thread/INFO]: Twiixtor issued server command: /fireball
+[20:06:29] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[20:06:29] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[20:06:58] [Server thread/INFO]: MrHappyHyena issued server command: /tp twi
+[20:07:15] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[20:07:15] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[20:07:46] [Server thread/INFO]: MrHappyHyena withered away
+[20:07:59] [Server thread/INFO]: MrHappyHyena issued server command: /back
+[20:08:42] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[20:08:42] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[20:09:29] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[20:09:29] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[20:10:15] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[20:10:15] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[20:11:02] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[20:11:02] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[20:11:49] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[20:11:49] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[20:12:35] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[20:12:35] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[20:13:22] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[20:13:22] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[20:14:08] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[20:14:08] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[20:14:55] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[20:14:55] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[20:15:41] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[20:15:41] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[20:15:45] [Server thread/INFO]: Twiixtor issued server command: /home home
+[20:15:57] [Server thread/INFO]: Twiixtor issued server command: /back
+[20:16:03] [Server thread/INFO]: MrHappyHyena issued server command: /home home
+[20:16:28] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[20:16:28] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[20:16:59] [Server thread/INFO]: MrHappyHyena issued server command: /tp twi
+[20:17:15] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[20:17:15] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[20:17:29] [Server thread/INFO]: MrHappyHyena issued server command: /home home
+[20:18:03] [Server thread/INFO]: Twiixtor issued server command: /home home
+[20:18:42] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[20:18:42] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[20:19:29] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[20:19:29] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[20:20:15] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[20:20:15] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[20:20:47] [Server thread/INFO]: Twiixtor issued server command: /i seed 20
+[20:21:02] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[20:21:02] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[20:21:19] [Server thread/INFO]: Twiixtor issued server command: /i seed 1
+[20:21:27] [Server thread/INFO]: Twiixtor issued server command: /home home
+[20:21:49] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[20:21:49] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[20:22:35] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[20:22:35] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[20:23:22] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[20:23:22] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[20:24:08] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[20:24:08] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[20:24:55] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[20:24:55] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[20:25:02] [Server thread/INFO]: Twiixtor issued server command: /tp mr
+[20:25:41] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[20:25:41] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[20:26:12] [Server thread/INFO]: Twiixtor issued server command: /toggledownfall
+[20:26:12] [Server thread/INFO]: [Twiixtor: Toggled downfall]
+[20:26:17] [Server thread/INFO]: MrHappyHyena issued server command: /rain no
+[20:26:28] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[20:26:28] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[20:26:50] [Server thread/INFO]: Twiixtor issued server command: /home home
+[20:26:54] [Server thread/INFO]: MrHappyHyena issued server command: /home twix
+[20:27:02] [Server thread/INFO]: Twiixtor issued server command: /back
+[20:27:06] [Server thread/INFO]: Twiixtor issued server command: /back
+[20:27:14] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[20:27:14] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[20:28:04] [Server thread/INFO]: MrHappyHyena issued server command: /sex
+[20:28:06] [Server thread/INFO]: MrHappyHyena issued server command: /help
+[20:28:08] [Server thread/INFO]: [Giraffe] Twiixtor: Pumpkin
+[20:28:09] [Server thread/INFO]: [Giraffe] Twiixtor: Sugar
+[20:28:10] [Server thread/INFO]: MrHappyHyena issued server command: /server say sex
+[20:28:10] [Server thread/INFO]: [Giraffe] Twiixtor: Egg
+[20:28:13] [Server thread/INFO]: [Giraffe] Twiixtor: Anywehre in crafting
+[20:28:14] [Server thread/INFO]: MrHappyHyena issued server command: /say server
+[20:28:14] [Server thread/INFO]: [MrHappyHyena] server
+[20:28:15] [Server thread/INFO]: [Giraffe] Twiixtor: gl hf
+[20:28:25] [Server thread/INFO]: Twiixtor issued server command: /say thinks you're shit
+[20:28:25] [Server thread/INFO]: [Twiixtor] thinks you're shit
+[20:28:42] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[20:28:42] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[20:29:09] [Server thread/INFO]: Twiixtor issued server command: /tp hye
+[20:29:29] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[20:29:29] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[20:30:15] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[20:30:15] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[20:30:22] [Server thread/INFO]: [Guest] MrHappyHyena: LELELELELELELELEL :D
+[20:30:23] [Server thread/INFO]: [Guest] MrHappyHyena: daj
+[20:30:37] [Server thread/INFO]: MrHappyHyena issued server command: /home home
+[20:30:40] [Server thread/INFO]: Twiixtor issued server command: /tp mr
+[20:31:02] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[20:31:02] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[20:31:09] [Server thread/INFO]: MrHappyHyena issued server command: /home twix
+[20:31:13] [Server thread/INFO]: Twiixtor issued server command: /tp mr
+[20:31:19] [Server thread/INFO]: MrHappyHyena issued server command: /home home
+[20:31:49] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[20:31:49] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[20:32:35] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[20:32:35] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[20:32:47] [Server thread/INFO]: Twiixtor issued server command: /tp mr
+[20:33:11] [Server thread/INFO]: Twiixtor issued server command: /home home
+[20:33:15] [Server thread/INFO]: Twiixtor issued server command: /back
+[20:33:22] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[20:33:22] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[20:33:22] [Server thread/INFO]: MrHappyHyena issued server command: /day
+[20:34:08] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[20:34:08] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[20:34:13] [Server thread/INFO]: MrHappyHyena issued server command: /home home
+[20:34:13] [Server thread/INFO]: Twiixtor issued server command: /home home
+[20:34:54] [Server thread/INFO]: [Guest] MrHappyHyena: its bigger than my mouth
+[20:34:55] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[20:34:55] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[20:34:57] [Server thread/INFO]: Twiixtor issued server command: /tp mr
+[20:34:58] [Server thread/INFO]: [Guest] MrHappyHyena: prawn crackers
+[20:35:41] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[20:35:41] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[20:36:18] [Server thread/INFO]: Twiixtor issued server command: /tp mr
+[20:36:28] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[20:36:28] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[20:37:14] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[20:37:14] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[20:38:43] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[20:38:43] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[20:39:19] [Server thread/INFO]: MrHappyHyena left the game.
+[20:39:29] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[20:39:29] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[20:39:53] [Server thread/INFO]: MrHappyHyena issued server command: /tp twi
+[20:40:15] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[20:40:15] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[20:41:02] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[20:41:02] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[20:41:05] [Server thread/INFO]: MrHappyHyena issued server command: /tp twi
+[20:41:49] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[20:41:49] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[20:41:56] [Server thread/INFO]: Twiixtor issued server command: /tp Twiixtor 107 67 -21
+[20:41:56] [Server thread/INFO]: Twiixtor issued server command: /tppos 107 67 -21
+[20:42:07] [Server thread/INFO]: MrHappyHyena issued server command: /tp twi
+[20:42:10] [Server thread/INFO]: [Guest] MrHappyHyena: OMG
+[20:42:25] [Server thread/INFO]: [Guest] MrHappyHyena: WHAT WOULD YOU DO IF YOU CAME INTO YOUR SISTERS ROOM OR WUTEVA AND CAUGHT HER MASTURBATING?!
+[20:42:35] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[20:42:35] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[20:43:09] [Server thread/INFO]: [Giraffe] Twiixtor: if she was older..
+[20:43:12] [Server thread/INFO]: [Giraffe] Twiixtor: i would tell nobody
+[20:43:17] [Server thread/INFO]: [Guest] MrHappyHyena: .
+[20:43:19] [Server thread/INFO]: [Guest] MrHappyHyena: .
+[20:43:20] [Server thread/INFO]: [Guest] MrHappyHyena: .
+[20:43:20] [Server thread/INFO]: [Giraffe] Twiixtor: ,
+[20:43:22] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[20:43:22] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[20:43:23] [Server thread/INFO]: [Guest] MrHappyHyena: .-..-.-.-.-.-.->_!>_>!-._">£-09r 3j-cm987nxz v0moqa8enw7r0g
+[20:43:24] [Server thread/INFO]: [Giraffe] Twiixtor: ,
+[20:43:24] [Server thread/INFO]: [Giraffe] Twiixtor: ,
+[20:43:25] [Server thread/INFO]: [Giraffe] Twiixtor: ,
+[20:43:25] [Server thread/INFO]: [Giraffe] Twiixtor: ,
+[20:43:25] [Server thread/INFO]: [Giraffe] Twiixtor: ,
+[20:43:25] [Server thread/INFO]: [Giraffe] Twiixtor: ,
+[20:43:25] [Server thread/INFO]: [Giraffe] Twiixtor: ,
+[20:43:26] [Server thread/INFO]: [Giraffe] Twiixtor: ,
+[20:43:26] [Server thread/INFO]: [Giraffe] Twiixtor: ,
+[20:43:26] [Server thread/INFO]: [Giraffe] Twiixtor: ,
+[20:43:26] [Server thread/INFO]: [Giraffe] Twiixtor: ,
+[20:43:27] [Server thread/INFO]: [Giraffe] Twiixtor: ,
+[20:43:27] [Server thread/INFO]: [Giraffe] Twiixtor: ,
+[20:43:29] [Server thread/INFO]: [Guest] MrHappyHyena: so anyway
+[20:43:38] [Server thread/INFO]: Twiixtor issued server command: /speed 10
+[20:43:42] [Server thread/INFO]: Twiixtor issued server command: /god
+[20:43:51] [Server thread/INFO]: [Guest] MrHappyHyena: WHAT WOULD YOU DO IF YOU CAME INTO YOUR SISTERS ROOM AND SHE WAS MASTURBATING AND AS SOON AS YOU
+[20:43:54] [Server thread/INFO]: [Guest] MrHappyHyena: COME IN SHE FINISHES
+[20:44:08] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[20:44:08] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[20:44:24] [Server thread/INFO]: [Guest] MrHappyHyena: O
+[20:44:25] [Server thread/INFO]: [Giraffe] Twiixtor: like im hawt and she came cuz she saw me
+[20:44:26] [Server thread/INFO]: [Guest] MrHappyHyena: OOOOOORKA
+[20:44:32] [Server thread/INFO]: [Guest] MrHappyHyena: mp
+[20:44:35] [Server thread/INFO]: [Guest] MrHappyHyena: no.
+[20:44:38] [Server thread/INFO]: [Guest] MrHappyHyena: just cause
+[20:44:38] [Server thread/INFO]: [Guest] MrHappyHyena: 2
+[20:44:49] [Server thread/INFO]: [Guest] MrHappyHyena: just like timing
+[20:44:53] [Server thread/INFO]: MrHappyHyena issued server command: /tp twi
+[20:44:55] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[20:44:55] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[20:44:57] [Server thread/INFO]: Twiixtor issued server command: /speed 1
+[20:45:07] [Server thread/INFO]: MrHappyHyena blew up
+[20:45:15] [Server thread/INFO]: MrHappyHyena issued server command: /back
+[20:45:34] [Server thread/INFO]: MrHappyHyena issued server command: /fly
+[20:45:41] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[20:45:41] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[20:45:53] [Server thread/INFO]: MrHappyHyena issued server command: /fly
+[20:46:28] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[20:46:28] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[20:46:35] [Server thread/INFO]: Twiixtor issued server command: /enchant efficiency 1
+[20:46:46] [Server thread/INFO]: Twiixtor issued server command: /enchant efficiency 1
+[20:46:50] [Server thread/INFO]: Twiixtor issued server command: /enchant efficiency 1
+[20:46:52] [Server thread/INFO]: Twiixtor issued server command: /enchant efficiency 1
+[20:46:55] [Server thread/INFO]: Twiixtor issued server command: /enchant efficiency 1
+[20:47:06] [Server thread/INFO]: Twiixtor issued server command: /give Twiixtor minecraft:bread 1 0
+[20:47:14] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[20:47:14] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[20:47:46] [Server thread/INFO]: Twiixtor issued server command: /i torch 30
+[20:47:49] [Server thread/INFO]: Twiixtor issued server command: /i bread 13
+[20:48:09] [Server thread/INFO]: Twiixtor issued server command: /god
+[20:48:29] [Server thread/INFO]: Twiixtor issued server command: /speed1 0
+[20:48:31] [Server thread/INFO]: Twiixtor issued server command: /speed 10
+[20:48:41] [Server thread/INFO]: Twiixtor issued server command: /speed 1
+[20:48:42] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[20:48:42] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[20:49:29] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[20:49:29] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[20:50:16] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[20:50:16] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[20:51:02] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[20:51:02] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[20:51:49] [Server thread/INFO]: Twiixtor issued server command: /speed 10
+[20:51:49] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[20:51:49] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[20:52:13] [Server thread/INFO]: Twiixtor issued server command: /speed 1
+[20:52:35] [Server thread/INFO]: Twiixtor fell from a high place
+[20:52:36] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[20:52:36] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[20:52:41] [Server thread/INFO]: Twiixtor issued server command: /back
+[20:53:22] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[20:53:22] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[20:54:08] [Server thread/INFO]: MrHappyHyena issued server command: /tp twi
+[20:54:09] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[20:54:09] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[20:54:48] [Server thread/INFO]: Twiixtor issued server command: /give Twiixtor minecraft:sand 1 0
+[20:54:56] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[20:54:56] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[20:55:42] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[20:55:42] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[20:56:11] [Server thread/INFO]: MrHappyHyena issued server command: /tp twi
+[20:56:29] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[20:56:29] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[20:57:15] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[20:57:15] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[20:57:22] [Server thread/INFO]: MrHappyHyena issued server command: /night
+[20:57:42] [Server thread/INFO]: Twiixtor issued server command: /rapidfw 1
+[20:57:55] [Server thread/INFO]: MrHappyHyena issued server command: /day
+[20:58:42] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[20:58:42] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[20:59:29] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[20:59:29] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[21:00:16] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[21:00:16] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[21:01:02] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[21:01:02] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[21:01:12] [Server thread/INFO]: MrHappyHyena issued server command: /tp twi
+[21:01:23] [Server thread/INFO]: Twiixtor issued server command: /tp mr
+[21:01:49] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[21:01:49] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[21:02:35] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[21:02:35] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[21:03:23] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[21:03:23] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[21:03:23] [Server thread/INFO]: MrHappyHyena issued server command: /tp twi
+[21:03:40] [Server thread/INFO]: MrHappyHyena issued server command: /fly
+[21:04:05] [Server thread/INFO]: Twiixtor issued server command: /tp mr
+[21:04:08] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[21:04:08] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[21:04:09] [Server thread/INFO]: MrHappyHyena issued server command: /fly
+[21:04:55] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[21:04:55] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[21:05:41] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[21:05:41] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[21:06:28] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[21:06:28] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[21:06:32] [Server thread/INFO]: Twiixtor issued server command: //drain 50
+[21:07:06] [Server thread/INFO]: [Guest] MrHappyHyena: hyrule
+[21:07:15] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[21:07:15] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[21:07:39] [Server thread/INFO]: MrHappyHyena issued server command: /fly
+[21:07:44] [Server thread/INFO]: Twiixtor issued server command: /tp Twiixtor 560 70 850
+[21:07:44] [Server thread/INFO]: Twiixtor issued server command: /tppos 560 70 850
+[21:08:42] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[21:08:42] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[21:08:53] [Server thread/INFO]: Twiixtor issued server command: /home home
+[21:09:29] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[21:09:29] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[21:09:45] [Server thread/INFO]: MrHappyHyena issued server command: /tp twi
+[21:10:16] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[21:10:16] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[21:10:35] [Server thread/INFO]: Twiixtor left the game.
+[21:10:39] [Server thread/INFO]: MrHappyHyena issued server command: /home home
+[21:11:02] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[21:11:49] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[21:12:17] [Server thread/INFO]: MrHappyHyena issued server command: /night
+[21:12:36] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[21:13:22] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[21:14:03] [Server thread/INFO]: Twiixtor issued server command: /tp mr
+[21:14:08] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[21:14:08] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[21:14:13] [Server thread/INFO]: Twiixtor issued server command: /tp mr
+[21:14:37] [Server thread/INFO]: Twiixtor issued server command: //wand
+[21:14:55] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[21:14:55] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[21:15:15] [Server thread/INFO]: Twiixtor issued server command: //copy
+[21:15:17] [Server thread/INFO]: [Guest] MrHappyHyena: OVERSEER
+[21:15:28] [Server thread/INFO]: Twiixtor issued server command: /home home
+[21:15:31] [Server thread/INFO]: MrHappyHyena issued server command: /home home
+[21:15:41] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[21:15:41] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[21:16:03] [Server thread/INFO]: Twiixtor issued server command: /back
+[21:16:20] [Server thread/INFO]: MrHappyHyena issued server command: /tp twi
+[21:16:28] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[21:16:28] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[21:16:40] [Server thread/INFO]: Twiixtor issued server command: /back
+[21:16:52] [Server thread/INFO]: Twiixtor issued server command: /back
+[21:17:10] [Server thread/INFO]: MrHappyHyena issued server command: /home hoem
+[21:17:12] [Server thread/INFO]: MrHappyHyena issued server command: /home home
+[21:17:15] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[21:17:15] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[21:17:35] [Server thread/INFO]: Twiixtor issued server command: /tp mr
+[21:17:46] [Server thread/INFO]: Twiixtor issued server command: //paste
+[21:17:57] [Server thread/INFO]: Twiixtor issued server command: /back
+[21:18:17] [Server thread/INFO]: MrHappyHyena issued server command: /set home island
+[21:18:21] [Server thread/INFO]: MrHappyHyena issued server command: /sethome island
+[21:18:28] [Server thread/INFO]: Twiixtor fell from a high place
+[21:18:32] [Server thread/INFO]: Twiixtor issued server command: /back
+[21:18:43] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[21:18:43] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[21:18:47] [Server thread/INFO]: Twiixtor issued server command: /tp mr
+[21:18:53] [Server thread/INFO]: MrHappyHyena issued server command: /home home
+[21:18:58] [Server thread/INFO]: Twiixtor issued server command: /tp mr
+[21:19:29] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[21:19:29] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[21:19:34] [Server thread/INFO]: Twiixtor issued server command: /back
+[21:19:41] [Server thread/INFO]: MrHappyHyena issued server command: /home island
+[21:20:16] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[21:20:16] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[21:20:35] [Server thread/INFO]: Twiixtor issued server command: /fly
+[21:20:42] [Server thread/INFO]: Twiixtor issued server command: /fly
+[21:21:02] [Server thread/INFO]: Twiixtor issued server command: /top
+[21:21:02] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[21:21:02] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[21:21:16] [Server thread/INFO]: MrHappyHyena issued server command: /fly
+[21:21:25] [Server thread/INFO]: Twiixtor issued server command: /tp mr
+[21:21:47] [Server thread/INFO]: Twiixtor issued server command: /home home
+[21:21:49] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[21:21:49] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[21:21:49] [Server thread/INFO]: Twiixtor left the game.
+[21:22:35] [Server thread/INFO]: Players: [Guest] MrHappyHyena
+[21:22:49] [Server thread/INFO]: [Guest] MrHappyHyena: Allergy_Man: sings
+[21:22:56] [Server thread/INFO]: [Guest] MrHappyHyena: Allergy_Man: Sighs
+[21:23:03] [Server thread/INFO]: MrHappyHyena left the game.
+[23:03:35] [Server thread/INFO]: Twiixtor issued server command: /heal
+[23:04:09] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[23:04:22] [Server thread/INFO]: Twiixtor issued server command: /fly
+[23:04:37] [Server thread/INFO]: Twiixtor issued server command: /setwarp hyenasurvival
+[23:04:55] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[23:05:42] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[23:05:57] [Server thread/INFO]: Twiixtor issued server command: /i sign 1
+[23:06:16] [Server thread/INFO]: Twiixtor issued server command: /i painting 2
+[23:06:28] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[23:07:15] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[23:07:44] [Server thread/INFO]: Twiixtor issued server command: /i reed 20
+[23:08:07] [Server thread/INFO]: Twiixtor issued server command: /i reed 20
+[23:08:43] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[23:09:29] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[23:10:10] [Server thread/INFO]: Twiixtor issued server command: /gm 1
+[23:10:16] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[23:11:02] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[23:11:49] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[23:12:35] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[23:13:22] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[23:14:09] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[23:14:55] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[23:15:42] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[23:16:28] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[23:16:58] [Server thread/INFO]: Twiixtor issued server command: /tree
+[23:17:03] [Server thread/INFO]: Twiixtor issued server command: //tree
+[23:17:08] [Server thread/INFO]: Twiixtor issued server command: //tree
+[23:17:12] [Server thread/INFO]: Twiixtor issued server command: //undo
+[23:17:15] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[23:17:21] [Server thread/INFO]: Twiixtor issued server command: //undow
+[23:17:24] [Server thread/INFO]: Twiixtor issued server command: //undo
+[23:18:43] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[23:18:52] [Server thread/INFO]: Twiixtor issued server command: /gm 0y
+[23:18:54] [Server thread/INFO]: Twiixtor issued server command: /gm 0
+[23:18:55] [Server thread/INFO]: Twiixtor issued server command: /fly
+[23:19:22] [Server thread/INFO]: Twiixtor issued server command: /i bed 2
+[23:19:29] [Server thread/INFO]: giraffe: [Giraffe] Twiixtor
+[23:19:42] [Server thread/INFO]: Twiixtor issued server command: /i bookshelf 1
+[23:19:55] [Server thread/INFO]: Twiixtor left the game.

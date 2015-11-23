@@ -1,0 +1,277 @@
+[19:00:45] [Server thread/INFO]: Loading properties
+[19:00:45] [Server thread/INFO]: Default game type: SURVIVAL
+[19:00:46] [Server thread/INFO]: Using epoll channel type
+[19:00:47] [Server thread/INFO]: [DisguiseCraft] Loading DisguiseCraft v5.2
+[19:00:47] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1;no_git_id
+[19:00:47] [Server thread/INFO]: [Essentials] Loading Essentials vTeamCity
+[19:00:47] [Server thread/INFO]: [PlugMan] Loading PlugMan v2.0.7
+[19:00:47] [Server thread/INFO]: [Random_Spawn] Loading Random_Spawn v2.6
+[19:00:47] [Server thread/INFO]: [LaggRemover] Loading LaggRemover v0.1.9
+[19:00:47] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v6.1
+[19:00:47] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v2.4-b527
+[19:00:47] [Server thread/INFO]: [Splegg] Loading Splegg v1.2
+[19:00:47] [Server thread/INFO]: [EssentialsProtect] Loading EssentialsProtect vTeamCity
+[19:00:47] [Server thread/INFO]: [VoxelSniper] Loading VoxelSniper v7.1.0
+[19:00:47] [Server thread/INFO]: [mcMMO] Loading mcMMO v1.5.00-b3547
+[19:00:47] [Server thread/INFO]: [Multiverse-NetherPortals] Loading Multiverse-NetherPortals v2.4-b530
+[19:00:47] [Server thread/INFO]: [SuperVanish] Loading SuperVanish v5.4.3
+[19:00:47] [Server thread/INFO]: [Multiverse-Portals] Loading Multiverse-Portals v2.4-b548
+[19:00:47] [Server thread/INFO]: [Vault] Loading Vault v1.5.6-b49
+[19:00:47] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn vTeamCity
+[19:00:47] [Server thread/INFO]: [MassiveCore] Loading MassiveCore v2.8.0
+[19:00:47] [Server thread/INFO]: TimeUnit.MILLIS_PER_MINUTE: 60000
+[19:00:47] [Server thread/INFO]: [MinigamesLib] Loading MinigamesLib v1.13.1
+[19:00:47] [Server thread/INFO]: [Minigames] Loading Minigames v1.7.0
+[19:00:47] [Server thread/INFO]: [MobArena] Loading MobArena v0.97.1
+[19:00:47] [Server thread/INFO]: [TNTRun] Loading TNTRun v3.4
+[19:00:47] [Server thread/INFO]: [HolographicDisplays] Loading HolographicDisplays v2.1.10
+[19:00:47] [Server thread/INFO]: [CommandSigns] Loading CommandSigns v1.9.3.2
+[19:00:47] [Server thread/INFO]: [SkyWars] Loading SkyWars v1.1-m16
+[19:00:47] [Server thread/INFO]: [EpicSpleef] Loading EpicSpleef v0.0.19
+[19:00:47] [Server thread/INFO]: [OnTime] Loading OnTime v4.1.3
+[19:00:47] [Server thread/INFO]: [CraftBook] Loading CraftBook v3.9-SNAPSHOT
+[19:00:47] [Server thread/INFO]: [mcMMO] Enabling mcMMO v1.5.00-b3547
+[19:00:50] [Server thread/INFO]: [Vault] Enabling Vault v1.5.6-b49
+[19:00:50] [Server thread/INFO]: [MassiveCore] Enabling MassiveCore v2.8.0
+[19:00:50] [Server thread/INFO]: [MassiveCore 2.8.0] === ENABLE START ===
+[19:00:50] [Server thread/INFO]: [MassiveCore 2.8.0] §eSetup of IdUtil took §d18§ems.
+[19:00:50] [Server thread/INFO]: [MassiveCore 2.8.0] === ENABLE §aCOMPLETE §e(Took §d215ms§e) ===
+[19:00:51] [Server thread/INFO]: Preparing spawn area: 33%
+[19:00:54] [Server thread/INFO]: [DisguiseCraft] Enabling DisguiseCraft v5.2
+[19:00:54] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1;no_git_id
+[19:00:55] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_8_R3 as the Bukkit adapter
+[19:00:55] [Server thread/INFO]: [Essentials] Enabling Essentials vTeamCity
+[19:00:55] [Server thread/INFO]: git-Bukkit-9935adc (MC: 1.8.8)
+[19:00:55] [Server thread/INFO]: 1.8.8-R0.1-SNAPSHOT
+[19:00:55] [Server thread/INFO]: Using locale en_US
+[19:00:55] [Server thread/INFO]: Using locale en_US
+[19:00:55] [Server thread/INFO]: [PlugMan] Enabling PlugMan v2.0.7
+[19:00:55] [Server thread/INFO]: [Random_Spawn] Enabling Random_Spawn v2.6
+[19:00:55] [Server thread/INFO]: [LaggRemover] Enabling LaggRemover v0.1.9
+[19:00:55] [Server thread/INFO]: [LaggRemover] LaggRemover has been enabled!
+[19:00:55] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v6.1
+[19:00:56] [Server thread/INFO]: [WorldGuard] (survival) Lighters are PERMITTED.
+[19:00:56] [Server thread/INFO]: [WorldGuard] (survival) Lava fire is blocked.
+[19:00:56] [Server thread/INFO]: [WorldGuard] (survival) Fire spread is UNRESTRICTED.
+[19:00:56] [Server thread/INFO]: [WorldGuard] (survival_nether) Lighters are PERMITTED.
+[19:00:56] [Server thread/INFO]: [WorldGuard] (survival_nether) Lava fire is blocked.
+[19:00:56] [Server thread/INFO]: [WorldGuard] (survival_nether) Fire spread is UNRESTRICTED.
+[19:00:56] [Server thread/INFO]: [WorldGuard] (survival_the_end) Lighters are PERMITTED.
+[19:00:56] [Server thread/INFO]: [WorldGuard] (survival_the_end) Lava fire is blocked.
+[19:00:56] [Server thread/INFO]: [WorldGuard] (survival_the_end) Fire spread is UNRESTRICTED.
+[19:00:56] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v2.4-b527
+[19:00:56] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'lobby' - Env: NORMAL - Type: NORMAL & seed: -3770714656453924402
+[19:00:57] [Server thread/INFO]: Preparing spawn area for lobby, 81%
+[19:00:58] [Server thread/INFO]: [WorldGuard] (lobby) Lighters are PERMITTED.
+[19:00:58] [Server thread/INFO]: [WorldGuard] (lobby) Lava fire is blocked.
+[19:00:58] [Server thread/INFO]: [WorldGuard] (lobby) Fire spread is UNRESTRICTED.
+[19:00:58] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'minigames' - Env: NORMAL - Type: FLAT & seed: 2973644325369467684
+[19:00:58] [Server thread/INFO]: [WorldGuard] (minigames) Lighters are PERMITTED.
+[19:00:58] [Server thread/INFO]: [WorldGuard] (minigames) Lava fire is blocked.
+[19:00:58] [Server thread/INFO]: [WorldGuard] (minigames) Fire spread is UNRESTRICTED.
+[19:00:58] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'Skywars' - Env: NORMAL - Type: FLAT & seed: 3121935573477155779
+[19:01:00] [Server thread/INFO]: Preparing spawn area for Skywars, 61%
+[19:01:01] [Server thread/INFO]: Preparing spawn area for Skywars, 65%
+[19:01:01] [Server thread/INFO]: [WorldGuard] (Skywars) Lighters are PERMITTED.
+[19:01:01] [Server thread/INFO]: [WorldGuard] (Skywars) Lava fire is blocked.
+[19:01:01] [Server thread/INFO]: [WorldGuard] (Skywars) Fire spread is UNRESTRICTED.
+[19:01:01] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'survival' - Env: NORMAL - Type: NORMAL & seed: 417882899938927719
+[19:01:01] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'survival_nether' - Env: NETHER - Type: NORMAL & seed: 6261662807370706275
+[19:01:01] [Server thread/ERROR]: [Multiverse-Core] New safe spawn NOT found!!!
+[19:01:01] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'survival_the_end' - Env: THE_END - Type: NORMAL & seed: 6261662807370706275
+[19:01:01] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'hyena' - Env: NORMAL - Type: NORMAL & seed: -8173056472171201028
+[19:01:02] [Server thread/INFO]: Preparing spawn area for hyena, 65%
+[19:01:03] [Server thread/INFO]: [WorldGuard] (hyena) Lighters are PERMITTED.
+[19:01:03] [Server thread/INFO]: [WorldGuard] (hyena) Lava fire is blocked.
+[19:01:03] [Server thread/INFO]: [WorldGuard] (hyena) Fire spread is UNRESTRICTED.
+[19:01:03] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'Spawn' - Env: NORMAL - Type: FLAT & seed: 9100126152789087171
+[19:01:03] [Server thread/INFO]: [WorldGuard] (Spawn) Lighters are PERMITTED.
+[19:01:03] [Server thread/INFO]: [WorldGuard] (Spawn) Lava fire is blocked.
+[19:01:03] [Server thread/INFO]: [WorldGuard] (Spawn) Fire spread is UNRESTRICTED.
+[19:01:04] [Server thread/ERROR]: [Multiverse-Core] New safe spawn NOT found!!!
+[19:01:04] [Server thread/INFO]: [Multiverse-Core] 8 - World(s) loaded.
+[19:01:04] [Server thread/INFO]: [Splegg] Enabling Splegg v1.2
+[19:01:04] [Server thread/INFO]: [Splegg] Loading map SpleggOne.
+[19:01:04] [Server thread/INFO]: [Splegg] Map is usable
+[19:01:04] [Server thread/INFO]: [Splegg] Load Complete!
+[19:01:04] [Server thread/INFO]: [Splegg] Loading map ArenaOne.
+[19:01:04] [Server thread/INFO]: [Splegg] Spawn count is 0
+[19:01:04] [Server thread/INFO]: [Splegg] No floors are setup.
+[19:01:04] [Server thread/INFO]: [Splegg] --<>-- PLEASE SETUP MAP!! --<>--
+[19:01:04] [Server thread/INFO]: [Splegg] Load Complete!
+[19:01:04] [Server thread/INFO]: [EssentialsProtect] Enabling EssentialsProtect vTeamCity
+[19:01:04] [Server thread/INFO]: [VoxelSniper] Enabling VoxelSniper v7.1.0
+[19:01:05] [Server thread/INFO]: [Multiverse-NetherPortals] Enabling Multiverse-NetherPortals v2.4-b530
+[19:01:05] [Server thread/INFO]: [SuperVanish] Enabling SuperVanish v5.4.3
+[19:01:05] [Server thread/INFO]: [Multiverse-Portals] Enabling Multiverse-Portals v2.4-b548
+[19:01:05] [Server thread/INFO]: [Multiverse-Portals]  1 - Portals(s) loaded
+[19:01:05] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn vTeamCity
+[19:01:05] [Server thread/INFO]: [MinigamesLib] Enabling MinigamesLib v1.13.1
+[19:01:05] [Server thread/INFO]: [Minigames] Enabling Minigames v1.7.0
+[19:01:05] [Server thread/INFO]: [Minigames] Using lang en_AU
+[19:01:05] [Server thread/INFO]: Minigames successfully enabled.
+[19:01:05] [Server thread/INFO]: [MobArena] Enabling MobArena v0.97.1
+[19:01:06] [Server thread/INFO]: [MobArena] Loaded arena 'god-arena'
+[19:01:06] [Server thread/INFO]: [MobArena] v0.97.1 enabled.
+[19:01:06] [Server thread/INFO]: [TNTRun] Enabling TNTRun v3.4
+[19:01:06] [Server thread/INFO]: [HolographicDisplays] Enabling HolographicDisplays v2.1.10
+[19:01:07] [Server thread/INFO]: [CommandSigns] Enabling CommandSigns v1.9.3.2
+[19:01:07] [Server thread/INFO]: [CommandSigns] Successfully loaded 0 signs
+[19:01:07] [Server thread/INFO]: [SkyWars] Enabling SkyWars v1.1-m16
+[19:01:08] [Server thread/INFO]: [WorldGuard] (island-0) Lighters are PERMITTED.
+[19:01:08] [Server thread/INFO]: [WorldGuard] (island-0) Lava fire is blocked.
+[19:01:08] [Server thread/INFO]: [WorldGuard] (island-0) Fire spread is UNRESTRICTED.
+[19:01:08] [Server thread/INFO]: [EpicSpleef] Enabling EpicSpleef v0.0.19
+[19:01:08] [Server thread/INFO]: [EpicSpleef] Enabling EpicSpleef by BtoBastian
+[19:01:09] [Server thread/INFO]: [EpicSpleef] Loading lobby SpleefOne
+[19:01:09] [Server thread/INFO]: [EpicSpleef] Loading arena ArenaOne
+[19:01:09] [Server thread/INFO]: [EpicSpleef] Successfully loaded arena ArenaOne. (world: minigames, blocks: 5233, maxPlayers: 0)
+[19:01:09] [Server thread/INFO]: [EpicSpleef] Loading arena SpleefOne
+[19:01:09] [Server thread/INFO]: [EpicSpleef] Successfully loaded arena SpleefOne. (world: minigames, blocks: 0, maxPlayers: 0)
+[19:01:09] [Server thread/INFO]: [OnTime] Enabling OnTime v4.1.3
+[19:01:09] [Server thread/INFO]: [CraftBook] Enabling CraftBook v3.9-SNAPSHOT
+[19:01:10] [Server thread/INFO]: [CraftBook] Successfully added 1 CommandItems!
+[19:01:10] [Server thread/INFO]: [CraftBook] Registered 3 custom recipes!
+[19:01:10] [Server thread/INFO]: [CraftBook] 5749 chunk(s) for 9 world(s) processed (32ms elapsed)
+[19:01:13] [Server thread/INFO]: Found 0 arenas.
+[19:02:04] [Server thread/INFO]: Staff: [Admin] UnSeen
+[19:02:59] [Server thread/INFO]: Staff: [Admin] UnSeen
+[19:02:59] [Server thread/INFO]: Developers: [Dev] Popey
+[19:03:49] [Server thread/INFO]: Popey456963 issued server command: /plugins
+[19:03:53] [Server thread/INFO]: Staff: [Admin] UnSeen
+[19:03:53] [Server thread/INFO]: Developers: [Dev] Popey
+[19:03:56] [Server thread/INFO]: Popey456963 issued server command: /random_spawn
+[19:03:58] [Server thread/INFO]: Popey456963 issued server command: /rspawn
+[19:03:59] [Server thread/INFO]: Popey456963 issued server command: /spawn
+[19:04:03] [Server thread/INFO]: Popey456963 issued server command: /random
+[19:04:04] [Server thread/INFO]: Popey456963 issued server command: /randomspawn
+[19:04:08] [Server thread/INFO]: Popey456963 issued server command: /rs help
+[19:04:48] [Server thread/INFO]: Staff: [Admin] UnSeen
+[19:04:48] [Server thread/INFO]: Developers: [Dev] Popey
+[19:05:42] [Server thread/INFO]: Staff: [Admin] UnSeen
+[19:05:42] [Server thread/INFO]: Developers: [Dev] Popey
+[19:06:37] [Server thread/INFO]: Staff: [Admin] UnSeen
+[19:06:37] [Server thread/INFO]: Developers: [Dev] Popey
+[19:07:04] [Server thread/INFO]: Popey456963 issued server command: /plugins
+[19:07:07] [Server thread/INFO]: Popey456963 issued server command: /world
+[19:07:31] [Server thread/INFO]: Staff: [Admin] UnSeen
+[19:07:31] [Server thread/INFO]: Developers: [Dev] Popey
+[19:08:26] [Server thread/INFO]: Staff: [Admin] UnSeen
+[19:08:26] [Server thread/INFO]: Developers: [Dev] Popey
+[19:08:41] [Server thread/INFO]: [Dev] Popey: Hello Gunstar.
+[19:08:45] [Server thread/INFO]: Popey456963 issued server command: /pex
+[19:08:49] [Server thread/INFO]: Popey456963 issued server command: /pex user group
+[19:08:52] [Server thread/INFO]: Popey456963 issued server command: /pex user Gunstar
+[19:08:56] [Server thread/INFO]: Popey456963 issued server command: /pex user Gunstar group set
+[19:09:01] [Server thread/INFO]: Popey456963 issued server command: /pex user Gunstar set group
+[19:09:03] [Server thread/INFO]: Popey456963 issued server command: /pex user Gunstar
+[19:09:12] [Server thread/INFO]: Popey456963 issued server command: /pex user Gunstar group set mod
+[19:09:20] [Server thread/INFO]: Staff: [Admin] UnSeen, [Mod] Gunstar
+[19:09:20] [Server thread/INFO]: Developers: [Dev] Popey
+[19:09:25] [Server thread/INFO]: Popey456963 issued server command: /sudo Gunstar me test
+[19:10:08] [Server thread/INFO]: [Mod] Gunstar: hi
+[19:10:14] [Server thread/INFO]: [Mod] Gunstar: wtf where is my smod tag
+[19:10:14] [Server thread/INFO]: Staff: [Admin] UnSeen, [Mod] Gunstar
+[19:10:14] [Server thread/INFO]: Developers: [Dev] Popey
+[19:10:36] [Server thread/INFO]: Popey456963 issued server command: /gamemode 1 Gunstar
+[19:10:48] [Server thread/INFO]: [Mod] Gunstar: gamemode
+[19:10:55] [Server thread/INFO]: Gunstar issued server command: /gamemode 1
+[19:10:56] [Server thread/INFO]: [Admin] UnSeen: ./memes
+[19:11:14] [Server thread/INFO]: [Mod] Gunstar: lel
+[19:11:39] [Server thread/INFO]: Gunstar issued server command: /help
+[19:11:49] [Server thread/INFO]: Staff: [Admin] UnSeen, [Mod] Gunstar
+[19:11:49] [Server thread/INFO]: Developers: [Dev] Popey
+[19:11:54] [Server thread/INFO]: Gunstar issued server command: /help 2
+[19:12:04] [Server thread/INFO]: Gunstar issued server command: /help 3
+[19:12:09] [Server thread/INFO]: Gunstar issued server command: /help 4
+[19:12:17] [Server thread/INFO]: Gunstar issued server command: /help 5
+[19:12:23] [Server thread/INFO]: Gunstar issued server command: /help 6
+[19:12:29] [Server thread/INFO]: Gunstar issued server command: /help 7
+[19:12:30] [Server thread/INFO]: Popey456963 issued server command: /rs
+[19:12:32] [Server thread/INFO]: Popey456963 issued server command: /rs help
+[19:12:35] [Server thread/INFO]: [Dev] Popey: Can you see these messages?
+[19:12:36] [Server thread/INFO]: Gunstar issued server command: /speed 100
+[19:12:41] [Server thread/INFO]: [Mod] Gunstar: yh
+[19:12:44] [Server thread/INFO]: Staff: [Admin] UnSeen, [Mod] Gunstar
+[19:12:44] [Server thread/INFO]: Developers: [Dev] Popey
+[19:12:46] [Server thread/INFO]: [Dev] Popey: Good.
+[19:12:52] [Server thread/INFO]: Popey456963 issued server command: /world
+[19:13:12] [Server thread/INFO]: Popey456963 issued server command: /help
+[19:13:16] [Server thread/INFO]: Popey456963 issued server command: /plugins
+[19:13:25] [Server thread/INFO]: Popey456963 issued server command: /world
+[19:13:27] [Server thread/INFO]: Popey456963 issued server command: /world
+[19:13:35] [Server thread/INFO]: Popey456963 issued server command: /mv
+[19:13:38] [Server thread/INFO]: Staff: [Admin] UnSeen, [Mod] Gunstar
+[19:13:38] [Server thread/INFO]: Developers: [Dev] Popey
+[19:13:39] [Server thread/INFO]: Popey456963 issued server command: /mv info
+[19:13:49] [Server thread/INFO]: Popey456963 issued server command: /tp
+[19:13:52] [Server thread/INFO]: Popey456963 issued server command: /tppos
+[19:14:02] [Server thread/INFO]: Popey456963 issued server command: /tppos 10000000 100 10000000
+[19:14:22] [Server thread/INFO]: AttrebusMede left the game.
+[19:14:32] [Server thread/INFO]: Popey456963 issued server command: //plugins
+[19:14:33] [Server thread/INFO]: Staff: [Mod] Gunstar
+[19:14:33] [Server thread/INFO]: Developers: [Dev] Popey
+[19:14:45] [Server thread/INFO]: Popey456963 issued server command: //paste
+[19:15:28] [Server thread/INFO]: Staff: [Mod] Gunstar
+[19:15:28] [Server thread/INFO]: Developers: [Dev] Popey
+[19:15:58] [Server thread/INFO]: Popey456963 issued server command: //set 0
+[19:16:00] [Server thread/INFO]: Gunstar left the game.
+[19:16:22] [Server thread/INFO]: [Dev] Popey: ./tppos 10000000 100 10000000
+[19:16:22] [Server thread/INFO]: Staff: [Admin] UnSeen
+[19:16:22] [Server thread/INFO]: Developers: [Dev] Popey
+[19:17:05] [Server thread/INFO]: Popey456963 issued server command: /speed
+[19:17:17] [Server thread/INFO]: Staff: [Admin] UnSeen
+[19:17:17] [Server thread/INFO]: Developers: [Dev] Popey
+[19:17:57] [Server thread/INFO]: Popey456963 issued server command: /hd
+[19:18:00] [Server thread/INFO]: Popey456963 issued server command: /hd help
+[19:18:11] [Server thread/INFO]: Staff: [Admin] UnSeen
+[19:18:11] [Server thread/INFO]: Developers: [Dev] Popey
+[19:18:18] [Server thread/INFO]: Popey456963 issued server command: /hd addline
+[19:19:05] [Server thread/INFO]: Staff: [Admin] UnSeen
+[19:19:05] [Server thread/INFO]: Developers: [Dev] Popey
+[19:20:00] [Server thread/INFO]: Staff: [Admin] UnSeen
+[19:20:00] [Server thread/INFO]: Developers: [Dev] Popey
+[19:20:31] [Server thread/INFO]: Popey456963 issued server command: /hd addline welcome Welcome to the server,
+[19:20:54] [Server thread/INFO]: Staff: [Admin] UnSeen
+[19:20:54] [Server thread/INFO]: Developers: [Dev] Popey
+[19:21:38] [Server thread/INFO]: [Dev] Popey: Sure! Have fun.
+[19:21:46] [Server thread/INFO]: AttrebusMede left the game.
+[19:21:49] [Server thread/INFO]: Popey456963 issued server command: /hd addline welcome ———————————————————————————————————————
+[19:21:49] [Server thread/INFO]: Developers: [Dev] Popey
+[19:21:58] [Server thread/INFO]: Popey456963 issued server command: /hd removeline
+[19:22:02] [Server thread/INFO]: Popey456963 issued server command: /hd removeline welcome 1
+[19:22:04] [Server thread/INFO]: Popey456963 issued server command: /hd removeline welcome 1
+[19:22:04] [Server thread/INFO]: Popey456963 issued server command: /hd removeline welcome 1
+[19:22:14] [Server thread/INFO]: Popey456963 issued server command: /hd addline welcome ------------------------------------
+[19:22:16] [Server thread/INFO]: Popey456963 issued server command: /hd removeline welcome 1
+[19:22:24] [Server thread/INFO]: Popey456963 issued server command: /hd addline welcome &bWelcome to the server,
+[19:22:29] [Server thread/INFO]: Popey456963 issued server command: /hd addline welcome &u{player}
+[19:22:44] [Server thread/INFO]: Developers: [Dev] Popey
+[19:23:38] [Server thread/INFO]: Developers: [Dev] Popey
+[19:23:59] [Server thread/INFO]: [Dev] Popey: test
+[19:24:33] [Server thread/INFO]: Developers: [Dev] Popey
+[19:24:34] [Server thread/INFO]: Stopping the server
+[19:24:34] [Server thread/INFO]: Stopping server
+[19:24:34] [Server thread/INFO]: [CraftBook] Disabling CraftBook v3.9-SNAPSHOT
+[19:24:34] [Server thread/INFO]: [OnTime] Disabling OnTime v4.1.3
+[19:24:34] [Server thread/INFO]: [EpicSpleef] Disabling EpicSpleef v0.0.19
+[19:24:34] [Server thread/INFO]: [SkyWars] Disabling SkyWars v1.1-m16
+[19:24:35] [Server thread/INFO]: [Multiverse-Core] World 'island-0' was unloaded from memory.
+[19:24:35] [Server thread/INFO]: [Multiverse-Core] World island-0 was DELETED.
+[19:24:35] [Server thread/INFO]: [CommandSigns] Disabling CommandSigns v1.9.3.2
+[19:24:35] [Server thread/INFO]: [HolographicDisplays] Disabling HolographicDisplays v2.1.10
+[19:24:35] [Server thread/INFO]: [TNTRun] Disabling TNTRun v3.4
+[19:24:35] [Server thread/INFO]: [MobArena] Disabling MobArena v0.97.1
+[19:24:35] [Server thread/INFO]: [MobArena] disabled.
+[19:24:35] [Server thread/INFO]: [Minigames] Disabling Minigames v1.7.0
+[19:24:35] [Server thread/INFO]: Minigames successfully disabled.
+[19:24:35] [Server thread/INFO]: [MinigamesLib] Disabling MinigamesLib v1.13.1
+[19:24:35] [Server thread/INFO]: [MassiveCore] Disabling MassiveCore v2.8.0
+[19:24:35] [Server thread/INFO]: [MassiveCore 2.8.0] Disabled
+[19:24:35] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn vTeamCity
+[19:24:35] [Server thread/INFO]: [Vault] Disabling Vault v1.5.6-b49
+[19:24:35] [Server thread/INFO]: [Multiverse-Portals] Disabling Multiverse-Portals v2.4-b548
+[19:24:35] [Server thread/INFO]: [SuperVanish] Disabling SuperVanish v5.4.3
+[19:24:35] [Server thread/INFO]: [Multiverse-NetherPortals] Disabling Multiverse-NetherPortals v2.4-b530
+[19:24:35] [Server thread/INFO]: [MultiVerse-NetherPortals] - Disabled
+[19:24:35] [Server thread/INFO]: [mcMMO] Disabling mcMMO v1.5.00-b3547

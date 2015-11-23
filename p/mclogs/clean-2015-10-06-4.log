@@ -1,0 +1,108 @@
+[02:21:46] [Server thread/INFO]: Loading properties
+[02:21:46] [Server thread/INFO]: Default game type: SURVIVAL
+[02:21:46] [Server thread/INFO]: Using epoll channel type
+[02:21:47] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1;no_git_id
+[02:21:47] [Server thread/INFO]: [Essentials] Loading Essentials vTeamCity
+[02:21:47] [Server thread/INFO]: [PlugMan] Loading PlugMan v2.0.7
+[02:21:47] [Server thread/INFO]: [LaggRemover] Loading LaggRemover v0.1.7
+[02:21:47] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v6.1
+[02:21:47] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v2.4-b527
+[02:21:47] [Server thread/INFO]: [Splegg] Loading Splegg v1.2
+[02:21:47] [Server thread/INFO]: [EssentialsProtect] Loading EssentialsProtect vTeamCity
+[02:21:47] [Server thread/INFO]: [VoxelSniper] Loading VoxelSniper v7.1.0
+[02:21:47] [Server thread/INFO]: [mcMMO] Loading mcMMO v1.5.00-b3547
+[02:21:47] [Server thread/INFO]: [Multiverse-NetherPortals] Loading Multiverse-NetherPortals v2.4-b530
+[02:21:47] [Server thread/INFO]: [SuperVanish] Loading SuperVanish v5.4.3
+[02:21:47] [Server thread/INFO]: [Multiverse-Portals] Loading Multiverse-Portals v2.4-b548
+[02:21:47] [Server thread/INFO]: [Vault] Loading Vault v1.5.6-b49
+[02:21:47] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn vTeamCity
+[02:21:47] [Server thread/INFO]: [MinigamesLib] Loading MinigamesLib v1.13.1
+[02:21:47] [Server thread/INFO]: [Minigames] Loading Minigames v1.7.0
+[02:21:47] [Server thread/INFO]: [MobArena] Loading MobArena v0.97.1
+[02:21:47] [Server thread/INFO]: [TNTRun] Loading TNTRun v3.4
+[02:21:47] [Server thread/INFO]: [HolographicDisplays] Loading HolographicDisplays v2.1.10
+[02:21:47] [Server thread/INFO]: [CommandSigns] Loading CommandSigns v1.9.3.2
+[02:21:47] [Server thread/INFO]: [SkyWars] Loading SkyWars v1.1-m16
+[02:21:47] [Server thread/INFO]: [EpicSpleef] Loading EpicSpleef v0.0.19
+[02:21:47] [Server thread/INFO]: [OnTime] Loading OnTime v4.1.3
+[02:21:47] [Server thread/INFO]: [CraftBook] Loading CraftBook v3.9-SNAPSHOT
+[02:21:47] [Server thread/INFO]: [mcMMO] Enabling mcMMO v1.5.00-b3547
+[02:21:48] [Server thread/INFO]: [Vault] Enabling Vault v1.5.6-b49
+[02:21:50] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1;no_git_id
+[02:21:50] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_8_R3 as the Bukkit adapter
+[02:21:50] [Server thread/INFO]: [Essentials] Enabling Essentials vTeamCity
+[02:21:50] [Server thread/INFO]: git-Bukkit-9935adc (MC: 1.8.8)
+[02:21:50] [Server thread/INFO]: 1.8.8-R0.1-SNAPSHOT
+[02:21:50] [Server thread/INFO]: Using locale en_US
+[02:21:50] [Server thread/INFO]: Using locale en_US
+[02:21:50] [Server thread/INFO]: [PlugMan] Enabling PlugMan v2.0.7
+[02:21:50] [Server thread/INFO]: [LaggRemover] Enabling LaggRemover v0.1.7
+[02:21:50] [Server thread/INFO]: [LaggRemover] LaggRemover has been enabled!
+[02:21:50] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v6.1
+[02:21:51] [Server thread/INFO]: [WorldGuard] (TEST) Lighters are PERMITTED.
+[02:21:51] [Server thread/INFO]: [WorldGuard] (TEST) Lava fire is blocked.
+[02:21:51] [Server thread/INFO]: [WorldGuard] (TEST) Fire spread is UNRESTRICTED.
+[02:21:51] [Server thread/INFO]: [WorldGuard] (TEST_nether) Lighters are PERMITTED.
+[02:21:51] [Server thread/INFO]: [WorldGuard] (TEST_nether) Lava fire is blocked.
+[02:21:51] [Server thread/INFO]: [WorldGuard] (TEST_nether) Fire spread is UNRESTRICTED.
+[02:21:51] [Server thread/INFO]: [WorldGuard] (TEST_the_end) Lighters are PERMITTED.
+[02:21:51] [Server thread/INFO]: [WorldGuard] (TEST_the_end) Lava fire is blocked.
+[02:21:51] [Server thread/INFO]: [WorldGuard] (TEST_the_end) Fire spread is UNRESTRICTED.
+[02:21:51] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v2.4-b527
+[02:21:51] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'TEST' - Env: NORMAL - Type: NORMAL & seed: -2024018835920597302
+[02:22:51] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'TEST_nether' - Env: NETHER - Type: NORMAL & seed: -2024018835920597302
+[02:22:51] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'TEST_the_end' - Env: THE_END - Type: NORMAL & seed: -2024018835920597302
+[02:22:51] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'lobby' - Env: NORMAL - Type: NORMAL & seed: -3770714656453924402
+[02:22:52] [Thread-14/INFO]: [CommandSigns] Loading CommandSigns v1.9.3.2
+[02:22:52] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'minigames' - Env: NORMAL - Type: FLAT & seed: 2973644325369467684
+[02:22:52] [Server thread/INFO]: [Splegg] Enabling Splegg v1.2
+[02:22:52] [Server thread/INFO]: [EssentialsProtect] Enabling EssentialsProtect vTeamCity
+[02:22:52] [Server thread/INFO]: [VoxelSniper] Enabling VoxelSniper v7.1.0
+[02:22:53] [Server thread/INFO]: [Multiverse-NetherPortals] Enabling Multiverse-NetherPortals v2.4-b530
+[02:22:53] [Server thread/INFO]: [SuperVanish] Enabling SuperVanish v5.4.3
+[02:22:53] [Server thread/INFO]: [Multiverse-Portals] Enabling Multiverse-Portals v2.4-b548
+[02:22:53] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn vTeamCity
+[02:22:53] [Server thread/INFO]: [MinigamesLib] Enabling MinigamesLib v1.13.1
+[02:22:53] [Server thread/INFO]: [Minigames] Enabling Minigames v1.7.0
+[02:22:53] [Server thread/INFO]: [Minigames] Using lang en_AU
+[02:22:53] [Server thread/ERROR]: [Minigames] Failed to enable Minigames 1.7.0: 
+[02:22:53] [Server thread/INFO]: [Minigames] Disabling Minigames v1.7.0
+[02:22:53] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v6.1
+[02:22:53] [Server thread/INFO]: [WorldGuard] (TEST) Lighters are PERMITTED.
+[02:22:53] [Server thread/INFO]: [WorldGuard] (TEST) Lava fire is blocked.
+[02:22:53] [Server thread/INFO]: [WorldGuard] (TEST) Fire spread is UNRESTRICTED.
+[02:22:53] [Server thread/INFO]: [WorldGuard] (TEST_nether) Lighters are PERMITTED.
+[02:22:53] [Server thread/INFO]: [WorldGuard] (TEST_nether) Lava fire is blocked.
+[02:22:53] [Server thread/INFO]: [WorldGuard] (TEST_nether) Fire spread is UNRESTRICTED.
+[02:22:53] [Server thread/INFO]: [WorldGuard] (TEST_the_end) Lighters are PERMITTED.
+[02:22:53] [Server thread/INFO]: [WorldGuard] (TEST_the_end) Lava fire is blocked.
+[02:22:53] [Server thread/INFO]: [WorldGuard] (TEST_the_end) Fire spread is UNRESTRICTED.
+[02:22:53] [Server thread/INFO]: [WorldGuard] (lobby) Lighters are PERMITTED.
+[02:22:53] [Server thread/INFO]: [WorldGuard] (lobby) Lava fire is blocked.
+[02:22:53] [Server thread/INFO]: [WorldGuard] (lobby) Fire spread is UNRESTRICTED.
+[02:22:53] [Server thread/INFO]: [WorldGuard] (minigames) Lighters are PERMITTED.
+[02:22:53] [Server thread/INFO]: [WorldGuard] (minigames) Lava fire is blocked.
+[02:22:53] [Server thread/INFO]: [WorldGuard] (minigames) Fire spread is UNRESTRICTED.
+[02:22:54] [Server thread/INFO]: [MobArena] Enabling MobArena v0.97.1
+[02:22:54] [Server thread/INFO]: [TNTRun] Enabling TNTRun v3.4
+[02:22:54] [Server thread/INFO]: [HolographicDisplays] Enabling HolographicDisplays v2.1.10
+[02:22:54] [Server thread/INFO]: [CommandSigns] Enabling CommandSigns v1.9.3.2
+[02:22:54] [Server thread/INFO]: [CommandSigns] No signs found.
+[02:22:54] [Server thread/INFO]: [SkyWars] Enabling SkyWars v1.1-m16
+[02:22:54] [Server thread/INFO]: [EpicSpleef] Enabling EpicSpleef v0.0.19
+[02:22:54] [Server thread/INFO]: [EpicSpleef] Enabling EpicSpleef by BtoBastian
+[02:22:55] [Thread-14/INFO]: [CommandSigns] Enabling CommandSigns v1.9.3.2
+[02:22:55] [Thread-14/INFO]: [CommandSigns] No signs found.
+[02:22:55] [Server thread/INFO]: [EpicSpleef] Loading lobby SpleefOne
+[02:22:55] [Server thread/INFO]: [EpicSpleef] Loading arena ArenaOne
+[02:22:55] [Server thread/INFO]: [EpicSpleef] Successfully loaded arena ArenaOne. (world: minigames, blocks: 5233, maxPlayers: 0)
+[02:22:55] [Server thread/INFO]: [EpicSpleef] Loading arena SpleefOne
+[02:22:55] [Server thread/INFO]: [EpicSpleef] Successfully loaded arena SpleefOne. (world: minigames, blocks: 0, maxPlayers: 0)
+[02:22:55] [Server thread/INFO]: [OnTime] Enabling OnTime v4.1.3
+[02:22:55] [Server thread/INFO]: [CraftBook] Enabling CraftBook v3.9-SNAPSHOT
+[02:22:58] [Thread-14/INFO]: [CraftBook] Successfully added 1 CommandItems!
+[02:31:51] [Thread-36/INFO]: [CommandSigns] Disabling CommandSigns v1.9.3.2
+[02:32:52] [Thread-36/INFO]: [CommandSigns] Loading CommandSigns v1.9.3.2
+[02:32:53] [Server thread/INFO]: Stopping server
+[02:32:53] [Server thread/INFO]: [Vault] Disabling Vault v1.5.6-b49
+[02:32:53] [Server thread/INFO]: [mcMMO] Disabling mcMMO v1.5.00-b3547

@@ -1,0 +1,29 @@
+[00:40:09] [Server thread/INFO]: Failed
+[01:42:16] [Server thread/INFO]: Failed
+[02:44:22] [Server thread/INFO]: Failed
+[03:46:29] [Server thread/INFO]: Failed
+[04:48:36] [Server thread/INFO]: Failed
+[05:50:43] [Server thread/INFO]: Failed
+[06:52:49] [Server thread/INFO]: Failed
+[07:54:56] [Server thread/INFO]: Failed
+[08:57:03] [Server thread/INFO]: Failed
+[09:59:10] [Server thread/INFO]: Failed
+[11:01:16] [Server thread/INFO]: Failed
+[12:03:23] [Server thread/INFO]: Failed
+[13:05:30] [Server thread/INFO]: Failed
+[13:50:02] [Server thread/INFO]: CONSOLE: Stopping the server..
+[13:50:02] [Server thread/INFO]: Stopping server
+[13:50:02] [Server thread/INFO]: [HeroBounty] Disabling HeroBounty v1.9.5
+[13:50:02] [Server thread/INFO]: [EssentialsXMPP] Disabling EssentialsXMPP v2.12.2
+[13:50:02] [Server thread/INFO]: [EpicQuest] Disabling EpicQuest v3.5.4
+[13:50:02] [Server thread/INFO]: [EpicQuest] succesfully disabled.
+[13:50:02] [Server thread/INFO]: [MassiveCore] Disabling MassiveCore v7.4.0
+[13:50:02] [Server thread/INFO]: [MassiveCore 7.4.0] Disabled
+[13:50:02] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v6.0.0-beta-03.1514-
+[13:50:02] [Server thread/INFO]: [WorldGuard] Shutting down executor and waiting for any pending tasks...
+[13:50:02] [Server thread/INFO]: [CommandBook] Disabling CommandBook v2.4:1692-75bb1c8,master
+[13:50:02] [Server thread/INFO]: [Vault] Disabling Vault v1.2.31-b411
+[13:50:02] [Server thread/INFO]: [WorldBorder] Disabling WorldBorder v1.7.9
+[13:50:02] [Server thread/INFO]: [WorldBorder] [CONFIG] Border-checking timed task stopped.
+[13:50:02] [Server thread/INFO]: [mcMMO] Disabling mcMMO v1.5.00-b3547
+[13:50:34] [Thread-6/INFO]: Stopping server

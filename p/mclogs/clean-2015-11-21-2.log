@@ -1,0 +1,421 @@
+[00:20:00] [Server thread/INFO]: Loading properties
+[00:20:00] [Server thread/INFO]: Default game type: SURVIVAL
+[00:20:00] [Server thread/INFO]: Using epoll channel type
+[00:20:01] [Server thread/INFO]: [CoreProtect] Loading CoreProtect v2.12.0
+[00:20:01] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1;no_git_id
+[00:20:01] [Server thread/INFO]: [Announcement] Loading Announcement v1.0.3
+[00:20:01] [Server thread/INFO]: [Essentials] Loading Essentials vTeamCity
+[00:20:01] [Server thread/INFO]: [mcMMO] Loading mcMMO v1.5.00-b3547
+[00:20:01] [Server thread/INFO]: [Random_Spawn] Loading Random_Spawn v2.6
+[00:20:01] [Server thread/INFO]: [Vault] Loading Vault v1.5.6-b49
+[00:20:01] [Server thread/INFO]: [CommandSigns] Loading CommandSigns v1.9.3.2
+[00:20:01] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn vTeamCity
+[00:20:01] [Server thread/INFO]: [LaggRemover] Loading LaggRemover v0.1.9
+[00:20:01] [Server thread/INFO]: [MassiveCore] Loading MassiveCore v2.8.0
+[00:20:01] [Server thread/INFO]: TimeUnit.MILLIS_PER_MINUTE: 60000
+[00:20:01] [Server thread/INFO]: [ProtocolLib] Loading ProtocolLib v3.6.4
+[00:20:01] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v6.1
+[00:20:01] [Server thread/INFO]: [OnTime] Loading OnTime v4.1.3
+[00:20:01] [Server thread/INFO]: [EssentialsProtect] Loading EssentialsProtect vTeamCity
+[00:20:01] [Server thread/INFO]: [HeavySpleef] Loading HeavySpleef v2.1.1
+[00:20:01] [Server thread/INFO]: [MobArena] Loading MobArena v0.97.1
+[00:20:01] [Server thread/INFO]: [HolographicDisplays] Loading HolographicDisplays v2.1.10
+[00:20:01] [Server thread/INFO]: [TouchscreenHolograms] Loading TouchscreenHolograms v1.3
+[00:20:01] [Server thread/INFO]: [mcMMO] Enabling mcMMO v1.5.00-b3547
+[00:20:02] [Server thread/INFO]: [Vault] Enabling Vault v1.5.6-b49
+[00:20:02] [Server thread/INFO]: [MassiveCore] Enabling MassiveCore v2.8.0
+[00:20:02] [Server thread/INFO]: [MassiveCore 2.8.0] === ENABLE START ===
+[00:20:02] [Server thread/INFO]: [MassiveCore 2.8.0] §eSetup of IdUtil took §d10§ems.
+[00:20:02] [Server thread/INFO]: [MassiveCore 2.8.0] === ENABLE §aCOMPLETE §e(Took §d136ms§e) ===
+[00:20:02] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v3.6.4
+[00:20:02] [Server thread/INFO]: [ProtocolLib] Started structure compiler thread.
+[00:20:04] [Server thread/INFO]: [CoreProtect] Enabling CoreProtect v2.12.0
+[00:20:05] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1;no_git_id
+[00:20:05] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_8_R3 as the Bukkit adapter
+[00:20:05] [Server thread/INFO]: [Announcement] Enabling Announcement v1.0.3
+[00:20:05] [Server thread/INFO]: [Essentials] Enabling Essentials vTeamCity
+[00:20:05] [Server thread/INFO]: git-Bukkit-9935adc (MC: 1.8.8)
+[00:20:05] [Server thread/INFO]: 1.8.8-R0.1-SNAPSHOT
+[00:20:05] [Server thread/INFO]: Using locale en_US
+[00:20:05] [Server thread/INFO]: Using locale en_US
+[00:20:05] [Server thread/INFO]: [Random_Spawn] Enabling Random_Spawn v2.6
+[00:20:05] [Server thread/INFO]: [CommandSigns] Enabling CommandSigns v1.9.3.2
+[00:20:05] [Server thread/INFO]: [CommandSigns] Successfully loaded 0 signs
+[00:20:05] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn vTeamCity
+[00:20:05] [Server thread/INFO]: [LaggRemover] Enabling LaggRemover v0.1.9
+[00:20:05] [Server thread/INFO]: [LaggRemover] LaggRemover has been enabled!
+[00:20:05] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v6.1
+[00:20:05] [Server thread/INFO]: [WorldGuard] (survival) Lighters are PERMITTED.
+[00:20:05] [Server thread/INFO]: [WorldGuard] (survival) Lava fire is blocked.
+[00:20:05] [Server thread/INFO]: [WorldGuard] (survival) Fire spread is UNRESTRICTED.
+[00:20:05] [Server thread/INFO]: [WorldGuard] (survival_nether) Lighters are PERMITTED.
+[00:20:05] [Server thread/INFO]: [WorldGuard] (survival_nether) Lava fire is blocked.
+[00:20:05] [Server thread/INFO]: [WorldGuard] (survival_nether) Fire spread is UNRESTRICTED.
+[00:20:05] [Server thread/INFO]: [WorldGuard] (survival_the_end) Lighters are PERMITTED.
+[00:20:05] [Server thread/INFO]: [WorldGuard] (survival_the_end) Lava fire is blocked.
+[00:20:05] [Server thread/INFO]: [WorldGuard] (survival_the_end) Fire spread is UNRESTRICTED.
+[00:20:07] [Server thread/INFO]: [OnTime] Enabling OnTime v4.1.3
+[00:20:07] [Server thread/INFO]: [EssentialsProtect] Enabling EssentialsProtect vTeamCity
+[00:20:07] [Server thread/INFO]: [HeavySpleef] Enabling HeavySpleef v2.1.1
+[00:20:09] [Server thread/INFO]: [MobArena] Enabling MobArena v0.97.1
+[00:20:09] [Server thread/INFO]: [MobArena] v0.97.1 enabled.
+[00:20:09] [Server thread/INFO]: [HolographicDisplays] Enabling HolographicDisplays v2.1.10
+[00:20:09] [Server thread/INFO]: [TouchscreenHolograms] Enabling TouchscreenHolograms v1.3
+[00:20:13] [Server thread/INFO]: Popey456963 issued server command: /plugins
+[00:20:14] [Server thread/INFO]: Popey456963 issued server command: /spleef
+[00:20:16] [Server thread/INFO]: Popey456963 issued server command: /warp
+[00:20:20] [Server thread/INFO]: Popey456963 issued server command: /warp
+[00:20:30] [Server thread/INFO]: Popey456963 issued server command: /gamemode 1
+[00:20:38] [Server thread/INFO]: Popey456963 issued server command: /gamemode 1Spawn
+[00:20:41] [Server thread/INFO]: Popey456963 issued server command: /warp 1Spawn
+[00:21:04] [Server thread/INFO]: Staff: [Admin] UnSeen
+[00:21:04] [Server thread/INFO]: Developers: [Dev] Popey
+[00:21:58] [Server thread/INFO]: Staff: [Admin] UnSeen
+[00:21:58] [Server thread/INFO]: Developers: [Dev] Popey
+[00:22:23] [Server thread/INFO]: AttrebusMede issued server command: /warp 1spawn
+[00:22:53] [Server thread/INFO]: Staff: [Admin] UnSeen
+[00:22:53] [Server thread/INFO]: Developers: [Dev] Popey
+[00:22:53] [Server thread/INFO]: Popey456963 issued server command: /spleef addfloor simple
+[00:23:03] [Server thread/INFO]: Popey456963 issued server command: /spleef addfloor simple
+[00:23:30] [Server thread/INFO]: Popey456963 issued server command: /spleef flag
+[00:23:34] [Server thread/INFO]: Popey456963 issued server command: /spleef flag simple autostart 2
+[00:23:41] [Server thread/INFO]: Popey456963 issued server command: /spleef flag simple shovels
+[00:23:47] [Server thread/INFO]: Staff: [Admin] UnSeen
+[00:23:47] [Server thread/INFO]: Developers: [Dev] Popey
+[00:23:51] [Server thread/INFO]: Popey456963 issued server command: /spleef flag simple lobby
+[00:24:09] [Server thread/INFO]: Popey456963 issued server command: /spleef join simple
+[00:24:17] [Server thread/INFO]: AttrebusMede issued server command: /spleef join simple
+[00:24:42] [Server thread/INFO]: Staff: [Admin] UnSeen
+[00:24:42] [Server thread/INFO]: Developers: [Dev] Popey
+[00:25:36] [Server thread/INFO]: Staff: [Admin] UnSeen
+[00:25:36] [Server thread/INFO]: Developers: [Dev] Popey
+[00:25:40] [Server thread/INFO]: Popey456963 issued server command: /spleef leave
+[00:25:42] [Server thread/INFO]: Popey456963 issued server command: /spawn
+[00:26:30] [Server thread/INFO]: Staff: [Admin] UnSeen
+[00:26:30] [Server thread/INFO]: Developers: [Dev] Popey
+[00:27:25] [Server thread/INFO]: Staff: [Admin] UnSeen
+[00:27:25] [Server thread/INFO]: Developers: [Dev] Popey
+[00:28:19] [Server thread/INFO]: Staff: [Admin] UnSeen
+[00:28:19] [Server thread/INFO]: Developers: [Dev] Popey
+[00:29:14] [Server thread/INFO]: Staff: [Admin] UnSeen
+[00:29:14] [Server thread/INFO]: Developers: [Dev] Popey
+[00:30:08] [Server thread/INFO]: Staff: [Admin] UnSeen
+[00:30:08] [Server thread/INFO]: Developers: [Dev] Popey
+[00:31:03] [Server thread/INFO]: Staff: [Admin] UnSeen
+[00:31:03] [Server thread/INFO]: Developers: [Dev] Popey
+[00:31:57] [Server thread/INFO]: Staff: [AFK][Admin] UnSeen
+[00:31:57] [Server thread/INFO]: Developers: [Dev] Popey
+[00:32:52] [Server thread/INFO]: Staff: [AFK][Admin] UnSeen, [Senior Mod] Gunstar
+[00:32:52] [Server thread/INFO]: Developers: [Dev] Popey
+[00:33:46] [Server thread/INFO]: Staff: [AFK][Admin] UnSeen, [Senior Mod] Gunstar
+[00:33:46] [Server thread/INFO]: Developers: [Dev] Popey
+[00:34:40] [Server thread/INFO]: Staff: [AFK][Admin] UnSeen, [Senior Mod] Gunstar
+[00:34:40] [Server thread/INFO]: Developers: [Dev] Popey
+[00:35:35] [Server thread/INFO]: Staff: [AFK][Admin] UnSeen, [Senior Mod] Gunstar
+[00:35:35] [Server thread/INFO]: Developers: [Dev] Popey
+[00:36:29] [Server thread/INFO]: Staff: [AFK][Admin] UnSeen, [Senior Mod] Gunstar
+[00:36:29] [Server thread/INFO]: Developers: [Dev] Popey
+[00:37:17] [Netty Epoll Server IO #6/INFO]: [Dev] Popey: Evil Gunstar
+[00:37:24] [Server thread/INFO]: Staff: [AFK][Admin] UnSeen, [Senior Mod] Gunstar
+[00:37:24] [Server thread/INFO]: Developers: [Dev] Popey
+[00:38:18] [Server thread/INFO]: Staff: [AFK][Admin] UnSeen, [Senior Mod] Gunstar
+[00:38:18] [Server thread/INFO]: Developers: [Dev] Popey
+[00:38:54] [Server thread/INFO]: Popey456963 issued server command: /top
+[00:38:59] [Netty Epoll Server IO #6/INFO]: [Dev] Popey: ./top ftw.
+[00:39:04] [Server thread/INFO]: Popey456963 issued server command: /ss
+[00:39:06] [Server thread/INFO]: Popey456963 issued server command: /socialspy
+[00:39:08] [Server thread/INFO]: Gunstar issued server command: /top
+[00:39:08] [Server thread/INFO]: AttrebusMede issued server command: /top ftw
+[00:39:13] [Server thread/INFO]: Staff: [Admin] UnSeen, [Senior Mod] Gunstar
+[00:39:13] [Server thread/INFO]: Developers: [Dev] Popey
+[00:39:17] [Server thread/INFO]: Gunstar issued server command: /top
+[00:39:21] [Server thread/INFO]: AttrebusMede issued server command: /top ftw
+[00:39:27] [Server thread/INFO]: Gunstar issued server command: /top
+[00:40:07] [Server thread/INFO]: Staff: [Admin] UnSeen, [Senior Mod] Gunstar
+[00:40:07] [Server thread/INFO]: Developers: [Dev] Popey
+[00:41:02] [Server thread/INFO]: Staff: [Admin] UnSeen, [Senior Mod] Gunstar
+[00:41:02] [Server thread/INFO]: Developers: [Dev] Popey
+[00:41:11] [Server thread/INFO]: Popey456963 issued server command: /plugins
+[00:41:16] [Server thread/INFO]: Popey456963 issued server command: /core
+[00:41:18] [Server thread/INFO]: Popey456963 issued server command: /co
+[00:41:26] [Server thread/INFO]: Gunstar issued server command: /speed 100
+[00:41:56] [Server thread/INFO]: Staff: [Admin] UnSeen, [Senior Mod] Gunstar
+[00:41:56] [Server thread/INFO]: Developers: [Dev] Popey
+[00:42:03] [Server thread/INFO]: Popey456963 issued server command: /pex user Popey456963
+[00:42:24] [Server thread/INFO]: Popey456963 issued server command: /tp Gunstar
+[00:42:50] [Server thread/INFO]: Staff: [Admin] UnSeen, [Senior Mod] Gunstar
+[00:42:50] [Server thread/INFO]: Developers: [Dev] Popey
+[00:42:51] [Server thread/INFO]: Popey456963 issued server command: /pex user popey456963 add *.*
+[00:43:45] [Server thread/INFO]: Staff: [Admin] UnSeen, [Senior Mod] Gunstar
+[00:43:45] [Server thread/INFO]: Developers: [Dev] Popey
+[00:44:39] [Server thread/INFO]: Staff: [AFK][Admin] UnSeen, [Senior Mod] Gunstar
+[00:44:39] [Server thread/INFO]: Developers: [Dev] Popey
+[00:44:57] [Server thread/INFO]: Popey456963 issued server command: /plugins
+[00:45:20] [Server thread/INFO]: Gunstar issued server command: /spawn
+[00:45:34] [Server thread/INFO]: Staff: [AFK][Admin] UnSeen, [Senior Mod] Gunstar
+[00:45:34] [Server thread/INFO]: Developers: [Dev] Popey
+[00:46:05] [Server thread/INFO]: Popey456963 issued server command: /plugins
+[00:46:28] [Server thread/INFO]: Staff: [AFK][Admin] UnSeen, [Senior Mod] Gunstar
+[00:46:28] [Server thread/INFO]: Developers: [Dev] Popey
+[00:47:23] [Server thread/INFO]: Staff: [AFK][Admin] UnSeen, [Senior Mod] Gunstar
+[00:47:23] [Server thread/INFO]: Developers: [Dev] Popey
+[00:47:39] [Server thread/INFO]: Gunstar issued server command: /spawn
+[00:48:06] [Server thread/INFO]: Popey456963 issued server command: /difficulty 3
+[00:48:08] [Server thread/INFO]: Popey456963 issued server command: /difficulty 0
+[00:48:10] [Server thread/INFO]: Popey456963 issued server command: /difficulty 1
+[00:48:12] [Server thread/INFO]: Popey456963 issued server command: /difficulty 2
+[00:48:13] [Server thread/INFO]: Popey456963 issued server command: /difficulty 1
+[00:48:17] [Server thread/INFO]: Staff: [AFK][Admin] UnSeen, [Senior Mod] Gunstar
+[00:48:17] [Server thread/INFO]: Developers: [Dev] Popey
+[00:49:12] [Server thread/INFO]: Staff: [Admin] UnSeen, [Senior Mod] Gunstar
+[00:49:12] [Server thread/INFO]: Developers: [Dev] Popey
+[00:50:06] [Server thread/INFO]: Staff: [Admin] UnSeen, [Senior Mod] Gunstar
+[00:50:06] [Server thread/INFO]: Developers: [Dev] Popey
+[00:51:00] [Server thread/INFO]: Staff: [Admin] UnSeen, [Senior Mod] Gunstar
+[00:51:00] [Server thread/INFO]: Developers: [Dev] Popey
+[00:51:47] [Server thread/INFO]: Popey456963 issued server command: /plugins
+[00:51:55] [Server thread/INFO]: Staff: [Admin] UnSeen, [Senior Mod] Gunstar
+[00:51:55] [Server thread/INFO]: Developers: [Dev] Popey
+[00:52:49] [Server thread/INFO]: Staff: [Admin] UnSeen, [Senior Mod] Gunstar
+[00:52:49] [Server thread/INFO]: Developers: [Dev] Popey
+[00:53:44] [Server thread/INFO]: Staff: [Admin] UnSeen, [Senior Mod] Gunstar
+[00:53:44] [Server thread/INFO]: Developers: [Dev] Popey
+[00:53:49] [Server thread/INFO]: Popey456963 left the game.
+[00:54:18] [Server thread/INFO]: Popey456963 issued server command: /deop Gunstar
+[00:54:30] [Server thread/INFO]: Popey456963 issued server command: /sudo Gunstar me hello
+[00:54:32] [Netty Epoll Server IO #10/INFO]: [Senior Mod] Gunstar: WTF
+[00:54:33] [Server thread/INFO]: Popey456963 issued server command: /op Gunstar
+[00:54:38] [Server thread/INFO]: Staff: [Admin] UnSeen, [Senior Mod] Gunstar
+[00:54:38] [Server thread/INFO]: Developers: [Dev] Popey
+[00:54:49] [Netty Epoll Server IO #11/INFO]: [Dev] Popey: ./sudo user [command to run]
+[00:54:57] [Server thread/INFO]: Gunstar issued server command: /SUDO USER TEST
+[00:55:33] [Server thread/INFO]: Staff: [Admin] UnSeen, [Senior Mod] Gunstar
+[00:55:33] [Server thread/INFO]: Developers: [Dev] Popey
+[00:56:13] [Server thread/INFO]: Popey456963 issued server command: /rules
+[00:56:27] [Server thread/INFO]: Staff: [AFK][Admin] UnSeen, [Senior Mod] Gunstar
+[00:56:27] [Server thread/INFO]: Developers: [Dev] Popey
+[00:57:22] [Server thread/INFO]: Staff: [AFK][Admin] UnSeen, [Senior Mod] Gunstar
+[00:57:22] [Server thread/INFO]: Developers: [Dev] Popey
+[00:58:16] [Server thread/INFO]: Staff: [AFK][Admin] UnSeen, [Senior Mod] Gunstar
+[00:58:16] [Server thread/INFO]: Developers: [Dev] Popey
+[00:58:49] [Server thread/INFO]: AttrebusMede left the game.
+[00:59:10] [Server thread/INFO]: Staff: [Senior Mod] Gunstar
+[00:59:10] [Server thread/INFO]: Developers: [Dev] Popey
+[01:00:05] [Server thread/INFO]: Staff: [Senior Mod] Gunstar
+[01:00:05] [Server thread/INFO]: Developers: [Dev] Popey
+[01:00:59] [Server thread/INFO]: Staff: [Senior Mod] Gunstar
+[01:00:59] [Server thread/INFO]: Developers: [Dev] Popey
+[01:01:54] [Server thread/INFO]: Staff: [Senior Mod] Gunstar
+[01:01:54] [Server thread/INFO]: Developers: [Dev] Popey
+[01:02:48] [Server thread/INFO]: Staff: [Senior Mod] Gunstar
+[01:02:48] [Server thread/INFO]: Developers: [Dev] Popey
+[01:03:43] [Server thread/INFO]: Staff: [Senior Mod] Gunstar
+[01:03:43] [Server thread/INFO]: Developers: [Dev] Popey
+[01:04:37] [Server thread/INFO]: Staff: [Senior Mod] Gunstar
+[01:04:37] [Server thread/INFO]: Developers: [Dev] Popey
+[01:05:32] [Server thread/INFO]: Staff: [Senior Mod] Gunstar
+[01:05:32] [Server thread/INFO]: Developers: [Dev] Popey
+[01:06:26] [Server thread/INFO]: Staff: [AFK][Senior Mod] Gunstar
+[01:06:26] [Server thread/INFO]: Developers: [Dev] Popey
+[01:07:20] [Server thread/INFO]: Staff: [AFK][Senior Mod] Gunstar
+[01:07:20] [Server thread/INFO]: Developers: [Dev] Popey
+[01:08:15] [Server thread/INFO]: Staff: [AFK][Senior Mod] Gunstar
+[01:08:15] [Server thread/INFO]: Developers: [Dev] Popey
+[01:09:09] [Server thread/INFO]: Staff: [AFK][Senior Mod] Gunstar
+[01:09:09] [Server thread/INFO]: Developers: [Dev] Popey
+[01:10:04] [Server thread/INFO]: Staff: [AFK][Senior Mod] Gunstar
+[01:10:04] [Server thread/INFO]: Developers: [Dev] Popey
+[01:10:58] [Server thread/INFO]: Staff: [AFK][Senior Mod] Gunstar
+[01:10:58] [Server thread/INFO]: Developers: [Dev] Popey
+[01:11:53] [Server thread/INFO]: Staff: [AFK][Senior Mod] Gunstar
+[01:11:53] [Server thread/INFO]: Developers: [Dev] Popey
+[01:12:47] [Server thread/INFO]: Staff: [AFK][Senior Mod] Gunstar
+[01:12:47] [Server thread/INFO]: Developers: [Dev] Popey
+[01:13:42] [Server thread/INFO]: Staff: [AFK][Senior Mod] Gunstar
+[01:13:42] [Server thread/INFO]: Developers: [Dev] Popey
+[01:14:36] [Server thread/INFO]: Staff: [AFK][Senior Mod] Gunstar
+[01:14:36] [Server thread/INFO]: Developers: [Dev] Popey
+[01:15:30] [Server thread/INFO]: Staff: [AFK][Senior Mod] Gunstar
+[01:15:30] [Server thread/INFO]: Developers: [Dev] Popey
+[01:16:02] [Server thread/INFO]: Popey456963 left the game.
+[01:16:25] [Server thread/INFO]: Staff: [AFK][Senior Mod] Gunstar
+[01:17:19] [Server thread/INFO]: Staff: [AFK][Senior Mod] Gunstar
+[01:18:14] [Server thread/INFO]: Staff: [AFK][Senior Mod] Gunstar
+[01:19:08] [Server thread/INFO]: Staff: [AFK][Senior Mod] Gunstar
+[01:20:03] [Server thread/INFO]: Staff: [AFK][Senior Mod] Gunstar
+[01:20:57] [Server thread/INFO]: Staff: [AFK][Senior Mod] Gunstar
+[01:21:38] [Server thread/INFO]: Gunstar left the game.
+[14:34:03] [Server thread/INFO]: Developers: [Dev] Popey
+[14:34:58] [Server thread/INFO]: Developers: [Dev] Popey
+[14:35:52] [Server thread/INFO]: Developers: [Dev] Popey
+[14:36:47] [Server thread/INFO]: Developers: [Dev] Popey
+[14:37:41] [Server thread/INFO]: Developers: [Dev] Popey
+[14:38:35] [Server thread/INFO]: Developers: [Dev] Popey
+[14:39:30] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[14:40:24] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[14:41:18] [Server thread/INFO]: Popey456963 issued server command: /spleef join simple
+[14:41:19] [Server thread/INFO]: Developers: [Dev] Popey
+[14:42:13] [Server thread/INFO]: Developers: [Dev] Popey
+[14:43:08] [Server thread/INFO]: Developers: [Dev] Popey
+[14:44:02] [Server thread/INFO]: Developers: [Dev] Popey
+[14:44:57] [Server thread/INFO]: Developers: [Dev] Popey
+[14:45:51] [Server thread/INFO]: Developers: [Dev] Popey
+[14:46:45] [Server thread/INFO]: Developers: [Dev] Popey
+[14:47:40] [Server thread/INFO]: Developers: [Dev] Popey
+[14:48:34] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[14:49:29] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[14:50:23] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[14:51:18] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[14:52:12] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[14:53:07] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[14:54:01] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[14:54:55] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[14:55:50] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[14:56:45] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[14:57:39] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[14:58:34] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[14:59:28] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[15:00:23] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[15:01:17] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[15:02:11] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[15:03:06] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[15:04:00] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[15:04:55] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[15:05:49] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[15:06:44] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[15:07:38] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[15:08:33] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[15:09:27] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[15:10:22] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[15:11:16] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[15:12:11] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[15:13:06] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[15:14:00] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[15:14:54] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[15:15:49] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[15:16:43] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[15:17:38] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[15:18:32] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[15:19:27] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[15:20:21] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[15:21:16] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[15:22:10] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[15:23:04] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[15:23:59] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[15:24:53] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[15:25:48] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[15:26:42] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[15:27:37] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[15:28:31] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[15:29:26] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[15:30:20] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[15:31:14] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[15:32:09] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[15:33:03] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[15:33:58] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[15:34:52] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[15:35:47] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[15:36:41] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[15:37:36] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[15:38:30] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[15:39:24] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[15:40:19] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[15:41:13] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[15:42:08] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[15:43:02] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[15:43:57] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[15:44:51] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[15:45:46] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[15:46:40] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[15:47:34] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[15:48:29] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[15:49:23] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[15:50:18] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[15:51:12] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[15:52:07] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[15:53:01] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[15:53:56] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[15:54:50] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[15:55:44] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[15:56:39] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[15:57:33] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[15:58:28] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[15:59:22] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[16:00:17] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[16:01:11] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[16:02:06] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[16:03:00] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[16:03:54] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[16:04:49] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[16:05:43] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[16:06:38] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[16:07:32] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[16:08:27] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[16:09:21] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[16:10:16] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[16:11:10] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[16:12:04] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[16:12:59] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[16:13:53] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[16:14:48] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[16:15:42] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[16:16:37] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[16:17:31] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[16:18:26] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[16:19:20] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[16:20:14] [Server thread/INFO]: Popey456963 issued server command: /spleef leave simple
+[16:20:14] [Server thread/INFO]: Developers: [Dev] Popey
+[16:20:20] [Server thread/INFO]: Popey456963 issued server command: /spleef join simple
+[16:20:21] [Server thread/INFO]: Popey456963 issued server command: /top
+[16:20:23] [Server thread/INFO]: Popey456963 issued server command: /top
+[16:20:31] [Server thread/INFO]: Popey456963 issued server command: /setwarp spleef1
+[16:20:34] [Server thread/INFO]: Popey456963 issued server command: /gm 1
+[16:21:09] [Server thread/INFO]: Developers: [Dev] Popey
+[16:21:24] [Server thread/INFO]: Popey456963 issued server command: //set 0
+[16:21:33] [Server thread/INFO]: Popey456963 issued server command: //undo
+[16:21:41] [Server thread/INFO]: Popey456963 issued server command: //copy
+[16:21:56] [Server thread/INFO]: Popey456963 issued server command: ///paste
+[16:21:57] [Server thread/INFO]: Popey456963 issued server command: //paste
+[16:22:03] [Server thread/INFO]: Developers: [Dev] Popey
+[16:22:03] [Server thread/INFO]: Popey456963 issued server command: //paste
+[16:22:11] [Server thread/INFO]: Popey456963 issued server command: //paste
+[16:22:27] [Server thread/INFO]: Popey456963 issued server command: /spleef
+[16:22:28] [Server thread/INFO]: Popey456963 issued server command: /spleef help
+[16:22:34] [Server thread/INFO]: Popey456963 issued server command: /spleef delete simple
+[16:22:58] [Server thread/INFO]: Developers: [Dev] Popey
+[16:23:52] [Server thread/INFO]: Developers: [Dev] Popey
+[16:24:47] [Server thread/INFO]: Developers: [Dev] Popey
+[16:25:41] [Server thread/INFO]: Developers: [Dev] Popey
+[16:26:36] [Server thread/INFO]: Developers: [Dev] Popey
+[16:27:30] [Server thread/INFO]: Developers: [Dev] Popey
+[16:28:24] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[16:29:19] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[16:30:13] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[16:31:08] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[16:32:02] [Server thread/INFO]: Developers: [Dev] Popey
+[16:32:57] [Server thread/INFO]: Developers: [Dev] Popey
+[16:33:51] [Server thread/INFO]: Developers: [Dev] Popey
+[16:34:46] [Server thread/INFO]: Developers: [Dev] Popey
+[16:35:40] [Server thread/INFO]: Developers: [Dev] Popey
+[16:36:35] [Server thread/INFO]: Developers: [Dev] Popey
+[16:37:29] [Server thread/INFO]: Developers: [Dev] Popey
+[16:38:24] [Server thread/INFO]: Developers: [Dev] Popey
+[16:39:18] [Server thread/INFO]: Developers: [Dev] Popey
+[16:40:12] [Server thread/INFO]: Developers: [Dev] Popey
+[16:41:07] [Server thread/INFO]: Developers: [Dev] Popey
+[16:42:01] [Server thread/INFO]: Developers: [Dev] Popey
+[16:42:56] [Server thread/INFO]: Developers: [Dev] Popey
+[16:43:50] [Server thread/INFO]: Developers: [Dev] Popey
+[16:44:45] [Server thread/INFO]: Developers: [Dev] Popey
+[16:45:39] [Server thread/INFO]: Developers: [Dev] Popey
+[16:46:34] [Server thread/INFO]: Developers: [Dev] Popey
+[16:47:28] [Server thread/INFO]: Developers: [Dev] Popey
+[16:48:22] [Server thread/INFO]: Developers: [Dev] Popey
+[16:49:17] [Server thread/INFO]: Developers: [Dev] Popey
+[16:50:11] [Server thread/INFO]: Developers: [Dev] Popey
+[16:51:06] [Server thread/INFO]: Developers: [Dev] Popey
+[16:52:00] [Server thread/INFO]: Developers: [Dev] Popey
+[16:52:55] [Server thread/INFO]: Developers: [Dev] Popey
+[16:53:49] [Server thread/INFO]: Developers: [Dev] Popey
+[16:54:44] [Server thread/INFO]: Developers: [Dev] Popey
+[16:55:09] [Server thread/INFO]: Popey456963 left the game.

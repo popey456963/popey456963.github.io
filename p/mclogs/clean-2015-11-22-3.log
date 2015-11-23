@@ -1,0 +1,130 @@
+[17:03:00] [Server thread/INFO]: Loading properties
+[17:03:00] [Server thread/INFO]: Default game type: SURVIVAL
+[17:03:00] [Server thread/INFO]: Using epoll channel type
+[17:03:01] [Server thread/INFO]: [CoreProtect] Loading CoreProtect v2.12.0
+[17:03:01] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1;no_git_id
+[17:03:01] [Server thread/INFO]: [Announcement] Loading Announcement v1.0.3
+[17:03:01] [Server thread/INFO]: [Essentials] Loading Essentials vTeamCity
+[17:03:01] [Server thread/INFO]: [mcMMO] Loading mcMMO v1.5.00-b3547
+[17:03:01] [Server thread/INFO]: [Random_Spawn] Loading Random_Spawn v2.6
+[17:03:01] [Server thread/INFO]: [Vault] Loading Vault v1.5.6-b49
+[17:03:01] [Server thread/INFO]: [CommandSigns] Loading CommandSigns v1.9.3.2
+[17:03:01] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn vTeamCity
+[17:03:01] [Server thread/INFO]: [LaggRemover] Loading LaggRemover v0.1.9
+[17:03:01] [Server thread/INFO]: [MassiveCore] Loading MassiveCore v2.8.0
+[17:03:01] [Server thread/INFO]: TimeUnit.MILLIS_PER_MINUTE: 60000
+[17:03:01] [Server thread/INFO]: [ProtocolLib] Loading ProtocolLib v3.6.4
+[17:03:01] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v6.1
+[17:03:01] [Server thread/INFO]: [OnTime] Loading OnTime v4.1.3
+[17:03:01] [Server thread/INFO]: [EssentialsProtect] Loading EssentialsProtect vTeamCity
+[17:03:01] [Server thread/INFO]: [HeavySpleef] Loading HeavySpleef v2.1.1
+[17:03:01] [Server thread/INFO]: [MobArena] Loading MobArena v0.97.1
+[17:03:01] [Server thread/INFO]: [HolographicDisplays] Loading HolographicDisplays v2.1.10
+[17:03:01] [Server thread/INFO]: [TouchscreenHolograms] Loading TouchscreenHolograms v1.3
+[17:03:01] [Server thread/INFO]: [mcMMO] Enabling mcMMO v1.5.00-b3547
+[17:03:01] [Server thread/INFO]: [Vault] Enabling Vault v1.5.6-b49
+[17:03:02] [Server thread/INFO]: [MassiveCore] Enabling MassiveCore v2.8.0
+[17:03:02] [Server thread/INFO]: [MassiveCore 2.8.0] === ENABLE START ===
+[17:03:02] [Server thread/INFO]: [MassiveCore 2.8.0] §eSetup of IdUtil took §d8§ems.
+[17:03:02] [Server thread/INFO]: [MassiveCore 2.8.0] === ENABLE §aCOMPLETE §e(Took §d101ms§e) ===
+[17:03:02] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v3.6.4
+[17:03:02] [Server thread/INFO]: [ProtocolLib] Started structure compiler thread.
+[17:03:03] [Server thread/INFO]: [CoreProtect] Enabling CoreProtect v2.12.0
+[17:03:04] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1;no_git_id
+[17:03:04] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_8_R3 as the Bukkit adapter
+[17:03:04] [Server thread/INFO]: [Announcement] Enabling Announcement v1.0.3
+[17:03:04] [Server thread/INFO]: [Essentials] Enabling Essentials vTeamCity
+[17:03:04] [Server thread/INFO]: git-Bukkit-9935adc (MC: 1.8.8)
+[17:03:04] [Server thread/INFO]: 1.8.8-R0.1-SNAPSHOT
+[17:03:04] [Server thread/INFO]: Using locale en_US
+[17:03:04] [Server thread/INFO]: Using locale en_US
+[17:03:05] [Server thread/INFO]: [Random_Spawn] Enabling Random_Spawn v2.6
+[17:03:05] [Server thread/INFO]: [CommandSigns] Enabling CommandSigns v1.9.3.2
+[17:03:05] [Server thread/INFO]: [CommandSigns] Successfully loaded 2 signs
+[17:03:05] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn vTeamCity
+[17:03:05] [Server thread/INFO]: [LaggRemover] Enabling LaggRemover v0.1.9
+[17:03:05] [Server thread/INFO]: [LaggRemover] LaggRemover has been enabled!
+[17:03:05] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v6.1
+[17:03:05] [Server thread/INFO]: [WorldGuard] (survival) Lighters are PERMITTED.
+[17:03:05] [Server thread/INFO]: [WorldGuard] (survival) Lava fire is blocked.
+[17:03:05] [Server thread/INFO]: [WorldGuard] (survival) Fire spread is UNRESTRICTED.
+[17:03:05] [Server thread/INFO]: [WorldGuard] (survival_nether) Lighters are PERMITTED.
+[17:03:05] [Server thread/INFO]: [WorldGuard] (survival_nether) Lava fire is blocked.
+[17:03:05] [Server thread/INFO]: [WorldGuard] (survival_nether) Fire spread is UNRESTRICTED.
+[17:03:05] [Server thread/INFO]: [WorldGuard] (survival_the_end) Lighters are PERMITTED.
+[17:03:05] [Server thread/INFO]: [WorldGuard] (survival_the_end) Lava fire is blocked.
+[17:03:05] [Server thread/INFO]: [WorldGuard] (survival_the_end) Fire spread is UNRESTRICTED.
+[17:03:07] [Server thread/INFO]: [OnTime] Enabling OnTime v4.1.3
+[17:03:07] [Server thread/INFO]: [EssentialsProtect] Enabling EssentialsProtect vTeamCity
+[17:03:07] [Server thread/INFO]: [HeavySpleef] Enabling HeavySpleef v2.1.1
+[17:03:08] [Server thread/INFO]: [MobArena] Enabling MobArena v0.97.1
+[17:03:08] [Server thread/INFO]: [MobArena] v0.97.1 enabled.
+[17:03:08] [Server thread/INFO]: [HolographicDisplays] Enabling HolographicDisplays v2.1.10
+[17:03:08] [Server thread/INFO]: [TouchscreenHolograms] Enabling TouchscreenHolograms v1.3
+[17:04:03] [Server thread/INFO]: Developers: [Dev] Popey
+[17:04:57] [Server thread/INFO]: Developers: [Dev] Popey
+[17:05:52] [Server thread/INFO]: Staff: [Admin] UnSeen
+[17:05:52] [Server thread/INFO]: Developers: [Dev] Popey
+[17:06:46] [Server thread/INFO]: Staff: [Admin] UnSeen
+[17:06:46] [Server thread/INFO]: Developers: [Dev] Popey
+[17:07:41] [Server thread/INFO]: Staff: [Admin] UnSeen
+[17:07:41] [Server thread/INFO]: Developers: [Dev] Popey
+[17:08:35] [Server thread/INFO]: Staff: [Admin] UnSeen
+[17:08:35] [Server thread/INFO]: Developers: [Dev] Popey
+[17:09:29] [Server thread/INFO]: Staff: [Admin] UnSeen
+[17:09:29] [Server thread/INFO]: Developers: [Dev] Popey
+[17:10:24] [Server thread/INFO]: Staff: [Admin] UnSeen
+[17:10:24] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[17:11:18] [Server thread/INFO]: Staff: [Admin] UnSeen
+[17:11:18] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[17:12:13] [Server thread/INFO]: Staff: [Admin] UnSeen
+[17:12:13] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[17:13:07] [Server thread/INFO]: Staff: [Admin] UnSeen
+[17:13:07] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[17:14:02] [Server thread/INFO]: Staff: [Admin] UnSeen
+[17:14:02] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[17:14:56] [Server thread/INFO]: Staff: [Admin] UnSeen
+[17:14:56] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[17:15:51] [Server thread/INFO]: Staff: [Admin] UnSeen
+[17:15:51] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[17:16:45] [Server thread/INFO]: Staff: [Admin] UnSeen
+[17:16:45] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[17:17:39] [Server thread/INFO]: Staff: [Admin] UnSeen
+[17:17:39] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[17:18:34] [Server thread/INFO]: Staff: [Admin] UnSeen
+[17:18:34] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[17:19:28] [Server thread/INFO]: Staff: [Admin] UnSeen
+[17:19:28] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[17:20:23] [Server thread/INFO]: Staff: [Admin] UnSeen
+[17:20:23] [Server thread/INFO]: Developers: [Dev] Popey
+[17:21:17] [Server thread/INFO]: Staff: [Admin] UnSeen
+[17:21:17] [Server thread/INFO]: Developers: [Dev] Popey
+[17:22:12] [Server thread/INFO]: Staff: [Admin] UnSeen
+[17:22:12] [Server thread/INFO]: Developers: [Dev] Popey
+[17:22:20] [Server thread/INFO]: Popey456963 issued server command: /tp AttrebusMede
+[17:22:26] [Server thread/INFO]: Stopping the server
+[17:22:26] [Server thread/INFO]: Stopping server
+[17:22:26] [Server thread/INFO]: [TouchscreenHolograms] Disabling TouchscreenHolograms v1.3
+[17:22:26] [Server thread/INFO]: [HolographicDisplays] Disabling HolographicDisplays v2.1.10
+[17:22:26] [Server thread/INFO]: [MobArena] Disabling MobArena v0.97.1
+[17:22:26] [Server thread/INFO]: [MobArena] disabled.
+[17:22:26] [Server thread/INFO]: [HeavySpleef] Disabling HeavySpleef v2.1.1
+[17:22:26] [Server thread/INFO]: [EssentialsProtect] Disabling EssentialsProtect vTeamCity
+[17:22:26] [Server thread/INFO]: [OnTime] Disabling OnTime v4.1.3
+[17:22:27] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v6.1
+[17:22:27] [Server thread/INFO]: [WorldGuard] Shutting down executor and waiting for any pending tasks...
+[17:22:27] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v3.6.4
+[17:22:27] [Server thread/INFO]: [MassiveCore] Disabling MassiveCore v2.8.0
+[17:22:27] [Server thread/INFO]: [MassiveCore 2.8.0] Disabled
+[17:22:27] [Server thread/INFO]: [LaggRemover] Disabling LaggRemover v0.1.9
+[17:22:27] [Server thread/INFO]: [LaggRemover] LaggRemover has been disabled!
+[17:22:27] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn vTeamCity
+[17:22:27] [Server thread/INFO]: [CommandSigns] Disabling CommandSigns v1.9.3.2
+[17:22:27] [Server thread/INFO]: [Vault] Disabling Vault v1.5.6-b49
+[17:22:27] [Server thread/INFO]: [Random_Spawn] Disabling Random_Spawn v2.6
+[17:22:27] [Server thread/INFO]: [mcMMO] Disabling mcMMO v1.5.00-b3547
+[17:22:27] [Server thread/INFO]: [Essentials] Disabling Essentials vTeamCity
+[17:22:27] [Server thread/INFO]: [Announcement] Disabling Announcement v1.0.3
+[17:22:27] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1;no_git_id
+[17:22:27] [Server thread/INFO]: [CoreProtect] Disabling CoreProtect v2.12.0
+[17:22:27] [Server thread/INFO]: Popey456963 left the game.

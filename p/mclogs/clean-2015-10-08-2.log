@@ -1,0 +1,196 @@
+[00:49:51] [Server thread/INFO]: Loading properties
+[00:49:51] [Server thread/INFO]: Default game type: SURVIVAL
+[00:49:51] [Server thread/INFO]: Using epoll channel type
+[00:49:52] [Server thread/INFO]: [DisguiseCraft] Loading DisguiseCraft v5.2
+[00:49:52] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1;no_git_id
+[00:49:52] [Server thread/INFO]: [Essentials] Loading Essentials vTeamCity
+[00:49:52] [Server thread/INFO]: [PlugMan] Loading PlugMan v2.0.7
+[00:49:52] [Server thread/INFO]: [LaggRemover] Loading LaggRemover v0.1.8
+[00:49:52] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v6.1
+[00:49:52] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v2.4-b527
+[00:49:52] [Server thread/INFO]: [Splegg] Loading Splegg v1.2
+[00:49:52] [Server thread/INFO]: [EssentialsProtect] Loading EssentialsProtect vTeamCity
+[00:49:52] [Server thread/INFO]: [VoxelSniper] Loading VoxelSniper v7.1.0
+[00:49:52] [Server thread/INFO]: [mcMMO] Loading mcMMO v1.5.00-b3547
+[00:49:52] [Server thread/INFO]: [Multiverse-NetherPortals] Loading Multiverse-NetherPortals v2.4-b530
+[00:49:52] [Server thread/INFO]: [SuperVanish] Loading SuperVanish v5.4.3
+[00:49:52] [Server thread/INFO]: [Multiverse-Portals] Loading Multiverse-Portals v2.4-b548
+[00:49:52] [Server thread/INFO]: [Vault] Loading Vault v1.5.6-b49
+[00:49:52] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn vTeamCity
+[00:49:52] [Server thread/INFO]: [MinigamesLib] Loading MinigamesLib v1.13.1
+[00:49:52] [Server thread/INFO]: [Minigames] Loading Minigames v1.7.0
+[00:49:52] [Server thread/INFO]: [MobArena] Loading MobArena v0.97.1
+[00:49:52] [Server thread/INFO]: [TNTRun] Loading TNTRun v3.4
+[00:49:52] [Server thread/INFO]: [HolographicDisplays] Loading HolographicDisplays v2.1.10
+[00:49:52] [Server thread/INFO]: [CommandSigns] Loading CommandSigns v1.9.3.2
+[00:49:52] [Server thread/INFO]: [SkyWars] Loading SkyWars v1.1-m16
+[00:49:52] [Server thread/INFO]: [EpicSpleef] Loading EpicSpleef v0.0.19
+[00:49:52] [Server thread/INFO]: [OnTime] Loading OnTime v4.1.3
+[00:49:52] [Server thread/INFO]: [CraftBook] Loading CraftBook v3.9-SNAPSHOT
+[00:49:52] [Server thread/INFO]: [mcMMO] Enabling mcMMO v1.5.00-b3547
+[00:49:53] [Server thread/INFO]: [Vault] Enabling Vault v1.5.6-b49
+[00:49:54] [Server thread/INFO]: [DisguiseCraft] Enabling DisguiseCraft v5.2
+[00:49:55] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1;no_git_id
+[00:49:55] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_8_R3 as the Bukkit adapter
+[00:49:55] [Server thread/INFO]: [Essentials] Enabling Essentials vTeamCity
+[00:49:55] [Server thread/INFO]: git-Bukkit-9935adc (MC: 1.8.8)
+[00:49:55] [Server thread/INFO]: 1.8.8-R0.1-SNAPSHOT
+[00:49:55] [Server thread/INFO]: Using locale en_US
+[00:49:55] [Server thread/INFO]: Using locale en_US
+[00:49:55] [Server thread/INFO]: [PlugMan] Enabling PlugMan v2.0.7
+[00:49:55] [Server thread/INFO]: [LaggRemover] Enabling LaggRemover v0.1.8
+[00:49:55] [Server thread/INFO]: [LaggRemover] LaggRemover has been enabled!
+[00:49:55] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v6.1
+[00:49:56] [Server thread/INFO]: [WorldGuard] (TEST) Lighters are PERMITTED.
+[00:49:56] [Server thread/INFO]: [WorldGuard] (TEST) Lava fire is blocked.
+[00:49:56] [Server thread/INFO]: [WorldGuard] (TEST) Fire spread is UNRESTRICTED.
+[00:49:56] [Server thread/INFO]: [WorldGuard] (TEST_nether) Lighters are PERMITTED.
+[00:49:56] [Server thread/INFO]: [WorldGuard] (TEST_nether) Lava fire is blocked.
+[00:49:56] [Server thread/INFO]: [WorldGuard] (TEST_nether) Fire spread is UNRESTRICTED.
+[00:49:56] [Server thread/INFO]: [WorldGuard] (TEST_the_end) Lighters are PERMITTED.
+[00:49:56] [Server thread/INFO]: [WorldGuard] (TEST_the_end) Lava fire is blocked.
+[00:49:56] [Server thread/INFO]: [WorldGuard] (TEST_the_end) Fire spread is UNRESTRICTED.
+[00:49:56] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v2.4-b527
+[00:49:56] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'TEST' - Env: NORMAL - Type: NORMAL & seed: -2024018835920597302
+[00:49:56] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'TEST_nether' - Env: NETHER - Type: NORMAL & seed: -2024018835920597302
+[00:49:56] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'TEST_the_end' - Env: THE_END - Type: NORMAL & seed: -2024018835920597302
+[00:49:56] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'lobby' - Env: NORMAL - Type: NORMAL & seed: -3770714656453924402
+[00:49:56] [Server thread/INFO]: [WorldGuard] (lobby) Lighters are PERMITTED.
+[00:49:56] [Server thread/INFO]: [WorldGuard] (lobby) Lava fire is blocked.
+[00:49:56] [Server thread/INFO]: [WorldGuard] (lobby) Fire spread is UNRESTRICTED.
+[00:49:56] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'minigames' - Env: NORMAL - Type: FLAT & seed: 2973644325369467684
+[00:49:57] [Server thread/INFO]: [WorldGuard] (minigames) Lighters are PERMITTED.
+[00:49:57] [Server thread/INFO]: [WorldGuard] (minigames) Lava fire is blocked.
+[00:49:57] [Server thread/INFO]: [WorldGuard] (minigames) Fire spread is UNRESTRICTED.
+[00:49:57] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'Skywars' - Env: NORMAL - Type: FLAT & seed: 3121935573477155779
+[00:49:57] [Server thread/INFO]: [WorldGuard] (Skywars) Lighters are PERMITTED.
+[00:49:57] [Server thread/INFO]: [WorldGuard] (Skywars) Lava fire is blocked.
+[00:49:57] [Server thread/INFO]: [WorldGuard] (Skywars) Fire spread is UNRESTRICTED.
+[00:49:57] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'spawn' - Env: NORMAL - Type: NORMAL & seed: 2261197457111850464
+[00:49:58] [Server thread/INFO]: [WorldGuard] (spawn) Lighters are PERMITTED.
+[00:49:58] [Server thread/INFO]: [WorldGuard] (spawn) Lava fire is blocked.
+[00:49:58] [Server thread/INFO]: [WorldGuard] (spawn) Fire spread is UNRESTRICTED.
+[00:49:58] [Server thread/INFO]: [Multiverse-Core] 8 - World(s) loaded.
+[00:49:58] [Server thread/INFO]: [Splegg] Enabling Splegg v1.2
+[00:49:58] [Server thread/INFO]: [Splegg] Loading map SpleggOne.
+[00:49:58] [Server thread/INFO]: [Splegg] Map is usable
+[00:49:58] [Server thread/INFO]: [Splegg] Load Complete!
+[00:49:58] [Server thread/INFO]: [Splegg] Loading map ArenaOne.
+[00:49:58] [Server thread/INFO]: [Splegg] Spawn count is 0
+[00:49:58] [Server thread/INFO]: [Splegg] No floors are setup.
+[00:49:58] [Server thread/INFO]: [Splegg] --<>-- PLEASE SETUP MAP!! --<>--
+[00:49:58] [Server thread/INFO]: [Splegg] Load Complete!
+[00:49:58] [Server thread/INFO]: [EssentialsProtect] Enabling EssentialsProtect vTeamCity
+[00:49:58] [Server thread/INFO]: [VoxelSniper] Enabling VoxelSniper v7.1.0
+[00:49:58] [Server thread/INFO]: [Multiverse-NetherPortals] Enabling Multiverse-NetherPortals v2.4-b530
+[00:49:58] [Server thread/INFO]: [SuperVanish] Enabling SuperVanish v5.4.3
+[00:49:58] [Server thread/INFO]: [Multiverse-Portals] Enabling Multiverse-Portals v2.4-b548
+[00:49:58] [Server thread/INFO]: [Multiverse-Portals]  1 - Portals(s) loaded
+[00:49:58] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn vTeamCity
+[00:49:58] [Server thread/INFO]: [MinigamesLib] Enabling MinigamesLib v1.13.1
+[00:49:59] [Server thread/INFO]: [Minigames] Enabling Minigames v1.7.0
+[00:49:59] [Server thread/INFO]: [Minigames] Using lang en_AU
+[00:49:59] [Server thread/INFO]: Minigames successfully enabled.
+[00:49:59] [Server thread/INFO]: [MobArena] Enabling MobArena v0.97.1
+[00:49:59] [Server thread/INFO]: [MobArena] Loaded arena 'default'
+[00:49:59] [Server thread/INFO]: [MobArena] Loaded arena 'god-arena'
+[00:49:59] [Server thread/INFO]: [MobArena] v0.97.1 enabled.
+[00:49:59] [Server thread/INFO]: [TNTRun] Enabling TNTRun v3.4
+[00:49:59] [Server thread/INFO]: [HolographicDisplays] Enabling HolographicDisplays v2.1.10
+[00:49:59] [Server thread/INFO]: [CommandSigns] Enabling CommandSigns v1.9.3.2
+[00:49:59] [Server thread/INFO]: [CommandSigns] No signs found.
+[00:50:00] [Server thread/INFO]: [SkyWars] Enabling SkyWars v1.1-m16
+[00:50:00] [Server thread/INFO]: [WorldGuard] (island-0) Lighters are PERMITTED.
+[00:50:00] [Server thread/INFO]: [WorldGuard] (island-0) Lava fire is blocked.
+[00:50:00] [Server thread/INFO]: [WorldGuard] (island-0) Fire spread is UNRESTRICTED.
+[00:50:01] [Server thread/INFO]: [EpicSpleef] Enabling EpicSpleef v0.0.19
+[00:50:01] [Server thread/INFO]: [EpicSpleef] Enabling EpicSpleef by BtoBastian
+[00:50:03] [Server thread/INFO]: [EpicSpleef] Loading lobby SpleefOne
+[00:50:03] [Server thread/INFO]: [EpicSpleef] Loading arena ArenaOne
+[00:50:03] [Server thread/INFO]: [EpicSpleef] Successfully loaded arena ArenaOne. (world: minigames, blocks: 5233, maxPlayers: 0)
+[00:50:03] [Server thread/INFO]: [EpicSpleef] Loading arena SpleefOne
+[00:50:03] [Server thread/INFO]: [EpicSpleef] Successfully loaded arena SpleefOne. (world: minigames, blocks: 0, maxPlayers: 0)
+[00:50:03] [Server thread/INFO]: [OnTime] Enabling OnTime v4.1.3
+[00:50:03] [Server thread/INFO]: [CraftBook] Enabling CraftBook v3.9-SNAPSHOT
+[00:50:04] [Server thread/INFO]: [CraftBook] Successfully added 1 CommandItems!
+[00:50:04] [Server thread/INFO]: [CraftBook] Registered 3 custom recipes!
+[00:50:04] [Server thread/INFO]: [CraftBook] 6422 chunk(s) for 9 world(s) processed (40ms elapsed)
+[00:50:06] [Server thread/INFO]: Found 0 arenas.
+[00:50:49] [Server thread/INFO]: Twiixtor issued server command: /plugins
+[00:50:50] [Server thread/INFO]: Developers: [Giraffe]Twiixtor
+[00:51:01] [Server thread/INFO]: Twiixtor issued server command: /help disguisecraft
+[00:51:06] [Server thread/INFO]: Twiixtor issued server command: /disguise
+[00:51:10] [Server thread/INFO]: Twiixtor issued server command: /disguise player
+[00:51:14] [Server thread/INFO]: Twiixtor issued server command: /disguise player Notch
+[00:51:37] [Server thread/INFO]: Developers: [Giraffe]Twiixtor
+[00:51:50] [Server thread/INFO]: Twiixtor issued server command: /disguise TNTPrimed
+[00:52:23] [Server thread/INFO]: Developers: [Giraffe]Twiixtor
+[00:53:10] [Server thread/INFO]: Developers: [Giraffe]Twiixtor
+[00:53:57] [Server thread/INFO]: Developers: [Giraffe]Twiixtor
+[00:54:16] [Server thread/INFO]: RangeRR404 issued server command: /spawn
+[00:54:19] [Server thread/INFO]: Twiixtor issued server command: /tphere RangeRR404
+[00:54:43] [Server thread/INFO]: Players: [Guest] RangeRR404
+[00:54:43] [Server thread/INFO]: Developers: [Giraffe]Twiixtor
+[00:55:02] [Server thread/INFO]: Twiixtor issued server command: /disguise player Notch
+[00:55:23] [Server thread/INFO]: Twiixtor issued server command: /op RangeRR404
+[00:55:23] [Server thread/INFO]: [Twiixtor: Opped RangeRR404]
+[00:55:30] [Server thread/INFO]: Players: [Guest] RangeRR404
+[00:55:30] [Server thread/INFO]: Developers: [Giraffe]Twiixtor
+[00:55:31] [Server thread/INFO]: RangeRR404 issued server command: /disguise
+[00:55:38] [Server thread/INFO]: RangeRR404 issued server command: /disguise snowman
+[00:55:58] [Server thread/INFO]: Twiixtor issued server command: /disguise Player
+[00:56:06] [Server thread/INFO]: Twiixtor issued server command: /disguise Player Notch
+[00:56:13] [Server thread/INFO]: Twiixtor issued server command: /disguise Player 41sentury
+[00:56:16] [Server thread/INFO]: Players: [Guest] RangeRR404
+[00:56:16] [Server thread/INFO]: Developers: [Giraffe]Twiixtor
+[00:56:24] [Server thread/INFO]: Twiixtor issued server command: /undisguise
+[00:56:30] [Server thread/INFO]: Twiixtor issued server command: /disguise tntprimed
+[00:56:39] [Server thread/INFO]: Twiixtor issued server command: /disguise
+[00:56:46] [Server thread/INFO]: Twiixtor issued server command: /disguise minecart
+[00:56:56] [Server thread/INFO]: Twiixtor issued server command: /disguise armorstand
+[00:57:03] [Server thread/INFO]: Players: [Guest] RangeRR404
+[00:57:03] [Server thread/INFO]: Developers: [Giraffe]Twiixtor
+[00:57:49] [Server thread/INFO]: Players: [Guest] RangeRR404
+[00:57:49] [Server thread/INFO]: Developers: [Giraffe]Twiixtor
+[00:58:31] [Server thread/INFO]: Twiixtor issued server command: /heal ran
+[00:58:36] [Server thread/INFO]: Players: [Guest] RangeRR404
+[00:58:36] [Server thread/INFO]: Developers: [Giraffe]Twiixtor
+[00:59:03] [Server thread/INFO]: Twiixtor issued server command: /disguise rabbit
+[00:59:08] [Server thread/INFO]: Twiixtor issued server command: /disguise zombie
+[00:59:12] [Server thread/INFO]: Twiixtor issued server command: /undisguise
+[00:59:18] [Server thread/INFO]: Twiixtor issued server command: /disguise rabbit
+[00:59:22] [Server thread/INFO]: Players: [Guest] RangeRR404
+[00:59:22] [Server thread/INFO]: Developers: [Giraffe]Twiixtor
+[00:59:43] [Server thread/INFO]: Twiixtor issued server command: /disguise horse
+[00:59:45] [Server thread/INFO]: Twiixtor issued server command: /undisguise
+[00:59:47] [Server thread/INFO]: Twiixtor issued server command: /disguise horse
+[01:00:09] [Server thread/INFO]: Twiixtor issued server command: /disguise
+[01:00:16] [Server thread/INFO]: Twiixtor issued server command: /undisguise
+[01:00:22] [Server thread/INFO]: Twiixtor issued server command: /disguise endercrystal
+[01:00:42] [Server thread/INFO]: Players: [Guest] RangeRR404
+[01:00:42] [Server thread/INFO]: Developers: [Giraffe]Twiixtor
+[01:00:54] [Server thread/INFO]: Twiixtor issued server command: /undisguise
+[01:00:57] [Server thread/INFO]: Twiixtor issued server command: /disguise
+[01:01:07] [Server thread/INFO]: Twiixtor issued server command: /disguise fallingblock
+[01:01:28] [Server thread/INFO]: Players: [Guest] RangeRR404
+[01:01:28] [Server thread/INFO]: Developers: [Giraffe]Twiixtor
+[01:02:00] [Server thread/INFO]: RangeRR404 issued server command: /gm 0 tw
+[01:02:09] [Server thread/INFO]: RangeRR404 issued server command: /gm tw 0
+[01:02:14] [Server thread/INFO]: RangeRR404 issued server command: /gm 0 twiixtor
+[01:02:15] [Server thread/INFO]: Players: [Guest] RangeRR404
+[01:02:15] [Server thread/INFO]: Developers: [Giraffe]Twiixtor
+[01:02:25] [Server thread/INFO]: RangeRR404 issued server command: /gm 1 twiixtor
+[01:02:32] [Server thread/INFO]: Twiixtor issued server command: /undisguise
+[01:02:37] [Server thread/INFO]: Twiixtor left the game.
+[01:02:39] [Server thread/INFO]: RangeRR404 left the game.
+[09:13:30] [Server thread/INFO]: Popey456963 issued server command: /plugins
+[09:13:36] [Server thread/INFO]: Popey456963 left the game.
+[17:41:55] [Server thread/INFO]: Developers: [Dev] Poopey
+[17:42:42] [Server thread/INFO]: Developers: [Dev] Poopey
+[17:43:28] [Server thread/INFO]: Developers: [Dev] Poopey
+[17:44:15] [Server thread/INFO]: Developers: [Dev] Poopey
+[17:45:01] [Server thread/INFO]: Developers: [Dev] Poopey
+[17:45:48] [Server thread/INFO]: Developers: [Dev] Poopey
+[17:46:34] [Server thread/INFO]: Developers: [AFK][Dev] Poopey
+[17:47:21] [Server thread/INFO]: Developers: [AFK][Dev] Poopey
+[17:48:04] [Server thread/INFO]: Popey456963 left the game.

@@ -1,0 +1,362 @@
+[19:20:26] [Server thread/INFO]: Loading properties
+[19:20:26] [Server thread/INFO]: Default game type: SURVIVAL
+[19:20:27] [Server thread/INFO]: Using epoll channel type
+[19:20:27] [Server thread/INFO]: [CoreProtect] Loading CoreProtect v2.12.0
+[19:20:27] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1;no_git_id
+[19:20:27] [Server thread/INFO]: [Announcement] Loading Announcement v1.0.3
+[19:20:27] [Server thread/INFO]: [Essentials] Loading Essentials vTeamCity
+[19:20:27] [Server thread/INFO]: [mcMMO] Loading mcMMO v1.5.00-b3547
+[19:20:27] [Server thread/INFO]: [Random_Spawn] Loading Random_Spawn v2.6
+[19:20:27] [Server thread/INFO]: [Vault] Loading Vault v1.5.6-b49
+[19:20:27] [Server thread/INFO]: [CommandSigns] Loading CommandSigns v1.9.3.2
+[19:20:27] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn vTeamCity
+[19:20:27] [Server thread/INFO]: [LaggRemover] Loading LaggRemover v0.1.9
+[19:20:27] [Server thread/INFO]: [MassiveCore] Loading MassiveCore v2.8.0
+[19:20:27] [Server thread/INFO]: TimeUnit.MILLIS_PER_MINUTE: 60000
+[19:20:27] [Server thread/INFO]: [ProtocolLib] Loading ProtocolLib v3.6.4
+[19:20:28] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v6.1
+[19:20:28] [Server thread/INFO]: [OnTime] Loading OnTime v4.1.3
+[19:20:28] [Server thread/INFO]: [EssentialsProtect] Loading EssentialsProtect vTeamCity
+[19:20:28] [Server thread/INFO]: [MobArena] Loading MobArena v0.97.1
+[19:20:28] [Server thread/INFO]: [HolographicDisplays] Loading HolographicDisplays v2.1.10
+[19:20:28] [Server thread/INFO]: [TouchscreenHolograms] Loading TouchscreenHolograms v1.3
+[19:20:28] [Server thread/INFO]: [mcMMO] Enabling mcMMO v1.5.00-b3547
+[19:20:29] [Server thread/INFO]: [Vault] Enabling Vault v1.5.6-b49
+[19:20:29] [Server thread/INFO]: [MassiveCore] Enabling MassiveCore v2.8.0
+[19:20:29] [Server thread/INFO]: [MassiveCore 2.8.0] === ENABLE START ===
+[19:20:29] [Server thread/INFO]: [MassiveCore 2.8.0] §eSetup of IdUtil took §d14§ems.
+[19:20:29] [Server thread/INFO]: [MassiveCore 2.8.0] === ENABLE §aCOMPLETE §e(Took §d144ms§e) ===
+[19:20:29] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v3.6.4
+[19:20:29] [Server thread/INFO]: [ProtocolLib] Started structure compiler thread.
+[19:20:31] [Server thread/INFO]: [CoreProtect] Enabling CoreProtect v2.12.0
+[19:20:37] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1;no_git_id
+[19:20:37] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_8_R3 as the Bukkit adapter
+[19:20:37] [Server thread/INFO]: [Announcement] Enabling Announcement v1.0.3
+[19:20:37] [Server thread/INFO]: [Essentials] Enabling Essentials vTeamCity
+[19:20:37] [Server thread/INFO]: git-Bukkit-9935adc (MC: 1.8.8)
+[19:20:37] [Server thread/INFO]: 1.8.8-R0.1-SNAPSHOT
+[19:20:37] [Server thread/INFO]: Using locale en_US
+[19:20:37] [Server thread/INFO]: Using locale en_US
+[19:20:37] [Server thread/INFO]: [Random_Spawn] Enabling Random_Spawn v2.6
+[19:20:38] [Server thread/INFO]: [CommandSigns] Enabling CommandSigns v1.9.3.2
+[19:20:38] [Server thread/INFO]: [CommandSigns] Successfully loaded 0 signs
+[19:20:38] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn vTeamCity
+[19:20:38] [Server thread/INFO]: [LaggRemover] Enabling LaggRemover v0.1.9
+[19:20:38] [Server thread/INFO]: [LaggRemover] LaggRemover has been enabled!
+[19:20:38] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v6.1
+[19:20:38] [Server thread/INFO]: [WorldGuard] (survival) Lighters are PERMITTED.
+[19:20:38] [Server thread/INFO]: [WorldGuard] (survival) Lava fire is blocked.
+[19:20:38] [Server thread/INFO]: [WorldGuard] (survival) Fire spread is UNRESTRICTED.
+[19:20:38] [Server thread/INFO]: [WorldGuard] (survival_nether) Lighters are PERMITTED.
+[19:20:38] [Server thread/INFO]: [WorldGuard] (survival_nether) Lava fire is blocked.
+[19:20:38] [Server thread/INFO]: [WorldGuard] (survival_nether) Fire spread is UNRESTRICTED.
+[19:20:38] [Server thread/INFO]: [WorldGuard] (survival_the_end) Lighters are PERMITTED.
+[19:20:38] [Server thread/INFO]: [WorldGuard] (survival_the_end) Lava fire is blocked.
+[19:20:38] [Server thread/INFO]: [WorldGuard] (survival_the_end) Fire spread is UNRESTRICTED.
+[19:20:40] [Server thread/INFO]: [OnTime] Enabling OnTime v4.1.3
+[19:20:40] [Server thread/INFO]: [EssentialsProtect] Enabling EssentialsProtect vTeamCity
+[19:20:40] [Server thread/INFO]: [MobArena] Enabling MobArena v0.97.1
+[19:20:41] [Server thread/INFO]: [MobArena] v0.97.1 enabled.
+[19:20:41] [Server thread/INFO]: [HolographicDisplays] Enabling HolographicDisplays v2.1.10
+[19:20:41] [Server thread/INFO]: [TouchscreenHolograms] Enabling TouchscreenHolograms v1.3
+[19:21:53] [Server thread/INFO]: Popey456963 issued server command: /shop
+[19:21:55] [Server thread/INFO]: Popey456963 issued server command: /plugins
+[19:21:56] [Server thread/INFO]: Popey456963 issued server command: /help
+[19:21:58] [Server thread/INFO]: Popey456963 issued server command: /help 2
+[19:22:03] [Server thread/INFO]: Popey456963 issued server command: /help touchscreenholograms
+[19:22:05] [Server thread/INFO]: Popey456963 issued server command: /touch
+[19:22:07] [Server thread/INFO]: Popey456963 issued server command: /touch help
+[19:22:30] [Server thread/INFO]: Developers: [Dev] Popey
+[19:23:13] [Server thread/INFO]: Popey456963 issued server command: /touch add rule tell:outbreak-community.com
+[19:23:24] [Server thread/INFO]: Developers: [Dev] Popey
+[19:23:49] [Server thread/INFO]: Popey456963 issued server command: /touch help
+[19:23:52] [Server thread/INFO]: Popey456963 issued server command: /touch details
+[19:23:52] [Server thread/ERROR]: null
+[19:23:54] [Server thread/INFO]: Popey456963 issued server command: /touch add rule tell:outbreak-community.com
+[19:24:04] [Server thread/INFO]: Popey456963 issued server command: /touch remove rule 1
+[19:24:05] [Server thread/INFO]: Popey456963 issued server command: /touch remove rule 1
+[19:24:19] [Server thread/INFO]: Developers: [Dev] Popey
+[19:25:13] [Server thread/INFO]: Developers: [Dev] Popey
+[19:26:08] [Server thread/INFO]: Developers: [Dev] Popey
+[19:26:52] [Server thread/INFO]: Popey456963 issued server command: /hologram
+[19:26:55] [Server thread/INFO]: Popey456963 issued server command: /hologram help
+[19:26:58] [Server thread/INFO]: Popey456963 issued server command: /hologram edit
+[19:27:02] [Server thread/INFO]: Popey456963 issued server command: /hologram edit rule
+[19:27:02] [Server thread/INFO]: Developers: [Dev] Popey
+[19:27:30] [Server thread/INFO]: Popey456963 issued server command: /hologram setline rule 6 &aoutbreak-community.com
+[19:27:38] [Server thread/INFO]: Popey456963 issued server command: /hologram setline rule 6 &aoutbreak-community.com/mc/rules
+[19:27:45] [Server thread/INFO]: Popey456963 issued server command: /hologram setline rule2 6 &aoutbreak-community.com/mc/rules
+[19:27:56] [Server thread/INFO]: Developers: [Dev] Popey
+[19:28:51] [Server thread/INFO]: Developers: [Dev] Popey
+[19:29:45] [Server thread/INFO]: Developers: [Dev] Popey
+[19:30:40] [Server thread/INFO]: Developers: [Dev] Popey
+[19:30:42] [Server thread/INFO]: Popey456963 issued server command: /announce
+[19:30:44] [Server thread/INFO]: Popey456963 issued server command: /announce help
+[19:30:53] [Server thread/INFO]: Popey456963 issued server command: /announce remove 2
+[19:30:55] [Server thread/INFO]: Popey456963 issued server command: /announce add
+[19:31:08] [Server thread/INFO]: Popey456963 issued server command: /announce add You can read the rules by going to outbreak-community.com/mc/rules
+[19:31:34] [Server thread/INFO]: Developers: [Dev] Popey
+[19:32:29] [Server thread/INFO]: Developers: [Dev] Popey
+[19:32:53] [Server thread/INFO]: Popey456963 issued server command: /announce remove 2
+[19:33:22] [Server thread/INFO]: Popey456963 issued server command: /announce add &aYou can read the rules by going to &coutbreak-community.com/mc/rules
+[19:33:23] [Server thread/INFO]: Developers: [Dev] Popey
+[19:33:35] [Server thread/INFO]: Popey456963 issued server command: /announce remove 1
+[19:33:41] [Server thread/INFO]: Popey456963 issued server command: /announce add &aWelcome to OB!
+[19:33:59] [Server thread/INFO]: Popey456963 issued server command: /announce add &aPlease always be courteous to all players!
+[19:34:18] [Server thread/INFO]: Developers: [Dev] Popey
+[19:34:19] [Server thread/INFO]: Popey456963 issued server command: /announce remove 1
+[19:34:34] [Server thread/INFO]: Popey456963 issued server command: /announce add &aYou can read the rules by doing &c/rules!
+[19:35:12] [Server thread/INFO]: Developers: [Dev] Popey
+[19:36:06] [Server thread/INFO]: Developers: [Dev] Popey
+[19:36:10] [Server thread/INFO]: Popey456963 issued server command: /announce
+[19:36:11] [Server thread/INFO]: Popey456963 issued server command: /announce help
+[19:36:16] [Server thread/INFO]: Popey456963 issued server command: /announce reload
+[19:36:29] [Server thread/INFO]: Popey456963 issued server command: /announce broadcast 1
+[19:36:32] [Server thread/INFO]: Popey456963 issued server command: /announce broadcast 2
+[19:36:33] [Server thread/INFO]: Popey456963 issued server command: /announce broadcast 3
+[19:36:34] [Server thread/INFO]: Popey456963 issued server command: /announce broadcast 4
+[19:37:01] [Server thread/INFO]: Developers: [Dev] Popey
+[19:37:55] [Server thread/INFO]: Developers: [Dev] Popey
+[19:38:50] [Server thread/INFO]: Developers: [Dev] Popey
+[19:39:44] [Server thread/INFO]: Developers: [Dev] Popey
+[19:40:39] [Server thread/INFO]: Developers: [Dev] Popey
+[19:41:33] [Server thread/INFO]: Developers: [Dev] Popey
+[19:42:28] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[19:43:22] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[19:44:16] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[19:45:11] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[19:46:05] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[19:47:00] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[19:47:39] [Server thread/INFO]: Popey456963 issued server command: /announce
+[19:47:41] [Server thread/INFO]: Popey456963 issued server command: /announce help
+[19:47:43] [Server thread/INFO]: Popey456963 issued server command: /announce interval
+[19:47:48] [Server thread/INFO]: Popey456963 issued server command: /announce interval 240
+[19:47:54] [Server thread/INFO]: Developers: [Dev] Popey
+[19:48:49] [Server thread/INFO]: Developers: [Dev] Popey
+[19:49:43] [Server thread/INFO]: Developers: [Dev] Popey
+[19:50:38] [Server thread/INFO]: Developers: [Dev] Popey
+[19:51:32] [Server thread/INFO]: Developers: [Dev] Popey
+[19:52:26] [Server thread/INFO]: Developers: [Dev] Popey
+[19:53:21] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[19:54:15] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[19:55:10] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[19:56:04] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[19:56:59] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[19:57:53] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[19:58:48] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[19:59:42] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[20:00:36] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[20:01:31] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[20:02:25] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[20:03:20] [Server thread/INFO]: Developers: [Dev] Popey
+[20:04:14] [Server thread/INFO]: Developers: [Dev] Popey
+[20:05:09] [Server thread/INFO]: Developers: [Dev] Popey
+[20:06:03] [Server thread/INFO]: Developers: [Dev] Popey
+[20:06:58] [Server thread/INFO]: Developers: [Dev] Popey
+[20:07:52] [Server thread/INFO]: Developers: [AFK][Dev] Popey
+[20:08:10] [Server thread/INFO]: Popey456963 left the game.
+[21:28:38] [Server thread/INFO]: Staff: [Admin] UnSeen
+[21:29:32] [Server thread/INFO]: Staff: [Admin] UnSeen
+[21:30:27] [Server thread/INFO]: Staff: [Admin] UnSeen
+[21:31:21] [Server thread/INFO]: Staff: [Admin] UnSeen
+[21:32:16] [Server thread/INFO]: Staff: [Admin] UnSeen
+[21:33:10] [Server thread/INFO]: Staff: [Admin] UnSeen
+[21:34:05] [Server thread/INFO]: Staff: [Admin] UnSeen
+[21:34:05] [Server thread/INFO]: Developers: [Dev] Popey
+[21:34:09] [Netty Epoll Server IO #11/INFO]: [Dev] Popey: Aha, okay.
+[21:34:59] [Server thread/INFO]: Staff: [Admin] UnSeen
+[21:34:59] [Server thread/INFO]: Developers: [Dev] Popey
+[21:35:54] [Server thread/INFO]: Staff: [Admin] UnSeen
+[21:35:54] [Server thread/INFO]: Developers: [Dev] Popey
+[21:36:13] [Server thread/INFO]: Popey456963 issued server command: /f admin AttrebusMede
+[21:36:17] [Netty Epoll Server IO #11/INFO]: [Dev] Popey: ./f admin
+[21:36:48] [Server thread/INFO]: Staff: [Admin] UnSeen
+[21:36:48] [Server thread/INFO]: Developers: [Dev] Popey
+[21:37:42] [Server thread/INFO]: Staff: [Admin] UnSeen
+[21:37:42] [Server thread/INFO]: Developers: [Dev] Popey
+[21:38:09] [Server thread/INFO]: AttrebusMede issued server command: /f admin off
+[21:38:21] [Server thread/INFO]: Popey456963 issued server command: /op HoloKirai
+[21:38:21] [Server thread/INFO]: [Popey456963: Opped HoloKirai]
+[21:38:37] [Server thread/INFO]: Staff: [Admin] UnSeen
+[21:38:37] [Server thread/INFO]: Players: [Regular] HoloKirai
+[21:38:37] [Server thread/INFO]: Developers: [Dev] Popey
+[21:38:56] [Server thread/INFO]: Popey456963 issued server command: /rules
+[21:39:31] [Server thread/INFO]: Staff: [Admin] UnSeen
+[21:39:31] [Server thread/INFO]: Players: [Regular] HoloKirai
+[21:39:31] [Server thread/INFO]: Developers: [Dev] Popey
+[21:40:05] [Server thread/INFO]: Popey456963 issued server command: /tp Hol
+[21:40:06] [Server thread/INFO]: AttrebusMede issued server command: /tp holo
+[21:40:14] [Server thread/INFO]: Popey456963 issued server command: /top
+[21:40:17] [Server thread/INFO]: Popey456963 issued server command: /tp HoloKirai Popey456963
+[21:40:20] [Server thread/INFO]: AttrebusMede issued server command: /warp 1spawn
+[21:40:25] [Netty Epoll Server IO #11/INFO]: [Dev] Popey: ./warp 1Spawn
+[21:40:26] [Server thread/INFO]: Staff: [Admin] UnSeen
+[21:40:26] [Server thread/INFO]: Players: [Regular] HoloKirai
+[21:40:26] [Server thread/INFO]: Developers: [Dev] Popey
+[21:40:27] [Server thread/INFO]: AttrebusMede issued server command: /warp 1spawn
+[21:40:29] [Server thread/INFO]: Popey456963 issued server command: /warp
+[21:40:33] [Server thread/INFO]: Popey456963 issued server command: /warp 1Spawn
+[21:40:36] [Server thread/INFO]: HoloKirai issued server command: /warp 1Spawn
+[21:41:20] [Server thread/INFO]: Staff: [Admin] UnSeen
+[21:41:20] [Server thread/INFO]: Players: [Regular] HoloKirai
+[21:41:20] [Server thread/INFO]: Developers: [Dev] Popey
+[21:42:15] [Server thread/INFO]: Staff: [Admin] UnSeen
+[21:42:15] [Server thread/INFO]: Players: [Regular] HoloKirai
+[21:42:15] [Server thread/INFO]: Developers: [Dev] Popey
+[21:42:41] [Server thread/INFO]: HoloKirai issued server command: /warp 1spawn
+[21:43:09] [Server thread/INFO]: Staff: [Admin] UnSeen
+[21:43:09] [Server thread/INFO]: Players: [Regular] HoloKirai
+[21:43:09] [Server thread/INFO]: Developers: [Dev] Popey
+[21:43:09] [Server thread/INFO]: Popey456963 issued server command: /execute
+[21:43:14] [Server thread/INFO]: AttrebusMede issued server command: /tppos -600 80 600
+[21:43:22] [Netty Epoll Server IO #9/INFO]: [Admin] UnSeen: ./tppos -600 80 600
+[21:43:27] [Server thread/INFO]: Popey456963 issued server command: /give popey command_block
+[21:43:40] [Server thread/INFO]: Popey456963 issued server command: /effect
+[21:43:49] [Server thread/INFO]: HoloKirai issued server command: /tppos -600 80 600
+[21:44:04] [Server thread/INFO]: Staff: [Admin] UnSeen
+[21:44:04] [Server thread/INFO]: Players: [Regular] HoloKirai
+[21:44:04] [Server thread/INFO]: Developers: [Dev] Popey
+[21:44:14] [Server thread/INFO]: Popey456963 issued server command: /effect
+[21:44:30] [Netty Epoll Server IO #11/INFO]: [Dev] Popey: effect @a[r=4] 1 5 3
+[21:44:58] [Server thread/INFO]: Staff: [Admin] UnSeen
+[21:44:58] [Server thread/INFO]: Players: [Regular] HoloKirai
+[21:44:58] [Server thread/INFO]: Developers: [Dev] Popey
+[21:45:52] [Server thread/INFO]: Staff: [Admin] UnSeen
+[21:45:52] [Server thread/INFO]: Players: [Regular] HoloKirai
+[21:45:52] [Server thread/INFO]: Developers: [Dev] Popey
+[21:46:30] [Server thread/INFO]: HoloKirai issued server command: /settime 1000
+[21:46:47] [Server thread/INFO]: Staff: [Admin] UnSeen
+[21:46:47] [Server thread/INFO]: Players: [Regular] HoloKirai
+[21:46:47] [Server thread/INFO]: Developers: [Dev] Popey
+[21:46:51] [Server thread/INFO]: HoloKirai issued server command: /time set day
+[21:47:41] [Server thread/INFO]: Staff: [Admin] UnSeen
+[21:47:41] [Server thread/INFO]: Players: [Regular] HoloKirai
+[21:47:41] [Server thread/INFO]: Developers: [Dev] Popey
+[21:48:36] [Server thread/INFO]: Staff: [Admin] UnSeen
+[21:48:36] [Server thread/INFO]: Players: [Regular] HoloKirai
+[21:48:36] [Server thread/INFO]: Developers: [Dev] Popey
+[21:49:01] [Server thread/INFO]: [PT] Popey456963 issued server command: /fw
+[21:49:02] [Server thread/INFO]: [PT] Popey456963 issued server command: /fw
+[21:49:03] [Server thread/INFO]: [PT] Popey456963 issued server command: /fw
+[21:49:30] [Server thread/INFO]: Staff: [Admin] UnSeen
+[21:49:30] [Server thread/INFO]: Players: [Regular] HoloKirai
+[21:49:30] [Server thread/INFO]: Developers: [Dev] Popey
+[21:49:34] [Server thread/INFO]: HoloKirai issued server command: /tppos -600 80 600
+[21:50:25] [Server thread/INFO]: Staff: [Admin] UnSeen
+[21:50:25] [Server thread/INFO]: Players: [Regular] HoloKirai
+[21:50:25] [Server thread/INFO]: Developers: [Dev] Popey
+[21:50:50] [Server thread/INFO]: [PT] Popey456963 issued server command: /fw
+[21:51:04] [Server thread/INFO]: AttrebusMede issued server command: /tppos -600 80 600
+[21:51:19] [Server thread/INFO]: Staff: [Admin] UnSeen
+[21:51:19] [Server thread/INFO]: Players: [Regular] HoloKirai
+[21:51:19] [Server thread/INFO]: Developers: [Dev] Popey
+[21:51:23] [Server thread/INFO]: [PT] Popey456963 issued server command: /splegg setspawn SpleggOne next
+[21:51:25] [Server thread/INFO]: [PT] Popey456963 issued server command: /fw
+[21:51:30] [Server thread/INFO]: [PT] Popey456963 issued server command: /fw
+[21:51:30] [Server thread/INFO]: [PT] Popey456963 issued server command: /fw
+[21:51:38] [Server thread/INFO]: [PT] Popey456963 issued server command: /fw
+[21:52:14] [Server thread/INFO]: Staff: [Admin] UnSeen
+[21:52:14] [Server thread/INFO]: Players: [Regular] HoloKirai
+[21:52:14] [Server thread/INFO]: Developers: [Dev] Popey
+[21:52:22] [Server thread/INFO]: Popey456963 issued server command: /gamerule
+[21:52:33] [Server thread/INFO]: Popey456963 issued server command: /gamerule logAdminCommands false
+[21:52:44] [Server thread/INFO]: Popey456963 issued server command: /gamerule
+[21:52:52] [Server thread/INFO]: Popey456963 issued server command: /gamerule commandBlockOutput false
+[21:53:08] [Server thread/INFO]: Staff: [Admin] UnSeen
+[21:53:08] [Server thread/INFO]: Players: [Regular] HoloKirai
+[21:53:08] [Server thread/INFO]: Developers: [Dev] Popey
+[21:53:11] [Server thread/INFO]: AttrebusMede issued server command: /warp 1spawn
+[21:54:02] [Server thread/INFO]: Staff: [Admin] UnSeen
+[21:54:02] [Server thread/INFO]: Players: [Regular] HoloKirai
+[21:54:02] [Server thread/INFO]: Developers: [Dev] Popey
+[21:54:41] [Server thread/INFO]: Popey456963 issued server command: //copy
+[21:54:57] [Server thread/INFO]: Staff: [Admin] UnSeen
+[21:54:57] [Server thread/INFO]: Players: [Regular] HoloKirai
+[21:54:57] [Server thread/INFO]: Developers: [Dev] Popey
+[21:54:59] [Server thread/INFO]: Popey456963 issued server command: //paste
+[21:55:51] [Server thread/INFO]: Staff: [Admin] UnSeen
+[21:55:51] [Server thread/INFO]: Players: [Regular] HoloKirai
+[21:55:51] [Server thread/INFO]: Developers: [Dev] Popey
+[21:56:00] [Netty Epoll Server IO #11/INFO]: [Dev] Popey: 9999941, 71, 10000059
+[21:56:21] [Netty Epoll Server IO #11/INFO]: [Dev] Popey: 9999941, 71, 10000059A
+[21:56:46] [Server thread/INFO]: Staff: [Admin] UnSeen
+[21:56:46] [Server thread/INFO]: Players: [Regular] HoloKirai
+[21:56:46] [Server thread/INFO]: Developers: [Dev] Popey
+[21:57:40] [Server thread/INFO]: Staff: [Admin] UnSeen
+[21:57:40] [Server thread/INFO]: Players: [Regular] HoloKirai
+[21:57:40] [Server thread/INFO]: Developers: [Dev] Popey
+[21:57:44] [Server thread/INFO]: AttrebusMede issued server command: /warp 1spawn
+[21:58:35] [Server thread/INFO]: Staff: [Admin] UnSeen
+[21:58:35] [Server thread/INFO]: Players: [Regular] HoloKirai
+[21:58:35] [Server thread/INFO]: Developers: [Dev] Popey
+[21:58:54] [Server thread/INFO]: HoloKirai issued server command: /time set day
+[21:59:29] [Server thread/INFO]: Staff: [Admin] UnSeen
+[21:59:29] [Server thread/INFO]: Players: [Regular] HoloKirai
+[21:59:29] [Server thread/INFO]: Developers: [Dev] Popey
+[22:00:17] [Server thread/INFO]: Popey456963 issued server command: /plugins
+[22:00:24] [Server thread/INFO]: Staff: [Admin] UnSeen
+[22:00:24] [Server thread/INFO]: Players: [Regular] HoloKirai
+[22:00:24] [Server thread/INFO]: Developers: [Dev] Popey
+[22:00:38] [Server thread/INFO]: Popey456963 issued server command: /warp
+[22:01:08] [Server thread/INFO]: Popey456963 issued server command: /tp Holo
+[22:01:18] [Server thread/INFO]: Staff: [Admin] UnSeen
+[22:01:18] [Server thread/INFO]: Players: [Regular] HoloKirai
+[22:01:18] [Server thread/INFO]: Developers: [Dev] Popey
+[22:02:05] [Server thread/INFO]: Popey456963 issued server command: /logblock
+[22:02:12] [Server thread/INFO]: Staff: [Admin] UnSeen
+[22:02:12] [Server thread/INFO]: Players: [Regular] HoloKirai
+[22:02:12] [Server thread/INFO]: Developers: [Dev] Popey
+[22:03:07] [Server thread/INFO]: Staff: [Admin] UnSeen
+[22:03:07] [Server thread/INFO]: Players: [Regular] HoloKirai
+[22:03:07] [Server thread/INFO]: Developers: [Dev] Popey
+[22:03:56] [Server thread/INFO]: AttrebusMede issued server command: /rules
+[22:04:01] [Server thread/INFO]: Staff: [Admin] UnSeen
+[22:04:01] [Server thread/INFO]: Players: [Regular] HoloKirai
+[22:04:01] [Server thread/INFO]: Developers: [Dev] Popey
+[22:04:07] [Server thread/INFO]: Popey456963 issued server command: /rules
+[22:04:08] [Server thread/INFO]: AttrebusMede issued server command: /rules!
+[22:04:27] [Server thread/INFO]: Popey456963 issued server command: /announce remove 3
+[22:04:41] [Server thread/INFO]: Popey456963 issued server command: /announce add &aYou can read the rules by doing &c/rules&a!
+[22:04:46] [Server thread/INFO]: Popey456963 issued server command: /announce broadcast 3
+[22:04:57] [Server thread/INFO]: Staff: [Admin] UnSeen
+[22:04:57] [Server thread/INFO]: Players: [Regular] HoloKirai
+[22:04:57] [Server thread/INFO]: Developers: [Dev] Popey
+[22:05:50] [Server thread/INFO]: Staff: [Admin] UnSeen
+[22:05:50] [Server thread/INFO]: Players: [Regular] HoloKirai
+[22:05:50] [Server thread/INFO]: Developers: [Dev] Popey
+[22:06:41] [Server thread/INFO]: Popey456963 issued server command: /icanhasbukkit
+[22:06:45] [Server thread/INFO]: Staff: [Admin] UnSeen
+[22:06:45] [Server thread/INFO]: Players: [Regular] HoloKirai
+[22:06:45] [Server thread/INFO]: Developers: [Dev] Popey
+[22:07:18] [Server thread/INFO]: Popey456963 issued server command: /coreprotectg
+[22:07:19] [Server thread/INFO]: Popey456963 issued server command: /coreprotect
+[22:07:39] [Server thread/INFO]: Staff: [Admin] UnSeen
+[22:07:39] [Server thread/INFO]: Players: [Regular] HoloKirai
+[22:07:39] [Server thread/INFO]: Developers: [Dev] Popey
+[22:08:34] [Server thread/INFO]: Staff: [Admin] UnSeen
+[22:08:34] [Server thread/INFO]: Players: [Regular] HoloKirai
+[22:08:34] [Server thread/INFO]: Developers: [Dev] Popey
+[22:08:47] [Netty Epoll Server IO #9/INFO]: [Admin] UnSeen: memes
+[22:09:28] [Server thread/INFO]: Staff: [Admin] UnSeen
+[22:09:28] [Server thread/INFO]: Players: [Regular] HoloKirai
+[22:09:28] [Server thread/INFO]: Developers: [Dev] Popey
+[22:09:38] [Server thread/INFO]: Stopping the server
+[22:09:38] [Server thread/INFO]: Stopping server
+[22:09:38] [Server thread/INFO]: [TouchscreenHolograms] Disabling TouchscreenHolograms v1.3
+[22:09:38] [Server thread/INFO]: [HolographicDisplays] Disabling HolographicDisplays v2.1.10
+[22:09:38] [Server thread/INFO]: [MobArena] Disabling MobArena v0.97.1
+[22:09:38] [Server thread/INFO]: [MobArena] disabled.
+[22:09:38] [Server thread/INFO]: [EssentialsProtect] Disabling EssentialsProtect vTeamCity
+[22:09:38] [Server thread/INFO]: [OnTime] Disabling OnTime v4.1.3
+[22:09:38] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v6.1
+[22:09:38] [Server thread/INFO]: [WorldGuard] Shutting down executor and waiting for any pending tasks...
+[22:09:38] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v3.6.4
+[22:09:38] [Server thread/INFO]: [MassiveCore] Disabling MassiveCore v2.8.0
+[22:09:38] [Server thread/INFO]: [MassiveCore 2.8.0] Disabled
+[22:09:38] [Server thread/INFO]: [LaggRemover] Disabling LaggRemover v0.1.9
+[22:09:38] [Server thread/INFO]: [LaggRemover] LaggRemover has been disabled!
+[22:09:38] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn vTeamCity
+[22:09:38] [Server thread/INFO]: [CommandSigns] Disabling CommandSigns v1.9.3.2
+[22:09:38] [Server thread/INFO]: [Vault] Disabling Vault v1.5.6-b49
+[22:09:38] [Server thread/INFO]: [Random_Spawn] Disabling Random_Spawn v2.6
+[22:09:38] [Server thread/INFO]: [mcMMO] Disabling mcMMO v1.5.00-b3547

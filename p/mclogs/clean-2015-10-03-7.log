@@ -1,0 +1,518 @@
+[23:23:34] [Server thread/INFO]: Loading properties
+[23:23:34] [Server thread/INFO]: Default game type: SURVIVAL
+[23:23:34] [Server thread/INFO]: Using epoll channel type
+[23:23:35] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v5.6.1
+[23:23:35] [Server thread/INFO]: [Essentials] Loading Essentials vTeamCity
+[23:23:35] [Server thread/INFO]: [VoxelSniper] Loading VoxelSniper v7.1.0
+[23:23:35] [Server thread/INFO]: [Vault] Loading Vault v1.5.6-b49
+[23:23:35] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn vTeamCity
+[23:23:35] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v6.1
+[23:23:35] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v2.4-b527
+[23:23:35] [Server thread/INFO]: [OnTime] Loading OnTime v4.1.3
+[23:23:35] [Server thread/INFO]: [EssentialsProtect] Loading EssentialsProtect vTeamCity
+[23:23:35] [Server thread/INFO]: [HeavySpleef] Loading HeavySpleef v2.1.1
+[23:23:35] [Server thread/INFO]: [Minigames] Loading Minigames v1.7.0
+[23:23:35] [Server thread/INFO]: [MobArena] Loading MobArena v0.97.1
+[23:23:35] [Server thread/INFO]: [CraftBook] Loading CraftBook v3.9-SNAPSHOT
+[23:23:35] [Server thread/INFO]: [Multiverse-NetherPortals] Loading Multiverse-NetherPortals v2.4-b530
+[23:23:35] [Server thread/INFO]: [Multiverse-Portals] Loading Multiverse-Portals v2.4-b548
+[23:23:35] [Server thread/INFO]: [Vault] Enabling Vault v1.5.6-b49
+[23:23:37] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v5.6.1
+[23:23:37] [Server thread/INFO]: [Essentials] Enabling Essentials vTeamCity
+[23:23:37] [Server thread/INFO]: git-Bukkit-9935adc (MC: 1.8.8)
+[23:23:37] [Server thread/INFO]: 1.8.8-R0.1-SNAPSHOT
+[23:23:37] [Server thread/INFO]: Using locale en_GB
+[23:23:37] [Server thread/INFO]: Using locale en_GB
+[23:23:37] [Server thread/INFO]: [VoxelSniper] Enabling VoxelSniper v7.1.0
+[23:23:37] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn vTeamCity
+[23:23:37] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v6.1
+[23:23:38] [Server thread/INFO]: [WorldGuard] (TEST) Lighters are PERMITTED.
+[23:23:38] [Server thread/INFO]: [WorldGuard] (TEST) Lava fire is blocked.
+[23:23:38] [Server thread/INFO]: [WorldGuard] (TEST) Fire spread is UNRESTRICTED.
+[23:23:38] [Server thread/INFO]: [WorldGuard] (TEST_nether) Lighters are PERMITTED.
+[23:23:38] [Server thread/INFO]: [WorldGuard] (TEST_nether) Lava fire is blocked.
+[23:23:38] [Server thread/INFO]: [WorldGuard] (TEST_nether) Fire spread is UNRESTRICTED.
+[23:23:38] [Server thread/INFO]: [WorldGuard] (TEST_the_end) Lighters are PERMITTED.
+[23:23:38] [Server thread/INFO]: [WorldGuard] (TEST_the_end) Lava fire is blocked.
+[23:23:38] [Server thread/INFO]: [WorldGuard] (TEST_the_end) Fire spread is UNRESTRICTED.
+[23:23:38] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v2.4-b527
+[23:23:38] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'TEST' - Env: NORMAL - Type: NORMAL & seed: -2024018835920597302
+[23:23:38] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'TEST_nether' - Env: NETHER - Type: NORMAL & seed: -2024018835920597302
+[23:23:38] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'TEST_the_end' - Env: THE_END - Type: NORMAL & seed: -2024018835920597302
+[23:23:38] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'lobby' - Env: NORMAL - Type: NORMAL & seed: -3770714656453924402
+[23:23:39] [Server thread/INFO]: [WorldGuard] (lobby) Lighters are PERMITTED.
+[23:23:39] [Server thread/INFO]: [WorldGuard] (lobby) Lava fire is blocked.
+[23:23:39] [Server thread/INFO]: [WorldGuard] (lobby) Fire spread is UNRESTRICTED.
+[23:23:39] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'minigames' - Env: NORMAL - Type: FLAT & seed: 2973644325369467684
+[23:23:39] [Server thread/INFO]: [WorldGuard] (minigames) Lighters are PERMITTED.
+[23:23:39] [Server thread/INFO]: [WorldGuard] (minigames) Lava fire is blocked.
+[23:23:39] [Server thread/INFO]: [WorldGuard] (minigames) Fire spread is UNRESTRICTED.
+[23:23:39] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'Skyscraper' - Env: NORMAL - Type: FLAT & seed: -2845274568091306621
+[23:23:39] [Server thread/INFO]: [WorldGuard] (Skyscraper) Lighters are PERMITTED.
+[23:23:39] [Server thread/INFO]: [WorldGuard] (Skyscraper) Lava fire is blocked.
+[23:23:39] [Server thread/INFO]: [WorldGuard] (Skyscraper) Fire spread is UNRESTRICTED.
+[23:23:39] [Server thread/INFO]: [Multiverse-Core] 6 - World(s) loaded.
+[23:23:39] [Server thread/INFO]: [OnTime] Enabling OnTime v4.1.3
+[23:23:39] [Server thread/INFO]: [EssentialsProtect] Enabling EssentialsProtect vTeamCity
+[23:23:39] [Server thread/INFO]: [HeavySpleef] Enabling HeavySpleef v2.1.1
+[23:23:39] [Server thread/INFO]: [Minigames] Enabling Minigames v1.7.0
+[23:23:39] [Server thread/INFO]: [Minigames] Using lang en_AU
+[23:23:39] [Server thread/INFO]: Minigames successfully enabled.
+[23:23:40] [Server thread/INFO]: [MobArena] Enabling MobArena v0.97.1
+[23:23:40] [Server thread/INFO]: [MobArena] Loaded arena 'default'
+[23:23:40] [Server thread/INFO]: [MobArena] Loaded arena 'god-arena'
+[23:23:40] [Server thread/INFO]: [MobArena] v0.97.1 enabled.
+[23:23:40] [Server thread/INFO]: [CraftBook] Enabling CraftBook v3.9-SNAPSHOT
+[23:23:40] [Server thread/INFO]: [CraftBook] Successfully added 1 CommandItems!
+[23:23:40] [Server thread/INFO]: [CraftBook] Registered 3 custom recipes!
+[23:23:40] [Server thread/INFO]: [CraftBook] 3824 chunk(s) for 6 world(s) processed (21ms elapsed)
+[23:23:40] [Server thread/INFO]: [Multiverse-NetherPortals] Enabling Multiverse-NetherPortals v2.4-b530
+[23:23:40] [Server thread/INFO]: [Multiverse-Portals] Enabling Multiverse-Portals v2.4-b548
+[23:23:40] [Server thread/INFO]: [Multiverse-Portals]  1 - Portals(s) loaded
+[23:23:51] [Server thread/INFO]: Popey456963 issued server command: /tp 41
+[23:23:59] [Server thread/INFO]: minelittleyoshi issued server command: /gamemode 1
+[23:24:27] [Server thread/INFO]: dev: [Dev] Chris, [Dev] Popey, [Dev] Twiixtor
+[23:24:27] [Server thread/INFO]: member: [Member] minelittleyoshi, [Member] Raichu3000
+[23:24:38] [Server thread/INFO]: minelittleyoshi issued server command: /set gamemode
+[23:25:08] [Server thread/INFO]: minelittleyoshi issued server command: /gamemode Twiixtor 2
+[23:25:10] [Server thread/INFO]: minelittleyoshi issued server command: /gamemode Twiixtor 0
+[23:25:13] [Server thread/INFO]: dev: [Dev] Chris, [Dev] Popey, [Dev] Twiixtor
+[23:25:13] [Server thread/INFO]: member: [Member] minelittleyoshi, [Member] Raichu3000
+[23:25:15] [Server thread/INFO]: minelittleyoshi issued server command: /gamemode Twiixtor survival
+[23:25:25] [Server thread/INFO]: minelittleyoshi issued server command: /gamemode survival Twiixtor
+[23:25:31] [Server thread/INFO]: Twiixtor tried to swim in lava
+[23:25:50] [Server thread/INFO]: Twiixtor issued server command: /back
+[23:25:53] [Server thread/INFO]: Twiixtor issued server command: /gm 1
+[23:26:00] [Server thread/INFO]: dev: [Dev] Chris, [Dev] Popey, [Dev] Twiixtor
+[23:26:00] [Server thread/INFO]: member: [Member] minelittleyoshi, [Member] Raichu3000
+[23:26:47] [Server thread/INFO]: dev: [Dev] Chris, [Dev] Popey, [Dev] Twiixtor
+[23:26:47] [Server thread/INFO]: member: [Member] minelittleyoshi, [Member] Raichu3000
+[23:27:33] [Server thread/INFO]: dev: [Dev] Chris, [Dev] Popey, [Dev] Twiixtor
+[23:27:33] [Server thread/INFO]: member: [Member] minelittleyoshi, [Member] Raichu3000
+[23:28:20] [Server thread/INFO]: dev: [Dev] Chris, [Dev] Popey, [Dev] Twiixtor
+[23:28:20] [Server thread/INFO]: member: [Member] minelittleyoshi, [Member] Raichu3000
+[23:28:39] [Server thread/INFO]: Twiixtor issued server command: /time day
+[23:29:06] [Server thread/INFO]: dev: [Dev] Chris, [Dev] Popey, [Dev] Twiixtor
+[23:29:06] [Server thread/INFO]: member: [Member] minelittleyoshi, [Member] Raichu3000
+[23:29:13] [Server thread/INFO]: Twiixtor issued server command: /afk
+[23:29:31] [Server thread/INFO]: minelittleyoshi issued server command: /gamemode survival Twiixtor
+[23:29:53] [Server thread/INFO]: dev: [Dev] Chris, [Dev] Popey, [Dev] Twiixtor
+[23:29:53] [Server thread/INFO]: member: [Member] minelittleyoshi, [Member] Raichu3000
+[23:30:02] [Server thread/INFO]: Crustifer issued server command: /fly Raichu3000
+[23:30:26] [Server thread/INFO]: Raichu3000 issued server command: /gamemode 1
+[23:30:31] [Server thread/INFO]: minelittleyoshi issued server command: /tp Twiixtor minelittleyoshi
+[23:30:40] [Server thread/INFO]: dev: [Dev] Chris, [Dev] Popey, [Dev] Twiixtor
+[23:30:40] [Server thread/INFO]: member: [Member] minelittleyoshi, [Member] Raichu3000
+[23:30:52] [Server thread/INFO]: Crustifer issued server command: //pos1
+[23:30:54] [Server thread/INFO]: Popey456963 issued server command: /op ThunderCS
+[23:30:54] [Server thread/INFO]: [Popey456963: Opped ThunderCS]
+[23:30:56] [Server thread/INFO]: Crustifer issued server command: //pos2
+[23:30:59] [Server thread/INFO]: Crustifer issued server command: //move
+[23:31:05] [Server thread/INFO]: minelittleyoshi issued server command: /tp Twiixtor minelittleyoshi
+[23:31:10] [Server thread/INFO]: minelittleyoshi issued server command: /tp popey
+[23:31:18] [Server thread/INFO]: ThunderCS issued server command: /gamemode 1
+[23:31:26] [Server thread/INFO]: dev: [Dev] Chris, [Dev] Popey, [Dev] Twiixtor
+[23:31:26] [Server thread/INFO]: member: [Member] minelittleyoshi, [Member] Raichu3000
+[23:31:28] [Server thread/INFO]: Popey456963 issued server command: //set 0
+[23:31:33] [Server thread/INFO]: Popey456963 issued server command: //set 0
+[23:31:39] [Server thread/INFO]: Popey456963 issued server command: //set 0
+[23:31:42] [Server thread/INFO]: Popey456963 issued server command: //undo
+[23:31:44] [Server thread/INFO]: Popey456963 issued server command: //undo
+[23:31:46] [Server thread/INFO]: Popey456963 issued server command: //redo
+[23:31:48] [Server thread/INFO]: Popey456963 issued server command: //set 0
+[23:31:52] [Server thread/INFO]: Popey456963 issued server command: //set 0
+[23:32:00] [Server thread/INFO]: Crustifer issued server command: //move 8
+[23:32:13] [Server thread/INFO]: dev: [Dev] Chris, [Dev] Popey, [Dev] Twiixtor
+[23:32:13] [Server thread/INFO]: member: [Member] minelittleyoshi, [Member] Raichu3000
+[23:32:26] [Server thread/INFO]: Popey456963 issued server command: //set polished_and
+[23:32:30] [Server thread/INFO]: Popey456963 issued server command: //set polished_andesite
+[23:32:32] [Server thread/INFO]: Popey456963 issued server command: //set polished_andesite
+[23:32:35] [Server thread/INFO]: Popey456963 issued server command: //set andesite
+[23:32:36] [Server thread/INFO]: Crustifer issued server command: //pos1
+[23:32:39] [Server thread/INFO]: Crustifer issued server command: //pos2
+[23:32:42] [Server thread/INFO]: Crustifer issued server command: //move 2
+[23:32:59] [Server thread/INFO]: dev: [Dev] Chris, [Dev] Popey, [Dev] Twiixtor
+[23:32:59] [Server thread/INFO]: member: [Member] minelittleyoshi, [Member] Raichu3000
+[23:33:22] [Server thread/INFO]: Popey456963 issued server command: //set 4
+[23:33:23] [Server thread/INFO]: Popey456963 issued server command: //undo
+[23:33:27] [Server thread/INFO]: Popey456963 issued server command: //undo
+[23:33:29] [Server thread/INFO]: Popey456963 issued server command: //redo
+[23:33:30] [Server thread/INFO]: Popey456963 issued server command: //redo
+[23:33:32] [Server thread/INFO]: Popey456963 issued server command: //undo
+[23:33:46] [Server thread/INFO]: dev: [Dev] Chris, [Dev] Popey, [Dev] Twiixtor
+[23:33:46] [Server thread/INFO]: member: [Member] minelittleyoshi, [Member] Raichu3000
+[23:33:53] [Server thread/INFO]: Popey456963 issued server command: //set polished_andesite
+[23:34:32] [Server thread/INFO]: dev: [Dev] Chris, [Dev] Popey, [Dev] Twiixtor
+[23:34:32] [Server thread/INFO]: member: [Member] minelittleyoshi, [Member] Raichu3000
+[23:34:40] [Server thread/INFO]: minelittleyoshi issued server command: /powertool fireball
+[23:34:43] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:34:44] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:34:45] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:34:51] [Server thread/INFO]: Crustifer issued server command: /ban minelittleyoshi
+[23:34:55] [Server thread/INFO]: Crustifer issued server command: /deop minelittleyoshi
+[23:34:55] [Server thread/INFO]: [Crustifer: De-opped minelittleyoshi]
+[23:34:58] [Server thread/INFO]: Crustifer issued server command: /ban minelittleyoshi
+[23:34:58] [Server thread/INFO]: minelittleyoshi left the game.
+[23:34:58] [Server thread/INFO]: §6Player§c §f[§eDev§f] §3Chris§r §6banned§c minelittleyoshi §6for: §c§cYou have been banned:
+[23:35:05] [Server thread/INFO]: §6Player§c §f[§eDev§f] §6Popey§r §6unbanned§c minelittleyoshi.
+[23:35:09] [Server thread/INFO]: minelittleyoshi fell from a high place
+[23:35:19] [Server thread/INFO]: dev: [Dev] Chris, [Dev] Popey, [Dev] Twiixtor
+[23:35:19] [Server thread/INFO]: member: [Member] minelittleyoshi, [Member] Raichu3000
+[23:35:26] [Server thread/INFO]: Raichu3000 issued server command: /gamemode 1
+[23:35:27] [Server thread/INFO]: minelittleyoshi fell from a high place
+[23:35:32] [Server thread/INFO]: Raichu3000 issued server command: /gamemode 1
+[23:35:38] [Server thread/INFO]: minelittleyoshi fell from a high place
+[23:35:43] [Server thread/INFO]: Raichu3000 issued server command: /flymode
+[23:35:46] [Server thread/INFO]: Crustifer issued server command: /fly raichu3000
+[23:35:49] [Server thread/INFO]: minelittleyoshi fell from a high place
+[23:36:01] [Server thread/INFO]: minelittleyoshi tried to swim in lava
+[23:36:05] [Server thread/INFO]: dev: [Dev] Chris, [Dev] Popey, [Dev] Twiixtor
+[23:36:05] [Server thread/INFO]: member: [Member] minelittleyoshi, [Member] Raichu3000
+[23:36:12] [Server thread/INFO]: minelittleyoshi fell from a high place
+[23:36:24] [Server thread/INFO]: minelittleyoshi fell from a high place
+[23:36:28] [Server thread/INFO]: minelittleyoshi issued server command: /powertool fireball
+[23:36:30] [Server thread/INFO]: [Member] Raichu3000: Deniable_
+[23:36:34] [Server thread/INFO]: minelittleyoshi issued server command: /gamemode 1
+[23:36:42] [Server thread/INFO]: minelittleyoshi fell from a high place
+[23:36:42] [Server thread/INFO]: Popey456963 issued server command: /op Deniable_
+[23:36:42] [Server thread/INFO]: [Popey456963: Opped Deniable_]
+[23:36:50] [Server thread/INFO]: Popey456963 issued server command: /tp Deniable_ Popey456963
+[23:36:50] [Server thread/INFO]: Deniable_ issued server command: /spawn
+[23:36:51] [Server thread/INFO]: minelittleyoshi fell from a high place
+[23:36:52] [Server thread/INFO]: dev: [Dev] Chris, [Dev] Popey, [AFK][Dev] Twiixtor
+[23:36:52] [Server thread/INFO]: member: [Member] minelittleyoshi, [Member] Raichu3000
+[23:36:52] [Server thread/INFO]: regular: [Regular] Deniable_
+[23:36:53] [Server thread/INFO]: Popey456963 issued server command: /tp Deniable_ Popey456963
+[23:37:01] [Server thread/INFO]: minelittleyoshi fell from a high place
+[23:37:09] [Server thread/INFO]: minelittleyoshi fell from a high place
+[23:37:19] [Server thread/INFO]: minelittleyoshi fell from a high place
+[23:37:20] [Server thread/INFO]: Popey456963 issued server command: /gamemode 1 Deniable_
+[23:37:26] [Server thread/INFO]: minelittleyoshi fell from a high place
+[23:37:33] [Server thread/INFO]: minelittleyoshi fell from a high place
+[23:37:39] [Server thread/INFO]: dev: [Dev] Chris, [Dev] Popey, [AFK][Dev] Twiixtor
+[23:37:39] [Server thread/INFO]: member: [Member] minelittleyoshi, [Member] Raichu3000
+[23:37:39] [Server thread/INFO]: regular: [Regular] Deniable_
+[23:37:41] [Server thread/INFO]: minelittleyoshi fell from a high place
+[23:37:48] [Server thread/INFO]: minelittleyoshi fell from a high place
+[23:37:56] [Server thread/INFO]: minelittleyoshi fell from a high place
+[23:38:07] [Server thread/INFO]: minelittleyoshi fell from a high place
+[23:38:15] [Server thread/INFO]: minelittleyoshi fell from a high place
+[23:38:23] [Server thread/INFO]: minelittleyoshi fell from a high place
+[23:38:23] [Server thread/INFO]: Popey456963 issued server command: //paste
+[23:38:29] [Server thread/INFO]: dev: [Dev] Chris, [Dev] Popey, [AFK][Dev] Twiixtor
+[23:38:29] [Server thread/INFO]: member: [Member] minelittleyoshi, [Member] Raichu3000
+[23:38:29] [Server thread/INFO]: regular: [Regular] Deniable_
+[23:38:37] [Server thread/INFO]: minelittleyoshi fell from a high place
+[23:38:41] [Server thread/INFO]: Popey456963 issued server command: /tp ThunderCS Popey456963
+[23:38:47] [Server thread/INFO]: minelittleyoshi fell from a high place
+[23:38:52] [Server thread/INFO]: Crustifer issued server command: //set 43
+[23:38:56] [Server thread/INFO]: minelittleyoshi fell from a high place
+[23:39:04] [Server thread/INFO]: minelittleyoshi fell from a high place
+[23:39:05] [Server thread/INFO]: Crustifer issued server command: /tphere popey
+[23:39:12] [Server thread/INFO]: dev: [Dev] Chris, [Dev] Popey, [AFK][Dev] Twiixtor
+[23:39:12] [Server thread/INFO]: member: [Member] minelittleyoshi, [Member] Raichu3000
+[23:39:12] [Server thread/INFO]: regular: [Regular] Deniable_
+[23:39:12] [Server thread/INFO]: minelittleyoshi fell from a high place
+[23:39:14] [Server thread/INFO]: ThunderCS issued server command: /bacl
+[23:39:15] [Server thread/INFO]: ThunderCS issued server command: /back
+[23:39:22] [Server thread/INFO]: minelittleyoshi fell from a high place
+[23:39:31] [Server thread/INFO]: minelittleyoshi fell from a high place
+[23:39:40] [Server thread/INFO]: Twiixtor issued server command: /afk
+[23:39:42] [Server thread/INFO]: minelittleyoshi fell from a high place
+[23:39:44] [Server thread/INFO]: Twiixtor issued server command: /gm 1
+[23:39:51] [Server thread/INFO]: minelittleyoshi fell from a high place
+[23:39:52] [Server thread/INFO]: Twiixtor issued server command: /tp pop
+[23:39:54] [Server thread/INFO]: Popey456963 issued server command: /tp twiix
+[23:39:58] [Server thread/INFO]: Popey456963 issued server command: /tp thun
+[23:39:58] [Server thread/INFO]: dev: [Dev] Chris, [Dev] Popey, [Dev] Twiixtor
+[23:39:58] [Server thread/INFO]: member: [Member] minelittleyoshi, [Member] Raichu3000
+[23:39:58] [Server thread/INFO]: regular: [Regular] Deniable_
+[23:39:59] [Server thread/INFO]: minelittleyoshi fell from a high place
+[23:40:03] [Server thread/INFO]: Twiixtor issued server command: /tp thund
+[23:40:07] [Server thread/INFO]: minelittleyoshi fell from a high place
+[23:40:14] [Server thread/INFO]: minelittleyoshi fell from a high place
+[23:40:23] [Server thread/INFO]: minelittleyoshi fell from a high place
+[23:40:24] [Server thread/INFO]: Popey456963 issued server command: /tp Crustifer Popey456963
+[23:40:31] [Server thread/INFO]: minelittleyoshi fell from a high place
+[23:40:34] [Server thread/INFO]: Crustifer issued server command: /tp raichu3000
+[23:40:39] [Server thread/INFO]: minelittleyoshi fell from a high place
+[23:40:45] [Server thread/INFO]: dev: [Dev] Chris, [Dev] Popey, [Dev] Twiixtor
+[23:40:45] [Server thread/INFO]: member: [Member] minelittleyoshi, [Member] Raichu3000
+[23:40:45] [Server thread/INFO]: regular: [Regular] Deniable_
+[23:40:46] [Server thread/INFO]: minelittleyoshi fell from a high place
+[23:40:53] [Server thread/INFO]: minelittleyoshi fell from a high place
+[23:40:56] [Server thread/INFO]: Popey456963 issued server command: /tp yoshi
+[23:41:00] [Server thread/INFO]: minelittleyoshi fell from a high place
+[23:41:06] [Server thread/INFO]: Twiixtor issued server command: /afk
+[23:41:08] [Server thread/INFO]: minelittleyoshi fell from a high place
+[23:41:15] [Server thread/INFO]: minelittleyoshi fell from a high place
+[23:41:27] [Server thread/INFO]: minelittleyoshi fell from a high place
+[23:41:31] [Server thread/INFO]: dev: [Dev] Chris, [Dev] Popey, [AFK][Dev] Twiixtor
+[23:41:31] [Server thread/INFO]: member: [Member] minelittleyoshi, [Member] Raichu3000
+[23:41:31] [Server thread/INFO]: regular: [Regular] Deniable_
+[23:41:37] [Server thread/INFO]: minelittleyoshi fell from a high place
+[23:41:50] [Server thread/INFO]: minelittleyoshi fell from a high place
+[23:42:18] [Server thread/INFO]: dev: [Dev] Chris, [Dev] Popey, [AFK][Dev] Twiixtor
+[23:42:18] [Server thread/INFO]: member: [Member] minelittleyoshi, [Member] Raichu3000
+[23:42:18] [Server thread/INFO]: regular: [Regular] Deniable_
+[23:42:31] [Server thread/INFO]: minelittleyoshi fell from a high place
+[23:43:04] [Server thread/INFO]: dev: [Dev] Chris, [Dev] Popey, [AFK][Dev] Twiixtor
+[23:43:04] [Server thread/INFO]: member: [Member] minelittleyoshi, [Member] Raichu3000
+[23:43:04] [Server thread/INFO]: regular: [Regular] Deniable_
+[23:43:12] [Server thread/INFO]: minelittleyoshi tried to swim in lava
+[23:43:25] [Server thread/INFO]: Popey456963 issued server command: /gamemode 1 yoshi
+[23:43:48] [Server thread/INFO]: minelittleyoshi issued server command: /tp popey
+[23:43:51] [Server thread/INFO]: dev: [Dev] Chris, [Dev] Popey, [AFK][Dev] Twiixtor
+[23:43:51] [Server thread/INFO]: member: [Member] minelittleyoshi, [Member] Raichu3000
+[23:43:51] [Server thread/INFO]: regular: [Regular] Deniable_
+[23:43:52] [Server thread/INFO]: Popey456963 issued server command: /gamemode 0 yoshi
+[23:43:52] [Server thread/INFO]: [Dev] Chris: .//replace 35:8 43:8
+[23:43:54] [Server thread/INFO]: ThunderCS issued server command: //copy
+[23:43:54] [Server thread/INFO]: [Member] minelittleyoshi: i can't tp
+[23:43:56] [Server thread/INFO]: Crustifer issued server command: //pos2
+[23:43:58] [Server thread/INFO]: Popey456963 issued server command: /op yoshi
+[23:43:58] [Server thread/INFO]: [Popey456963: Opped yoshi]
+[23:44:00] [Server thread/INFO]: Popey456963 issued server command: /op minelittleyoshi
+[23:44:00] [Server thread/INFO]: [Popey456963: Opped minelittleyoshi]
+[23:44:01] [Server thread/INFO]: ThunderCS issued server command: //place
+[23:44:02] [Server thread/INFO]: Crustifer issued server command: //pos2
+[23:44:02] [Server thread/INFO]: [Member] minelittleyoshi: ty
+[23:44:05] [Server thread/INFO]: minelittleyoshi issued server command: /tp popey
+[23:44:06] [Server thread/INFO]: ThunderCS issued server command: //place
+[23:44:07] [Server thread/INFO]: Popey456963 issued server command: /tp denia
+[23:44:08] [Server thread/INFO]: Crustifer issued server command: //replace 35:8 43:8
+[23:44:10] [Server thread/INFO]: minelittleyoshi issued server command: /gamemode 1
+[23:44:13] [Server thread/INFO]: ThunderCS issued server command: //paste
+[23:44:16] [Server thread/INFO]: minelittleyoshi issued server command: /tp twiixtor
+[23:44:16] [Server thread/INFO]: Crustifer issued server command: //pos2
+[23:44:21] [Server thread/INFO]: ThunderCS issued server command: //paste
+[23:44:21] [Server thread/INFO]: Popey456963 issued server command: /tp twii
+[23:44:28] [Server thread/INFO]: Popey456963 issued server command: /tp cru
+[23:44:28] [Server thread/INFO]: ThunderCS issued server command: //undo
+[23:44:37] [Server thread/INFO]: dev: [Dev] Chris, [Dev] Popey, [AFK][Dev] Twiixtor
+[23:44:37] [Server thread/INFO]: member: [Member] minelittleyoshi, [Member] Raichu3000
+[23:44:37] [Server thread/INFO]: regular: [Regular] Deniable_
+[23:44:46] [Server thread/INFO]: Crustifer issued server command: //pos1
+[23:44:52] [Server thread/INFO]: Crustifer issued server command: //pos2
+[23:44:53] [Server thread/INFO]: ThunderCS issued server command: //copy
+[23:44:56] [Server thread/INFO]: Crustifer issued server command: //replace 35:8 43:8
+[23:45:13] [Server thread/INFO]: ThunderCS issued server command: //paste
+[23:45:17] [Server thread/INFO]: minelittleyoshi issued server command: /tp Raichu
+[23:45:18] [Server thread/INFO]: ThunderCS issued server command: //undo
+[23:45:24] [Server thread/INFO]: dev: [Dev] Chris, [Dev] Popey, [AFK][Dev] Twiixtor
+[23:45:24] [Server thread/INFO]: member: [Member] minelittleyoshi, [Member] Raichu3000
+[23:45:24] [Server thread/INFO]: regular: [Regular] Deniable_
+[23:45:25] [Server thread/INFO]: minelittleyoshi issued server command: /tp Thunder
+[23:46:10] [Server thread/INFO]: Deniable_ issued server command: //wand
+[23:46:11] [Server thread/INFO]: ThunderCS issued server command: //copy
+[23:46:11] [Server thread/INFO]: dev: [Dev] Chris, [Dev] Popey, [AFK][Dev] Twiixtor
+[23:46:11] [Server thread/INFO]: member: [Member] minelittleyoshi, [Member] Raichu3000
+[23:46:11] [Server thread/INFO]: regular: [Regular] Deniable_
+[23:46:22] [Server thread/INFO]: Popey456963 issued server command: /tp yoshi
+[23:46:24] [Server thread/INFO]: ThunderCS issued server command: //paste
+[23:46:25] [Server thread/INFO]: Crustifer issued server command: //replace 35:8 43:8
+[23:46:29] [Server thread/INFO]: Crustifer issued server command: //pos2
+[23:46:30] [Server thread/INFO]: Crustifer issued server command: //pos2
+[23:46:32] [Server thread/INFO]: Crustifer issued server command: //replace 35:8 43:8
+[23:46:36] [Server thread/INFO]: ThunderCS issued server command: //undo
+[23:46:57] [Server thread/INFO]: dev: [Dev] Chris, [Dev] Popey, [AFK][Dev] Twiixtor
+[23:46:57] [Server thread/INFO]: member: [Member] minelittleyoshi, [Member] Raichu3000
+[23:46:57] [Server thread/INFO]: regular: [Regular] Deniable_
+[23:47:00] [Server thread/INFO]: Popey456963 issued server command: //expand 20 up
+[23:47:09] [Server thread/INFO]: Popey456963 issued server command: //copy
+[23:47:15] [Server thread/INFO]: Popey456963 issued server command: //paste
+[23:47:39] [Server thread/INFO]: Popey456963 issued server command: /warp
+[23:47:41] [Server thread/INFO]: Popey456963 issued server command: /say
+[23:47:44] [Server thread/INFO]: dev: [Dev] Chris, [Dev] Popey, [AFK][Dev] Twiixtor
+[23:47:44] [Server thread/INFO]: member: [Member] minelittleyoshi, [Member] Raichu3000
+[23:47:44] [Server thread/INFO]: regular: [Regular] Deniable_
+[23:47:53] [Server thread/INFO]: Crustifer issued server command: //replace 35:8 43:8
+[23:47:58] [Server thread/INFO]: Popey456963 issued server command: /say SET A SPAWN TO YOUR PLACE USING /setwarp *Name*MobArena
+[23:47:58] [Server thread/INFO]: [Popey456963] SET A SPAWN TO YOUR PLACE USING /setwarp *Name*MobArena
+[23:47:59] [Server thread/INFO]: Popey456963 issued server command: /say SET A SPAWN TO YOUR PLACE USING /setwarp *Name*MobArena
+[23:47:59] [Server thread/INFO]: [Popey456963] SET A SPAWN TO YOUR PLACE USING /setwarp *Name*MobArena
+[23:47:59] [Server thread/INFO]: Popey456963 issued server command: /say SET A SPAWN TO YOUR PLACE USING /setwarp *Name*MobArena
+[23:47:59] [Server thread/INFO]: [Popey456963] SET A SPAWN TO YOUR PLACE USING /setwarp *Name*MobArena
+[23:47:59] [Server thread/INFO]: Popey456963 issued server command: /say SET A SPAWN TO YOUR PLACE USING /setwarp *Name*MobArena
+[23:47:59] [Server thread/INFO]: [Popey456963] SET A SPAWN TO YOUR PLACE USING /setwarp *Name*MobArena
+[23:48:00] [Server thread/INFO]: Popey456963 issued server command: /say SET A SPAWN TO YOUR PLACE USING /setwarp *Name*MobArena
+[23:48:00] [Server thread/INFO]: [Popey456963] SET A SPAWN TO YOUR PLACE USING /setwarp *Name*MobArena
+[23:48:03] [Server thread/INFO]: Popey456963 issued server command: /say SET A SPAWN TO YOUR PLACE USING /setwarp *Name*MobArena
+[23:48:03] [Server thread/INFO]: [Popey456963] SET A SPAWN TO YOUR PLACE USING /setwarp *Name*MobArena
+[23:48:03] [Server thread/INFO]: Popey456963 issued server command: /say SET A SPAWN TO YOUR PLACE USING /setwarp *Name*MobArena
+[23:48:03] [Server thread/INFO]: [Popey456963] SET A SPAWN TO YOUR PLACE USING /setwarp *Name*MobArena
+[23:48:04] [Server thread/INFO]: Popey456963 issued server command: /say SET A SPAWN TO YOUR PLACE USING /setwarp *Name*MobArena
+[23:48:04] [Server thread/INFO]: [Popey456963] SET A SPAWN TO YOUR PLACE USING /setwarp *Name*MobArena
+[23:48:05] [Server thread/INFO]: Popey456963 issued server command: /say SET A SPAWN TO YOUR PLACE USING /setwarp *Name*MobArena
+[23:48:05] [Server thread/INFO]: [Popey456963] SET A SPAWN TO YOUR PLACE USING /setwarp *Name*MobArena
+[23:48:06] [Server thread/INFO]: Popey456963 issued server command: /say SET A SPAWN TO YOUR PLACE USING /setwarp *Name*MobArena
+[23:48:06] [Server thread/INFO]: [Popey456963] SET A SPAWN TO YOUR PLACE USING /setwarp *Name*MobArena
+[23:48:07] [Server thread/INFO]: Popey456963 issued server command: /say SET A SPAWN TO YOUR PLACE USING /setwarp *Name*MobArena
+[23:48:07] [Server thread/INFO]: [Popey456963] SET A SPAWN TO YOUR PLACE USING /setwarp *Name*MobArena
+[23:48:21] [Server thread/INFO]: Popey456963 issued server command: /tp cru
+[23:48:30] [Server thread/INFO]: dev: [Dev] Chris, [Dev] Popey, [AFK][Dev] Twiixtor
+[23:48:30] [Server thread/INFO]: member: [Member] minelittleyoshi, [Member] Raichu3000
+[23:48:30] [Server thread/INFO]: regular: [Regular] Deniable_
+[23:49:05] [Server thread/INFO]: Popey456963 issued server command: /tp thunder
+[23:49:12] [Server thread/INFO]: Crustifer issued server command: //pos1
+[23:49:17] [Server thread/INFO]: dev: [Dev] Chris, [Dev] Popey, [AFK][Dev] Twiixtor
+[23:49:17] [Server thread/INFO]: member: [Member] minelittleyoshi, [Member] Raichu3000
+[23:49:17] [Server thread/INFO]: regular: [Regular] Deniable_
+[23:49:18] [Server thread/INFO]: Crustifer issued server command: //pos2
+[23:49:23] [Server thread/INFO]: Crustifer issued server command: //copy
+[23:49:30] [Server thread/INFO]: Crustifer issued server command: //paste
+[23:49:33] [Server thread/INFO]: Crustifer issued server command: //undo
+[23:49:34] [Server thread/INFO]: Crustifer issued server command: //undo
+[23:49:35] [Server thread/INFO]: [Dev] Popey: .//expand 20 up
+[23:49:36] [Server thread/INFO]: Crustifer issued server command: //flip
+[23:49:37] [Server thread/INFO]: Crustifer issued server command: //paste
+[23:49:43] [Server thread/INFO]: Crustifer issued server command: //undo
+[23:49:47] [Server thread/INFO]: [Dev] Popey: Pos 1 + Pos 2, then ^
+[23:49:47] [Server thread/INFO]: ThunderCS issued server command: //expand 20 up
+[23:49:48] [Server thread/INFO]: Crustifer issued server command: //paste
+[23:49:54] [Server thread/INFO]: Popey456963 issued server command: /tp 41
+[23:49:54] [Server thread/INFO]: ThunderCS issued server command: //expand
+[23:49:55] [Server thread/INFO]: Crustifer issued server command: //redo
+[23:49:56] [Server thread/INFO]: Crustifer issued server command: //redo
+[23:49:58] [Server thread/INFO]: Crustifer issued server command: //undo
+[23:50:03] [Server thread/INFO]: dev: [Dev] Chris, [Dev] Popey, [AFK][Dev] Twiixtor
+[23:50:03] [Server thread/INFO]: member: [Member] minelittleyoshi, [Member] Raichu3000
+[23:50:03] [Server thread/INFO]: regular: [Regular] Deniable_
+[23:50:04] [Server thread/INFO]: Crustifer issued server command: //replace 35:8 43:8
+[23:50:10] [Server thread/INFO]: ThunderCS issued server command: //expand 20 right
+[23:50:11] [Server thread/INFO]: Crustifer issued server command: //paste
+[23:50:19] [Server thread/INFO]: ThunderCS issued server command: //expand 20 west
+[23:50:24] [Server thread/INFO]: ThunderCS issued server command: //expand 20 east
+[23:50:28] [Server thread/INFO]: ThunderCS issued server command: //expand 20 north
+[23:50:31] [Server thread/INFO]: ThunderCS issued server command: //expand 20 north
+[23:50:44] [Server thread/INFO]: ThunderCS issued server command: //copy
+[23:50:50] [Server thread/INFO]: dev: [Dev] Chris, [Dev] Popey, [AFK][Dev] Twiixtor
+[23:50:50] [Server thread/INFO]: member: [Member] minelittleyoshi, [Member] Raichu3000
+[23:50:50] [Server thread/INFO]: regular: [Regular] Deniable_
+[23:50:54] [Server thread/INFO]: Crustifer issued server command: //replace 35:8 43:8
+[23:51:00] [Server thread/INFO]: Crustifer issued server command: //replace 35:8 43:8
+[23:51:18] [Server thread/INFO]: ThunderCS issued server command: //paste
+[23:51:20] [Server thread/INFO]: Popey456963 issued server command: /tp cru
+[23:51:27] [Server thread/INFO]: minelittleyoshi issued server command: /set survival twiixtor
+[23:51:30] [Server thread/INFO]: ThunderCS issued server command: //undo
+[23:51:36] [Server thread/INFO]: dev: [Dev] Chris, [Dev] Popey, [AFK][Dev] Twiixtor
+[23:51:36] [Server thread/INFO]: member: [Member] minelittleyoshi, [Member] Raichu3000
+[23:51:36] [Server thread/INFO]: regular: [Regular] Deniable_
+[23:51:43] [Server thread/INFO]: ThunderCS issued server command: //paste
+[23:51:56] [Server thread/INFO]: ThunderCS issued server command: //undo
+[23:52:02] [Server thread/INFO]: minelittleyoshi issued server command: /gamemode survival twiixtor
+[23:52:04] [Server thread/INFO]: Twiixtor fell from a high place
+[23:52:12] [Server thread/INFO]: [Dev] Popey: https://cloud.github.com/downloads/sk89q/worldedit/worldedit_ref_rev6.pdf
+[23:52:13] [Server thread/INFO]: [Dev] Popey: https://cloud.github.com/downloads/sk89q/worldedit/worldedit_ref_rev6.pdf
+[23:52:13] [Server thread/INFO]: [Dev] Popey: https://cloud.github.com/downloads/sk89q/worldedit/worldedit_ref_rev6.pdf
+[23:52:15] [Server thread/INFO]: Crustifer issued server command: //replace 35:8 43:8
+[23:52:23] [Server thread/INFO]: dev: [Dev] Chris, [Dev] Popey, [Dev] Twiixtor
+[23:52:23] [Server thread/INFO]: member: [Member] minelittleyoshi, [Member] Raichu3000
+[23:52:23] [Server thread/INFO]: regular: [Regular] Deniable_
+[23:52:43] [Server thread/INFO]: ThunderCS issued server command: //expand up 20
+[23:52:52] [Server thread/INFO]: ThunderCS issued server command: //expand 20 up
+[23:52:53] [Server thread/INFO]: Popey456963 issued server command: //expand 20
+[23:53:10] [Server thread/INFO]: dev: [Dev] Chris, [Dev] Popey, [Dev] Twiixtor
+[23:53:10] [Server thread/INFO]: member: [Member] minelittleyoshi, [Member] Raichu3000
+[23:53:10] [Server thread/INFO]: regular: [Regular] Deniable_
+[23:53:11] [Server thread/INFO]: Popey456963 issued server command: /speed
+[23:53:13] [Server thread/INFO]: Popey456963 issued server command: /speed 10
+[23:53:16] [Server thread/INFO]: ThunderCS issued server command: //expand 20 up
+[23:53:18] [Server thread/INFO]: 41sentury issued server command: //wand
+[23:53:20] [Server thread/INFO]: Popey456963 issued server command: /warp
+[23:53:21] [Server thread/INFO]: Crustifer issued server command: //pos1
+[23:53:27] [Server thread/INFO]: Crustifer issued server command: //pos2
+[23:53:28] [Server thread/INFO]: Crustifer issued server command: //pos2
+[23:53:30] [Server thread/INFO]: Crustifer issued server command: //replace 35:8 43:8
+[23:53:31] [Server thread/INFO]: ThunderCS issued server command: //expand pos
+[23:53:34] [Server thread/INFO]: Popey456963 issued server command: /say SET A SPAWN TO YOUR PLACE USING /setwarp *Name*MobArena
+[23:53:34] [Server thread/INFO]: [Popey456963] SET A SPAWN TO YOUR PLACE USING /setwarp *Name*MobArena
+[23:53:34] [Server thread/INFO]: Popey456963 issued server command: /say SET A SPAWN TO YOUR PLACE USING /setwarp *Name*MobArena
+[23:53:34] [Server thread/INFO]: [Popey456963] SET A SPAWN TO YOUR PLACE USING /setwarp *Name*MobArena
+[23:53:34] [Server thread/INFO]: Popey456963 issued server command: /say SET A SPAWN TO YOUR PLACE USING /setwarp *Name*MobArena
+[23:53:34] [Server thread/INFO]: [Popey456963] SET A SPAWN TO YOUR PLACE USING /setwarp *Name*MobArena
+[23:53:35] [Server thread/INFO]: Popey456963 issued server command: /say SET A SPAWN TO YOUR PLACE USING /setwarp *Name*MobArena
+[23:53:35] [Server thread/INFO]: [Popey456963] SET A SPAWN TO YOUR PLACE USING /setwarp *Name*MobArena
+[23:53:35] [Server thread/INFO]: Popey456963 issued server command: /say SET A SPAWN TO YOUR PLACE USING /setwarp *Name*MobArena
+[23:53:35] [Server thread/INFO]: [Popey456963] SET A SPAWN TO YOUR PLACE USING /setwarp *Name*MobArena
+[23:53:35] [Server thread/INFO]: Popey456963 issued server command: /say SET A SPAWN TO YOUR PLACE USING /setwarp *Name*MobArena
+[23:53:35] [Server thread/INFO]: [Popey456963] SET A SPAWN TO YOUR PLACE USING /setwarp *Name*MobArena
+[23:53:56] [Server thread/INFO]: dev: [Dev] Chris, [Dev] Popey, [Dev] Twiixtor
+[23:53:56] [Server thread/INFO]: member: [Member] minelittleyoshi, [Member] Raichu3000
+[23:53:56] [Server thread/INFO]: regular: [Regular] Deniable_
+[23:54:10] [Server thread/INFO]: Popey456963 issued server command: /tp hyp
+[23:54:11] [Server thread/INFO]: Popey456963 issued server command: /warp
+[23:54:15] [Server thread/INFO]: Crustifer issued server command: //pos1
+[23:54:17] [Server thread/INFO]: 41sentury issued server command: //set 49
+[23:54:20] [Server thread/INFO]: Crustifer issued server command: //pos2
+[23:54:22] [Server thread/INFO]: Crustifer issued server command: //move
+[23:54:26] [Server thread/INFO]: Deniable_ issued server command: /setwarp ThunderTNTRun
+[23:54:29] [Server thread/INFO]: Deniable_ issued server command: /warp
+[23:54:31] [Server thread/INFO]: 41sentury issued server command: //set 49
+[23:54:36] [Server thread/INFO]: Crustifer issued server command: //undo
+[23:54:38] [Server thread/INFO]: Deniable_ issued server command: /warp thundertntrun
+[23:54:43] [Server thread/INFO]: dev: [Dev] Chris, [Dev] Popey, [Dev] Twiixtor
+[23:54:43] [Server thread/INFO]: member: [Member] minelittleyoshi, [Member] Raichu3000
+[23:54:43] [Server thread/INFO]: regular: [Regular] Deniable_
+[23:54:48] [Server thread/INFO]: 41sentury issued server command: //set 49
+[23:54:56] [Server thread/INFO]: ThunderCS issued server command: //expand west
+[23:55:00] [Server thread/INFO]: ThunderCS issued server command: //expand 20 west
+[23:55:02] [Server thread/INFO]: 41sentury issued server command: //undo
+[23:55:04] [Server thread/INFO]: ThunderCS issued server command: //expand 20 east
+[23:55:06] [Server thread/INFO]: ThunderCS issued server command: //copy
+[23:55:08] [Server thread/INFO]: Deniable_ issued server command: //undo
+[23:55:22] [Server thread/INFO]: Deniable_ issued server command: //walls 10
+[23:55:26] [Server thread/INFO]: ThunderCS issued server command: //paste
+[23:55:37] [Server thread/INFO]: dev: [Dev] Chris, [Dev] Popey, [Dev] Twiixtor
+[23:55:37] [Server thread/INFO]: member: [Member] minelittleyoshi, [Member] Raichu3000
+[23:55:37] [Server thread/INFO]: regular: [Regular] Deniable_
+[23:55:38] [Server thread/INFO]: Popey456963 issued server command: /speed 1
+[23:55:38] [Server thread/INFO]: Deniable_ issued server command: //undo
+[23:55:38] [Server thread/INFO]: Popey456963 issued server command: /tp thunder
+[23:55:46] [Server thread/INFO]: Crustifer issued server command: //replace 35:8 43:8
+[23:55:53] [Server thread/INFO]: ThunderCS issued server command: //cut
+[23:55:54] [Server thread/INFO]: Popey456963 issued server command: /tp cru
+[23:56:16] [Server thread/INFO]: dev: [Dev] Chris, [Dev] Popey, [Dev] Twiixtor
+[23:56:16] [Server thread/INFO]: member: [Member] minelittleyoshi, [Member] Raichu3000
+[23:56:16] [Server thread/INFO]: regular: [Regular] Deniable_
+[23:56:22] [Server thread/INFO]: Crustifer issued server command: /move
+[23:56:24] [Server thread/INFO]: Crustifer issued server command: //move
+[23:56:32] [Server thread/INFO]: ThunderCS issued server command: //cut
+[23:56:46] [Server thread/INFO]: ThunderCS issued server command: //cut
+[23:56:47] [Server thread/INFO]: Crustifer issued server command: //move
+[23:57:02] [Server thread/INFO]: dev: [Dev] Chris, [Dev] Popey, [Dev] Twiixtor
+[23:57:02] [Server thread/INFO]: member: [Member] minelittleyoshi, [Member] Raichu3000
+[23:57:02] [Server thread/INFO]: regular: [Regular] Deniable_
+[23:57:35] [Server thread/INFO]: ThunderCS issued server command: //set dirt
+[23:57:49] [Server thread/INFO]: dev: [Dev] Chris, [Dev] Popey, [AFK][Dev] Twiixtor
+[23:57:49] [Server thread/INFO]: member: [Member] minelittleyoshi, [Member] Raichu3000
+[23:57:49] [Server thread/INFO]: regular: [Regular] Deniable_
+[23:57:56] [Server thread/INFO]: ThunderCS issued server command: //set dirt
+[23:57:59] [Server thread/INFO]: Crustifer issued server command: //move
+[23:58:02] [Server thread/INFO]: Crustifer issued server command: //move
+[23:58:25] [Server thread/INFO]: Crustifer issued server command: //pos1
+[23:58:30] [Server thread/INFO]: ThunderCS issued server command: //cut
+[23:58:31] [Server thread/INFO]: Crustifer issued server command: //pos2
+[23:58:32] [Server thread/INFO]: Crustifer issued server command: //copy
+[23:58:35] [Server thread/INFO]: dev: [Dev] Chris, [Dev] Popey, [AFK][Dev] Twiixtor
+[23:58:35] [Server thread/INFO]: member: [Member] minelittleyoshi, [Member] Raichu3000
+[23:58:35] [Server thread/INFO]: regular: [Regular] Deniable_
+[23:58:36] [Server thread/INFO]: minelittleyoshi issued server command: //set grass
+[23:58:38] [Server thread/INFO]: Crustifer issued server command: //flip
+[23:58:38] [Server thread/INFO]: ThunderCS issued server command: //cut
+[23:58:39] [Server thread/INFO]: Crustifer issued server command: //paste
+[23:58:45] [Server thread/INFO]: Crustifer issued server command: //undo
+[23:58:48] [Server thread/INFO]: ThunderCS issued server command: //cut
+[23:58:51] [Server thread/INFO]: Crustifer issued server command: //paste
+[23:58:57] [Server thread/INFO]: Crustifer issued server command: //undo
+[23:59:02] [Server thread/INFO]: Crustifer issued server command: //paste
+[23:59:11] [Server thread/INFO]: Crustifer issued server command: //undo
+[23:59:13] [Server thread/INFO]: Crustifer issued server command: //paste
+[23:59:22] [Server thread/INFO]: dev: [Dev] Chris, [Dev] Popey, [AFK][Dev] Twiixtor
+[23:59:22] [Server thread/INFO]: member: [Member] minelittleyoshi, [Member] Raichu3000
+[23:59:22] [Server thread/INFO]: regular: [Regular] Deniable_
+[23:59:23] [Server thread/INFO]: ThunderCS issued server command: //cut
+[23:59:27] [Server thread/INFO]: ThunderCS issued server command: //cut
+[23:59:40] [Server thread/INFO]: Popey456963 issued server command: //undo
+[23:59:52] [Server thread/INFO]: ThunderCS issued server command: //cut
+[23:59:53] [Server thread/INFO]: [Dev] Popey: Like, //set 1

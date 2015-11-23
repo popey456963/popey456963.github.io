@@ -1,0 +1,382 @@
+[17:51:15] [Server thread/INFO]: Twiixtor issued server command: /spawn
+[17:51:56] [Server thread/INFO]: Twiixtor issued server command: /i lever 1
+[18:01:33] [Server thread/INFO]: Twiixtor issued server command: /top
+[18:03:09] [Server thread/INFO]: Twiixtor issued server command: //cut
+[18:03:16] [Server thread/INFO]: Twiixtor issued server command: //undo
+[18:03:44] [Server thread/INFO]: Twiixtor issued server command: //cut
+[18:03:55] [Server thread/INFO]: Twiixtor issued server command: //paste
+[18:06:54] [Server thread/INFO]: Twiixtor issued server command: //cut
+[18:06:58] [Server thread/INFO]: Twiixtor issued server command: //paste
+[18:08:55] [Server thread/INFO]: Twiixtor issued server command: /i lever 1
+[18:10:17] [Server thread/INFO]: Twiixtor issued server command: /top
+[18:10:24] [Server thread/INFO]: Twiixtor issued server command: /descend
+[18:11:23] [Server thread/INFO]: Twiixtor issued server command: //replace 5:5 126:5
+[18:14:12] [Server thread/INFO]: Twiixtor issued server command: /i torch 1
+[18:14:16] [Server thread/INFO]: [PT] Twiixtor issued server command: //set 17
+[18:14:17] [Server thread/INFO]: [PT] Twiixtor issued server command: //set 17
+[18:14:19] [Server thread/INFO]: [PT] Twiixtor issued server command: //set 17
+[18:14:25] [Server thread/INFO]: Twiixtor issued server command: //undo
+[18:14:28] [Server thread/INFO]: Twiixtor issued server command: //undo
+[18:14:29] [Server thread/INFO]: Twiixtor issued server command: //undo
+[18:14:34] [Server thread/INFO]: Twiixtor issued server command: /powertool
+[18:14:38] [Server thread/INFO]: Twiixtor issued server command: /powertool all
+[18:14:41] [Server thread/INFO]: Twiixtor issued server command: /powertool
+[18:14:46] [Server thread/INFO]: Twiixtor issued server command: /powertools
+[18:14:48] [Server thread/INFO]: Twiixtor issued server command: /powertoolhelp
+[18:14:51] [Server thread/INFO]: Twiixtor issued server command: /help powertool
+[18:15:00] [Server thread/INFO]: Twiixtor issued server command: /powertooltoggle
+[18:15:05] [Netty Epoll Server IO #7/INFO]: <Crustifer> hello
+[18:15:08] [Netty Epoll Server IO #3/INFO]: <Twiixtor> hey
+[18:15:09] [Netty Epoll Server IO #7/INFO]: <Crustifer> maymay delivery
+[18:15:12] [Netty Epoll Server IO #7/INFO]: <Crustifer> ONE SMILING MAN
+[18:15:13] [Server thread/INFO]: Crustifer hit the ground too hard
+[18:15:15] [Server thread/INFO]: Crustifer left the game.
+[18:15:20] [Netty Epoll Server IO #3/INFO]: <Twiixtor> ._.
+[18:18:33] [Server thread/INFO]: Twiixtor issued server command: /top
+[18:19:17] [Netty Epoll Server IO #3/INFO]: <Twiixtor> Who are you
+[18:19:21] [Netty Epoll Server IO #10/INFO]: <Crustifer> CHRIS
+[18:19:22] [Netty Epoll Server IO #10/INFO]: <Crustifer> :)
+[18:19:24] [Netty Epoll Server IO #3/INFO]: <Twiixtor> Ahh
+[18:19:28] [Netty Epoll Server IO #3/INFO]: <Twiixtor> Hey man
+[18:19:39] [Netty Epoll Server IO #10/INFO]: <Crustifer> i like the colours
+[18:19:57] [Netty Epoll Server IO #3/INFO]: <Twiixtor> Ah well. I'm just building it for lulz
+[18:20:09] [Netty Epoll Server IO #10/INFO]: <Crustifer> lift plugin
+[18:20:11] [Netty Epoll Server IO #3/INFO]: <Twiixtor> Ya
+[18:20:14] [Netty Epoll Server IO #10/INFO]: <Crustifer> bridges too i presume?
+[18:20:18] [Netty Epoll Server IO #3/INFO]: <Twiixtor> Yup
+[18:20:26] [Netty Epoll Server IO #10/INFO]: <Crustifer> op ?
+[18:20:32] [Server thread/INFO]: Twiixtor issued server command: /op Crustifier
+[18:20:39] [Server thread/INFO]: Twiixtor issued server command: /op
+[18:20:41] [Server thread/INFO]: Twiixtor issued server command: /op Crustifer
+[18:20:41] [Server thread/INFO]: [Twiixtor: Opped Crustifer]
+[18:20:43] [Netty Epoll Server IO #10/INFO]: <Crustifer> ty
+[18:20:52] [Server thread/INFO]: Crustifer issued server command: /gamemode 1
+[18:20:53] [Netty Epoll Server IO #10/INFO]: <Crustifer> dw
+[18:21:10] [Netty Epoll Server IO #3/INFO]: <Twiixtor> I mean make regular people be able to use lifts :P
+[18:21:13] [Netty Epoll Server IO #10/INFO]: <Crustifer> ahh
+[18:21:21] [Netty Epoll Server IO #3/INFO]: <Twiixtor> You're OG liek. Trustable :P
+[18:21:31] [Netty Epoll Server IO #3/INFO]: <Twiixtor> Basically yeah
+[18:21:32] [Netty Epoll Server IO #10/INFO]: <Crustifer> doing all his perms
+[18:21:36] [Netty Epoll Server IO #3/INFO]: <Twiixtor> Me and Popey
+[18:21:41] [Netty Epoll Server IO #3/INFO]: <Twiixtor> are his little mc puppets
+[18:21:48] [Server thread/INFO]: Crustifer issued server command: /help
+[18:21:55] [Server thread/INFO]: Crustifer issued server command: /plugins
+[18:22:00] [Netty Epoll Server IO #10/INFO]: <Crustifer> essentials
+[18:22:05] [Server thread/INFO]: Twiixtor issued server command: /plugins
+[18:22:05] [Server thread/INFO]: Crustifer issued server command: /fireball
+[18:22:06] [Server thread/INFO]: Crustifer issued server command: /
+[18:22:19] [Server thread/INFO]: Crustifer issued server command: /bind fireball
+[18:22:21] [Server thread/INFO]: Crustifer issued server command: /bind
+[18:22:25] [Server thread/INFO]: Crustifer issued server command: /fireball
+[18:22:31] [Server thread/INFO]: Crustifer issued server command: /plugins
+[18:22:41] [Server thread/INFO]: Crustifer issued server command: /help essentials
+[18:22:46] [Netty Epoll Server IO #10/INFO]: <Crustifer> you know how to use worldedit?
+[18:22:51] [Netty Epoll Server IO #3/INFO]: <Twiixtor> Yah
+[18:23:01] [Netty Epoll Server IO #10/INFO]: <Crustifer> who's building spawn?
+[18:23:06] [Netty Epoll Server IO #10/INFO]: <Crustifer> will it be a community thing?
+[18:23:08] [Netty Epoll Server IO #10/INFO]: <Crustifer> or you and popey
+[18:23:19] [Netty Epoll Server IO #3/INFO]: <Twiixtor> No idea. We have just been introduced to the server yesterday xd
+[18:23:23] [Server thread/INFO]: Twiixtor issued server command: //expand vert
+[18:23:26] [Server thread/INFO]: Twiixtor issued server command: //replace leaves goldblock
+[18:23:34] [Server thread/INFO]: Twiixtor issued server command: //undo
+[18:23:45] [Netty Epoll Server IO #10/INFO]: <Crustifer> :D
+[18:23:51] [Server thread/INFO]: Twiixtor issued server command: //undo
+[18:24:00] [Netty Epoll Server IO #3/INFO]: <Twiixtor> Well it seems pretty darn good
+[18:24:07] [Netty Epoll Server IO #10/INFO]: <Crustifer> i think
+[18:24:09] [Netty Epoll Server IO #10/INFO]: <Crustifer> infinite players
+[18:24:10] [Netty Epoll Server IO #3/INFO]: <Twiixtor> It is :D
+[18:24:12] [Netty Epoll Server IO #10/INFO]: <Crustifer> 16gb of ram
+[18:24:44] [Netty Epoll Server IO #3/INFO]: <Twiixtor> ._.
+[18:24:54] [Server thread/INFO]: Crustifer issued server command: //pos1
+[18:25:04] [Server thread/INFO]: Crustifer issued server command: //pos1
+[18:25:13] [Server thread/INFO]: Crustifer issued server command: //pos2
+[18:25:18] [Server thread/INFO]: Crustifer issued server command: //replace birch,oak air
+[18:25:31] [Netty Epoll Server IO #10/INFO]: <Crustifer> can you install plugins?
+[18:25:34] [Netty Epoll Server IO #3/INFO]: <Twiixtor> Yup
+[18:25:41] [Netty Epoll Server IO #10/INFO]: <Crustifer> install voxel sniper
+[18:25:44] [Netty Epoll Server IO #10/INFO]: <Crustifer> it's like world edit
+[18:26:08] [Netty Epoll Server IO #10/INFO]: <Crustifer> world edit + voxel sniper is really useful
+[18:26:13] [Server thread/INFO]: Crustifer issued server command: /brush smooth
+[18:26:35] [Server thread/INFO]: Crustifer issued server command: //replace leaves air
+[18:26:59] [Netty Epoll Server IO #10/INFO]: <Crustifer> ./brush smooth
+[18:27:02] [Netty Epoll Server IO #3/INFO]: <Twiixtor> I havent world edited in a shit load of time
+[18:27:05] [Netty Epoll Server IO #10/INFO]: <Crustifer> with an item equiped
+[18:27:24] [Server thread/INFO]: Twiixtor issued server command: /powertool brush smooth
+[18:27:27] [Server thread/INFO]: [PT] Twiixtor issued server command: /brush smooth
+[18:27:27] [Server thread/INFO]: [PT] Twiixtor issued server command: /brush smooth
+[18:27:27] [Netty Epoll Server IO #10/INFO]: <Crustifer> you can do /brush sphere and /brush square aswell
+[18:27:27] [Server thread/INFO]: [PT] Twiixtor issued server command: /brush smooth
+[18:27:35] [Netty Epoll Server IO #10/INFO]: <Crustifer> like i said
+[18:27:40] [Netty Epoll Server IO #10/INFO]: <Crustifer> voxel sniper is the brush plugin
+[18:27:42] [Server thread/INFO]: Crustifer issued server command: //time 0
+[18:27:44] [Server thread/INFO]: Crustifer issued server command: //set time 0
+[18:27:45] [Server thread/INFO]: Twiixtor issued server command: /powertool
+[18:27:48] [Server thread/INFO]: Crustifer issued server command: /time set 0
+[18:27:53] [Netty Epoll Server IO #3/INFO]: <Twiixtor> Yeah I'm looking for it right meow
+[18:28:01] [Server thread/INFO]: Crustifer issued server command: //butcher
+[18:28:10] [Netty Epoll Server IO #10/INFO]: <Crustifer> butcher kills all mobs
+[18:28:12] [Server thread/INFO]: Crustifer issued server command: //killall
+[18:28:14] [Server thread/INFO]: Crustifer issued server command: //help
+[18:28:17] [Server thread/INFO]: Twiixtor issued server command: /butcher
+[18:28:23] [Server thread/INFO]: Crustifer issued server command: //help
+[18:28:24] [Server thread/INFO]: Twiixtor issued server command: /smite crust
+[18:28:25] [Server thread/INFO]: Crustifer issued server command: //help 2
+[18:28:28] [Netty Epoll Server IO #10/INFO]: <Crustifer> :(
+[18:28:31] [Netty Epoll Server IO #3/INFO]: <Twiixtor> :p
+[18:28:31] [Server thread/INFO]: Crustifer issued server command: //help 3
+[18:28:33] [Server thread/INFO]: Crustifer issued server command: //help 4
+[18:28:41] [Server thread/INFO]: Crustifer issued server command: //help 5
+[18:28:49] [Server thread/INFO]: Crustifer issued server command: //help 6
+[18:29:06] [Netty Epoll Server IO #10/INFO]: <Crustifer> fuck
+[18:29:08] [Server thread/INFO]: Crustifer issued server command: //undo
+[18:29:29] [Server thread/INFO]: Crustifer issued server command: //undo
+[18:29:48] [Netty Epoll Server IO #10/INFO]: <Crustifer> i thought i crashed the server by editing 54k blocks
+[18:29:53] [Netty Epoll Server IO #3/INFO]: <Twiixtor> Oh n1
+[18:29:53] [Netty Epoll Server IO #10/INFO]: <Crustifer> but the it handled it like butter
+[18:29:58] [Netty Epoll Server IO #10/INFO]: <Crustifer> this host is legit
+[18:30:01] [Netty Epoll Server IO #3/INFO]: <Twiixtor> lol nice
+[18:30:09] [Server thread/INFO]: Twiixtor issued server command: /raintnt
+[18:30:10] [Server thread/INFO]: Twiixtor issued server command: /surprise
+[18:30:13] [Server thread/INFO]: Twiixtor issued server command: /help
+[18:30:21] [Server thread/INFO]: Crustifer issued server command: //undo
+[18:30:34] [Server thread/INFO]: Twiixtor issued server command: //expand vert
+[18:30:48] [Server thread/INFO]: Crustifer issued server command: //undo
+[18:30:50] [Server thread/INFO]: Crustifer issued server command: //undo
+[18:30:56] [Server thread/INFO]: Crustifer issued server command: //undo
+[18:31:20] [Netty Epoll Server IO #3/INFO]: <Twiixtor> wtf are ya doin
+[18:31:31] [Netty Epoll Server IO #3/INFO]: <Twiixtor> Oooh
+[18:31:35] [Netty Epoll Server IO #3/INFO]: <Twiixtor> aight aight
+[18:31:46] [Server thread/INFO]: Crustifer issued server command: //cyl grass 9
+[18:32:03] [Server thread/INFO]: Crustifer issued server command: //set darkoak
+[18:32:07] [Server thread/INFO]: Crustifer issued server command: //set darkoakplanks
+[18:32:46] [Server thread/INFO]: CONSOLE: If you encounter any issues please use the /stop command to restart your server.
+[18:32:46] [Server thread/INFO]: [EssentialsProtect] Disabling EssentialsProtect vTeamCity
+[18:32:46] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn vTeamCity
+[18:32:46] [Server thread/INFO]: [Essentials] Disabling Essentials vTeamCity
+[18:32:46] [Server thread/INFO]: [CraftBook] Disabling CraftBook v3.9-SNAPSHOT
+[18:32:46] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1;no_git_id
+[18:32:46] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1;no_git_id
+[18:32:46] [Server thread/INFO]: [CraftBook] Loading CraftBook v3.9-SNAPSHOT
+[18:32:46] [Server thread/INFO]: [Essentials] Loading Essentials vTeamCity
+[18:32:46] [Server thread/INFO]: [VoxelSniper] Loading VoxelSniper v7.1.0
+[18:32:46] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn vTeamCity
+[18:32:46] [Server thread/INFO]: [EssentialsProtect] Loading EssentialsProtect vTeamCity
+[18:32:46] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1;no_git_id
+[18:32:47] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_8_R3 as the Bukkit adapter
+[18:32:47] [Server thread/INFO]: [CraftBook] Enabling CraftBook v3.9-SNAPSHOT
+[18:32:47] [Server thread/INFO]: [CraftBook] Successfully added 1 CommandItems!
+[18:32:47] [Server thread/INFO]: [CraftBook] Registered 3 custom recipes!
+[18:32:47] [Server thread/INFO]: [CraftBook] 462 chunk(s) for 3 world(s) processed (7ms elapsed)
+[18:32:47] [Server thread/INFO]: [Essentials] Enabling Essentials vTeamCity
+[18:32:47] [Server thread/INFO]: git-Bukkit-9935adc (MC: 1.8.8)
+[18:32:47] [Server thread/INFO]: 1.8.8-R0.1-SNAPSHOT
+[18:32:47] [Server thread/INFO]: Using locale en_GB
+[18:32:47] [Server thread/INFO]: Using locale en_GB
+[18:32:47] [Server thread/INFO]: [VoxelSniper] Enabling VoxelSniper v7.1.0
+[18:32:47] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn vTeamCity
+[18:32:47] [Server thread/INFO]: [EssentialsProtect] Enabling EssentialsProtect vTeamCity
+[18:32:47] [Server thread/INFO]: CONSOLE: Reload complete.
+[18:32:50] [Server thread/INFO]: Twiixtor issued server command: /plugins
+[18:32:55] [Netty Epoll Server IO #3/INFO]: <Twiixtor> K VoxelSniper is installed
+[18:33:05] [Server thread/INFO]: Crustifer issued server command: /refresh
+[18:33:11] [Netty Epoll Server IO #10/INFO]: <Crustifer> ye boiii
+[18:33:47] [Netty Epoll Server IO #3/INFO]: <Twiixtor> brb
+[18:33:48] [Server thread/INFO]: Twiixtor left the game.
+[18:34:12] [Server thread/INFO]: Crustifer issued server command: //set aire
+[18:35:33] [Server thread/INFO]: Crustifer issued server command: /flora
+[18:35:37] [Server thread/INFO]: Crustifer issued server command: /help
+[18:36:31] [Netty Epoll Server IO #12/INFO]: <Twiixtor> wtf are you doing now xd
+[18:36:51] [Server thread/INFO]: Crustifer issued server command: //bind flora
+[18:36:53] [Server thread/INFO]: Crustifer issued server command: //flora
+[18:37:03] [Server thread/INFO]: Crustifer issued server command: //flora
+[18:37:09] [Server thread/INFO]: Crustifer issued server command: /plugins
+[18:37:15] [Server thread/INFO]: Crustifer issued server command: /help voxelsniper
+[18:37:46] [Netty Epoll Server IO #10/INFO]: <Crustifer> or something else?
+[18:38:27] [Netty Epoll Server IO #12/INFO]: <Twiixtor> building dicks all over the place
+[18:38:45] [Netty Epoll Server IO #10/INFO]: <Crustifer> i think vanilla survival would be fun
+[18:39:12] [Netty Epoll Server IO #12/INFO]: <Twiixtor> I like semi-vanilla servers
+[18:39:24] [Netty Epoll Server IO #10/INFO]: <Crustifer> tbh if its just survival it would be nice for us to build the spawn in survival
+[18:39:32] [Netty Epoll Server IO #10/INFO]: <Crustifer> a nice little town
+[18:39:50] [Server thread/INFO]: Crustifer issued server command: /time set 0
+[18:39:55] [Server thread/INFO]: Crustifer issued server command: //butcher
+[18:40:20] [Netty Epoll Server IO #12/INFO]: <Twiixtor> But never had enough people who would want to help me. They would either get bored or tell me to fuc
+[18:40:22] [Netty Epoll Server IO #12/INFO]: <Twiixtor> fuck off xd
+[18:40:35] [Netty Epoll Server IO #10/INFO]: <Crustifer> yea
+[18:40:45] [Netty Epoll Server IO #10/INFO]: <Crustifer> but all they cared about was pvp
+[18:41:22] [Server thread/INFO]: Crustifer issued server command: //butcher
+[18:41:34] [Netty Epoll Server IO #12/INFO]: <Twiixtor> :/
+[18:41:54] [Netty Epoll Server IO #10/INFO]: <Crustifer> maybe
+[18:42:03] [Netty Epoll Server IO #10/INFO]: <Crustifer> maybe it'll become dramabreak instead
+[18:42:07] [Server thread/INFO]: Twiixtor issued server command: //repalce 5:3 5:2
+[18:42:12] [Server thread/INFO]: Twiixtor issued server command: //replace 5:3 5:2
+[18:42:58] [Netty Epoll Server IO #10/INFO]: <Crustifer> server gets shut down
+[18:43:02] [Netty Epoll Server IO #12/INFO]: <Twiixtor> Ah
+[18:43:37] [Netty Epoll Server IO #10/INFO]: <Crustifer> i expect system would go full ira
+[18:44:04] [Netty Epoll Server IO #12/INFO]: <Twiixtor> Typical system..
+[18:45:33] [Netty Epoll Server IO #10/INFO]: <Crustifer> symmetry :D
+[18:45:34] [Netty Epoll Server IO #10/INFO]: <Crustifer> brb
+[18:45:37] [Netty Epoll Server IO #12/INFO]: <Twiixtor> k
+[18:50:13] [Server thread/INFO]: Twiixtor issued server command: /time night
+[18:58:15] [Netty Epoll Server IO #12/INFO]: <Twiixtor> test
+[19:02:04] [Server thread/INFO]: Twiixtor issued server command: /afk
+[19:03:53] [Server thread/INFO]: CONSOLE: If you encounter any issues please use the /stop command to restart your server.
+[19:03:53] [Server thread/INFO]: [EssentialsProtect] Disabling EssentialsProtect vTeamCity
+[19:03:53] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn vTeamCity
+[19:03:53] [Server thread/INFO]: [VoxelSniper] Disabling VoxelSniper v7.1.0
+[19:03:53] [Server thread/INFO]: [Essentials] Disabling Essentials vTeamCity
+[19:03:53] [Server thread/INFO]: [CraftBook] Disabling CraftBook v3.9-SNAPSHOT
+[19:03:53] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1;no_git_id
+[19:03:53] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1;no_git_id
+[19:03:53] [Server thread/INFO]: [CraftBook] Loading CraftBook v3.9-SNAPSHOT
+[19:03:53] [Server thread/INFO]: [Essentials] Loading Essentials vTeamCity
+[19:03:53] [Server thread/INFO]: [VoxelSniper] Loading VoxelSniper v7.1.0
+[19:03:53] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn vTeamCity
+[19:03:53] [Server thread/INFO]: [EssentialsProtect] Loading EssentialsProtect vTeamCity
+[19:03:53] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1;no_git_id
+[19:03:53] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_8_R3 as the Bukkit adapter
+[19:03:53] [Server thread/INFO]: [CraftBook] Enabling CraftBook v3.9-SNAPSHOT
+[19:03:53] [Server thread/INFO]: [CraftBook] Successfully added 1 CommandItems!
+[19:03:53] [Server thread/INFO]: [CraftBook] Registered 3 custom recipes!
+[19:03:53] [Server thread/INFO]: [CraftBook] 482 chunk(s) for 3 world(s) processed (6ms elapsed)
+[19:03:53] [Server thread/INFO]: [Essentials] Enabling Essentials vTeamCity
+[19:03:53] [Server thread/INFO]: git-Bukkit-9935adc (MC: 1.8.8)
+[19:03:53] [Server thread/INFO]: 1.8.8-R0.1-SNAPSHOT
+[19:03:53] [Server thread/INFO]: Using locale en_GB
+[19:03:53] [Server thread/INFO]: Using locale en_GB
+[19:03:53] [Server thread/INFO]: [VoxelSniper] Enabling VoxelSniper v7.1.0
+[19:03:54] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn vTeamCity
+[19:03:54] [Server thread/INFO]: [EssentialsProtect] Enabling EssentialsProtect vTeamCity
+[19:03:54] [Server thread/INFO]: CONSOLE: Reload complete.
+[19:04:19] [Server thread/INFO]: Twiixtor issued server command: /i sign 1
+[19:04:32] [Server thread/INFO]: Twiixtor issued server command: /i slimeblock 1
+[19:06:57] [Server thread/INFO]: Twiixtor issued server command: /i torch 1
+[19:07:32] [Server thread/INFO]: Twiixtor issued server command: //set 0
+[19:08:56] [Server thread/INFO]: Twiixtor issued server command: //set wood
+[19:08:59] [Server thread/INFO]: Twiixtor issued server command: //set wood
+[19:09:02] [Server thread/INFO]: Twiixtor issued server command: //set wood
+[19:09:53] [Server thread/INFO]: Twiixtor issued server command: //set 4
+[19:10:17] [Server thread/INFO]: Twiixtor issued server command: //set 1
+[19:10:24] [Server thread/INFO]: Twiixtor issued server command: /i cake 1
+[19:10:37] [Server thread/INFO]: Twiixtor issued server command: /i fence 1
+[19:13:06] [Server thread/INFO]: Twiixtor issued server command: /butcher
+[19:13:14] [Server thread/INFO]: Twiixtor issued server command: /time day
+[19:13:16] [Server thread/INFO]: Twiixtor issued server command: /butcher
+[19:15:37] [Server thread/INFO]: Twiixtor issued server command: /afk
+[19:17:44] [Server thread/INFO]: Twiixtor issued server command: /afk
+[19:28:54] [Netty Epoll Server IO #10/INFO]: <Crustifer> twix
+[19:28:57] [Netty Epoll Server IO #10/INFO]: <Crustifer> u still there?
+[19:29:13] [Server thread/INFO]: Crustifer left the game.
+[19:31:56] [Server thread/INFO]: Twiixtor left the game.
+[20:13:26] [Server thread/INFO]: CONSOLE issued server command: /kick [AFK]Twiixtor
+[20:13:31] [Server thread/INFO]: CONSOLE issued server command: /kick [AFK]Twiixtor
+[20:13:34] [Server thread/INFO]: CONSOLE issued server command: /kick [AFK]Twiixtor
+[20:13:35] [Server thread/INFO]: CONSOLE issued server command: /kick [AFK]Twiixtor
+[20:14:28] [Server thread/INFO]: Popey456963 issued server command: /plugins
+[20:15:22] [Server thread/INFO]: Twiixtor issued server command: /tp pope
+[20:15:41] [Server thread/INFO]: Twiixtor issued server command: /kill pop
+[20:15:41] [Server thread/INFO]: Popey456963 died
+[20:15:46] [Server thread/INFO]: Twiixtor issued server command: /kill twii
+[20:15:46] [Server thread/INFO]: Twiixtor died
+[20:17:10] [Server thread/INFO]: Popey456963 fell from a high place
+[20:17:10] [Server thread/INFO]: Crustifer issued server command: /gamemode popey 1
+[20:17:18] [Server thread/INFO]: Crustifer issued server command: /gamemode 1 popey
+[20:17:19] [Server thread/INFO]: Popey456963 issued server command: /gamemode 0 crus
+[20:17:23] [Server thread/INFO]: Crustifer issued server command: /gamemode 1
+[20:19:16] [Server thread/INFO]: Twiixtor issued server command: //wand
+[20:19:55] [Server thread/INFO]: Popey456963 issued server command: /tp cru
+[20:20:04] [Server thread/INFO]: Popey456963 issued server command: /plugins
+[20:20:19] [Server thread/INFO]: Crustifer issued server command: //g -h glass sin(x*5)/2<y
+[20:20:44] [Server thread/INFO]: Twiixtor issued server command: /top
+[20:23:57] [Server thread/INFO]: Crustifer issued server command: //undo
+[20:25:24] [Server thread/INFO]: Crustifer issued server command: /gameflag/
+[20:25:26] [Server thread/INFO]: Crustifer issued server command: /help
+[20:26:30] [Server thread/INFO]: Popey456963 issued server command: /plugins
+[20:26:30] [Server thread/INFO]: Twiixtor issued server command: /spawn
+[20:26:33] [Netty Epoll Server IO #18/INFO]: <Popey456963> RELOADING
+[20:26:34] [Server thread/INFO]: Popey456963 issued server command: /reloadd
+[20:26:36] [Server thread/INFO]: Popey456963 issued server command: /reload
+[20:26:36] [Server thread/INFO]: Popey456963: If you encounter any issues please use the /stop command to restart your server.
+[20:26:36] [Server thread/INFO]: [EssentialsProtect] Disabling EssentialsProtect vTeamCity
+[20:26:36] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn vTeamCity
+[20:26:36] [Server thread/INFO]: [VoxelSniper] Disabling VoxelSniper v7.1.0
+[20:26:36] [Server thread/INFO]: [Essentials] Disabling Essentials vTeamCity
+[20:26:36] [Server thread/INFO]: [CraftBook] Disabling CraftBook v3.9-SNAPSHOT
+[20:26:36] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1;no_git_id
+[20:26:36] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1;no_git_id
+[20:26:36] [Server thread/INFO]: [CraftBook] Loading CraftBook v3.9-SNAPSHOT
+[20:26:36] [Server thread/INFO]: [Essentials] Loading Essentials vTeamCity
+[20:26:36] [Server thread/INFO]: [VoxelSniper] Loading VoxelSniper v7.1.0
+[20:26:36] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn vTeamCity
+[20:26:36] [Server thread/INFO]: [GroupManager] Loading GroupManager v2.1.31 (Phoenix)
+[20:26:36] [Server thread/INFO]: [EssentialsProtect] Loading EssentialsProtect vTeamCity
+[20:26:36] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1;no_git_id
+[20:26:36] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_8_R3 as the Bukkit adapter
+[20:26:36] [Server thread/INFO]: [CraftBook] Enabling CraftBook v3.9-SNAPSHOT
+[20:26:36] [Server thread/INFO]: [CraftBook] Successfully added 1 CommandItems!
+[20:26:36] [Server thread/INFO]: [CraftBook] Registered 3 custom recipes!
+[20:26:36] [Server thread/INFO]: [CraftBook] 1304 chunk(s) for 3 world(s) processed (9ms elapsed)
+[20:26:36] [Server thread/INFO]: [Essentials] Enabling Essentials vTeamCity
+[20:26:36] [Server thread/INFO]: git-Bukkit-9935adc (MC: 1.8.8)
+[20:26:36] [Server thread/INFO]: 1.8.8-R0.1-SNAPSHOT
+[20:26:36] [Server thread/INFO]: Using locale en_GB
+[20:26:36] [Server thread/INFO]: Using locale en_GB
+[20:26:36] [Server thread/INFO]: [VoxelSniper] Enabling VoxelSniper v7.1.0
+[20:26:36] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn vTeamCity
+[20:26:36] [Server thread/INFO]: [GroupManager] Enabling GroupManager v2.1.31 (Phoenix)
+[20:26:36] [Server thread/INFO]: GroupManager - INFO - World Found: test
+[20:26:36] [Server thread/INFO]: GroupManager - INFO - World Found: world
+[20:26:36] [Server thread/INFO]: GroupManager - INFO - Superperms support enabled.
+[20:26:37] [Server thread/INFO]: GroupManager - INFO - Backups will be retained for 24 hours!
+[20:26:37] [Server thread/INFO]: [EssentialsProtect] Enabling EssentialsProtect vTeamCity
+[20:26:37] [Server thread/INFO]: Popey456963: Reload complete.
+[20:26:39] [Server thread/INFO]: Popey456963 issued server command: /plugins
+[20:26:39] [Server thread/INFO]: Twiixtor issued server command: /plugins
+[20:26:41] [Server thread/INFO]: Popey456963 issued server command: /plugins
+[20:26:46] [Server thread/INFO]: Popey456963 issued server command: /gamemode 0
+[20:26:48] [Server thread/INFO]: Popey456963 issued server command: /gamemode 1
+[20:26:51] [Server thread/INFO]: Twiixtor issued server command: /gm 1
+[20:26:55] [Netty Epoll Server IO #18/INFO]: <Popey456963> Test
+[20:27:00] [Netty Epoll Server IO #20/INFO]: <Twiixtor> its test spawn anyway
+[20:27:01] [Netty Epoll Server IO #22/INFO]: <Crustifer> memes
+[20:27:02] [Netty Epoll Server IO #20/INFO]: <Twiixtor> was bored
+[20:27:09] [Netty Epoll Server IO #18/INFO]: <Popey456963> lmao, it's nice.
+[20:27:13] [Netty Epoll Server IO #18/INFO]: <Popey456963> Gotta get holosigns though
+[20:27:31] [Server thread/INFO]: Crustifer issued server command: /tp popey
+[20:28:06] [Server thread/INFO]: Popey456963 issued server command: /plugins
+[20:28:25] [Server thread/INFO]: Popey456963 issued server command: /kit
+[20:28:27] [Server thread/INFO]: Twiixtor issued server command: /gm 0
+[20:28:48] [Server thread/INFO]: Popey456963 issued server command: /gamemode 0
+[20:28:59] [Server thread/INFO]: Popey456963 fell from a high place
+[20:29:07] [Netty Epoll Server IO #22/INFO]: <Crustifer> :)
+[20:29:23] [Server thread/INFO]: Popey456963 was slain by Twiixtor
+[20:29:31] [Server thread/INFO]: Popey456963 issued server command: /gamemode 0 twiix
+[20:29:36] [Server thread/INFO]: Twiixtor fell from a high place
+[20:29:50] [Server thread/INFO]: Popey456963 issued server command: /gamemode 1
+[20:29:56] [Server thread/INFO]: Twiixtor issued server command: /gm 1
+[20:29:58] [Netty Epoll Server IO #18/INFO]: <Popey456963> Is this test or world?
+[20:30:58] [Server thread/INFO]: Twiixtor issued server command: /gm 0
+[20:31:14] [Server thread/INFO]: Twiixtor fell from a high place
+[20:32:24] [Server thread/INFO]: Crustifer left the game.
+[20:32:32] [Server thread/INFO]: Popey456963 issued server command: /manadd
+[20:32:43] [Server thread/INFO]: Twiixtor fell from a high place
+[20:32:52] [Server thread/INFO]: Twiixtor fell from a high place
+[20:32:57] [Server thread/INFO]: Twiixtor issued server command: /gm 1
+[20:33:04] [Server thread/INFO]: Twiixtor issued server command: //wand
+[20:33:09] [Server thread/INFO]: Popey456963 issued server command: /man
+[20:33:17] [Server thread/INFO]: Popey456963 issued server command: /groupmanager
+[20:33:20] [Server thread/INFO]: Popey456963 issued server command: /man
+[20:33:21] [Server thread/INFO]: Popey456963 issued server command: /plugins
+[20:33:24] [Server thread/INFO]: Twiixtor issued server command: /i slimeblock 1
+[20:33:28] [Netty Epoll Server IO #18/INFO]: <Popey456963> RESTARTING TO FIX SOME ISSUES
+[20:33:31] [Netty Epoll Server IO #18/INFO]: <Popey456963> COMING BACK SOON
+[20:34:03] [Server thread/INFO]: Twiixtor issued server command: /top
+[20:34:10] [Server thread/INFO]: Stopping the server
+[20:34:10] [Server thread/INFO]: Stopping server
+[20:34:10] [Server thread/INFO]: [EssentialsProtect] Disabling EssentialsProtect vTeamCity
+[20:34:10] [Server thread/INFO]: [GroupManager] Disabling GroupManager v2.1.31 (Phoenix)
+[20:34:10] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn vTeamCity
+[20:34:10] [Server thread/INFO]: [VoxelSniper] Disabling VoxelSniper v7.1.0
+[20:34:10] [Server thread/INFO]: [Essentials] Disabling Essentials vTeamCity
+[20:34:10] [Server thread/INFO]: [CraftBook] Disabling CraftBook v3.9-SNAPSHOT
+[20:34:10] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1;no_git_id
+[20:34:10] [Server thread/INFO]: Twiixtor left the game.

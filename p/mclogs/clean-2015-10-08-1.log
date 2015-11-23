@@ -1,0 +1,35 @@
+[00:49:41] [Server thread/INFO]: Stopping the server
+[00:49:41] [Server thread/INFO]: Stopping server
+[00:49:41] [Server thread/INFO]: [CraftBook] Disabling CraftBook v3.9-SNAPSHOT
+[00:49:41] [Server thread/INFO]: [OnTime] Disabling OnTime v4.1.3
+[00:49:41] [Server thread/INFO]: [EpicSpleef] Disabling EpicSpleef v0.0.19
+[00:49:41] [Server thread/INFO]: [SkyWars] Disabling SkyWars v1.1-m16
+[00:49:41] [Server thread/INFO]: [Multiverse-Core] World 'island-0' was unloaded from memory.
+[00:49:41] [Server thread/INFO]: [Multiverse-Core] World island-0 was DELETED.
+[00:49:41] [Server thread/INFO]: [CommandSigns] Disabling CommandSigns v1.9.3.2
+[00:49:41] [Server thread/INFO]: [HolographicDisplays] Disabling HolographicDisplays v2.1.10
+[00:49:41] [Server thread/INFO]: [TNTRun] Disabling TNTRun v3.4
+[00:49:41] [Server thread/INFO]: [MobArena] Disabling MobArena v0.97.1
+[00:49:41] [Server thread/INFO]: [MobArena] disabled.
+[00:49:41] [Server thread/INFO]: [Minigames] Disabling Minigames v1.7.0
+[00:49:41] [Server thread/INFO]: Minigames successfully disabled.
+[00:49:41] [Server thread/INFO]: [MinigamesLib] Disabling MinigamesLib v1.13.1
+[00:49:41] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn vTeamCity
+[00:49:41] [Server thread/INFO]: [Vault] Disabling Vault v1.5.6-b49
+[00:49:41] [Server thread/INFO]: [Multiverse-Portals] Disabling Multiverse-Portals v2.4-b548
+[00:49:41] [Server thread/INFO]: [SuperVanish] Disabling SuperVanish v5.4.3
+[00:49:41] [Server thread/INFO]: [Multiverse-NetherPortals] Disabling Multiverse-NetherPortals v2.4-b530
+[00:49:41] [Server thread/INFO]: [MultiVerse-NetherPortals] - Disabled
+[00:49:41] [Server thread/INFO]: [mcMMO] Disabling mcMMO v1.5.00-b3547
+[00:49:44] [Server thread/INFO]: [VoxelSniper] Disabling VoxelSniper v7.1.0
+[00:49:44] [Server thread/INFO]: [EssentialsProtect] Disabling EssentialsProtect vTeamCity
+[00:49:44] [Server thread/INFO]: [Splegg] Disabling Splegg v1.2
+[00:49:44] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v2.4-b527
+[00:49:44] [Server thread/INFO]: [Multiverse-Core] - Disabled
+[00:49:44] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v6.1
+[00:49:44] [Server thread/INFO]: [WorldGuard] Shutting down executor and waiting for any pending tasks...
+[00:49:44] [Server thread/INFO]: [LaggRemover] Disabling LaggRemover v0.1.8
+[00:49:44] [Server thread/INFO]: [LaggRemover] LaggRemover has been disabled!
+[00:49:44] [Server thread/INFO]: [PlugMan] Disabling PlugMan v2.0.7
+[00:49:44] [Server thread/INFO]: [Essentials] Disabling Essentials vTeamCity
+[00:49:44] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1;no_git_id

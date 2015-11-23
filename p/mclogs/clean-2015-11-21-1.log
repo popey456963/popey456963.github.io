@@ -1,0 +1,120 @@
+[00:00:33] [Server thread/INFO]: Staff: [Admin] UnSeen, [Senior Mod] Gunstar
+[00:00:33] [Server thread/INFO]: Developers: [Dev] Popey
+[00:01:27] [Server thread/INFO]: Staff: [Admin] UnSeen, [Senior Mod] Gunstar
+[00:01:27] [Server thread/INFO]: Developers: [Dev] Popey
+[00:02:22] [Server thread/INFO]: Staff: [Admin] UnSeen, [Senior Mod] Gunstar
+[00:02:22] [Server thread/INFO]: Developers: [Dev] Popey
+[00:03:16] [Server thread/INFO]: Staff: [Admin] UnSeen, [Senior Mod] Gunstar
+[00:03:16] [Server thread/INFO]: Developers: [Dev] Popey
+[00:04:11] [Server thread/INFO]: Staff: [Admin] UnSeen, [Senior Mod] Gunstar
+[00:04:11] [Server thread/INFO]: Developers: [Dev] Popey
+[00:05:05] [Server thread/INFO]: Staff: [Admin] UnSeen, [Senior Mod] Gunstar
+[00:05:05] [Server thread/INFO]: Developers: [Dev] Popey
+[00:06:00] [Server thread/INFO]: Staff: [Admin] UnSeen, [Senior Mod] Gunstar
+[00:06:00] [Server thread/INFO]: Developers: [Dev] Popey
+[00:06:10] [Server thread/INFO]: Popey456963 issued server command: /rules
+[00:06:54] [Server thread/INFO]: Staff: [Admin] UnSeen, [Senior Mod] Gunstar
+[00:06:54] [Server thread/INFO]: Developers: [Dev] Popey
+[00:07:48] [Server thread/INFO]: Staff: [Admin] UnSeen, [Senior Mod] Gunstar
+[00:07:48] [Server thread/INFO]: Developers: [Dev] Popey
+[00:08:43] [Server thread/INFO]: Staff: [Admin] UnSeen, [Senior Mod] Gunstar
+[00:08:43] [Server thread/INFO]: Developers: [Dev] Popey
+[00:08:54] [Server thread/INFO]: Gunstar issued server command: /mute popey
+[00:09:03] [Server thread/INFO]: Gunstar issued server command: /mute gunstar
+[00:09:37] [Server thread/INFO]: Staff: [Admin] UnSeen, [Senior Mod] Gunstar
+[00:09:37] [Server thread/INFO]: Developers: [Dev] Popey
+[00:10:32] [Server thread/INFO]: Staff: [Admin] UnSeen, [Senior Mod] Gunstar
+[00:10:32] [Server thread/INFO]: Developers: [Dev] Popey
+[00:10:42] [Server thread/INFO]: Popey456963 issued server command: /kick gunst
+[00:10:51] [Server thread/INFO]: Popey456963 issued server command: /gamemode 0 Gunstar
+[00:11:00] [Server thread/INFO]: Gunstar issued server command: /gamemode 1
+[00:11:02] [Server thread/INFO]: CONSOLE issued server command: /kick Gunstar =(
+[00:11:02] [Server thread/INFO]: Gunstar left the game.
+[00:11:26] [Server thread/INFO]: Staff: [Admin] UnSeen, [Senior Mod] Gunstar
+[00:11:26] [Server thread/INFO]: Developers: [Dev] Popey
+[00:11:55] [Netty Epoll Server IO #13/INFO]: [Senior Mod] Gunstar: no
+[00:12:15] [Server thread/INFO]: Gunstar issued server command: /fly speed 100
+[00:12:18] [Server thread/INFO]: Gunstar issued server command: /speed 100
+[00:12:21] [Server thread/INFO]: Staff: [Admin] UnSeen, [Senior Mod] Gunstar
+[00:12:21] [Server thread/INFO]: Developers: [Dev] Popey
+[00:12:46] [Netty Epoll Server IO #3/INFO]: [Dev] Popey: It seems to have got bigger than the server.
+[00:12:57] [Server thread/INFO]: Popey456963 issued server command: /gamemode 0 Popey456963
+[00:12:58] [Server thread/INFO]: Popey456963 issued server command: /god
+[00:12:59] [Server thread/INFO]: Popey456963 issued server command: /god
+[00:13:04] [Server thread/INFO]: Popey456963 issued server command: /spleef join simple
+[00:13:07] [Netty Epoll Server IO #3/INFO]: [Dev] Popey: ./spleef join simple
+[00:13:12] [Netty Epoll Server IO #7/INFO]: [Admin] UnSeen: MEMEMEMEMEMEMEMEMMEMEMEMEMEMMEMEME
+[00:13:13] [Server thread/INFO]: Gunstar issued server command: /spleef join
+[00:13:15] [Server thread/INFO]: Staff: [Admin] UnSeen, [Senior Mod] Gunstar
+[00:13:15] [Server thread/INFO]: Developers: [Dev] Popey
+[00:13:16] [Netty Epoll Server IO #7/INFO]: [Admin] UnSeen: s
+[00:13:17] [Server thread/INFO]: Gunstar issued server command: /spleef join 1
+[00:13:19] [Server thread/INFO]: Popey456963 issued server command: /mute UnSeen
+[00:13:23] [Server thread/INFO]: Gunstar issued server command: /spleef join simple
+[00:13:23] [Server thread/INFO]: AttrebusMede issued server command: /spleef join simple
+[00:14:10] [Server thread/INFO]: Staff: [Admin] UnSeen, [Senior Mod] Gunstar
+[00:14:10] [Server thread/INFO]: Developers: [Dev] Popey
+[00:15:04] [Server thread/INFO]: Staff: [Admin] UnSeen, [Senior Mod] Gunstar
+[00:15:04] [Server thread/INFO]: Developers: [Dev] Popey
+[00:15:26] [Server thread/INFO]: Popey456963 issued server command: /spleef join
+[00:15:29] [Server thread/INFO]: Popey456963 issued server command: /spleef flag simple
+[00:15:47] [Server thread/INFO]: Popey456963 issued server command: /spleef flag simple bowspleef
+[00:15:51] [Server thread/INFO]: Popey456963 issued server command: /spleef flag simple bowspleef 0
+[00:15:52] [Server thread/INFO]: Popey456963 issued server command: /spleef flag simple bowspleef 0
+[00:15:57] [Server thread/INFO]: Popey456963 issued server command: /spleef flag simple splegg 0
+[00:15:58] [Server thread/INFO]: Staff: [Admin] UnSeen, [Senior Mod] Gunstar
+[00:15:58] [Server thread/INFO]: Developers: [Dev] Popey
+[00:16:15] [Server thread/INFO]: Popey456963 issued server command: /spleef flag simple snowballs 0
+[00:16:20] [Server thread/INFO]: Popey456963 issued server command: /spleef flag simple snowballs 5
+[00:16:21] [Server thread/INFO]: Popey456963 issued server command: /spleef flag simple snowballs 10
+[00:16:24] [Server thread/INFO]: Popey456963 issued server command: /spleef flag simple splegg 0
+[00:16:32] [Server thread/INFO]: Popey456963 issued server command: /spleef regen
+[00:16:35] [Server thread/INFO]: Popey456963 issued server command: /spleef help
+[00:16:53] [Server thread/INFO]: Staff: [Admin] UnSeen, [Senior Mod] Gunstar
+[00:16:53] [Server thread/INFO]: Developers: [Dev] Popey
+[00:17:17] [Server thread/INFO]: Popey456963 issued server command: /credits
+[00:17:26] [Server thread/INFO]: Popey456963 issued server command: /baltop
+[00:17:33] [Netty Epoll Server IO #3/INFO]: [Dev] Popey: ./baltop
+[00:17:44] [Server thread/INFO]: Gunstar issued server command: /baltop
+[00:17:45] [Server thread/INFO]: AttrebusMede issued server command: /baltopo
+[00:17:47] [Server thread/INFO]: AttrebusMede issued server command: /baltop
+[00:17:47] [Server thread/INFO]: Staff: [Admin] UnSeen, [Senior Mod] Gunstar
+[00:17:47] [Server thread/INFO]: Developers: [Dev] Popey
+[00:18:13] [Netty Epoll Server IO #3/INFO]: [Dev] Popey: ./sell
+[00:18:15] [Server thread/INFO]: Popey456963 issued server command: /sell
+[00:18:16] [Server thread/INFO]: Gunstar issued server command: /sell
+[00:18:16] [Server thread/INFO]: AttrebusMede issued server command: /sell
+[00:18:42] [Server thread/INFO]: Staff: [Admin] UnSeen, [Senior Mod] Gunstar
+[00:18:42] [Server thread/INFO]: Developers: [Dev] Popey
+[00:18:45] [Server thread/INFO]: AttrebusMede issued server command: /sell
+[00:18:55] [Server thread/INFO]: AttrebusMede issued server command: /sell 64
+[00:19:32] [Server thread/INFO]: Popey456963 issued server command: /spleef reload
+[00:19:36] [Server thread/INFO]: Staff: [Admin] UnSeen, [Senior Mod] Gunstar
+[00:19:36] [Server thread/INFO]: Developers: [Dev] Popey
+[00:19:44] [Server thread/INFO]: Stopping the server
+[00:19:44] [Server thread/INFO]: Stopping server
+[00:19:44] [Server thread/INFO]: [TouchscreenHolograms] Disabling TouchscreenHolograms v1.3
+[00:19:44] [Server thread/INFO]: [HolographicDisplays] Disabling HolographicDisplays v2.1.10
+[00:19:44] [Server thread/INFO]: [MobArena] Disabling MobArena v0.97.1
+[00:19:44] [Server thread/INFO]: [MobArena] disabled.
+[00:19:44] [Server thread/INFO]: [HeavySpleef] Disabling HeavySpleef v2.1.1
+[00:19:44] [Server thread/INFO]: [EssentialsProtect] Disabling EssentialsProtect vTeamCity
+[00:19:44] [Server thread/INFO]: [OnTime] Disabling OnTime v4.1.3
+[00:19:44] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v6.1
+[00:19:44] [Server thread/INFO]: [WorldGuard] Shutting down executor and waiting for any pending tasks...
+[00:19:44] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v3.6.4
+[00:19:44] [Server thread/INFO]: [MassiveCore] Disabling MassiveCore v2.8.0
+[00:19:44] [Server thread/INFO]: [MassiveCore 2.8.0] Disabled
+[00:19:44] [Server thread/INFO]: [LaggRemover] Disabling LaggRemover v0.1.9
+[00:19:44] [Server thread/INFO]: [LaggRemover] LaggRemover has been disabled!
+[00:19:44] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn vTeamCity
+[00:19:44] [Server thread/INFO]: [CommandSigns] Disabling CommandSigns v1.9.3.2
+[00:19:44] [Server thread/INFO]: [Vault] Disabling Vault v1.5.6-b49
+[00:19:44] [Server thread/INFO]: [Random_Spawn] Disabling Random_Spawn v2.6
+[00:19:44] [Server thread/INFO]: [mcMMO] Disabling mcMMO v1.5.00-b3547
+[00:19:46] [Server thread/INFO]: [Essentials] Disabling Essentials vTeamCity
+[00:19:46] [Server thread/INFO]: [Announcement] Disabling Announcement v1.0.3
+[00:19:46] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1;no_git_id
+[00:19:46] [Server thread/INFO]: [CoreProtect] Disabling CoreProtect v2.12.0
+[00:19:47] [Server thread/INFO]: Popey456963 left the game.
+[00:19:47] [Server thread/INFO]: Gunstar left the game.

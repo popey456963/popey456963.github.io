@@ -1,0 +1,199 @@
+[19:28:47] [main/INFO]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[19:28:48] [Server thread/INFO]: MinecraftForge v10.13.4.1448 Initialized
+[19:28:48] [Server thread/INFO]: Replaced 183 ore recipies
+[19:28:49] [Server thread/INFO]: Found 0 mods from the command line. Injecting into mod discoverer
+[19:28:49] [Server thread/INFO]: Searching /home/minecraft/multicraft/servers/server7450/mods for mods
+[19:28:49] [Server thread/INFO]: Also searching /home/minecraft/multicraft/servers/server7450/mods/1.7.10 for mods
+[19:28:50] [Server thread/INFO]: Forge Mod Loader has identified 37 mods to load
+[19:28:51] [Server thread/INFO]: Preparing to take over the world
+[19:28:52] [Server thread/INFO]: Designs found: Bed(6), Chisel(9), FlowerPot(18), Tile(13)
+[19:28:52] [Server thread/INFO]: Mantle (1.7.10-0.3.2.jenkins184) -- Preparing for launch.
+[19:28:52] [Server thread/INFO]: Gear module active. Adding gear cast.
+[19:28:52] [Server thread/INFO]: Twilight Forest Detected
+[19:28:52] [Server thread/INFO]: Thaumcraft Detected
+[19:28:54] [Server thread/INFO]: Applying holder lookups
+[19:28:54] [Server thread/INFO]: Holder lookups applied
+[19:28:54] [Server thread/INFO]: Injecting itemstacks
+[19:28:54] [Server thread/INFO]: Loading properties
+[19:28:54] [Server thread/INFO]: Default game type: SURVIVAL
+[19:28:54] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[19:28:54] [Server thread/INFO]: Using 4 threads for Netty based IO
+[19:28:55] [Server thread/INFO]: Thaumcraft detected. Registering harvestables.
+[19:28:55] [Server thread/INFO]: InfernalMobsCore load() completed! Modifiers ready: 27
+[19:28:55] [Server thread/INFO]: Injecting itemstacks
+[19:28:55] [Server thread/INFO]: ## Chest items register ##
+[19:28:55] [Server thread/INFO]: Loading Manual XML from: /assets/mantle/manuals/test.xml
+[19:28:55] [Server thread/INFO]: Thaumcraft detected. Adding thaumium tools.
+[19:28:55] [Server thread/INFO]: item.apple0: 15: 1: 3
+[19:28:55] [Server thread/INFO]: item.appleGold0: 1: 1: 1
+[19:28:55] [Server thread/INFO]: item.arrow0: 30: 2: 7
+[19:28:55] [Server thread/INFO]: item.book0: 20: 1: 3
+[19:28:55] [Server thread/INFO]: item.bread0: 14: 1: 1
+[19:28:55] [Server thread/INFO]: item.bucket0: 10: 1: 1
+[19:28:55] [Server thread/INFO]: item.coal0: 10: 3: 8
+[19:28:55] [Server thread/INFO]: item.compass0: 1: 1: 1
+[19:28:55] [Server thread/INFO]: item.dyePowder.blue4: 5: 4: 9
+[19:28:55] [Server thread/INFO]: item.emerald0: 2: 1: 3
+[19:28:55] [Server thread/INFO]: item.emptyMap0: 1: 1: 1
+[19:28:55] [Server thread/INFO]: item.enchantedBook0: 1: 1: 1
+[19:28:55] [Server thread/INFO]: item.enderPearl0: 10: 1: 1
+[19:28:55] [Server thread/INFO]: item.horsearmorgold0: 1: 1: 1
+[19:28:55] [Server thread/INFO]: item.horsearmormetal0: 1: 1: 1
+[19:28:55] [Server thread/INFO]: item.ingotGold0: 5: 1: 3
+[19:28:55] [Server thread/INFO]: item.nameTag0: 10: 1: 1
+[19:28:55] [Server thread/INFO]: item.paper0: 20: 2: 7
+[19:28:55] [Server thread/INFO]: item.record0: 10: 1: 1
+[19:28:55] [Server thread/INFO]: item.rottenFlesh0: 16: 3: 7
+[19:28:55] [Server thread/INFO]: item.saddle0: 2: 1: 1
+[19:28:55] [Server thread/INFO]: item.seeds_pumpkin0: 10: 2: 4
+[19:28:55] [Server thread/INFO]: item.string0: 10: 1: 4
+[19:28:55] [Server thread/INFO]: item.sulphur0: 10: 1: 4
+[19:28:55] [Server thread/INFO]: tile.obsidian0: 5: 3: 7
+[19:28:55] [Server thread/INFO]: tile.rail0: 1: 4: 8
+[19:28:55] [Server thread/INFO]: tile.sapling.oak0: 5: 3: 7
+[19:28:55] [Server thread/INFO]: Total Weight: 375
+[19:28:55] [Server thread/INFO]: TwilightForestMod mod found.
+[19:28:55] [Server thread/INFO]: Success in registering ThaumicTinkerer
+[19:28:56] [Server thread/INFO]: Forge Mod Loader has successfully loaded 37 mods
+[19:28:56] [Server thread/INFO]: Applying holder lookups
+[19:28:56] [Server thread/INFO]: Holder lookups applied
+[19:28:57] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v5.6.3
+[19:28:57] [Server thread/INFO]: [Essentials] Loading Essentials v2.12.2
+[19:28:57] [Server thread/INFO]: [EssentialsProtect] Loading EssentialsProtect v2.12.2
+[19:28:57] [Server thread/INFO]: [ModReq] Loading ModReq v2.4.1
+[19:28:57] [Server thread/INFO]: [EssentialsGeoIP] Loading EssentialsGeoIP v2.12.2
+[19:28:57] [Server thread/INFO]: [ClearLag] Loading ClearLag v2.8.2
+[19:28:57] [Server thread/INFO]: [EssentialsAntiBuild] Loading EssentialsAntiBuild v2.12.2
+[19:28:57] [Server thread/INFO]: [AutoMessage] Loading AutoMessage v2.4.0
+[19:28:57] [Server thread/INFO]: [Modifyworld] Loading Modifyworld v1.19.7
+[19:28:57] [Server thread/INFO]: [mcMMO] Loading mcMMO v1.5.00-b3547
+[19:28:57] [Server thread/INFO]: [WorldBorder] Loading WorldBorder v1.7.9
+[19:28:57] [Server thread/INFO]: [Vault] Loading Vault v1.2.31-b411
+[19:28:57] [Server thread/INFO]: [CommandBook] Loading CommandBook v2.4:1692-75bb1c8,master
+[19:28:57] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v6.0.0-beta-03.1514-
+[19:28:57] [Server thread/INFO]: [MassiveCore] Loading MassiveCore v7.4.0
+[19:28:57] [Server thread/INFO]: [EpicQuest] Loading EpicQuest v3.5.4
+[19:28:57] [Server thread/INFO]: [EssentialsXMPP] Loading EssentialsXMPP v2.12.2
+[19:28:57] [Server thread/INFO]: [HeroBounty] Loading HeroBounty v1.9.5
+[19:28:57] [Server thread/INFO]: [mcMMO] Enabling mcMMO v1.5.00-b3547
+[19:28:59] [Server thread/INFO]: [Vault] Enabling Vault v1.2.31-b411
+[19:29:00] [Server thread/INFO]: [MassiveCore] Enabling MassiveCore v7.4.0
+[19:29:00] [Server thread/INFO]: [MassiveCore 7.4.0] === ENABLE START ===
+[19:29:00] [Server thread/INFO]: [MassiveCore 7.4.0] Player Strings Found: 0
+[19:29:00] [Server thread/INFO]: [MassiveCore 7.4.0] Player Strings Cached: 0
+[19:29:00] [Server thread/INFO]: [MassiveCore 7.4.0] Player Strings Remaining: 0
+[19:29:00] [Server thread/INFO]: [MassiveCore 7.4.0] Now fetching the remaining players from Mojang API ...
+[19:29:00] [Server thread/INFO]: [MassiveCore 7.4.0] Setup of IdUtil took 18ms.
+[19:29:00] [Server thread/INFO]: [MassiveCore 7.4.0] === ENABLE COMPLETE (Took 293ms) ===
+[19:29:01] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v5.6.3
+[19:29:01] [Server thread/INFO]: [Essentials] Enabling Essentials v2.12.2
+[19:29:01] [Server thread/INFO]: 1.7.10-1448.127 (MC: 1.7.10)
+[19:29:01] [Server thread/INFO]: 1.7.10-R0.1-SNAPSHOT
+[19:29:02] [Server thread/INFO]: [EssentialsProtect] Enabling EssentialsProtect v2.12.2
+[19:29:02] [Server thread/INFO]: [ModReq] Enabling ModReq v2.4.1
+[19:29:02] [Server thread/INFO]: [ModReq] Looking for messages.yml
+[19:29:02] [Server thread/INFO]: [ModReq] messages.yml found. Trying to load messages.yml
+[19:29:02] [Server thread/INFO]: [ModReq] messages.yml loaded!
+[19:29:02] [Server thread/INFO]: [ModReq] Using metrics
+[19:29:02] [Server thread/INFO]: [EssentialsGeoIP] Enabling EssentialsGeoIP v2.12.2
+[19:29:02] [Server thread/INFO]: [ClearLag] Enabling ClearLag v2.8.2
+[19:29:02] [Server thread/INFO]: [ClearLag] Loading modules...
+[19:29:02] [Server thread/INFO]: [ClearLag] Modules have been loaded!
+[19:29:02] [Server thread/INFO]: [ClearLag] Clearlag is now enabled!
+[19:29:02] [Server thread/INFO]: [EssentialsAntiBuild] Enabling EssentialsAntiBuild v2.12.2
+[19:29:02] [Server thread/INFO]: [AutoMessage] Enabling AutoMessage v2.4.0
+[19:29:02] [Server thread/INFO]: [Modifyworld] Enabling Modifyworld v1.19.7
+[19:29:02] [Server thread/INFO]: [Modifyworld] Modifyworld enabled!
+[19:29:02] [Server thread/INFO]: [WorldBorder] Enabling WorldBorder v1.7.9
+[19:29:02] [Server thread/INFO]: [WorldBorder] [CONFIG] Using elliptic/round border, knockback of 3.0 blocks, and timer delay of 5.
+[19:29:02] [Server thread/INFO]: [WorldBorder] [CONFIG] Border-checking timed task started.
+[19:29:02] [Server thread/INFO]: [CommandBook] Enabling CommandBook v2.4:1692-75bb1c8,master
+[19:29:03] [Server thread/INFO]: [CommandBook] 0 Homes(s) loaded
+[19:29:03] [Server thread/INFO]: [CommandBook] 0 Warps(s) loaded
+[19:29:03] [Server thread/INFO]: [CommandBook] 1 kit(s) loaded.
+[19:29:03] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v6.0.0-beta-03.1514-
+[19:29:05] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[19:29:05] [Server thread/INFO]: [WorldGuard] (world) Lava fire is blocked.
+[19:29:05] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[19:29:05] [Server thread/INFO]: [WorldGuard] (DIM7) Lighters are PERMITTED.
+[19:29:05] [Server thread/INFO]: [WorldGuard] (DIM7) Lava fire is blocked.
+[19:29:05] [Server thread/INFO]: [WorldGuard] (DIM7) Fire spread is UNRESTRICTED.
+[19:29:05] [Server thread/INFO]: [WorldGuard] (DIM-19) Lighters are PERMITTED.
+[19:29:05] [Server thread/INFO]: [WorldGuard] (DIM-19) Lava fire is blocked.
+[19:29:05] [Server thread/INFO]: [WorldGuard] (DIM-19) Fire spread is UNRESTRICTED.
+[19:29:05] [Server thread/INFO]: [WorldGuard] (DIM-42) Lighters are PERMITTED.
+[19:29:05] [Server thread/INFO]: [WorldGuard] (DIM-42) Lava fire is blocked.
+[19:29:05] [Server thread/INFO]: [WorldGuard] (DIM-42) Fire spread is UNRESTRICTED.
+[19:29:05] [Server thread/INFO]: [WorldGuard] (DIM1) Lighters are PERMITTED.
+[19:29:05] [Server thread/INFO]: [WorldGuard] (DIM1) Lava fire is blocked.
+[19:29:05] [Server thread/INFO]: [WorldGuard] (DIM1) Fire spread is UNRESTRICTED.
+[19:29:05] [Server thread/INFO]: [WorldGuard] (DIM-1) Lighters are PERMITTED.
+[19:29:05] [Server thread/INFO]: [WorldGuard] (DIM-1) Lava fire is blocked.
+[19:29:05] [Server thread/INFO]: [WorldGuard] (DIM-1) Fire spread is UNRESTRICTED.
+[19:29:05] [Server thread/INFO]: [EpicQuest] Enabling EpicQuest v3.5.4
+[19:29:06] [Server thread/INFO]: [EssentialsXMPP] Enabling EssentialsXMPP v2.12.2
+[19:29:06] [Server thread/INFO]: [HeroBounty] Enabling HeroBounty v1.9.5
+[19:29:06] [Server thread/INFO]: [MassiveCore 7.4.0] ============================================
+[19:29:06] [Server thread/INFO]: [MassiveCore 7.4.0] We are preparing for Mojangs switch to UUIDs.
+[19:29:06] [Server thread/INFO]: [MassiveCore 7.4.0] Player Strings Found: 0
+[19:29:06] [Server thread/INFO]: [MassiveCore 7.4.0] Player Strings Cached: 0
+[19:29:06] [Server thread/INFO]: [MassiveCore 7.4.0] Player Strings Remaining: 0
+[19:29:06] [Server thread/INFO]: [MassiveCore 7.4.0] Now fetching the remaining players from Mojang API ...
+[19:29:06] [Server thread/INFO]: [MassiveCore 7.4.0] ============================================
+[19:31:15] [Server thread/INFO]: Failed
+[20:33:22] [Server thread/INFO]: Failed
+[20:41:44] [Server thread/INFO]: Assigning initial aspects to Twistybeef
+[20:42:25] [Server thread/INFO]: Twistybeef has just earned the achievement [Taking Inventory]
+[20:42:28] [Server thread/INFO]: Guest: [Guest] ~Skid
+[20:43:17] [Server thread/INFO]: Guest: [Guest] Twistybeef
+[20:44:06] [Server thread/INFO]: Guest: [Guest] Twistybeef
+[20:44:09] [Server thread/INFO]: 0
+[20:44:09] [Server thread/INFO]: 0
+[20:44:09] [Server thread/INFO]: 0
+[20:44:09] [Server thread/INFO]: 0
+[20:44:09] [Server thread/INFO]: 0
+[20:44:55] [Server thread/INFO]: Guest: [Guest] Twistybeef
+[20:45:13] [Server thread/INFO]: Twistybeef issued server command: /gamemode 1
+[20:45:44] [Server thread/INFO]: Guest: [Guest] Twistybeef
+[20:46:55] [Server thread/INFO]: Guest: [Guest] Twistybeef
+[20:47:21] [Server thread/INFO]: Guest: [Guest] Twistybeef
+[20:47:47] [Server thread/INFO]: Teleporting...
+[20:48:10] [Server thread/INFO]: Guest: [Guest] Twistybeef
+[20:48:42] [Server thread/INFO]: Twistybeef has just earned the achievement [Twilight Portal]
+[20:49:30] [Server thread/INFO]: [TwilightForest] Found ideal portal spot
+[20:49:32] [Server thread/INFO]: Twistybeef left the game.
+[20:50:15] [Server thread/INFO]: Twistybeef has just earned the achievement [Twilight Arrival]
+[20:50:37] [Server thread/INFO]: Guest: [Guest] Twistybeef
+[20:51:15] [Server thread/INFO]: [Twistybeef: Given [Jack o'Lantern] * 64 to Twistybeef]
+[20:51:26] [Server thread/INFO]: Guest: [Guest] Twistybeef
+[20:52:15] [Server thread/INFO]: Guest: [Guest] Twistybeef
+[20:52:29] [Server thread/INFO]: Stopping server
+[20:52:29] [Server thread/INFO]: [HeroBounty] Disabling HeroBounty v1.9.5
+[20:52:29] [Server thread/INFO]: [EssentialsXMPP] Disabling EssentialsXMPP v2.12.2
+[20:52:29] [Server thread/INFO]: [EpicQuest] Disabling EpicQuest v3.5.4
+[20:52:29] [Server thread/INFO]: [EpicQuest] succesfully disabled.
+[20:52:29] [Server thread/INFO]: [MassiveCore] Disabling MassiveCore v7.4.0
+[20:52:29] [Server thread/INFO]: [MassiveCore 7.4.0] Disabled
+[20:52:29] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v6.0.0-beta-03.1514-
+[20:52:29] [Server thread/INFO]: [WorldGuard] Shutting down executor and waiting for any pending tasks...
+[20:52:29] [Server thread/INFO]: [CommandBook] Disabling CommandBook v2.4:1692-75bb1c8,master
+[20:52:29] [Server thread/INFO]: [Vault] Disabling Vault v1.2.31-b411
+[20:52:29] [Server thread/INFO]: [WorldBorder] Disabling WorldBorder v1.7.9
+[20:52:29] [Server thread/INFO]: [WorldBorder] [CONFIG] Border-checking timed task stopped.
+[20:52:29] [Server thread/INFO]: [mcMMO] Disabling mcMMO v1.5.00-b3547
+[20:52:29] [Server thread/INFO]: [Modifyworld] Disabling Modifyworld v1.19.7
+[20:52:29] [Server thread/INFO]: [Modifyworld] Modifyworld successfully disabled!
+[20:52:29] [Server thread/INFO]: [AutoMessage] Disabling AutoMessage v2.4.0
+[20:52:30] [Server thread/INFO]: [EssentialsAntiBuild] Disabling EssentialsAntiBuild v2.12.2
+[20:52:30] [Server thread/INFO]: [ClearLag] Disabling ClearLag v2.8.2
+[20:52:30] [Server thread/INFO]: [ClearLag] Nullifying module fields..
+[20:52:30] [Server thread/INFO]: [ClearLag] Clearlag is now disabled!
+[20:52:30] [Server thread/INFO]: [EssentialsGeoIP] Disabling EssentialsGeoIP v2.12.2
+[20:52:30] [Server thread/INFO]: [ModReq] Disabling ModReq v2.4.1
+[20:52:30] [Server thread/INFO]: ModReq is now disabled 
+[20:52:30] [Server thread/INFO]: [EssentialsProtect] Disabling EssentialsProtect v2.12.2
+[20:52:30] [Server thread/INFO]: [Essentials] Disabling Essentials v2.12.2
+[20:52:30] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v5.6.3
+[20:52:30] [Server thread/INFO]: Twistybeef left the game.
+[20:52:31] [Server thread/INFO]: Applying holder lookups
+[20:52:31] [Server thread/INFO]: Holder lookups applied

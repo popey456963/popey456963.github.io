@@ -1,0 +1,424 @@
+[23:15:00] [Server thread/INFO]: Loading properties
+[23:15:00] [Server thread/INFO]: Default game type: SURVIVAL
+[23:15:00] [Server thread/INFO]: Using epoll channel type
+[23:15:02] [Server thread/INFO]: [DisguiseCraft] Loading DisguiseCraft v5.2
+[23:15:02] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1;no_git_id
+[23:15:02] [Server thread/INFO]: [Essentials] Loading Essentials vTeamCity
+[23:15:02] [Server thread/INFO]: [PlugMan] Loading PlugMan v2.0.7
+[23:15:02] [Server thread/INFO]: [LaggRemover] Loading LaggRemover v0.1.8
+[23:15:02] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v6.1
+[23:15:02] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v2.4-b527
+[23:15:02] [Server thread/INFO]: [Splegg] Loading Splegg v1.2
+[23:15:02] [Server thread/INFO]: [EssentialsProtect] Loading EssentialsProtect vTeamCity
+[23:15:02] [Server thread/INFO]: [VoxelSniper] Loading VoxelSniper v7.1.0
+[23:15:02] [Server thread/INFO]: [mcMMO] Loading mcMMO v1.5.00-b3547
+[23:15:02] [Server thread/INFO]: [Multiverse-NetherPortals] Loading Multiverse-NetherPortals v2.4-b530
+[23:15:02] [Server thread/INFO]: [SuperVanish] Loading SuperVanish v5.4.3
+[23:15:02] [Server thread/INFO]: [Multiverse-Portals] Loading Multiverse-Portals v2.4-b548
+[23:15:02] [Server thread/INFO]: [Vault] Loading Vault v1.5.6-b49
+[23:15:02] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn vTeamCity
+[23:15:02] [Server thread/INFO]: [MassiveCore] Loading MassiveCore v2.8.0
+[23:15:02] [Server thread/INFO]: TimeUnit.MILLIS_PER_MINUTE: 60000
+[23:15:02] [Server thread/INFO]: [MinigamesLib] Loading MinigamesLib v1.13.1
+[23:15:02] [Server thread/INFO]: [Minigames] Loading Minigames v1.7.0
+[23:15:02] [Server thread/INFO]: [MobArena] Loading MobArena v0.97.1
+[23:15:02] [Server thread/INFO]: [TNTRun] Loading TNTRun v3.4
+[23:15:02] [Server thread/INFO]: [HolographicDisplays] Loading HolographicDisplays v2.1.10
+[23:15:02] [Server thread/INFO]: [CommandSigns] Loading CommandSigns v1.9.3.2
+[23:15:02] [Server thread/INFO]: [SkyWars] Loading SkyWars v1.1-m16
+[23:15:02] [Server thread/INFO]: [EpicSpleef] Loading EpicSpleef v0.0.19
+[23:15:02] [Server thread/INFO]: [OnTime] Loading OnTime v4.1.3
+[23:15:02] [Server thread/INFO]: [CraftBook] Loading CraftBook v3.9-SNAPSHOT
+[23:15:02] [Server thread/INFO]: [mcMMO] Enabling mcMMO v1.5.00-b3547
+[23:15:05] [Server thread/INFO]: [Vault] Enabling Vault v1.5.6-b49
+[23:15:05] [Server thread/INFO]: [MassiveCore] Enabling MassiveCore v2.8.0
+[23:15:05] [Server thread/INFO]: [MassiveCore 2.8.0] === ENABLE START ===
+[23:15:05] [Server thread/INFO]: [MassiveCore 2.8.0] §eSetup of IdUtil took §d17§ems.
+[23:15:05] [Server thread/INFO]: [MassiveCore 2.8.0] === ENABLE §aCOMPLETE §e(Took §d269ms§e) ===
+[23:15:07] [Server thread/INFO]: Preparing spawn area: 5%
+[23:15:08] [Server thread/INFO]: Preparing spawn area: 9%
+[23:15:09] [Server thread/INFO]: Preparing spawn area: 16%
+[23:15:10] [Server thread/INFO]: Preparing spawn area: 23%
+[23:15:11] [Server thread/INFO]: Preparing spawn area: 33%
+[23:15:12] [Server thread/INFO]: Preparing spawn area: 41%
+[23:15:13] [Server thread/INFO]: Preparing spawn area: 49%
+[23:15:14] [Server thread/INFO]: Preparing spawn area: 59%
+[23:15:15] [Server thread/INFO]: Preparing spawn area: 73%
+[23:15:16] [Server thread/INFO]: Preparing spawn area: 95%
+[23:15:17] [Server thread/INFO]: Preparing spawn area: 14%
+[23:15:18] [Server thread/INFO]: Preparing spawn area: 33%
+[23:15:19] [Server thread/INFO]: Preparing spawn area: 48%
+[23:15:20] [Server thread/INFO]: Preparing spawn area: 66%
+[23:15:21] [Server thread/INFO]: Preparing spawn area: 83%
+[23:15:23] [Server thread/INFO]: Preparing spawn area: 36%
+[23:15:24] [Server thread/INFO]: Preparing spawn area: 77%
+[23:15:24] [Server thread/INFO]: [DisguiseCraft] Enabling DisguiseCraft v5.2
+[23:15:25] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1;no_git_id
+[23:15:25] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_8_R3 as the Bukkit adapter
+[23:15:25] [Server thread/INFO]: [Essentials] Enabling Essentials vTeamCity
+[23:15:25] [Server thread/INFO]: git-Bukkit-9935adc (MC: 1.8.8)
+[23:15:25] [Server thread/INFO]: 1.8.8-R0.1-SNAPSHOT
+[23:15:25] [Server thread/INFO]: Using locale en_US
+[23:15:25] [Server thread/INFO]: Using locale en_US
+[23:15:25] [Server thread/INFO]: [PlugMan] Enabling PlugMan v2.0.7
+[23:15:25] [Server thread/INFO]: [LaggRemover] Enabling LaggRemover v0.1.8
+[23:15:25] [Server thread/INFO]: [LaggRemover] LaggRemover has been enabled!
+[23:15:25] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v6.1
+[23:15:27] [Server thread/INFO]: [WorldGuard] (survival) Lighters are PERMITTED.
+[23:15:27] [Server thread/INFO]: [WorldGuard] (survival) Lava fire is blocked.
+[23:15:27] [Server thread/INFO]: [WorldGuard] (survival) Fire spread is UNRESTRICTED.
+[23:15:27] [Server thread/INFO]: [WorldGuard] (survival_nether) Lighters are PERMITTED.
+[23:15:27] [Server thread/INFO]: [WorldGuard] (survival_nether) Lava fire is blocked.
+[23:15:27] [Server thread/INFO]: [WorldGuard] (survival_nether) Fire spread is UNRESTRICTED.
+[23:15:27] [Server thread/INFO]: [WorldGuard] (survival_the_end) Lighters are PERMITTED.
+[23:15:27] [Server thread/INFO]: [WorldGuard] (survival_the_end) Lava fire is blocked.
+[23:15:27] [Server thread/INFO]: [WorldGuard] (survival_the_end) Fire spread is UNRESTRICTED.
+[23:15:27] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v2.4-b527
+[23:15:27] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'survival_nether' - Env: NETHER - Type: NORMAL & seed: 6261662807370706275
+[23:15:27] [Server thread/ERROR]: [Multiverse-Core] New safe spawn NOT found!!!
+[23:15:27] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'survival_the_end' - Env: THE_END - Type: NORMAL & seed: 6261662807370706275
+[23:15:27] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'TEST' - Env: NORMAL - Type: NORMAL & seed: -2024018835920597302
+[23:15:28] [Server thread/INFO]: [WorldGuard] (TEST) Lighters are PERMITTED.
+[23:15:28] [Server thread/INFO]: [WorldGuard] (TEST) Lava fire is blocked.
+[23:15:28] [Server thread/INFO]: [WorldGuard] (TEST) Fire spread is UNRESTRICTED.
+[23:15:28] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'TEST_nether' - Env: NETHER - Type: NORMAL & seed: -2024018835920597302
+[23:15:28] [Server thread/INFO]: [WorldGuard] (TEST_nether) Lighters are PERMITTED.
+[23:15:28] [Server thread/INFO]: [WorldGuard] (TEST_nether) Lava fire is blocked.
+[23:15:28] [Server thread/INFO]: [WorldGuard] (TEST_nether) Fire spread is UNRESTRICTED.
+[23:15:29] [Server thread/INFO]: Preparing spawn area for TEST_nether, 73%
+[23:15:30] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'TEST_the_end' - Env: THE_END - Type: NORMAL & seed: -2024018835920597302
+[23:15:30] [Server thread/INFO]: [WorldGuard] (TEST_the_end) Lighters are PERMITTED.
+[23:15:30] [Server thread/INFO]: [WorldGuard] (TEST_the_end) Lava fire is blocked.
+[23:15:30] [Server thread/INFO]: [WorldGuard] (TEST_the_end) Fire spread is UNRESTRICTED.
+[23:15:30] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'lobby' - Env: NORMAL - Type: NORMAL & seed: -3770714656453924402
+[23:15:31] [Server thread/INFO]: [WorldGuard] (lobby) Lighters are PERMITTED.
+[23:15:31] [Server thread/INFO]: [WorldGuard] (lobby) Lava fire is blocked.
+[23:15:31] [Server thread/INFO]: [WorldGuard] (lobby) Fire spread is UNRESTRICTED.
+[23:15:31] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'minigames' - Env: NORMAL - Type: FLAT & seed: 2973644325369467684
+[23:15:31] [Server thread/INFO]: [WorldGuard] (minigames) Lighters are PERMITTED.
+[23:15:31] [Server thread/INFO]: [WorldGuard] (minigames) Lava fire is blocked.
+[23:15:31] [Server thread/INFO]: [WorldGuard] (minigames) Fire spread is UNRESTRICTED.
+[23:15:31] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'Skywars' - Env: NORMAL - Type: FLAT & seed: 3121935573477155779
+[23:15:31] [Server thread/INFO]: [WorldGuard] (Skywars) Lighters are PERMITTED.
+[23:15:31] [Server thread/INFO]: [WorldGuard] (Skywars) Lava fire is blocked.
+[23:15:31] [Server thread/INFO]: [WorldGuard] (Skywars) Fire spread is UNRESTRICTED.
+[23:15:31] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'spawn' - Env: NORMAL - Type: NORMAL & seed: 2261197457111850464
+[23:15:32] [Server thread/INFO]: [WorldGuard] (spawn) Lighters are PERMITTED.
+[23:15:32] [Server thread/INFO]: [WorldGuard] (spawn) Lava fire is blocked.
+[23:15:32] [Server thread/INFO]: [WorldGuard] (spawn) Fire spread is UNRESTRICTED.
+[23:15:32] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'survival' - Env: NORMAL - Type: NORMAL & seed: 417882899938927719
+[23:15:33] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'survival_nether' - Env: NETHER - Type: NORMAL & seed: 6261662807370706275
+[23:15:33] [Server thread/ERROR]: [Multiverse-Core] New safe spawn NOT found!!!
+[23:15:33] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'survival_the_end' - Env: THE_END - Type: NORMAL & seed: 6261662807370706275
+[23:15:33] [Server thread/INFO]: [Multiverse-Core] 10 - World(s) loaded.
+[23:15:33] [Server thread/INFO]: [Splegg] Enabling Splegg v1.2
+[23:15:33] [Server thread/INFO]: [Splegg] Loading map SpleggOne.
+[23:15:33] [Server thread/INFO]: [Splegg] Map is usable
+[23:15:33] [Server thread/INFO]: [Splegg] Load Complete!
+[23:15:33] [Server thread/INFO]: [Splegg] Loading map ArenaOne.
+[23:15:33] [Server thread/INFO]: [Splegg] Spawn count is 0
+[23:15:33] [Server thread/INFO]: [Splegg] No floors are setup.
+[23:15:33] [Server thread/INFO]: [Splegg] --<>-- PLEASE SETUP MAP!! --<>--
+[23:15:33] [Server thread/INFO]: [Splegg] Load Complete!
+[23:15:33] [Server thread/INFO]: [EssentialsProtect] Enabling EssentialsProtect vTeamCity
+[23:15:33] [Server thread/INFO]: [VoxelSniper] Enabling VoxelSniper v7.1.0
+[23:15:33] [Server thread/INFO]: [Multiverse-NetherPortals] Enabling Multiverse-NetherPortals v2.4-b530
+[23:15:34] [Server thread/INFO]: [SuperVanish] Enabling SuperVanish v5.4.3
+[23:15:34] [Server thread/INFO]: [Multiverse-Portals] Enabling Multiverse-Portals v2.4-b548
+[23:15:34] [Server thread/INFO]: [Multiverse-Portals]  1 - Portals(s) loaded
+[23:15:34] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn vTeamCity
+[23:15:34] [Server thread/INFO]: [MinigamesLib] Enabling MinigamesLib v1.13.1
+[23:15:34] [Server thread/INFO]: [Minigames] Enabling Minigames v1.7.0
+[23:15:34] [Server thread/INFO]: [Minigames] Using lang en_AU
+[23:15:34] [Server thread/INFO]: Minigames successfully enabled.
+[23:15:36] [Server thread/INFO]: [MobArena] Enabling MobArena v0.97.1
+[23:15:36] [Server thread/INFO]: [MobArena] Loaded arena 'default'
+[23:15:36] [Server thread/INFO]: [MobArena] Loaded arena 'god-arena'
+[23:15:36] [Server thread/INFO]: [MobArena] v0.97.1 enabled.
+[23:15:36] [Server thread/INFO]: [TNTRun] Enabling TNTRun v3.4
+[23:15:36] [Server thread/INFO]: [HolographicDisplays] Enabling HolographicDisplays v2.1.10
+[23:15:36] [Server thread/INFO]: [CommandSigns] Enabling CommandSigns v1.9.3.2
+[23:15:36] [Server thread/INFO]: [CommandSigns] No signs found.
+[23:15:37] [Server thread/INFO]: [SkyWars] Enabling SkyWars v1.1-m16
+[23:15:38] [Server thread/INFO]: [WorldGuard] (island-0) Lighters are PERMITTED.
+[23:15:38] [Server thread/INFO]: [WorldGuard] (island-0) Lava fire is blocked.
+[23:15:38] [Server thread/INFO]: [WorldGuard] (island-0) Fire spread is UNRESTRICTED.
+[23:15:38] [Server thread/INFO]: [EpicSpleef] Enabling EpicSpleef v0.0.19
+[23:15:38] [Server thread/INFO]: [EpicSpleef] Enabling EpicSpleef by BtoBastian
+[23:15:39] [Server thread/INFO]: [EpicSpleef] Loading lobby SpleefOne
+[23:15:39] [Server thread/INFO]: [EpicSpleef] Loading arena ArenaOne
+[23:15:39] [Server thread/INFO]: [EpicSpleef] Successfully loaded arena ArenaOne. (world: minigames, blocks: 5233, maxPlayers: 0)
+[23:15:39] [Server thread/INFO]: [EpicSpleef] Loading arena SpleefOne
+[23:15:39] [Server thread/INFO]: [EpicSpleef] Successfully loaded arena SpleefOne. (world: minigames, blocks: 0, maxPlayers: 0)
+[23:15:39] [Server thread/INFO]: [OnTime] Enabling OnTime v4.1.3
+[23:15:40] [Server thread/INFO]: [CraftBook] Enabling CraftBook v3.9-SNAPSHOT
+[23:15:40] [Server thread/INFO]: [CraftBook] Successfully added 1 CommandItems!
+[23:15:40] [Server thread/INFO]: [CraftBook] Registered 3 custom recipes!
+[23:15:40] [Server thread/INFO]: [CraftBook] 7613 chunk(s) for 11 world(s) processed (51ms elapsed)
+[23:15:48] [Server thread/INFO]: Found 0 arenas.
+[23:16:02] [Server thread/INFO]: [Giraffe]Twiixtor: test
+[23:16:05] [Server thread/INFO]: Twiixtor issued server command: /gm 1
+[23:16:18] [Server thread/INFO]: Twiixtor issued server command: /mv tp TEST
+[23:16:26] [Server thread/INFO]: Twiixtor issued server command: /mv tp survival
+[23:16:27] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe]Twiixtor
+[23:16:35] [Server thread/INFO]: Popey456963 issued server command: /gm 1
+[23:17:14] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe]Twiixtor
+[23:17:34] [Server thread/INFO]: Popey456963 issued server command: /tp twiix
+[23:17:41] [Server thread/INFO]: Twiixtor issued server command: /mv delete TEST
+[23:17:44] [Server thread/INFO]: [Multiverse-Core] World 'TEST' was unloaded from memory.
+[23:17:44] [Server thread/INFO]: [Multiverse-Core] World TEST was DELETED.
+[23:17:48] [Server thread/INFO]: Twiixtor issued server command: /mvdelete TEST_nether
+[23:17:50] [Server thread/INFO]: [Multiverse-Core] World 'TEST_nether' was unloaded from memory.
+[23:17:50] [Server thread/INFO]: [Multiverse-Core] World TEST_nether was DELETED.
+[23:17:54] [Server thread/INFO]: Twiixtor issued server command: /mvdelete TEST_end
+[23:18:00] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe]Twiixtor
+[23:18:13] [Server thread/INFO]: Popey456963 issued server command: /time set day
+[23:18:47] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe]Twiixtor
+[23:19:12] [Server thread/INFO]: Twiixtor issued server command: /mv delete TEST_the_end
+[23:19:14] [Server thread/INFO]: [Multiverse-Core] World 'TEST_the_end' was unloaded from memory.
+[23:19:14] [Server thread/INFO]: [Multiverse-Core] World TEST_the_end was DELETED.
+[23:19:25] [Server thread/INFO]: Twiixtor issued server command: /mv tp spawn
+[23:19:33] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe]Twiixtor
+[23:19:39] [Server thread/INFO]: Twiixtor issued server command: /tp pop
+[23:19:45] [Server thread/INFO]: Twiixtor issued server command: /mv delete spawn
+[23:19:48] [Server thread/INFO]: [Multiverse-Core] World 'spawn' was unloaded from memory.
+[23:19:48] [Server thread/INFO]: [Multiverse-Core] World spawn was DELETED.
+[23:20:20] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe]Twiixtor
+[23:21:06] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe]Twiixtor
+[23:21:53] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe]Twiixtor
+[23:22:21] [Server thread/INFO]: Popey456963 issued server command: /gamemode 0 Twiixtor
+[23:22:23] [Server thread/INFO]: Popey456963 issued server command: /gamemode 0 Popey456963
+[23:22:39] [Server thread/INFO]: Popey456963 issued server command: /f kick twiixtor
+[23:22:39] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe]Twiixtor
+[23:22:41] [Server thread/INFO]: Twiixtor was slain by Popey456963
+[23:22:48] [Server thread/INFO]: Twiixtor issued server command: /tp pop
+[23:22:54] [Server thread/INFO]: Twiixtor fell from a high place
+[23:23:04] [Server thread/INFO]: Twiixtor issued server command: /mcmmo
+[23:23:06] [Server thread/INFO]: Twiixtor issued server command: /tp pop
+[23:23:12] [Server thread/INFO]: Twiixtor was slain by Popey456963
+[23:23:16] [Server thread/INFO]: Twiixtor issued server command: /gm 1
+[23:23:18] [Server thread/INFO]: Twiixtor issued server command: /tp pop
+[23:23:24] [Server thread/INFO]: Popey456963 issued server command: /gm 1
+[23:23:26] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe]Twiixtor
+[23:23:27] [Server thread/INFO]: Twiixtor issued server command: //wand
+[23:23:33] [Server thread/INFO]: Twiixtor issued server command: //expand vert
+[23:23:34] [Server thread/INFO]: Twiixtor issued server command: //regen
+[23:23:45] [Server thread/INFO]: Popey456963 issued server command: /unarmed
+[23:24:12] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe]Twiixtor
+[23:24:36] [Server thread/INFO]: Popey456963 issued server command: /f inv a twiixtor
+[23:24:48] [Server thread/INFO]: Twiixtor issued server command: /mv tp skywars
+[23:24:57] [Server thread/INFO]: Twiixtor issued server command: /mv tp island-0
+[23:24:59] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe]Twiixtor
+[23:25:18] [Server thread/INFO]: Popey456963 issued server command: /f leader twiixtor
+[23:25:18] [Server thread/INFO]: **Giraffes Popey456963 gave **Twiixtor the leadership of Wilderness.
+[23:25:25] [Server thread/INFO]: Popey456963 issued server command: /f leader twiixtor Giraffes
+[23:25:32] [Server thread/INFO]: Popey456963 issued server command: /f demote popey456963
+[23:25:34] [Server thread/INFO]: Popey456963 issued server command: /f leader twiixtor Giraffes
+[23:25:38] [Server thread/INFO]: Popey456963 issued server command: /f leader twiixtor
+[23:25:50] [Server thread/INFO]: CONSOLE issued server command: /sudo twiixtor f join Giraffes
+[23:26:02] [Server thread/INFO]: Popey456963 issued server command: /f leader gira
+[23:26:12] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe]Twiixtor
+[23:26:19] [Server thread/INFO]: Popey456963 issued server command: /f leader giraffes
+[23:26:23] [Server thread/INFO]: Popey456963 issued server command: /f demote popey456963
+[23:26:26] [Server thread/INFO]: Twiixtor issued server command: /speed 10
+[23:26:31] [Server thread/INFO]: Popey456963 issued server command: /mv
+[23:26:34] [Server thread/INFO]: Popey456963 issued server command: /mv info
+[23:26:38] [Server thread/INFO]: Twiixtor issued server command: /mvinfo
+[23:26:39] [Server thread/INFO]: Popey456963 issued server command: /warp skywars
+[23:26:42] [Server thread/INFO]: [Dev] Poopey: ./warp skywars
+[23:26:46] [Server thread/INFO]: Twiixtor issued server command: /mv tp skywars
+[23:26:53] [Server thread/INFO]: [Giraffe]Twiixtor: ./mv tp skywars
+[23:26:57] [Server thread/INFO]: [Dev] Poopey: ./warp skywars
+[23:26:58] [Server thread/INFO]: [Dev] Poopey: ./warp skywars
+[23:26:58] [Server thread/INFO]: [Dev] Poopey: ./warp skywars
+[23:26:58] [Server thread/INFO]: [Dev] Poopey: ./warp skywars
+[23:26:58] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe]Twiixtor
+[23:26:59] [Server thread/INFO]: [Dev] Poopey: ./warp skywars
+[23:27:02] [Server thread/INFO]: Twiixtor issued server command: /warp skywars
+[23:27:09] [Server thread/INFO]: [Dev] Poopey: ./mv info
+[23:27:12] [Server thread/INFO]: Popey456963 issued server command: /mv info
+[23:27:16] [Server thread/INFO]: [Giraffe]Twiixtor: LOL HI
+[23:27:17] [Server thread/INFO]: [Giraffe]Twiixtor: TEAM?
+[23:27:45] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe]Twiixtor
+[23:28:32] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe]Twiixtor
+[23:29:18] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe]Twiixtor
+[23:30:05] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe]Twiixtor
+[23:30:51] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe]Twiixtor
+[23:31:38] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe]Twiixtor
+[23:32:24] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe]Twiixtor
+[23:33:11] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe]Twiixtor
+[23:33:37] [Server thread/INFO]: Twiixtor was slain by Popey456963
+[23:33:50] [Server thread/INFO]: Twiixtor issued server command: /warp skywars
+[23:33:57] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe]Twiixtor
+[23:34:44] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe]Twiixtor
+[23:35:30] [Server thread/INFO]: [Dev] Poopey: sm_slap Twiixtor
+[23:36:12] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe]Twiixtor
+[23:36:58] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe]Twiixtor
+[23:37:30] [Server thread/INFO]: Twiixtor issued server command: /sw
+[23:37:33] [Server thread/INFO]: Twiixtor issued server command: /sw kit
+[23:37:33] [Server thread/INFO]: Popey456963 issued server command: /sw points
+[23:37:35] [Server thread/INFO]: [Dev] Poopey: ./sw score
+[23:37:36] [Server thread/INFO]: Popey456963 issued server command: /sw score
+[23:37:36] [Server thread/INFO]: Twiixtor issued server command: /sw score
+[23:37:45] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe]Twiixtor
+[23:38:32] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe]Twiixtor
+[23:39:18] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe]Twiixtor
+[23:40:05] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe]Twiixtor
+[23:40:51] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe]Twiixtor
+[23:41:29] [Server thread/INFO]: Popey456963 issued server command: /tp Twiixtor Popey456963
+[23:41:38] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe]Twiixtor
+[23:42:24] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe]Twiixtor
+[23:43:11] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe]Twiixtor
+[23:43:57] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe]Twiixtor
+[23:44:21] [Server thread/INFO]: Popey456963 issued server command: /tp eskim Popey456963
+[23:44:44] [Server thread/INFO]: Players: [Guest] eskimo
+[23:44:44] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe]Twiixtor
+[23:45:05] [Server thread/INFO]: CONSOLE issued server command: /give popey456963 enderpearl
+[23:45:05] [Server thread/INFO]: Giving 64 of ender pearl to [Dev] Poopey.
+[23:45:22] [Server thread/INFO]: Popey456963 hit the ground too hard
+[23:45:32] [Server thread/INFO]: Popey456963 issued server command: /warp skywars
+[23:45:47] [Server thread/INFO]: Popey456963 issued server command: /sw kits
+[23:45:54] [Server thread/INFO]: Popey456963 issued server command: /sw leave
+[23:45:57] [Server thread/INFO]: Popey456963 issued server command: /tp Twiixtor
+[23:45:58] [Server thread/INFO]: Popey456963 issued server command: /gm 1
+[23:46:07] [Server thread/INFO]: Popey456963 issued server command: /tp Twiixtor Popey456963
+[23:46:11] [Server thread/INFO]: Popey456963 issued server command: /god Twiixtor
+[23:46:12] [Server thread/INFO]: Players: [Guest] eskimo
+[23:46:12] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe]Twiixtor
+[23:46:12] [Server thread/INFO]: Popey456963 issued server command: /god Twiixtor
+[23:46:15] [Server thread/INFO]: Twiixtor was slain by Popey456963
+[23:46:22] [Server thread/INFO]: ESK1MO issued server command: /home
+[23:46:26] [Server thread/INFO]: [Giraffe]Twiixtor: ./ban Popey
+[23:46:28] [Server thread/INFO]: Popey456963 fell out of the world
+[23:46:32] [Server thread/INFO]: Popey456963 issued server command: /warp skywars
+[23:46:33] [Server thread/INFO]: Twiixtor issued server command: /warp skywars
+[23:46:34] [Server thread/INFO]: Twiixtor issued server command: /tpall
+[23:46:35] [Server thread/INFO]: Popey456963 issued server command: /tp ESK1MO Popey456963
+[23:46:45] [Server thread/INFO]: Twiixtor issued server command: /tpall
+[23:46:59] [Server thread/INFO]: Players: [Guest] eskimo
+[23:46:59] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe]Twiixtor
+[23:47:45] [Server thread/INFO]: Players: [Guest] eskimo
+[23:47:45] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe]Twiixtor
+[23:48:32] [Server thread/INFO]: Players: [Guest] eskimo
+[23:48:32] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe]Twiixtor
+[23:48:39] [Server thread/INFO]: ESK1MO issued server command: /gamemode c
+[23:49:08] [Server thread/INFO]: Popey456963 issued server command: /sw leave
+[23:49:09] [Server thread/INFO]: Popey456963 issued server command: /gm 1
+[23:49:14] [Server thread/INFO]: Popey456963 issued server command: /tp ESK1MO Popey456963
+[23:49:18] [Server thread/INFO]: Players: [Guest] eskimo
+[23:49:18] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe]Twiixtor
+[23:50:05] [Server thread/INFO]: Players: [Guest] eskimo
+[23:50:05] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe]Twiixtor
+[23:50:51] [Server thread/INFO]: Players: [Guest] eskimo
+[23:50:51] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe]Twiixtor
+[23:51:00] [Server thread/INFO]: Twiixtor issued server command: /god ESK1MO
+[23:51:08] [Server thread/INFO]: CONSOLE issued server command: /god esk1mo
+[23:51:08] [Server thread/INFO]: God mode disabled for [Guest] eskimo.
+[23:51:10] [Server thread/INFO]: CONSOLE issued server command: /god esk1mo
+[23:51:10] [Server thread/INFO]: God mode enabled for [Guest] eskimo.
+[23:51:22] [Server thread/INFO]: Popey456963 issued server command: /god ESK1MO
+[23:51:25] [Server thread/INFO]: Popey456963 issued server command: /god Twiixtor
+[23:51:25] [Server thread/INFO]: Popey456963 issued server command: /god Twiixtor
+[23:51:27] [Server thread/INFO]: Popey456963 issued server command: /god Popey456963
+[23:51:27] [Server thread/INFO]: Popey456963 issued server command: /god Popey456963
+[23:51:37] [Server thread/INFO]: ESK1MO was slain by Twiixtor
+[23:51:38] [Server thread/INFO]: Players: [Guest] eskimo
+[23:51:38] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe]Twiixtor
+[23:51:41] [Server thread/INFO]: Popey456963 issued server command: /gm 1
+[23:51:44] [Server thread/INFO]: Twiixtor issued server command: /sw score
+[23:51:46] [Server thread/INFO]: Popey456963 issued server command: /tpall
+[23:52:24] [Server thread/INFO]: Players: [Guest] eskimo
+[23:52:24] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe]Twiixtor
+[23:53:11] [Server thread/INFO]: Players: [Guest] eskimo
+[23:53:11] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe]Twiixtor
+[23:53:27] [Server thread/INFO]: ESK1MO was shot by Popey456963 using [§b§lFirework Bow]
+[23:53:56] [Server thread/INFO]: Twiixtor was slain by Popey456963
+[23:53:57] [Server thread/INFO]: Players: [Guest] eskimo
+[23:53:57] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe]Twiixtor
+[23:54:01] [Server thread/INFO]: Popey456963 issued server command: /tp Twiixtor Popey456963
+[23:54:06] [Server thread/INFO]: Twiixtor was slain by Popey456963
+[23:54:08] [Server thread/INFO]: Popey456963 issued server command: /tp Twiixtor Popey456963
+[23:54:14] [Server thread/INFO]: Twiixtor issued server command: /tp es
+[23:54:16] [Server thread/INFO]: Popey456963 issued server command: /tp Twiixtor
+[23:54:20] [Server thread/INFO]: ESK1MO was slain by Popey456963
+[23:54:26] [Server thread/INFO]: Popey456963 issued server command: /tp Twiixtor Popey456963
+[23:54:26] [Server thread/INFO]: ESK1MO issued server command: /gamemode c
+[23:54:29] [Server thread/INFO]: Popey456963 issued server command: /tp ESK1MO Popey456963
+[23:54:35] [Server thread/INFO]: Popey456963 issued server command: /god Popey456963
+[23:54:39] [Server thread/INFO]: Twiixtor issued server command: /enchant sharpness 100
+[23:54:40] [Server thread/INFO]: Popey456963 issued server command: /god Popey456963
+[23:54:43] [Server thread/INFO]: Twiixtor issued server command: /enchant fireaspect 100
+[23:54:44] [Server thread/INFO]: Players: [Guest] eskimo
+[23:54:44] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe]Twiixtor
+[23:54:47] [Server thread/INFO]: Popey456963 was slain by Twiixtor
+[23:54:53] [Server thread/INFO]: CONSOLE issued server command: /kill twiixtor
+[23:54:53] [Server thread/INFO]: Twiixtor died
+[23:54:53] [Server thread/INFO]: Killed [Giraffe]Twiixtor.
+[23:54:56] [Server thread/INFO]: Popey456963 issued server command: /gm 1
+[23:54:58] [Server thread/INFO]: [Dev] Poopey: =)
+[23:54:59] [Server thread/INFO]: Popey456963 issued server command: /tp Twiixtor
+[23:54:59] [Server thread/INFO]: Twiixtor issued server command: /tp es
+[23:55:02] [Server thread/INFO]: Popey456963 issued server command: /tp Twiixtor
+[23:55:08] [Server thread/INFO]: ESK1MO was slain by Popey456963
+[23:55:12] [Server thread/INFO]: Twiixtor issued server command: /home ESK1MO
+[23:55:14] [Server thread/INFO]: Popey456963 issued server command: /home ESK1MO
+[23:55:16] [Server thread/INFO]: Popey456963 issued server command: /tp Popey456963
+[23:55:17] [Server thread/INFO]: Twiixtor issued server command: /home
+[23:55:24] [Server thread/INFO]: Popey456963 issued server command: /home
+[23:55:28] [Server thread/INFO]: ESK1MO issued server command: /home
+[23:55:29] [Server thread/INFO]: Twiixtor issued server command: /tp Twiixtor 198 4 -113
+[23:55:29] [Server thread/INFO]: Twiixtor issued server command: /tppos 198 4 -113
+[23:55:34] [Server thread/INFO]: Twiixtor issued server command: /tp Twiixtor 43 4 -130
+[23:55:34] [Server thread/INFO]: Twiixtor issued server command: /tppos 43 4 -130
+[23:55:36] [Server thread/INFO]: Twiixtor issued server command: /tp Twiixtor -107 4 -65
+[23:55:36] [Server thread/INFO]: Twiixtor issued server command: /tppos -107 4 -65
+[23:55:37] [Server thread/INFO]: Popey456963 issued server command: /home
+[23:55:39] [Server thread/INFO]: Twiixtor issued server command: /tp Twiixtor -83 4 65
+[23:55:39] [Server thread/INFO]: Twiixtor issued server command: /tppos -83 4 65
+[23:55:40] [Server thread/INFO]: Popey456963 issued server command: /home twiixtor
+[23:55:42] [Server thread/INFO]: Twiixtor issued server command: /tp Twiixtor -1019 4 -454
+[23:55:43] [Server thread/INFO]: Twiixtor issued server command: /tppos -1019 4 -454
+[23:55:45] [Server thread/INFO]: Twiixtor issued server command: /tphere esk
+[23:55:48] [Server thread/INFO]: Popey456963 issued server command: /tp Twiixtor
+[23:56:06] [Server thread/INFO]: Twiixtor was slain by ESK1MO
+[23:56:08] [Server thread/INFO]: ESK1MO was slain by Popey456963
+[23:56:12] [Server thread/INFO]: Players: [Guest] eskimo
+[23:56:12] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe]Twiixtor
+[23:56:16] [Server thread/INFO]: Twiixtor issued server command: /back
+[23:56:18] [Server thread/INFO]: Twiixtor issued server command: /tphere esk
+[23:56:19] [Server thread/INFO]: Popey456963 issued server command: /tp ESK1MO Popey456963
+[23:56:23] [Server thread/INFO]: Twiixtor issued server command: /gm 1 ESK1MO
+[23:56:40] [Server thread/INFO]: Twiixtor issued server command: /gm 1
+[23:56:43] [Server thread/INFO]: Twiixtor issued server command: /kill pop
+[23:56:43] [Server thread/INFO]: Popey456963 died
+[23:56:46] [Server thread/INFO]: Popey456963 issued server command: /back
+[23:56:53] [Server thread/INFO]: Twiixtor issued server command: //wand
+[23:56:59] [Server thread/INFO]: Players: [Guest] eskimo
+[23:56:59] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe]Twiixtor
+[23:56:59] [Server thread/INFO]: Twiixtor issued server command: //expand vert
+[23:57:01] [Server thread/INFO]: Twiixtor issued server command: //replace 45 0
+[23:57:09] [Server thread/INFO]: Twiixtor issued server command: //replace tnt 0
+[23:57:13] [Server thread/INFO]: Twiixtor issued server command: /speed 1
+[23:57:18] [Server thread/INFO]: Popey456963 issued server command: //expand 200 up
+[23:57:21] [Server thread/INFO]: Popey456963 issued server command: //copy
+[23:57:35] [Server thread/INFO]: Popey456963 issued server command: //replace glass 50%tnt,50%glass
+[23:57:45] [Server thread/INFO]: Players: [Guest] eskimo
+[23:57:45] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe]Twiixtor
+[23:57:56] [Server thread/INFO]: [Dev] Poopey: GG
+[23:58:00] [Server thread/INFO]: Popey456963 issued server command: //paste
+[23:58:06] [Server thread/INFO]: [Dev] Poopey: =)
+[23:58:10] [Server thread/INFO]: [Dev] Poopey: All safe.
+[23:58:32] [Server thread/INFO]: Players: [Guest] eskimo
+[23:58:32] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe]Twiixtor
+[23:58:54] [Server thread/INFO]: ESK1MO left the game.
+[23:58:58] [Server thread/INFO]: [Giraffe]Twiixtor: XDDDDDDDDDDDD
+[23:59:18] [Server thread/INFO]: Players: [Guest] eskimo
+[23:59:18] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe]Twiixtor
+[23:59:19] [Server thread/INFO]: ESK1MO was slain by Popey456963
+[23:59:19] [Server thread/INFO]: Twiixtor issued server command: /gm 1 ESK1MO
+[23:59:22] [Server thread/INFO]: Popey456963 issued server command: /tp ESK1MO Popey456963
+[23:59:25] [Server thread/INFO]: Popey456963 issued server command: /gm 1 ESK1MO
+[23:59:28] [Server thread/INFO]: ESK1MO issued server command: /god
+[23:59:44] [Server thread/INFO]: Twiixtor issued server command: /i compass 1
+[23:59:53] [Server thread/INFO]: Twiixtor issued server command: //replace glass tnt
+[23:59:59] [Server thread/INFO]: Twiixtor issued server command: //undo

@@ -1,0 +1,867 @@
+[21:36:24] [Server thread/INFO]: Loading properties
+[21:36:24] [Server thread/INFO]: Default game type: SURVIVAL
+[21:36:25] [Server thread/INFO]: Using epoll channel type
+[21:36:26] [Server thread/INFO]: [DisguiseCraft] Loading DisguiseCraft v5.2
+[21:36:26] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1;no_git_id
+[21:36:26] [Server thread/INFO]: [Essentials] Loading Essentials vTeamCity
+[21:36:26] [Server thread/INFO]: [PlugMan] Loading PlugMan v2.0.7
+[21:36:26] [Server thread/INFO]: [LaggRemover] Loading LaggRemover v0.1.8
+[21:36:26] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v6.1
+[21:36:26] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v2.4-b527
+[21:36:26] [Server thread/INFO]: [Splegg] Loading Splegg v1.2
+[21:36:26] [Server thread/INFO]: [EssentialsProtect] Loading EssentialsProtect vTeamCity
+[21:36:26] [Server thread/INFO]: [VoxelSniper] Loading VoxelSniper v7.1.0
+[21:36:26] [Server thread/INFO]: [mcMMO] Loading mcMMO v1.5.00-b3547
+[21:36:26] [Server thread/INFO]: [Multiverse-NetherPortals] Loading Multiverse-NetherPortals v2.4-b530
+[21:36:26] [Server thread/INFO]: [SuperVanish] Loading SuperVanish v5.4.3
+[21:36:26] [Server thread/INFO]: [Multiverse-Portals] Loading Multiverse-Portals v2.4-b548
+[21:36:26] [Server thread/INFO]: [Vault] Loading Vault v1.5.6-b49
+[21:36:26] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn vTeamCity
+[21:36:26] [Server thread/INFO]: [MassiveCore] Loading MassiveCore v2.8.0
+[21:36:26] [Server thread/INFO]: TimeUnit.MILLIS_PER_MINUTE: 60000
+[21:36:26] [Server thread/INFO]: [MinigamesLib] Loading MinigamesLib v1.13.1
+[21:36:26] [Server thread/INFO]: [Minigames] Loading Minigames v1.7.0
+[21:36:26] [Server thread/INFO]: [MobArena] Loading MobArena v0.97.1
+[21:36:26] [Server thread/INFO]: [TNTRun] Loading TNTRun v3.4
+[21:36:26] [Server thread/INFO]: [HolographicDisplays] Loading HolographicDisplays v2.1.10
+[21:36:26] [Server thread/INFO]: [CommandSigns] Loading CommandSigns v1.9.3.2
+[21:36:26] [Server thread/INFO]: [SkyWars] Loading SkyWars v1.1-m16
+[21:36:26] [Server thread/INFO]: [EpicSpleef] Loading EpicSpleef v0.0.19
+[21:36:26] [Server thread/INFO]: [OnTime] Loading OnTime v4.1.3
+[21:36:26] [Server thread/INFO]: [CraftBook] Loading CraftBook v3.9-SNAPSHOT
+[21:36:26] [Server thread/INFO]: [mcMMO] Enabling mcMMO v1.5.00-b3547
+[21:36:28] [Server thread/INFO]: [Vault] Enabling Vault v1.5.6-b49
+[21:36:30] [Server thread/INFO]: [MassiveCore] Enabling MassiveCore v2.8.0
+[21:36:30] [Server thread/INFO]: [MassiveCore 2.8.0] === ENABLE START ===
+[21:36:31] [Server thread/INFO]: [MassiveCore 2.8.0] §eSetup of IdUtil took §d777§ems.
+[21:36:31] [Server thread/INFO]: [MassiveCore 2.8.0] === ENABLE §aCOMPLETE §e(Took §d1117ms§e) ===
+[21:36:32] [Server thread/INFO]: Preparing spawn area: 48%
+[21:36:34] [Server thread/INFO]: Preparing spawn area: 63%
+[21:36:34] [Server thread/INFO]: [DisguiseCraft] Enabling DisguiseCraft v5.2
+[21:36:34] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1;no_git_id
+[21:36:35] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_8_R3 as the Bukkit adapter
+[21:36:35] [Server thread/INFO]: [Essentials] Enabling Essentials vTeamCity
+[21:36:35] [Server thread/INFO]: git-Bukkit-9935adc (MC: 1.8.8)
+[21:36:35] [Server thread/INFO]: 1.8.8-R0.1-SNAPSHOT
+[21:36:35] [Server thread/INFO]: Using locale en_US
+[21:36:35] [Server thread/INFO]: Using locale en_US
+[21:36:35] [Server thread/INFO]: [PlugMan] Enabling PlugMan v2.0.7
+[21:36:36] [Server thread/INFO]: [LaggRemover] Enabling LaggRemover v0.1.8
+[21:36:36] [Server thread/INFO]: [LaggRemover] LaggRemover has been enabled!
+[21:36:36] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v6.1
+[21:36:36] [Server thread/INFO]: [WorldGuard] (survival) Lighters are PERMITTED.
+[21:36:36] [Server thread/INFO]: [WorldGuard] (survival) Lava fire is blocked.
+[21:36:36] [Server thread/INFO]: [WorldGuard] (survival) Fire spread is UNRESTRICTED.
+[21:36:36] [Server thread/INFO]: [WorldGuard] (survival_nether) Lighters are PERMITTED.
+[21:36:36] [Server thread/INFO]: [WorldGuard] (survival_nether) Lava fire is blocked.
+[21:36:36] [Server thread/INFO]: [WorldGuard] (survival_nether) Fire spread is UNRESTRICTED.
+[21:36:36] [Server thread/INFO]: [WorldGuard] (survival_the_end) Lighters are PERMITTED.
+[21:36:36] [Server thread/INFO]: [WorldGuard] (survival_the_end) Lava fire is blocked.
+[21:36:36] [Server thread/INFO]: [WorldGuard] (survival_the_end) Fire spread is UNRESTRICTED.
+[21:36:36] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v2.4-b527
+[21:36:37] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'lobby' - Env: NORMAL - Type: NORMAL & seed: -3770714656453924402
+[21:36:37] [Server thread/INFO]: [WorldGuard] (lobby) Lighters are PERMITTED.
+[21:36:37] [Server thread/INFO]: [WorldGuard] (lobby) Lava fire is blocked.
+[21:36:37] [Server thread/INFO]: [WorldGuard] (lobby) Fire spread is UNRESTRICTED.
+[21:36:37] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'minigames' - Env: NORMAL - Type: FLAT & seed: 2973644325369467684
+[21:36:38] [Server thread/INFO]: [WorldGuard] (minigames) Lighters are PERMITTED.
+[21:36:38] [Server thread/INFO]: [WorldGuard] (minigames) Lava fire is blocked.
+[21:36:38] [Server thread/INFO]: [WorldGuard] (minigames) Fire spread is UNRESTRICTED.
+[21:36:38] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'Skywars' - Env: NORMAL - Type: FLAT & seed: 3121935573477155779
+[21:36:38] [Server thread/INFO]: [WorldGuard] (Skywars) Lighters are PERMITTED.
+[21:36:38] [Server thread/INFO]: [WorldGuard] (Skywars) Lava fire is blocked.
+[21:36:38] [Server thread/INFO]: [WorldGuard] (Skywars) Fire spread is UNRESTRICTED.
+[21:36:38] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'survival' - Env: NORMAL - Type: NORMAL & seed: 417882899938927719
+[21:36:38] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'survival_nether' - Env: NETHER - Type: NORMAL & seed: 6261662807370706275
+[21:36:38] [Server thread/ERROR]: [Multiverse-Core] New safe spawn NOT found!!!
+[21:36:38] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'survival_the_end' - Env: THE_END - Type: NORMAL & seed: 6261662807370706275
+[21:36:38] [Server thread/INFO]: [Multiverse-Core] 6 - World(s) loaded.
+[21:36:38] [Server thread/INFO]: [Splegg] Enabling Splegg v1.2
+[21:36:38] [Server thread/INFO]: [Splegg] Loading map SpleggOne.
+[21:36:38] [Server thread/INFO]: [Splegg] Map is usable
+[21:36:38] [Server thread/INFO]: [Splegg] Load Complete!
+[21:36:38] [Server thread/INFO]: [Splegg] Loading map ArenaOne.
+[21:36:38] [Server thread/INFO]: [Splegg] Spawn count is 0
+[21:36:38] [Server thread/INFO]: [Splegg] No floors are setup.
+[21:36:38] [Server thread/INFO]: [Splegg] --<>-- PLEASE SETUP MAP!! --<>--
+[21:36:38] [Server thread/INFO]: [Splegg] Load Complete!
+[21:36:38] [Server thread/INFO]: [EssentialsProtect] Enabling EssentialsProtect vTeamCity
+[21:36:38] [Server thread/INFO]: [VoxelSniper] Enabling VoxelSniper v7.1.0
+[21:36:39] [Server thread/INFO]: [Multiverse-NetherPortals] Enabling Multiverse-NetherPortals v2.4-b530
+[21:36:39] [Server thread/INFO]: [SuperVanish] Enabling SuperVanish v5.4.3
+[21:36:39] [Server thread/INFO]: [Multiverse-Portals] Enabling Multiverse-Portals v2.4-b548
+[21:36:39] [Server thread/INFO]: [Multiverse-Portals]  1 - Portals(s) loaded
+[21:36:39] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn vTeamCity
+[21:36:39] [Server thread/INFO]: [MinigamesLib] Enabling MinigamesLib v1.13.1
+[21:36:39] [Server thread/INFO]: [Minigames] Enabling Minigames v1.7.0
+[21:36:39] [Server thread/INFO]: [Minigames] Using lang en_AU
+[21:36:39] [Server thread/INFO]: Minigames successfully enabled.
+[21:36:39] [Server thread/INFO]: [MobArena] Enabling MobArena v0.97.1
+[21:36:40] [Server thread/INFO]: [MobArena] Loaded arena 'god-arena'
+[21:36:41] [Server thread/INFO]: [MobArena] v0.97.1 enabled.
+[21:36:41] [Server thread/INFO]: [TNTRun] Enabling TNTRun v3.4
+[21:36:41] [Server thread/INFO]: [HolographicDisplays] Enabling HolographicDisplays v2.1.10
+[21:36:41] [Server thread/INFO]: [CommandSigns] Enabling CommandSigns v1.9.3.2
+[21:36:41] [Server thread/INFO]: [CommandSigns] No signs found.
+[21:36:42] [Server thread/INFO]: [SkyWars] Enabling SkyWars v1.1-m16
+[21:36:43] [Server thread/INFO]: Preparing spawn area for island-0, 81%
+[21:36:43] [Server thread/INFO]: [WorldGuard] (island-0) Lighters are PERMITTED.
+[21:36:43] [Server thread/INFO]: [WorldGuard] (island-0) Lava fire is blocked.
+[21:36:43] [Server thread/INFO]: [WorldGuard] (island-0) Fire spread is UNRESTRICTED.
+[21:36:44] [Server thread/INFO]: [EpicSpleef] Enabling EpicSpleef v0.0.19
+[21:36:44] [Server thread/INFO]: [EpicSpleef] Enabling EpicSpleef by BtoBastian
+[21:36:45] [Server thread/INFO]: [EpicSpleef] Loading lobby SpleefOne
+[21:36:45] [Server thread/INFO]: [EpicSpleef] Loading arena ArenaOne
+[21:36:46] [Server thread/INFO]: [EpicSpleef] Successfully loaded arena ArenaOne. (world: minigames, blocks: 5233, maxPlayers: 0)
+[21:36:46] [Server thread/INFO]: [EpicSpleef] Loading arena SpleefOne
+[21:36:46] [Server thread/INFO]: [EpicSpleef] Successfully loaded arena SpleefOne. (world: minigames, blocks: 0, maxPlayers: 0)
+[21:36:46] [Server thread/INFO]: [OnTime] Enabling OnTime v4.1.3
+[21:36:46] [Server thread/INFO]: [CraftBook] Enabling CraftBook v3.9-SNAPSHOT
+[21:36:46] [Server thread/INFO]: [CraftBook] Successfully added 1 CommandItems!
+[21:36:46] [Server thread/INFO]: [CraftBook] Registered 3 custom recipes!
+[21:36:46] [Server thread/INFO]: [CraftBook] 4449 chunk(s) for 7 world(s) processed (38ms elapsed)
+[21:36:49] [Server thread/INFO]: Found 0 arenas.
+[21:37:07] [Server thread/INFO]: Popey456963 issued server command: /sw join
+[21:37:11] [Server thread/INFO]: Popey456963 issued server command: /sw start
+[21:37:15] [Server thread/INFO]: Popey456963 issued server command: /warp skywar
+[21:37:15] [Server thread/INFO]: Popey456963 issued server command: /warp skywars
+[21:37:33] [Server thread/INFO]: Staff: [Admin] Chris
+[21:37:33] [Server thread/INFO]: Developers: [Dev] Poopey
+[21:37:34] [Server thread/INFO]: Popey456963 issued server command: /g /warp skywars
+[21:37:34] [Server thread/INFO]: [G] [Dev] Poopey > /warp skywars 
+[21:37:47] [Server thread/INFO]: Twiixtor issued server command: /warp skywars
+[21:38:20] [Server thread/INFO]: Staff: [Admin] Chris
+[21:38:20] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe] Twiixtor
+[21:39:06] [Server thread/INFO]: Twiixtor issued server command: /god
+[21:39:06] [Server thread/INFO]: Staff: [Admin] Chris
+[21:39:06] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe] Twiixtor
+[21:39:07] [Server thread/INFO]: Twiixtor issued server command: /god
+[21:39:08] [Server thread/INFO]: Popey456963 issued server command: /god Twiixtor
+[21:39:08] [Server thread/INFO]: Popey456963 issued server command: /god Twiixtor
+[21:39:22] [Server thread/INFO]: Popey456963 was slain by Twiixtor
+[21:39:26] [Server thread/INFO]: Popey456963 issued server command: /back
+[21:39:33] [Server thread/INFO]: Popey456963 issued server command: /sw start
+[21:39:53] [Server thread/INFO]: Staff: [Admin] Chris
+[21:39:53] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe] Twiixtor
+[21:40:39] [Server thread/INFO]: Staff: [Admin] Chris
+[21:40:39] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe] Twiixtor
+[21:40:56] [Server thread/INFO]: Popey456963 issued server command: /speed 1
+[21:41:05] [Server thread/INFO]: Twiixtor issued server command: /sw score
+[21:41:08] [Server thread/INFO]: Popey456963 issued server command: /sw start
+[21:41:26] [Server thread/INFO]: Staff: [Admin] Chris
+[21:41:26] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe] Twiixtor
+[21:41:47] [Server thread/INFO]: Popey456963 issued server command: /sw start
+[21:42:12] [Server thread/INFO]: Staff: [Admin] Chris
+[21:42:12] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe] Twiixtor
+[21:42:26] [Server thread/INFO]: Crustifer issued server command: //stack 3
+[21:42:31] [Server thread/INFO]: Crustifer issued server command: //stack 4
+[21:42:34] [Server thread/INFO]: Crustifer issued server command: //stack 5
+[21:42:39] [Server thread/INFO]: Crustifer issued server command: //undo
+[21:42:41] [Server thread/INFO]: Crustifer issued server command: //undo
+[21:42:42] [Server thread/INFO]: Crustifer issued server command: //undo
+[21:42:56] [Server thread/INFO]: Crustifer issued server command: //stack 7
+[21:42:59] [Server thread/INFO]: Crustifer issued server command: //undo
+[21:42:59] [Server thread/INFO]: Staff: [Admin] Chris
+[21:42:59] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe] Twiixtor
+[21:43:01] [Server thread/INFO]: Crustifer issued server command: //stack 4
+[21:43:03] [Server thread/INFO]: Crustifer issued server command: //stack 5
+[21:43:18] [Server thread/INFO]: Popey456963 issued server command: /tp twi po
+[21:43:19] [Server thread/INFO]: Crustifer issued server command: //undo
+[21:43:21] [Server thread/INFO]: Crustifer issued server command: //undo
+[21:43:27] [Server thread/INFO]: Popey456963 issued server command: /f enemy Twiixtor
+[21:43:33] [Server thread/INFO]: Crustifer issued server command: //stack 6
+[21:43:37] [Server thread/INFO]: Popey456963 issued server command: /heal
+[21:43:38] [Server thread/INFO]: Twiixtor issued server command: /f
+[21:43:40] [Server thread/INFO]: Crustifer issued server command: //undo
+[21:43:45] [Server thread/INFO]: Staff: [Admin] Chris
+[21:43:45] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe] Twiixtor
+[21:43:46] [Server thread/INFO]: Crustifer issued server command: //stack 5
+[21:43:47] [Server thread/INFO]: Popey456963 issued server command: /f enemy Giraffes
+[21:43:51] [Server thread/INFO]: Popey456963 issued server command: /f enemy Twiixtor
+[21:43:58] [Server thread/INFO]: Popey456963 issued server command: /f s
+[21:44:25] [Server thread/INFO]: Crustifer issued server command: //undo
+[21:44:32] [Server thread/INFO]: Staff: [Admin] Chris
+[21:44:32] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe] Twiixtor
+[21:45:19] [Server thread/INFO]: Staff: [Admin] Chris
+[21:45:19] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe] Twiixtor
+[21:45:44] [Server thread/INFO]: Twiixtor issued server command: /f leave
+[21:46:06] [Server thread/INFO]: Staff: [Admin] Chris
+[21:46:06] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe] Twiixtor
+[21:47:22] [Server thread/INFO]: Staff: [Admin] Chris
+[21:47:22] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe] Twiixtor
+[21:47:32] [Server thread/INFO]: Twiixtor issued server command: /f leave
+[21:47:35] [Server thread/INFO]: Twiixtor issued server command: /f leave
+[21:47:35] [Server thread/INFO]: Popey456963 issued server command: /f enemy Giraffe
+[21:47:39] [Server thread/INFO]: Twiixtor issued server command: /tp pop
+[21:47:39] [Server thread/INFO]: Popey456963 issued server command: /f leave
+[21:47:45] [Server thread/INFO]: Twiixtor was slain by Popey456963
+[21:47:48] [Server thread/INFO]: Popey456963 issued server command: /warp skywars
+[21:47:50] [Server thread/INFO]: Twiixtor issued server command: /tp pop
+[21:47:56] [Server thread/INFO]: Twiixtor was slain by Popey456963
+[21:48:01] [Server thread/INFO]: Twiixtor issued server command: /sw join
+[21:48:06] [Server thread/INFO]: Twiixtor issued server command: /warp skywars
+[21:48:09] [Server thread/INFO]: Staff: [Admin] Chris
+[21:48:09] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe] Twiixtor
+[21:48:11] [Server thread/INFO]: Popey456963 issued server command: /sw start
+[21:48:55] [Server thread/INFO]: Staff: [Admin] Chris
+[21:48:55] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe] Twiixtor
+[21:49:09] [Server thread/INFO]: Popey456963 was shot by Twiixtor
+[21:49:18] [Server thread/INFO]: Popey456963 issued server command: /warp skywars
+[21:49:19] [Server thread/INFO]: Twiixtor issued server command: /gm 1
+[21:49:26] [Server thread/INFO]: Popey456963 issued server command: /sw start
+[21:49:42] [Server thread/INFO]: Staff: [Admin] Chris
+[21:49:42] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe] Twiixtor
+[21:50:19] [Server thread/INFO]: Twiixtor was slain by Popey456963
+[21:50:25] [Server thread/INFO]: Twiixtor issued server command: /tp pop
+[21:50:28] [Server thread/INFO]: [Giraffe] Twiixtor: POPEY
+[21:50:28] [Server thread/INFO]: Staff: [Admin] Chris
+[21:50:28] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe] Twiixtor
+[21:50:30] [Server thread/INFO]: Twiixtor was slain by Popey456963
+[21:50:35] [Server thread/INFO]: Crustifer issued server command: /tphere pop
+[21:50:38] [Server thread/INFO]: Twiixtor issued server command: /tp pop
+[21:50:41] [Server thread/INFO]: Twiixtor issued server command: /gm 1
+[21:50:42] [Server thread/INFO]: Twiixtor issued server command: /mcmmo
+[21:50:47] [Server thread/INFO]: Twiixtor issued server command: /mcmmo help
+[21:50:47] [Server thread/INFO]: Popey456963 issued server command: /gm 0 Twiixtor
+[21:50:58] [Server thread/INFO]: Twiixtor issued server command: /gm 1
+[21:51:02] [Server thread/INFO]: Popey456963 issued server command: /gm 0 Twiixtor
+[21:51:04] [Server thread/INFO]: Twiixtor issued server command: /gm 1
+[21:51:08] [Server thread/INFO]: Popey456963 issued server command: /gm 0 Twiixtor
+[21:51:09] [Server thread/INFO]: Twiixtor issued server command: /speed 2
+[21:51:09] [Server thread/INFO]: Twiixtor fell from a high place
+[21:51:13] [Server thread/INFO]: Popey456963 issued server command: /gm c Twiixtor
+[21:51:15] [Server thread/INFO]: Staff: [Admin] Chris
+[21:51:15] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe] Twiixtor
+[21:51:23] [Server thread/INFO]: Twiixtor issued server command: /speed 1
+[21:51:25] [Server thread/INFO]: Twiixtor issued server command: /tp pop
+[21:51:27] [Server thread/INFO]: Popey456963 issued server command: /tp Twiixtor
+[21:51:31] [Server thread/INFO]: Popey456963 issued server command: /kill Twiixtor
+[21:51:31] [Server thread/INFO]: Twiixtor died
+[21:51:35] [Server thread/INFO]: Popey456963 issued server command: /tp Twiixtor Popey456963
+[21:51:37] [Server thread/INFO]: Twiixtor issued server command: /kill pop
+[21:51:37] [Server thread/INFO]: Popey456963 died
+[21:51:40] [Server thread/INFO]: Popey456963 issued server command: /kill twi
+[21:51:40] [Server thread/INFO]: Twiixtor died
+[21:51:42] [Server thread/INFO]: Popey456963 issued server command: /tp Twiixtor
+[21:51:45] [Server thread/INFO]: Twiixtor issued server command: /deop Popey456963
+[21:51:45] [Server thread/INFO]: [Twiixtor: De-opped Popey456963]
+[21:51:46] [Server thread/INFO]: Popey456963 issued server command: /smite Twiixtor
+[21:51:46] [Server thread/INFO]: Popey456963 issued server command: /smite Twiixtor
+[21:51:46] [Server thread/INFO]: Popey456963 issued server command: /smite Twiixtor
+[21:51:46] [Server thread/INFO]: Twiixtor issued server command: /kill pop
+[21:51:46] [Server thread/INFO]: Popey456963 died
+[21:51:51] [Server thread/INFO]: Popey456963 issued server command: /smite Twiixtor
+[21:51:52] [Server thread/INFO]: Popey456963 issued server command: /smite Twiixtor
+[21:51:52] [Server thread/INFO]: Popey456963 issued server command: /smite Twiixtor
+[21:51:52] [Server thread/INFO]: Popey456963 issued server command: /smite Twiixtor
+[21:51:52] [Server thread/INFO]: Popey456963 issued server command: /smite Twiixtor
+[21:51:53] [Server thread/INFO]: Popey456963 issued server command: /smite Twiixtor
+[21:51:53] [Server thread/INFO]: Popey456963 issued server command: /smite Twiixtor
+[21:51:53] [Server thread/INFO]: Popey456963 issued server command: /smite Twiixtor
+[21:51:53] [Server thread/INFO]: Popey456963 issued server command: /smite Twiixtor
+[21:51:54] [Server thread/INFO]: Popey456963 issued server command: /smite Twiixtor
+[21:51:54] [Server thread/INFO]: Popey456963 issued server command: /smite Twiixtor
+[21:51:54] [Server thread/INFO]: Popey456963 issued server command: /smite Twiixtor
+[21:51:54] [Server thread/INFO]: Popey456963 issued server command: /smite Twiixtor
+[21:51:55] [Server thread/INFO]: Popey456963 issued server command: /smite Twiixtor
+[21:51:55] [Server thread/INFO]: Popey456963 left the game.
+[21:52:00] [Server thread/INFO]: Twiixtor issued server command: /tp cr
+[21:52:01] [Server thread/INFO]: Popey456963 issued server command: /smite Twiixtor
+[21:52:01] [Server thread/INFO]: Popey456963 issued server command: /smite Twiixtor
+[21:52:01] [Server thread/INFO]: Popey456963 issued server command: /smite Twiixtor
+[21:52:01] [Server thread/INFO]: Staff: [Admin] Chris
+[21:52:01] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe] Twiixtor
+[21:52:03] [Server thread/INFO]: Popey456963 issued server command: /gm 1
+[21:52:09] [Server thread/INFO]: Twiixtor issued server command: /demote Popey456963
+[21:52:15] [Server thread/INFO]: Popey456963 issued server command: /pt smite Twiixtor
+[21:52:16] [Server thread/INFO]: [PT] Popey456963 issued server command: /smite Twiixtor
+[21:52:16] [Server thread/INFO]: [PT] Popey456963 issued server command: /smite Twiixtor
+[21:52:16] [Server thread/INFO]: [PT] Popey456963 issued server command: /smite Twiixtor
+[21:52:16] [Server thread/INFO]: [PT] Popey456963 issued server command: /smite Twiixtor
+[21:52:16] [Server thread/INFO]: [PT] Popey456963 issued server command: /smite Twiixtor
+[21:52:17] [Server thread/INFO]: [PT] Popey456963 issued server command: /smite Twiixtor
+[21:52:17] [Server thread/INFO]: [PT] Popey456963 issued server command: /smite Twiixtor
+[21:52:17] [Server thread/INFO]: [PT] Popey456963 issued server command: /smite Twiixtor
+[21:52:18] [Server thread/INFO]: Popey456963 issued server command: /tp twi
+[21:52:19] [Server thread/INFO]: [PT] Popey456963 issued server command: /smite Twiixtor
+[21:52:20] [Server thread/INFO]: [PT] Popey456963 issued server command: /smite Twiixtor
+[21:52:20] [Server thread/INFO]: [PT] Popey456963 issued server command: /smite Twiixtor
+[21:52:20] [Server thread/INFO]: [PT] Popey456963 issued server command: /smite Twiixtor
+[21:52:20] [Server thread/INFO]: [PT] Popey456963 issued server command: /smite Twiixtor
+[21:52:20] [Server thread/INFO]: [PT] Popey456963 issued server command: /smite Twiixtor
+[21:52:20] [Server thread/INFO]: [PT] Popey456963 issued server command: /smite Twiixtor
+[21:52:21] [Server thread/INFO]: [PT] Popey456963 issued server command: /smite Twiixtor
+[21:52:21] [Server thread/INFO]: [PT] Popey456963 issued server command: /smite Twiixtor
+[21:52:21] [Server thread/INFO]: [PT] Popey456963 issued server command: /smite Twiixtor
+[21:52:21] [Server thread/INFO]: [PT] Popey456963 issued server command: /smite Twiixtor
+[21:52:21] [Server thread/INFO]: [PT] Popey456963 issued server command: /smite Twiixtor
+[21:52:22] [Server thread/INFO]: [PT] Popey456963 issued server command: /smite Twiixtor
+[21:52:22] [Server thread/INFO]: Twiixtor issued server command: /pex
+[21:52:22] [Server thread/INFO]: [PT] Popey456963 issued server command: /smite Twiixtor
+[21:52:22] [Server thread/INFO]: [PT] Popey456963 issued server command: /smite Twiixtor
+[21:52:22] [Server thread/INFO]: [PT] Popey456963 issued server command: /smite Twiixtor
+[21:52:22] [Server thread/INFO]: [PT] Popey456963 issued server command: /smite Twiixtor
+[21:52:23] [Server thread/INFO]: [PT] Popey456963 issued server command: /smite Twiixtor
+[21:52:23] [Server thread/INFO]: [PT] Popey456963 issued server command: /smite Twiixtor
+[21:52:23] [Server thread/INFO]: [PT] Popey456963 issued server command: /smite Twiixtor
+[21:52:23] [Server thread/INFO]: [PT] Popey456963 issued server command: /smite Twiixtor
+[21:52:23] [Server thread/INFO]: [PT] Popey456963 issued server command: /smite Twiixtor
+[21:52:23] [Server thread/INFO]: [PT] Popey456963 issued server command: /smite Twiixtor
+[21:52:24] [Server thread/INFO]: [PT] Popey456963 issued server command: /smite Twiixtor
+[21:52:24] [Server thread/INFO]: [PT] Popey456963 issued server command: /smite Twiixtor
+[21:52:24] [Server thread/INFO]: [PT] Popey456963 issued server command: /smite Twiixtor
+[21:52:24] [Server thread/INFO]: Twiixtor issued server command: /pex set user
+[21:52:24] [Server thread/INFO]: [PT] Popey456963 issued server command: /smite Twiixtor
+[21:52:24] [Server thread/INFO]: [PT] Popey456963 issued server command: /smite Twiixtor
+[21:52:25] [Server thread/INFO]: [PT] Popey456963 issued server command: /smite Twiixtor
+[21:52:25] [Server thread/INFO]: [PT] Popey456963 issued server command: /smite Twiixtor
+[21:52:25] [Server thread/INFO]: [PT] Popey456963 issued server command: /smite Twiixtor
+[21:52:25] [Server thread/INFO]: [PT] Popey456963 issued server command: /smite Twiixtor
+[21:52:25] [Server thread/INFO]: [PT] Popey456963 issued server command: /smite Twiixtor
+[21:52:25] [Server thread/INFO]: [PT] Popey456963 issued server command: /smite Twiixtor
+[21:52:26] [Server thread/INFO]: [PT] Popey456963 issued server command: /smite Twiixtor
+[21:52:26] [Server thread/INFO]: [PT] Popey456963 issued server command: /smite Twiixtor
+[21:52:26] [Server thread/INFO]: [PT] Popey456963 issued server command: /smite Twiixtor
+[21:52:26] [Server thread/INFO]: [PT] Popey456963 issued server command: /smite Twiixtor
+[21:52:26] [Server thread/INFO]: [PT] Popey456963 issued server command: /smite Twiixtor
+[21:52:26] [Server thread/INFO]: [PT] Popey456963 issued server command: /smite Twiixtor
+[21:52:27] [Server thread/INFO]: [PT] Popey456963 issued server command: /smite Twiixtor
+[21:52:27] [Server thread/INFO]: [PT] Popey456963 issued server command: /smite Twiixtor
+[21:52:27] [Server thread/INFO]: [PT] Popey456963 issued server command: /smite Twiixtor
+[21:52:27] [Server thread/INFO]: [PT] Popey456963 issued server command: /smite Twiixtor
+[21:52:29] [Server thread/INFO]: Twiixtor issued server command: /pex user
+[21:52:30] [Server thread/INFO]: Popey456963 issued server command: /op Popey456963
+[21:52:30] [Server thread/INFO]: [Popey456963: Opped Popey456963]
+[21:52:32] [Server thread/INFO]: [Dev] Poopey: Test
+[21:52:32] [Server thread/INFO]: Crustifer issued server command: //stack 5
+[21:52:33] [Server thread/INFO]: Twiixtor issued server command: /pex user Popey456963 set
+[21:52:35] [Server thread/INFO]: Crustifer issued server command: //undo
+[21:52:37] [Server thread/INFO]: Crustifer issued server command: //stack 4
+[21:52:42] [Server thread/INFO]: Popey456963 issued server command: /pt
+[21:52:45] [Server thread/INFO]: Twiixtor issued server command: /pex user Popey456963 set Guest
+[21:52:48] [Server thread/INFO]: Staff: [Admin] Chris
+[21:52:48] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe] Twiixtor
+[21:53:34] [Server thread/INFO]: Staff: [Admin] Chris
+[21:53:34] [Server thread/INFO]: Developers: [Dev] Poopey, [Giraffe] Twiixtor
+[21:53:37] [Server thread/INFO]: [Dev] Poopey: ./pex user Popey456963 group set "Noob"
+[21:53:52] [Server thread/INFO]: Twiixtor issued server command: /pex user Popey456963 group set Guest
+[21:53:57] [Server thread/INFO]: Twiixtor issued server command: /gm 0 Popey456963
+[21:53:58] [Server thread/INFO]: Popey456963 issued server command: /nick Twiixtor &CT&Ew&Ai&Bi&9x&Dt&Co&Er
+[21:54:04] [Server thread/INFO]: [Giraffe] Twiixtor: NEVER
+[21:54:05] [Server thread/INFO]: Popey456963 issued server command: /gm 1
+[21:54:17] [Server thread/INFO]: Twiixtor issued server command: /speed 2
+[21:54:21] [Server thread/INFO]: Crustifer issued server command: //copy
+[21:54:21] [Server thread/INFO]: Staff: [Admin] Chris
+[21:54:21] [Server thread/INFO]: Players: [Guest] Poopey
+[21:54:21] [Server thread/INFO]: Developers: [Giraffe] Twiixtor
+[21:54:27] [Server thread/INFO]: Popey456963 issued server command: /nick &CT&Ew&Ai&Bi&9x&Dt&Co&Er
+[21:54:30] [Server thread/INFO]: Crustifer issued server command: //paste
+[21:54:33] [Server thread/INFO]: Popey456963 issued server command: /nick test
+[21:54:35] [Server thread/INFO]: Popey456963 issued server command: /nick &CT&Ew&Ai&Bi&9x&Dt&Co&Er
+[21:54:43] [Server thread/INFO]: Popey456963 issued server command: /nick Popey
+[21:54:45] [Server thread/INFO]: Popey456963 issued server command: /nick &CT&Ew&Ai&Bi&9x&Dt&Co&Er
+[21:54:45] [Server thread/INFO]: Crustifer issued server command: //paste
+[21:54:54] [Server thread/INFO]: Popey456963 issued server command: /nick &CP&Eo&Ap&Be&9y
+[21:54:55] [Server thread/INFO]: [Guest] Popey: =)
+[21:55:05] [Server thread/INFO]: Crustifer issued server command: //undo
+[21:55:06] [Server thread/INFO]: Crustifer issued server command: //flip
+[21:55:07] [Server thread/INFO]: Popey456963 issued server command: /pex user Popey456963 group set Dev
+[21:55:08] [Server thread/INFO]: Staff: [Admin] Chris
+[21:55:08] [Server thread/INFO]: Players: [Guest] Popey
+[21:55:08] [Server thread/INFO]: Developers: [Giraffe] Twiixtor
+[21:55:10] [Server thread/INFO]: [Guest] Popey: MAGIC
+[21:55:13] [Server thread/INFO]: Crustifer issued server command: //paste
+[21:55:14] [Server thread/INFO]: Twiixtor issued server command: /deop Popey456963
+[21:55:14] [Server thread/INFO]: [Twiixtor: De-opped Popey456963]
+[21:55:20] [Server thread/INFO]: Twiixtor issued server command: /tp Popey456963
+[21:55:22] [Server thread/INFO]: Crustifer issued server command: //undo
+[21:55:23] [Server thread/INFO]: Twiixtor issued server command: /gm 0 Popey456963
+[21:55:27] [Server thread/INFO]: User groups set!
+[21:55:29] [Server thread/INFO]: [Dev] Popey: =(
+[21:55:29] [Server thread/INFO]: Twiixtor issued server command: /op Popey456963
+[21:55:29] [Server thread/INFO]: [Twiixtor: Opped Popey456963]
+[21:55:30] [Server thread/INFO]: Crustifer issued server command: //paste
+[21:55:33] [Server thread/INFO]: Popey456963 issued server command: /gm 1
+[21:55:34] [Server thread/INFO]: Popey456963 issued server command: /gm 0 Twiixtor
+[21:55:37] [Server thread/INFO]: Crustifer issued server command: //undo
+[21:55:38] [Server thread/INFO]: Crustifer issued server command: //undo
+[21:55:39] [Server thread/INFO]: Popey456963 issued server command: /speed `10
+[21:55:39] [Server thread/INFO]: Twiixtor issued server command: /gm 1
+[21:55:41] [Server thread/INFO]: Popey456963 issued server command: /gm 0 Twiixtor
+[21:55:46] [Server thread/INFO]: Twiixtor issued server command: /gm 1
+[21:55:48] [Server thread/INFO]: Popey456963 issued server command: /gm 0 Twiixtor
+[21:55:49] [Server thread/INFO]: Twiixtor issued server command: /gm 1
+[21:55:51] [Server thread/INFO]: Popey456963 issued server command: /gm 0 Twiixtor
+[21:55:52] [Server thread/INFO]: Crustifer issued server command: //COPY
+[21:55:53] [Server thread/INFO]: Popey456963 issued server command: /gm 0 Twiixtor
+[21:55:54] [Server thread/INFO]: Staff: [Admin] Chris
+[21:55:54] [Server thread/INFO]: Developers: [Dev] Popey, [Giraffe] Twiixtor
+[21:55:55] [Server thread/INFO]: Crustifer issued server command: //flip
+[21:55:56] [Server thread/INFO]: Crustifer issued server command: //paste
+[21:56:00] [Server thread/INFO]: Twiixtor issued server command: /god
+[21:56:01] [Server thread/INFO]: Popey456963 issued server command: /gm 0 Twiixtor
+[21:56:07] [Server thread/INFO]: Popey456963 issued server command: /tp Twiixtor
+[21:56:13] [Server thread/INFO]: Popey456963 issued server command: /god Twiixtor]
+[21:56:14] [Server thread/INFO]: Popey456963 issued server command: /god Twiixtor
+[21:56:21] [Server thread/INFO]: Popey456963 issued server command: /gamemode 0 twi
+[21:56:28] [Server thread/INFO]: Popey456963 issued server command: /god Twiixtor
+[21:56:30] [Server thread/INFO]: Popey456963 issued server command: /gamemode 0 twi
+[21:56:34] [Server thread/INFO]: Popey456963 issued server command: /gamemode 1 twi
+[21:56:47] [Server thread/INFO]: Popey456963 issued server command: /gamemode 0 Popey456963
+[21:56:49] [Server thread/INFO]: Twiixtor issued server command: /gm 0
+[21:56:49] [Server thread/INFO]: Popey456963 issued server command: /god po
+[21:56:52] [Server thread/INFO]: Popey456963 issued server command: /god po
+[21:56:58] [Server thread/INFO]: Popey456963 issued server command: /gamemode 0 Twiixtor
+[21:57:07] [Server thread/INFO]: Twiixtor issued server command: /i stick 1
+[21:57:09] [Server thread/INFO]: Popey456963 issued server command: /give Popey456963 stick
+[21:57:13] [Server thread/INFO]: Popey456963 issued server command: /give twi stick
+[21:57:22] [Server thread/INFO]: [PT] Popey456963 issued server command: /tnt
+[21:57:22] [Server thread/INFO]: [PT] Popey456963 issued server command: /tnt
+[21:57:22] [Server thread/INFO]: [PT] Popey456963 issued server command: /tnt
+[21:57:22] [Server thread/INFO]: Staff: [Admin] Chris
+[21:57:22] [Server thread/INFO]: Developers: [Dev] Popey, [Giraffe] Twiixtor
+[21:57:22] [Server thread/INFO]: [PT] Popey456963 issued server command: /tnt
+[21:57:22] [Server thread/INFO]: [PT] Popey456963 issued server command: /tnt
+[21:57:23] [Server thread/INFO]: [PT] Popey456963 issued server command: /tnt
+[21:57:23] [Server thread/INFO]: [PT] Popey456963 issued server command: /tnt
+[21:57:23] [Server thread/INFO]: [PT] Popey456963 issued server command: /tnt
+[21:57:25] [Server thread/INFO]: [PT] Popey456963 issued server command: /tnt
+[21:57:25] [Server thread/INFO]: [PT] Popey456963 issued server command: /tnt
+[21:57:25] [Server thread/INFO]: [PT] Popey456963 issued server command: /tnt
+[21:57:25] [Server thread/INFO]: [PT] Popey456963 issued server command: /tnt
+[21:57:26] [Server thread/INFO]: [PT] Popey456963 issued server command: /tnt
+[21:57:26] [Server thread/INFO]: [PT] Popey456963 issued server command: /tnt
+[21:57:26] [Server thread/INFO]: [PT] Popey456963 issued server command: /tnt
+[21:57:26] [Server thread/INFO]: [PT] Popey456963 issued server command: /tnt
+[21:57:26] [Server thread/INFO]: [PT] Popey456963 issued server command: /tnt
+[21:57:27] [Server thread/INFO]: [PT] Popey456963 issued server command: /tnt
+[21:57:27] [Server thread/INFO]: Popey456963 was blown up by Twiixtor
+[21:57:31] [Server thread/INFO]: Popey456963 issued server command: /pt
+[21:57:35] [Server thread/INFO]: Popey456963 issued server command: /tp Twiixtor
+[21:57:38] [Server thread/INFO]: Popey456963 issued server command: /gm 1
+[21:57:40] [Server thread/INFO]: Twiixtor issued server command: /tpto
+[21:57:44] [Server thread/INFO]: Twiixtor issued server command: /thru
+[21:57:45] [Server thread/INFO]: [PT] Popey456963 issued server command: /heal Popey456963
+[21:57:48] [Server thread/INFO]: [PT] Popey456963 issued server command: /smite Twiixtor
+[21:57:58] [Server thread/INFO]: Twiixtor issued server command: /gm 1
+[21:58:07] [Server thread/INFO]: Twiixtor issued server command: /gm 1
+[21:58:09] [Server thread/INFO]: Staff: [Admin] Chris
+[21:58:09] [Server thread/INFO]: Developers: [Dev] Popey, [Giraffe] Twiixtor
+[21:58:09] [Server thread/INFO]: [PT] Popey456963 issued server command: /smite Twiixtor
+[21:58:15] [Server thread/INFO]: [PT] Popey456963 issued server command: /smite Twiixtor
+[21:58:55] [Server thread/INFO]: Staff: [Admin] Chris
+[21:58:55] [Server thread/INFO]: Developers: [Dev] Popey, [Giraffe] Twiixtor
+[21:59:04] [Server thread/INFO]: Crustifer issued server command: //set spruce log
+[21:59:06] [Server thread/INFO]: Crustifer issued server command: //set sprucelog
+[21:59:10] [Server thread/INFO]: Crustifer issued server command: //set log:spruce
+[21:59:24] [Server thread/INFO]: Crustifer issued server command: //set 17:1
+[21:59:40] [Server thread/INFO]: Crustifer issued server command: //set leaves
+[21:59:42] [Server thread/INFO]: Staff: [Admin] Chris
+[21:59:42] [Server thread/INFO]: Developers: [Dev] Popey, [Giraffe] Twiixtor
+[21:59:44] [Server thread/INFO]: Twiixtor left the game.
+[22:00:18] [Server thread/INFO]: Popey456963 issued server command: /tp twi
+[22:00:18] [Server thread/INFO]: Popey456963 issued server command: /tp crust
+[22:00:22] [Server thread/INFO]: Crustifer issued server command: //move 10
+[22:00:28] [Server thread/INFO]: Staff: [Admin] Chris
+[22:00:28] [Server thread/INFO]: Developers: [Dev] Popey
+[22:01:15] [Server thread/INFO]: Staff: [Admin] Chris
+[22:01:15] [Server thread/INFO]: Developers: [Dev] Popey
+[22:02:01] [Server thread/INFO]: Staff: [Admin] Chris
+[22:02:01] [Server thread/INFO]: Developers: [Dev] Popey
+[22:02:48] [Server thread/INFO]: Staff: [Admin] Chris
+[22:02:48] [Server thread/INFO]: Developers: [Dev] Popey
+[22:03:34] [Server thread/INFO]: Staff: [Admin] Chris
+[22:03:34] [Server thread/INFO]: Developers: [Dev] Popey
+[22:04:21] [Server thread/INFO]: Staff: [Admin] Chris
+[22:04:21] [Server thread/INFO]: Developers: [Dev] Popey
+[22:04:27] [Server thread/INFO]: Popey456963 issued server command: //set grass
+[22:04:29] [Server thread/INFO]: Popey456963 issued server command: /tp cri
+[22:04:31] [Server thread/INFO]: Popey456963 issued server command: /tp chris
+[22:05:08] [Server thread/INFO]: Staff: [Admin] Chris
+[22:05:08] [Server thread/INFO]: Developers: [Dev] Popey
+[22:05:54] [Server thread/INFO]: Popey456963 issued server command: /tp Twiixtor
+[22:05:54] [Server thread/INFO]: Staff: [Admin] Chris
+[22:05:54] [Server thread/INFO]: Developers: [Dev] Popey, [Giraffe] Twiixtor
+[22:07:22] [Server thread/INFO]: Staff: [Admin] Chris
+[22:07:22] [Server thread/INFO]: Developers: [Dev] Popey, [Giraffe] Twiixtor
+[22:07:48] [Server thread/INFO]: Popey456963 issued server command: /tp Twiixtor po
+[22:07:53] [Server thread/INFO]: Popey456963 issued server command: /sw start
+[22:08:09] [Server thread/INFO]: Staff: [Admin] Chris
+[22:08:09] [Server thread/INFO]: Developers: [Dev] Popey, [Giraffe] Twiixtor
+[22:08:27] [Server thread/INFO]: CONSOLE issued server command: /give popey enderpearls
+[22:08:34] [Server thread/INFO]: CONSOLE issued server command: /give popey enderpearl
+[22:08:34] [Server thread/INFO]: Giving 64 of ender pearl to [Dev] Popey.
+[22:08:55] [Server thread/INFO]: Staff: [Admin] Chris
+[22:08:55] [Server thread/INFO]: Developers: [Dev] Popey, [Giraffe] Twiixtor
+[22:09:02] [Server thread/INFO]: Twiixtor issued server command: /god
+[22:09:27] [Server thread/INFO]: Popey456963 hit the ground too hard
+[22:09:31] [Server thread/INFO]: Twiixtor issued server command: /god
+[22:09:32] [Server thread/INFO]: Popey456963 issued server command: /warp skywars
+[22:09:34] [Server thread/INFO]: Popey456963 issued server command: /god Popey456963
+[22:09:35] [Server thread/INFO]: Popey456963 issued server command: /god Popey456963
+[22:09:39] [Server thread/INFO]: Popey456963 issued server command: /sw start
+[22:09:41] [Server thread/INFO]: Popey456963 issued server command: /sw start
+[22:09:42] [Server thread/INFO]: Staff: [Admin] Chris
+[22:09:42] [Server thread/INFO]: Developers: [Dev] Popey, [Giraffe] Twiixtor
+[22:09:42] [Server thread/INFO]: Popey456963 issued server command: /sw start
+[22:09:45] [Server thread/INFO]: Popey456963 issued server command: /sw start
+[22:09:49] [Server thread/INFO]: Twiixtor issued server command: /give Twiixtor minecraft:jukebox 64 0
+[22:09:49] [Server thread/INFO]: Twiixtor issued server command: /give Twiixtor minecraft:oak_stairs 64 0
+[22:09:50] [Server thread/INFO]: Twiixtor issued server command: /give Twiixtor minecraft:lit_pumpkin 64 0
+[22:09:50] [Server thread/INFO]: Twiixtor issued server command: /give Twiixtor minecraft:stained_glass 64 10
+[22:09:57] [Server thread/INFO]: CONSOLE issued server command: /give popey enderpearls
+[22:10:09] [Server thread/INFO]: CONSOLE issued server command: /give popey enderpearl
+[22:10:09] [Server thread/INFO]: Giving 64 of ender pearl to [Dev] Popey.
+[22:10:26] [Server thread/INFO]: Popey456963 issued server command: /sw start
+[22:10:28] [Server thread/INFO]: Staff: [Admin] Chris
+[22:10:28] [Server thread/INFO]: Developers: [Dev] Popey, [Giraffe] Twiixtor
+[22:10:39] [Server thread/INFO]: CONSOLE issued server command: /give popey enderpearl
+[22:10:39] [Server thread/INFO]: Giving 64 of ender pearl to [Dev] Popey.
+[22:10:53] [Server thread/INFO]: Crustifer issued server command: //copy
+[22:10:56] [Server thread/INFO]: Crustifer issued server command: //flip
+[22:10:58] [Server thread/INFO]: Crustifer issued server command: //paste
+[22:11:05] [Server thread/INFO]: Crustifer issued server command: //undo
+[22:11:15] [Server thread/INFO]: Staff: [Admin] Chris
+[22:11:15] [Server thread/INFO]: Developers: [Dev] Popey, [Giraffe] Twiixtor
+[22:11:18] [Server thread/INFO]: Crustifer issued server command: //flip
+[22:11:20] [Server thread/INFO]: Crustifer issued server command: //flip
+[22:11:22] [Server thread/INFO]: Crustifer issued server command: //paste
+[22:11:56] [Server thread/INFO]: Crustifer issued server command: //copy
+[22:11:57] [Server thread/INFO]: Crustifer issued server command: //flip
+[22:11:58] [Server thread/INFO]: Crustifer issued server command: //paste
+[22:12:01] [Server thread/INFO]: Staff: [Admin] Chris
+[22:12:01] [Server thread/INFO]: Developers: [Dev] Popey, [Giraffe] Twiixtor
+[22:12:05] [Server thread/INFO]: Crustifer issued server command: //undo
+[22:12:08] [Server thread/INFO]: Crustifer issued server command: //paste
+[22:12:11] [Server thread/INFO]: Crustifer issued server command: //undo
+[22:12:12] [Server thread/INFO]: Crustifer issued server command: //paste
+[22:12:16] [Server thread/INFO]: Crustifer issued server command: //undo
+[22:12:18] [Server thread/INFO]: Crustifer issued server command: //paste
+[22:12:24] [Server thread/INFO]: Crustifer issued server command: //undo
+[22:12:29] [Server thread/INFO]: Crustifer issued server command: //paste
+[22:12:31] [Server thread/INFO]: Crustifer issued server command: //undo
+[22:12:35] [Server thread/INFO]: Crustifer issued server command: //paste
+[22:12:37] [Server thread/INFO]: Crustifer issued server command: //undo
+[22:12:39] [Server thread/INFO]: Crustifer issued server command: //paste
+[22:12:48] [Server thread/INFO]: Staff: [Admin] Chris
+[22:12:48] [Server thread/INFO]: Developers: [Dev] Popey, [Giraffe] Twiixtor
+[22:12:50] [Server thread/INFO]: Crustifer issued server command: //undo
+[22:12:50] [Server thread/INFO]: Twiixtor was slain by Popey456963
+[22:12:51] [Server thread/INFO]: Crustifer issued server command: //paste
+[22:12:54] [Server thread/INFO]: Crustifer issued server command: //undo
+[22:12:56] [Server thread/INFO]: Crustifer issued server command: //paste
+[22:12:57] [Server thread/INFO]: [Giraffe] Twiixtor: lel
+[22:12:58] [Server thread/INFO]: Popey456963 issued server command: /sw score
+[22:13:04] [Server thread/INFO]: Popey456963 issued server command: /sw start
+[22:13:06] [Server thread/INFO]: Crustifer issued server command: //undo
+[22:13:07] [Server thread/INFO]: Crustifer issued server command: //paste
+[22:13:08] [Server thread/INFO]: Twiixtor issued server command: /warp skywars
+[22:13:11] [Server thread/INFO]: Popey456963 issued server command: /sw start
+[22:13:19] [Server thread/INFO]: CONSOLE issued server command: /give popey enderpearl
+[22:13:19] [Server thread/INFO]: Giving 64 of ender pearl to [Dev] Popey.
+[22:13:25] [Server thread/INFO]: Twiixtor issued server command: /sw score
+[22:13:33] [Server thread/INFO]: Crustifer issued server command: //undo
+[22:13:34] [Server thread/INFO]: Staff: [Admin] Chris
+[22:13:34] [Server thread/INFO]: Developers: [Dev] Popey, [Giraffe] Twiixtor
+[22:13:35] [Server thread/INFO]: Crustifer issued server command: //paste
+[22:14:21] [Server thread/INFO]: Staff: [Admin] Chris
+[22:14:21] [Server thread/INFO]: Developers: [Dev] Popey, [Giraffe] Twiixtor
+[22:14:43] [Server thread/INFO]: Popey456963 issued server command: /sw start
+[22:15:08] [Server thread/INFO]: Staff: [Admin] Chris
+[22:15:08] [Server thread/INFO]: Developers: [Dev] Popey, [Giraffe] Twiixtor
+[22:15:54] [Server thread/INFO]: Staff: [Admin] Chris
+[22:15:54] [Server thread/INFO]: Developers: [Dev] Popey, [Giraffe] Twiixtor
+[22:17:22] [Server thread/INFO]: Staff: [Admin] Chris
+[22:17:22] [Server thread/INFO]: Developers: [Dev] Popey, [Giraffe] Twiixtor
+[22:17:25] [Server thread/INFO]: Crustifer issued server command: //set air
+[22:17:49] [Server thread/INFO]: Popey456963 issued server command: /sw leave
+[22:17:51] [Server thread/INFO]: Twiixtor issued server command: /tp cru
+[22:17:56] [Server thread/INFO]: Popey456963 issued server command: /tp cri
+[22:17:57] [Server thread/INFO]: Popey456963 issued server command: /gm 1
+[22:17:59] [Server thread/INFO]: Popey456963 issued server command: /tp twi
+[22:18:08] [Server thread/INFO]: Popey456963 issued server command: /plugins
+[22:18:09] [Server thread/INFO]: Staff: [Admin] Chris
+[22:18:09] [Server thread/INFO]: Developers: [Dev] Popey, [Giraffe] Twiixtor
+[22:18:12] [Server thread/INFO]: Twiixtor issued server command: /gm 1
+[22:18:13] [Server thread/INFO]: Twiixtor issued server command: //wand
+[22:18:16] [Server thread/INFO]: Crustifer issued server command: //set 17:1
+[22:18:17] [Server thread/INFO]: Twiixtor issued server command: /i compass 1
+[22:18:19] [Server thread/INFO]: Twiixtor issued server command: /i bedrock 1
+[22:18:33] [Server thread/INFO]: Crustifer issued server command: //set leaves
+[22:18:40] [Server thread/INFO]: Crustifer issued server command: //set leaves
+[22:18:45] [Server thread/INFO]: Twiixtor left the game.
+[22:18:55] [Server thread/INFO]: Staff: [Admin] Chris
+[22:18:55] [Server thread/INFO]: Developers: [Dev] Popey
+[22:19:42] [Server thread/INFO]: Staff: [Admin] Chris
+[22:19:42] [Server thread/INFO]: Developers: [Dev] Popey
+[22:20:25] [Server thread/INFO]: Twiixtor issued server command: /gm 0
+[22:20:28] [Server thread/INFO]: Staff: [Admin] Chris
+[22:20:28] [Server thread/INFO]: Developers: [Dev] Popey, [Giraffe] Twiixtor
+[22:21:15] [Server thread/INFO]: Staff: [Admin] Chris
+[22:21:15] [Server thread/INFO]: Developers: [Dev] Popey, [Giraffe] Twiixtor
+[22:21:51] [Server thread/INFO]: Twiixtor issued server command: /tp pop
+[22:21:56] [Server thread/INFO]: Twiixtor issued server command: /gm 1
+[22:22:02] [Server thread/INFO]: Staff: [Admin] Chris
+[22:22:02] [Server thread/INFO]: Developers: [Dev] Popey, [Giraffe] Twiixtor
+[22:22:26] [Server thread/INFO]: Popey456963 issued server command: /give Popey456963 17 1 12
+[22:22:30] [Server thread/INFO]: Twiixtor issued server command: /i 17:112
+[22:22:37] [Server thread/INFO]: Popey456963 issued server command: /give Popey456963 17 12 1
+[22:22:41] [Server thread/INFO]: [Giraffe] Twiixtor: ./i 17:12:!
+[22:22:43] [Server thread/INFO]: [Giraffe] Twiixtor: ./i 17:12:1
+[22:22:46] [Server thread/INFO]: Popey456963 issued server command: /i 17:12
+[22:22:46] [Server thread/INFO]: Twiixtor issued server command: /i 17:12:1
+[22:22:48] [Server thread/INFO]: Staff: [Admin] Chris
+[22:22:48] [Server thread/INFO]: Developers: [Dev] Popey, [Giraffe] Twiixtor
+[22:22:50] [Server thread/INFO]: Twiixtor issued server command: /i 17:1:12
+[22:22:54] [Server thread/INFO]: Twiixtor issued server command: /i 17:112
+[22:22:57] [Server thread/INFO]: Crustifer issued server command: //replace 17:1 17:12
+[22:22:58] [Server thread/INFO]: Twiixtor issued server command: /i 17:12
+[22:23:02] [Server thread/INFO]: Crustifer issued server command: //replace 17:1
+[22:23:04] [Server thread/INFO]: Popey456963 issued server command: /give Popey456963 17 1 12
+[22:23:05] [Server thread/INFO]: Crustifer issued server command: //undo
+[22:23:15] [Server thread/INFO]: Crustifer issued server command: //replace 7:1 17:12:1
+[22:23:25] [Server thread/INFO]: [Giraffe] Twiixtor: 17:1
+[22:23:28] [Server thread/INFO]: Popey456963 issued server command: //set 17:1
+[22:23:29] [Server thread/INFO]: Popey456963 issued server command: //set 17:1 12
+[22:23:32] [Server thread/INFO]: Popey456963 issued server command: //set 17:1:12
+[22:23:34] [Server thread/INFO]: Twiixtor issued server command: //set lava
+[22:23:35] [Server thread/INFO]: Staff: [Admin] Chris
+[22:23:35] [Server thread/INFO]: Developers: [Dev] Popey, [Giraffe] Twiixtor
+[22:23:39] [Server thread/INFO]: Popey456963 issued server command: //set 33:6
+[22:23:45] [Server thread/INFO]: Twiixtor issued server command: //undo
+[22:23:46] [Server thread/INFO]: Popey456963 issued server command: //set 33:6
+[22:24:21] [Server thread/INFO]: Staff: [Admin] Chris
+[22:24:21] [Server thread/INFO]: Developers: [Dev] Popey, [Giraffe] Twiixtor
+[22:24:52] [Server thread/INFO]: Popey456963 issued server command: //set log 13
+[22:24:57] [Server thread/INFO]: Popey456963 issued server command: //set log:13
+[22:25:02] [Server thread/INFO]: Twiixtor issued server command: //undo pop 1
+[22:25:05] [Server thread/INFO]: Popey456963 issued server command: //undo
+[22:25:07] [Server thread/INFO]: [Dev] Popey: .//set log:13
+[22:25:08] [Server thread/INFO]: Staff: [Admin] Chris
+[22:25:08] [Server thread/INFO]: Developers: [Dev] Popey, [Giraffe] Twiixtor
+[22:25:13] [Server thread/INFO]: Twiixtor issued server command: //set 0
+[22:25:16] [Server thread/INFO]: Crustifer issued server command: //replace 17:1 17:13
+[22:25:17] [Server thread/INFO]: Twiixtor issued server command: //set log:13
+[22:25:29] [Server thread/INFO]: Crustifer issued server command: /tp twiix
+[22:25:33] [Server thread/INFO]: Twiixtor issued server command: //expand down 2
+[22:25:34] [Server thread/INFO]: [Dev] Popey: .//set log:13
+[22:25:34] [Server thread/INFO]: [Dev] Popey: .//set log:13
+[22:25:35] [Server thread/INFO]: [Dev] Popey: .//set log:13
+[22:25:36] [Server thread/INFO]: Twiixtor issued server command: //expand 2 down
+[22:25:38] [Server thread/INFO]: Twiixtor issued server command: //set grass
+[22:25:51] [Server thread/INFO]: [Giraffe] Twiixtor: 17:1
+[22:25:54] [Server thread/INFO]: Staff: [Admin] Chris
+[22:25:54] [Server thread/INFO]: Developers: [Dev] Popey, [Giraffe] Twiixtor
+[22:25:55] [Server thread/INFO]: Crustifer issued server command: //replace 17:1 log:13
+[22:26:00] [Server thread/INFO]: Popey456963 issued server command: /give Popey456963 17:2
+[22:26:02] [Server thread/INFO]: Popey456963 issued server command: /give Popey456963 17:1
+[22:26:09] [Server thread/INFO]: Crustifer issued server command: //
+[22:26:09] [Server thread/INFO]: [Dev] Popey: .//set log:13
+[22:26:13] [Server thread/INFO]: Crustifer issued server command: //set log:13
+[22:26:16] [Server thread/INFO]: Crustifer issued server command: //set log:13
+[22:27:22] [Server thread/INFO]: Staff: [Admin] Chris
+[22:27:22] [Server thread/INFO]: Developers: [Dev] Popey, [Giraffe] Twiixtor
+[22:28:09] [Server thread/INFO]: Staff: [Admin] Chris
+[22:28:09] [Server thread/INFO]: Developers: [Dev] Popey, [Giraffe] Twiixtor
+[22:28:55] [Server thread/INFO]: Staff: [Admin] Chris
+[22:28:55] [Server thread/INFO]: Developers: [Dev] Popey, [Giraffe] Twiixtor
+[22:29:14] [Server thread/INFO]: Twiixtor issued server command: //stack 10
+[22:29:19] [Server thread/INFO]: Twiixtor issued server command: //stack 15
+[22:29:21] [Server thread/INFO]: [Admin] Chris: :^]
+[22:29:21] [Server thread/INFO]: Twiixtor issued server command: //stack 17
+[22:29:25] [Server thread/INFO]: Twiixtor issued server command: //stack 18
+[22:29:29] [Server thread/INFO]: Twiixtor issued server command: //stack 30
+[22:29:31] [Server thread/INFO]: Twiixtor issued server command: //undo
+[22:29:31] [Server thread/INFO]: Twiixtor issued server command: //undo
+[22:29:32] [Server thread/INFO]: Twiixtor issued server command: //undo
+[22:29:33] [Server thread/INFO]: Twiixtor issued server command: //undo
+[22:29:35] [Server thread/INFO]: Twiixtor issued server command: //undo
+[22:29:42] [Server thread/INFO]: Staff: [Admin] Chris
+[22:29:42] [Server thread/INFO]: Developers: [Dev] Popey, [Giraffe] Twiixtor
+[22:29:48] [Server thread/INFO]: [Giraffe] Twiixtor: y u leave
+[22:29:54] [Server thread/INFO]: [Giraffe] Twiixtor: i was talkign to myself
+[22:30:28] [Server thread/INFO]: Staff: [Admin] Chris
+[22:30:28] [Server thread/INFO]: Developers: [Dev] Popey, [Giraffe] Twiixtor
+[22:31:15] [Server thread/INFO]: Staff: [Admin] Chris
+[22:31:15] [Server thread/INFO]: Developers: [Dev] Popey, [Giraffe] Twiixtor
+[22:31:16] [Server thread/INFO]: Crustifer issued server command: //move
+[22:31:34] [Server thread/INFO]: Crustifer issued server command: //move
+[22:32:01] [Server thread/INFO]: Staff: [Admin] Chris
+[22:32:01] [Server thread/INFO]: Developers: [Dev] Popey, [Giraffe] Twiixtor
+[22:32:48] [Server thread/INFO]: Staff: [Admin] Chris
+[22:32:48] [Server thread/INFO]: Developers: [Dev] Popey, [Giraffe] Twiixtor
+[22:33:34] [Server thread/INFO]: Staff: [Admin] Chris
+[22:33:34] [Server thread/INFO]: Developers: [Dev] Popey, [Giraffe] Twiixtor
+[22:33:35] [Server thread/INFO]: Crustifer issued server command: //mov
+[22:33:37] [Server thread/INFO]: Crustifer issued server command: //move
+[22:33:49] [Server thread/INFO]: [Dev] Popey: lmao
+[22:34:21] [Server thread/INFO]: Staff: [Admin] Chris
+[22:34:21] [Server thread/INFO]: Developers: [Dev] Popey, [Giraffe] Twiixtor
+[22:34:37] [Server thread/INFO]: Crustifer issued server command: //move
+[22:34:52] [Server thread/INFO]: [Giraffe] Twiixtor: IMA GO PLAY A BIT OF JAILBREAK AND EAT DORITOS
+[22:34:55] [Server thread/INFO]: Crustifer issued server command: //move
+[22:35:00] [Server thread/INFO]: [Giraffe] Twiixtor: K bai
+[22:35:01] [Server thread/INFO]: Twiixtor left the game.
+[22:35:08] [Server thread/INFO]: Staff: [Admin] Chris
+[22:35:08] [Server thread/INFO]: Developers: [Dev] Popey
+[22:35:54] [Server thread/INFO]: Staff: [Admin] Chris
+[22:35:54] [Server thread/INFO]: Developers: [Dev] Popey
+[22:37:22] [Server thread/INFO]: Staff: [Admin] Chris
+[22:37:22] [Server thread/INFO]: Developers: [Dev] Popey
+[22:38:09] [Server thread/INFO]: Staff: [Admin] Chris
+[22:38:09] [Server thread/INFO]: Developers: [Dev] Popey
+[22:38:55] [Server thread/INFO]: Staff: [Admin] Chris
+[22:38:55] [Server thread/INFO]: Developers: [Dev] Popey
+[22:39:42] [Server thread/INFO]: Staff: [Admin] Chris
+[22:39:42] [Server thread/INFO]: Developers: [Dev] Popey
+[22:40:28] [Server thread/INFO]: Staff: [Admin] Chris
+[22:40:28] [Server thread/INFO]: Developers: [Dev] Popey
+[22:41:15] [Server thread/INFO]: Staff: [Admin] Chris
+[22:41:15] [Server thread/INFO]: Developers: [Dev] Popey
+[22:41:19] [Server thread/INFO]: Crustifer issued server command: //move
+[22:41:57] [Server thread/INFO]: Crustifer issued server command: //move
+[22:42:01] [Server thread/INFO]: Staff: [Admin] Chris
+[22:42:01] [Server thread/INFO]: Developers: [Dev] Popey
+[22:42:28] [Server thread/INFO]: Popey456963 issued server command: //set grass
+[22:42:31] [Server thread/INFO]: Popey456963 left the game.
+[22:42:48] [Server thread/INFO]: Staff: [Admin] Chris
+[22:42:50] [Server thread/INFO]: Crustifer issued server command: /time
+[22:43:35] [Server thread/INFO]: Staff: [Admin] Chris
+[22:44:21] [Server thread/INFO]: Staff: [Admin] Chris
+[22:45:08] [Server thread/INFO]: Staff: [Admin] Chris
+[22:45:54] [Server thread/INFO]: Staff: [Admin] Chris
+[22:47:22] [Server thread/INFO]: Staff: [Admin] Chris
+[22:48:09] [Server thread/INFO]: Staff: [Admin] Chris
+[22:48:55] [Server thread/INFO]: Staff: [Admin] Chris
+[22:49:42] [Server thread/INFO]: Staff: [Admin] Chris
+[22:50:28] [Server thread/INFO]: Staff: [Admin] Chris
+[22:51:15] [Server thread/INFO]: Staff: [Admin] Chris
+[22:52:01] [Server thread/INFO]: Staff: [Admin] Chris
+[22:52:48] [Server thread/INFO]: Staff: [Admin] Chris
+[22:53:35] [Server thread/INFO]: Staff: [AFK][Admin] Chris
+[22:54:21] [Server thread/INFO]: Staff: [AFK][Admin] Chris
+[22:55:08] [Server thread/INFO]: Staff: [AFK][Admin] Chris
+[22:55:54] [Server thread/INFO]: Staff: [AFK][Admin] Chris
+[22:57:22] [Server thread/INFO]: Staff: [AFK][Admin] Chris
+[22:58:09] [Server thread/INFO]: Staff: [AFK][Admin] Chris
+[22:58:55] [Server thread/INFO]: Staff: [AFK][Admin] Chris
+[22:59:42] [Server thread/INFO]: Staff: [AFK][Admin] Chris
+[23:00:28] [Server thread/INFO]: Staff: [AFK][Admin] Chris
+[23:01:15] [Server thread/INFO]: Staff: [AFK][Admin] Chris
+[23:02:01] [Server thread/INFO]: Staff: [AFK][Admin] Chris
+[23:02:48] [Server thread/INFO]: Staff: [AFK][Admin] Chris
+[23:03:35] [Server thread/INFO]: Staff: [AFK][Admin] Chris
+[23:04:21] [Server thread/INFO]: Staff: [AFK][Admin] Chris
+[23:05:08] [Server thread/INFO]: Staff: [AFK][Admin] Chris
+[23:05:54] [Server thread/INFO]: Staff: [AFK][Admin] Chris
+[23:07:22] [Server thread/INFO]: Staff: [AFK][Admin] Chris
+[23:08:09] [Server thread/INFO]: Staff: [AFK][Admin] Chris
+[23:08:55] [Server thread/INFO]: Staff: [AFK][Admin] Chris
+[23:09:42] [Server thread/INFO]: Staff: [AFK][Admin] Chris
+[23:10:28] [Server thread/INFO]: Staff: [AFK][Admin] Chris
+[23:11:15] [Server thread/INFO]: Staff: [Admin] Chris
+[23:12:01] [Server thread/INFO]: Staff: [Admin] Chris
+[23:12:35] [Server thread/INFO]: Crustifer issued server command: //move
+[23:12:48] [Server thread/INFO]: Staff: [Admin] Chris, [Admin] UnSeen
+[23:12:56] [Server thread/INFO]: [Admin] Chris: y/n?
+[23:13:35] [Server thread/INFO]: Staff: [Admin] Chris, [Admin] UnSeen
+[23:13:37] [Server thread/INFO]: Crustifer issued server command: //undo
+[23:13:50] [Server thread/INFO]: Crustifer issued server command: //move
+[23:13:58] [Server thread/INFO]: Crustifer issued server command: //undo
+[23:14:18] [Server thread/INFO]: Crustifer issued server command: //move
+[23:14:21] [Server thread/INFO]: Staff: [Admin] Chris, [Admin] UnSeen
+[23:14:35] [Server thread/INFO]: Crustifer issued server command: //undo
+[23:14:36] [Server thread/INFO]: Crustifer issued server command: //move 2
+[23:14:46] [Server thread/INFO]: Crustifer issued server command: //undo
+[23:15:08] [Server thread/INFO]: Staff: [Admin] Chris, [Admin] UnSeen
+[23:15:13] [Server thread/INFO]: Crustifer issued server command: //move
+[23:15:34] [Server thread/INFO]: Crustifer issued server command: //undo
+[23:15:54] [Server thread/INFO]: Staff: [Admin] Chris, [Admin] UnSeen
+[23:16:04] [Server thread/INFO]: Crustifer issued server command: //pos1
+[23:16:16] [Server thread/INFO]: Crustifer issued server command: //pos2
+[23:16:18] [Server thread/INFO]: Crustifer issued server command: //set air
+[23:16:55] [Server thread/INFO]: Crustifer issued server command: //copy
+[23:17:00] [Server thread/INFO]: Crustifer issued server command: //paste
+[23:17:07] [Server thread/INFO]: Crustifer issued server command: //undo
+[23:17:08] [Server thread/INFO]: Crustifer issued server command: //undo
+[23:17:22] [Server thread/INFO]: Staff: [Admin] Chris, [Admin] UnSeen
+[23:18:09] [Server thread/INFO]: Staff: [Admin] Chris, [Admin] UnSeen
+[23:18:55] [Server thread/INFO]: Staff: [Admin] Chris, [Admin] UnSeen
+[23:19:17] [Server thread/INFO]: Crustifer issued server command: //pos1
+[23:19:26] [Server thread/INFO]: Crustifer issued server command: //move
+[23:19:42] [Server thread/INFO]: Staff: [Admin] Chris, [Admin] UnSeen
+[23:19:44] [Server thread/INFO]: Crustifer issued server command: //copy
+[23:19:50] [Server thread/INFO]: Crustifer issued server command: //paste
+[23:20:07] [Server thread/INFO]: Crustifer issued server command: //undo
+[23:20:09] [Server thread/INFO]: Crustifer issued server command: //undo
+[23:20:13] [Server thread/INFO]: Crustifer issued server command: //move 2
+[23:20:28] [Server thread/INFO]: Staff: [Admin] Chris, [Admin] UnSeen
+[23:21:11] [Server thread/INFO]: Crustifer issued server command: //pos1
+[23:21:15] [Server thread/INFO]: Staff: [Admin] Chris, [Admin] UnSeen
+[23:21:18] [Server thread/INFO]: Crustifer issued server command: //pos2
+[23:21:20] [Server thread/INFO]: Crustifer issued server command: //set air
+[23:21:23] [Server thread/INFO]: Crustifer issued server command: //pos2
+[23:21:25] [Server thread/INFO]: Crustifer issued server command: //set air
+[23:21:43] [Server thread/INFO]: Crustifer issued server command: //undo
+[23:21:43] [Server thread/INFO]: Crustifer issued server command: //undo
+[23:21:45] [Server thread/INFO]: Crustifer issued server command: //undo
+[23:21:49] [Server thread/INFO]: Crustifer issued server command: //set air
+[23:22:01] [Server thread/INFO]: Staff: [Admin] Chris, [Admin] UnSeen
+[23:22:06] [Server thread/INFO]: Crustifer issued server command: //pos1
+[23:22:27] [Server thread/INFO]: Crustifer issued server command: //pos2
+[23:22:35] [Server thread/INFO]: Crustifer issued server command: //copy
+[23:22:39] [Server thread/INFO]: Crustifer issued server command: //paste
+[23:22:48] [Server thread/INFO]: Staff: [Admin] Chris, [Admin] UnSeen
+[23:23:04] [Server thread/INFO]: Crustifer issued server command: //copy
+[23:23:07] [Server thread/INFO]: Crustifer issued server command: //paste
+[23:23:21] [Server thread/INFO]: Crustifer issued server command: //paste
+[23:23:28] [Server thread/INFO]: Crustifer issued server command: //undo
+[23:23:29] [Server thread/INFO]: Crustifer issued server command: //paste
+[23:23:33] [Server thread/INFO]: Crustifer issued server command: //undo
+[23:23:34] [Server thread/INFO]: Crustifer issued server command: //paste
+[23:23:35] [Server thread/INFO]: Staff: [Admin] Chris, [Admin] UnSeen
+[23:24:21] [Server thread/INFO]: Staff: [Admin] Chris, [Admin] UnSeen
+[23:25:08] [Server thread/INFO]: Staff: [Admin] Chris, [Admin] UnSeen
+[23:25:54] [Server thread/INFO]: Staff: [Admin] Chris, [Admin] UnSeen
+[23:27:22] [Server thread/INFO]: Staff: [Admin] Chris, [Admin] UnSeen
+[23:28:09] [Server thread/INFO]: Staff: [Admin] Chris, [Admin] UnSeen
+[23:28:55] [Server thread/INFO]: Staff: [Admin] Chris, [Admin] UnSeen
+[23:29:00] [Server thread/INFO]: Crustifer issued server command: //undo
+[23:29:42] [Server thread/INFO]: Staff: [Admin] Chris, [Admin] UnSeen
+[23:30:28] [Server thread/INFO]: Staff: [Admin] Chris, [Admin] UnSeen
+[23:31:15] [Server thread/INFO]: Staff: [Admin] Chris, [Admin] UnSeen
+[23:32:01] [Server thread/INFO]: Staff: [Admin] Chris, [Admin] UnSeen
+[23:32:48] [Server thread/INFO]: Staff: [Admin] Chris, [Admin] UnSeen
+[23:33:35] [Server thread/INFO]: Staff: [Admin] Chris, [Admin] UnSeen
+[23:34:21] [Server thread/INFO]: Staff: [Admin] Chris, [Admin] UnSeen
+[23:35:08] [Server thread/INFO]: Staff: [Admin] Chris, [Admin] UnSeen
+[23:35:54] [Server thread/INFO]: Staff: [Admin] Chris, [Admin] UnSeen
+[23:37:22] [Server thread/INFO]: Staff: [Admin] Chris, [Admin] UnSeen
+[23:38:09] [Server thread/INFO]: Staff: [Admin] Chris, [Admin] UnSeen
+[23:38:55] [Server thread/INFO]: Staff: [Admin] Chris, [Admin] UnSeen
+[23:39:42] [Server thread/INFO]: Staff: [Admin] Chris, [Admin] UnSeen
+[23:40:28] [Server thread/INFO]: Staff: [Admin] Chris, [Admin] UnSeen
+[23:41:15] [Server thread/INFO]: Staff: [Admin] Chris, [Admin] UnSeen
+[23:42:01] [Server thread/INFO]: Staff: [Admin] Chris, [Admin] UnSeen
+[23:42:48] [Server thread/INFO]: Staff: [Admin] Chris, [Admin] UnSeen
+[23:43:35] [Server thread/INFO]: Staff: [Admin] Chris, [Admin] UnSeen
+[23:44:21] [Server thread/INFO]: Staff: [Admin] Chris, [Admin] UnSeen
+[23:45:08] [Server thread/INFO]: Staff: [Admin] Chris, [Admin] UnSeen
+[23:45:54] [Server thread/INFO]: Staff: [Admin] Chris, [Admin] UnSeen
+[23:47:22] [Server thread/INFO]: Staff: [Admin] Chris, [Admin] UnSeen
+[23:48:09] [Server thread/INFO]: Staff: [Admin] Chris, [Admin] UnSeen
+[23:48:55] [Server thread/INFO]: Staff: [Admin] Chris, [Admin] UnSeen
+[23:49:02] [Server thread/INFO]: AttrebusMede left the game.
+[23:49:42] [Server thread/INFO]: Staff: [Admin] Chris
+[23:50:28] [Server thread/INFO]: Staff: [Admin] Chris
+[23:51:15] [Server thread/INFO]: Staff: [Admin] Chris
+[23:52:01] [Server thread/INFO]: Staff: [Admin] Chris
+[23:52:48] [Server thread/INFO]: Staff: [Admin] Chris
+[23:53:35] [Server thread/INFO]: Staff: [Admin] Chris
+[23:54:21] [Server thread/INFO]: Staff: [Admin] Chris
+[23:55:08] [Server thread/INFO]: Staff: [Admin] Chris
+[23:55:54] [Server thread/INFO]: Staff: [Admin] Chris
+[23:57:22] [Server thread/INFO]: Staff: [Admin] Chris
+[23:58:09] [Server thread/INFO]: Staff: [Admin] Chris
+[23:58:55] [Server thread/INFO]: Staff: [Admin] Chris
+[23:59:42] [Server thread/INFO]: Staff: [Admin] Chris

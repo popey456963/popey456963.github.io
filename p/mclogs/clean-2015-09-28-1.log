@@ -1,0 +1,46 @@
+[00:54:41] [Server thread/INFO]: Failed
+[01:56:48] [Server thread/INFO]: Failed
+[02:58:55] [Server thread/INFO]: Failed
+[04:01:01] [Server thread/INFO]: Failed
+[05:03:08] [Server thread/INFO]: Failed
+[06:05:15] [Server thread/INFO]: Failed
+[07:07:22] [Server thread/INFO]: Failed
+[08:09:28] [Server thread/INFO]: Failed
+[09:11:35] [Server thread/INFO]: Failed
+[10:13:42] [Server thread/INFO]: Failed
+[11:15:49] [Server thread/INFO]: Failed
+[12:17:56] [Server thread/INFO]: Failed
+[13:20:02] [Server thread/INFO]: Failed
+[14:22:09] [Server thread/INFO]: Failed
+[15:24:16] [Server thread/INFO]: Failed
+[16:26:22] [Server thread/INFO]: Failed
+[17:10:05] [Server thread/INFO]: CONSOLE: Stopping the server..
+[17:10:05] [Server thread/INFO]: Stopping server
+[17:10:05] [Server thread/INFO]: [HeroBounty] Disabling HeroBounty v1.9.5
+[17:10:05] [Server thread/INFO]: [EssentialsProtect] Disabling EssentialsProtect v2.12.2
+[17:10:05] [Server thread/INFO]: [EssentialsXMPP] Disabling EssentialsXMPP v2.12.2
+[17:10:05] [Server thread/INFO]: [EpicQuest] Disabling EpicQuest v3.5.4
+[17:10:05] [Server thread/INFO]: [EpicQuest] succesfully disabled.
+[17:10:05] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v6.0.0-beta-03.1514-
+[17:10:05] [Server thread/INFO]: [WorldGuard] Shutting down executor and waiting for any pending tasks...
+[17:10:06] [Server thread/INFO]: [MassiveCore] Disabling MassiveCore v7.4.0
+[17:10:06] [Server thread/INFO]: [MassiveCore 7.4.0] Disabled
+[17:10:06] [Server thread/INFO]: [CommandBook] Disabling CommandBook v2.4:1692-75bb1c8,master
+[17:10:06] [Server thread/INFO]: [Vault] Disabling Vault v1.2.31-b411
+[17:10:06] [Server thread/INFO]: [WorldBorder] Disabling WorldBorder v1.7.9
+[17:10:06] [Server thread/INFO]: [WorldBorder] [CONFIG] Border-checking timed task stopped.
+[17:10:06] [Server thread/INFO]: [Modifyworld] Disabling Modifyworld v1.19.7
+[17:10:06] [Server thread/INFO]: [Modifyworld] Modifyworld successfully disabled!
+[17:10:06] [Server thread/INFO]: [mcMMO] Disabling mcMMO v1.5.00-b3547
+[17:10:06] [Server thread/INFO]: [AutoMessage] Disabling AutoMessage v2.4.0
+[17:10:06] [Server thread/INFO]: [ClearLag] Disabling ClearLag v2.8.2
+[17:10:06] [Server thread/INFO]: [ClearLag] Nullifying module fields..
+[17:10:06] [Server thread/INFO]: [ClearLag] Clearlag is now disabled!
+[17:10:06] [Server thread/INFO]: [EssentialsAntiBuild] Disabling EssentialsAntiBuild v2.12.2
+[17:10:07] [Server thread/INFO]: [EssentialsGeoIP] Disabling EssentialsGeoIP v2.12.2
+[17:10:07] [Server thread/INFO]: [ModReq] Disabling ModReq v2.4.1
+[17:10:07] [Server thread/INFO]: ModReq is now disabled 
+[17:10:07] [Server thread/INFO]: [Essentials] Disabling Essentials v2.12.2
+[17:10:07] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v5.6.3
+[17:10:07] [Server thread/INFO]: Applying holder lookups
+[17:10:07] [Server thread/INFO]: Holder lookups applied

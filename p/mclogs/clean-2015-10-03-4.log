@@ -1,0 +1,1271 @@
+[22:31:58] [Server thread/INFO]: Loading properties
+[22:31:58] [Server thread/INFO]: Default game type: SURVIVAL
+[22:31:58] [Server thread/INFO]: Using epoll channel type
+[22:31:59] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v5.6.1
+[22:31:59] [Server thread/INFO]: [Essentials] Loading Essentials vTeamCity
+[22:31:59] [Server thread/INFO]: [VoxelSniper] Loading VoxelSniper v7.1.0
+[22:31:59] [Server thread/INFO]: [Vault] Loading Vault v1.5.6-b49
+[22:31:59] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn vTeamCity
+[22:31:59] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v6.1
+[22:31:59] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v2.4-b527
+[22:31:59] [Server thread/INFO]: [OnTime] Loading OnTime v4.1.3
+[22:31:59] [Server thread/INFO]: [EssentialsProtect] Loading EssentialsProtect vTeamCity
+[22:31:59] [Server thread/INFO]: [HeavySpleef] Loading HeavySpleef v2.1.1
+[22:31:59] [Server thread/INFO]: [Minigames] Loading Minigames v1.7.0
+[22:31:59] [Server thread/INFO]: [MobArena] Loading MobArena v0.97.1
+[22:31:59] [Server thread/INFO]: [CraftBook] Loading CraftBook v3.9-SNAPSHOT
+[22:31:59] [Server thread/INFO]: [Multiverse-NetherPortals] Loading Multiverse-NetherPortals v2.4-b530
+[22:31:59] [Server thread/INFO]: [Multiverse-Portals] Loading Multiverse-Portals v2.4-b548
+[22:31:59] [Server thread/INFO]: [Vault] Enabling Vault v1.5.6-b49
+[22:32:01] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v5.6.1
+[22:32:01] [Server thread/INFO]: [Essentials] Enabling Essentials vTeamCity
+[22:32:01] [Server thread/INFO]: git-Bukkit-9935adc (MC: 1.8.8)
+[22:32:01] [Server thread/INFO]: 1.8.8-R0.1-SNAPSHOT
+[22:32:01] [Server thread/INFO]: Using locale en_GB
+[22:32:01] [Server thread/INFO]: Using locale en_GB
+[22:32:01] [Server thread/INFO]: [VoxelSniper] Enabling VoxelSniper v7.1.0
+[22:32:02] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn vTeamCity
+[22:32:02] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v6.1
+[22:32:02] [Server thread/INFO]: [WorldGuard] (TEST) Lighters are PERMITTED.
+[22:32:02] [Server thread/INFO]: [WorldGuard] (TEST) Lava fire is blocked.
+[22:32:02] [Server thread/INFO]: [WorldGuard] (TEST) Fire spread is UNRESTRICTED.
+[22:32:02] [Server thread/INFO]: [WorldGuard] (TEST_nether) Lighters are PERMITTED.
+[22:32:02] [Server thread/INFO]: [WorldGuard] (TEST_nether) Lava fire is blocked.
+[22:32:02] [Server thread/INFO]: [WorldGuard] (TEST_nether) Fire spread is UNRESTRICTED.
+[22:32:02] [Server thread/INFO]: [WorldGuard] (TEST_the_end) Lighters are PERMITTED.
+[22:32:02] [Server thread/INFO]: [WorldGuard] (TEST_the_end) Lava fire is blocked.
+[22:32:02] [Server thread/INFO]: [WorldGuard] (TEST_the_end) Fire spread is UNRESTRICTED.
+[22:32:03] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v2.4-b527
+[22:32:03] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'TEST' - Env: NORMAL - Type: NORMAL & seed: -2024018835920597302
+[22:32:03] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'TEST_nether' - Env: NETHER - Type: NORMAL & seed: -2024018835920597302
+[22:32:03] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'TEST_the_end' - Env: THE_END - Type: NORMAL & seed: -2024018835920597302
+[22:32:03] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'lobby' - Env: NORMAL - Type: NORMAL & seed: -3770714656453924402
+[22:32:03] [Server thread/INFO]: [WorldGuard] (lobby) Lighters are PERMITTED.
+[22:32:03] [Server thread/INFO]: [WorldGuard] (lobby) Lava fire is blocked.
+[22:32:03] [Server thread/INFO]: [WorldGuard] (lobby) Fire spread is UNRESTRICTED.
+[22:32:03] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'minigames' - Env: NORMAL - Type: FLAT & seed: 2973644325369467684
+[22:32:03] [Server thread/INFO]: [WorldGuard] (minigames) Lighters are PERMITTED.
+[22:32:03] [Server thread/INFO]: [WorldGuard] (minigames) Lava fire is blocked.
+[22:32:03] [Server thread/INFO]: [WorldGuard] (minigames) Fire spread is UNRESTRICTED.
+[22:32:03] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'Skyscraper' - Env: NORMAL - Type: FLAT & seed: -2845274568091306621
+[22:32:04] [Server thread/INFO]: [WorldGuard] (Skyscraper) Lighters are PERMITTED.
+[22:32:04] [Server thread/INFO]: [WorldGuard] (Skyscraper) Lava fire is blocked.
+[22:32:04] [Server thread/INFO]: [WorldGuard] (Skyscraper) Fire spread is UNRESTRICTED.
+[22:32:04] [Server thread/INFO]: [Multiverse-Core] 6 - World(s) loaded.
+[22:32:04] [Server thread/INFO]: [OnTime] Enabling OnTime v4.1.3
+[22:32:04] [Server thread/INFO]: [EssentialsProtect] Enabling EssentialsProtect vTeamCity
+[22:32:04] [Server thread/INFO]: [HeavySpleef] Enabling HeavySpleef v2.1.1
+[22:32:04] [Server thread/INFO]: [Minigames] Enabling Minigames v1.7.0
+[22:32:04] [Server thread/INFO]: [Minigames] Using lang en_AU
+[22:32:04] [Server thread/INFO]: Minigames successfully enabled.
+[22:32:04] [Server thread/INFO]: [MobArena] Enabling MobArena v0.97.1
+[22:32:04] [Server thread/INFO]: [MobArena] Loaded arena 'default'
+[22:32:04] [Server thread/INFO]: [MobArena] Loaded arena 'god-arena'
+[22:32:04] [Server thread/INFO]: [MobArena] v0.97.1 enabled.
+[22:32:04] [Server thread/INFO]: [CraftBook] Enabling CraftBook v3.9-SNAPSHOT
+[22:32:04] [Server thread/INFO]: [CraftBook] Successfully added 1 CommandItems!
+[22:32:04] [Server thread/INFO]: [CraftBook] Registered 3 custom recipes!
+[22:32:04] [Server thread/INFO]: [CraftBook] 3824 chunk(s) for 6 world(s) processed (30ms elapsed)
+[22:32:04] [Server thread/INFO]: [Multiverse-NetherPortals] Enabling Multiverse-NetherPortals v2.4-b530
+[22:32:04] [Server thread/INFO]: [Multiverse-Portals] Enabling Multiverse-Portals v2.4-b548
+[22:32:04] [Server thread/INFO]: [Multiverse-Portals]  1 - Portals(s) loaded
+[22:32:11] [Server thread/INFO]: Crustifer issued server command: /ffa
+[22:32:12] [Server thread/INFO]: Crustifer issued server command: /minigame
+[22:32:16] [Server thread/INFO]: Crustifer issued server command: /minigame help
+[22:32:18] [Server thread/INFO]: Popey456963 issued server command: //copy
+[22:32:21] [Server thread/INFO]: Popey456963 issued server command: //flip
+[22:32:21] [Server thread/INFO]: Twiixtor issued server command: //replace redwool grass
+[22:32:23] [Server thread/INFO]: Popey456963 issued server command: //paste
+[22:32:26] [Server thread/INFO]: Twiixtor issued server command: /replace wool_red grass
+[22:32:26] [Server thread/INFO]: Crustifer issued server command: /minigame end
+[22:32:29] [Server thread/INFO]: Twiixtor issued server command: //replace wool_red grass
+[22:32:29] [Server thread/INFO]: Popey456963 issued server command: //undo
+[22:32:36] [Server thread/INFO]: Popey456963 issued server command: //paste
+[22:32:40] [Server thread/INFO]: Twiixtor issued server command: /replace red_wool grass
+[22:32:43] [Server thread/INFO]: Twiixtor issued server command: //replace red_wool grass
+[22:32:45] [Server thread/INFO]: Popey456963 issued server command: //undo
+[22:32:48] [Server thread/INFO]: Popey456963 issued server command: //paste
+[22:32:49] [Server thread/INFO]: Twiixtor issued server command: //replace 35:14 grass
+[22:32:50] [Server thread/INFO]: Crustifer issued server command: /minigame
+[22:32:51] [Server thread/INFO]: dev: [Dev] Chris, [Dev] Popey, [Dev] Twiixtor
+[22:32:51] [Server thread/INFO]: member: [Member] EskimoHD, [Member] minelittleyoshi, [Member] Raichu3000
+[22:32:52] [Server thread/INFO]: [Dev] Chris: z
+[22:32:58] [Server thread/INFO]: Crustifer issued server command: /minigame
+[22:33:01] [Server thread/INFO]: Popey456963 issued server command: /speed 5
+[22:33:03] [Server thread/INFO]: Twiixtor issued server command: //set grass
+[22:33:05] [Server thread/INFO]: Crustifer issued server command: /minigame enable FreeForAll
+[22:33:07] [Server thread/INFO]: Crustifer issued server command: /minigame help
+[22:33:19] [Server thread/INFO]: Twiixtor issued server command: /tphere hyp
+[22:33:21] [Server thread/INFO]: Popey456963 issued server command: //expand 20 up
+[22:33:24] [Server thread/INFO]: Twiixtor issued server command: /i stick 1
+[22:33:27] [Server thread/INFO]: Popey456963 issued server command: //copy
+[22:33:28] [Server thread/INFO]: Twiixtor issued server command: /powertool smite
+[22:33:38] [Server thread/INFO]: dev: [Dev] Chris, [Dev] Popey, [Dev] Twiixtor
+[22:33:38] [Server thread/INFO]: member: [Member] EskimoHD, [Member] minelittleyoshi, [Member] Raichu3000
+[22:33:46] [Server thread/INFO]: minelittleyoshi issued server command: /give
+[22:34:10] [Server thread/INFO]: Popey456963 issued server command: /ss
+[22:34:12] [Server thread/INFO]: Popey456963 issued server command: /socialspy
+[22:34:24] [Server thread/INFO]: dev: [Dev] Chris, [Dev] Popey, [Dev] Twiixtor
+[22:34:24] [Server thread/INFO]: member: [Member] EskimoHD, [Member] minelittleyoshi, [Member] Raichu3000
+[22:34:34] [Server thread/INFO]: Popey456963 issued server command: //cut
+[22:34:41] [Server thread/INFO]: Popey456963 issued server command: //set grass
+[22:34:49] [Server thread/INFO]: Popey456963 issued server command: /speed 1
+[22:35:04] [Server thread/INFO]: Popey456963 issued server command: //expand 20 up
+[22:35:07] [Server thread/INFO]: Popey456963 issued server command: //expand 10 up
+[22:35:11] [Server thread/INFO]: [Dev] Chris: a
+[22:35:11] [Server thread/INFO]: dev: [Dev] Chris, [Dev] Popey, [Dev] Twiixtor
+[22:35:11] [Server thread/INFO]: member: [Member] EskimoHD, [Member] minelittleyoshi, [Member] Raichu3000
+[22:35:14] [Server thread/INFO]: Popey456963 issued server command: //cut
+[22:35:28] [Server thread/INFO]: Popey456963 issued server command: //set grass
+[22:35:35] [Server thread/INFO]: EskimoHD issued server command: /give @p 276 1 0 {ench:[{id:16,lvl:10000},{id:34,lvl:1000­0},{id:20,lvl:5}]}
+[22:35:40] [Server thread/INFO]: Popey456963 issued server command: //expand 20 up
+[22:35:41] [Server thread/INFO]: Popey456963 issued server command: //set 0
+[22:35:44] [Server thread/INFO]: Crustifer issued server command: //move
+[22:35:46] [Server thread/INFO]: Popey456963 issued server command: //set grass
+[22:35:48] [Server thread/INFO]: EskimoHD issued server command: /give eskimohd 276 1 0 {ench:[{id:16,lvl:10000},{id:34,lvl:1000­0},{id:20,lvl:5}]}
+[22:35:57] [Server thread/INFO]: dev: [Dev] Chris, [Dev] Popey, [Dev] Twiixtor
+[22:35:57] [Server thread/INFO]: member: [Member] EskimoHD, [Member] minelittleyoshi, [Member] Raichu3000
+[22:35:58] [Server thread/INFO]: Popey456963 issued server command: //expand 20 up
+[22:36:00] [Server thread/INFO]: Popey456963 issued server command: //cut
+[22:36:14] [Server thread/INFO]: Popey456963 issued server command: //set grass
+[22:36:19] [Server thread/INFO]: Twiixtor issued server command: //cut
+[22:36:22] [Server thread/INFO]: Twiixtor issued server command: //paste
+[22:36:30] [Server thread/INFO]: EskimoHD died
+[22:36:44] [Server thread/INFO]: dev: [Dev] Chris, [Dev] Popey, [Dev] Twiixtor
+[22:36:44] [Server thread/INFO]: member: [Member] EskimoHD, [Member] minelittleyoshi, [Member] Raichu3000
+[22:36:50] [Server thread/INFO]: EskimoHD issued server command: /tp EskimoHD Crustifer
+[22:36:56] [Server thread/INFO]: Twiixtor issued server command: /tp raich pop
+[22:37:17] [Server thread/INFO]: Popey456963 issued server command: /vanish
+[22:37:18] [Server thread/INFO]: Popey456963 issued server command: /vanis
+[22:37:19] [Server thread/INFO]: Popey456963 issued server command: /vanish
+[22:37:26] [Server thread/INFO]: [Dev] Twiixtor: a
+[22:37:30] [Server thread/INFO]: dev: [Dev] Chris, [Dev] Popey, [Dev] Twiixtor
+[22:37:30] [Server thread/INFO]: member: [Member] EskimoHD, [Member] minelittleyoshi, [Member] Raichu3000
+[22:37:39] [Server thread/INFO]: Crustifer issued server command: //pos1
+[22:37:39] [Server thread/INFO]: Popey456963 issued server command: //paste
+[22:37:42] [Server thread/INFO]: Crustifer issued server command: //move 1
+[22:37:47] [Server thread/INFO]: Crustifer issued server command: //undo
+[22:37:48] [Server thread/INFO]: Popey456963 issued server command: //undo
+[22:37:50] [Server thread/INFO]: Crustifer issued server command: //pos1
+[22:37:55] [Server thread/INFO]: Crustifer issued server command: //pos2
+[22:37:58] [Server thread/INFO]: Crustifer issued server command: //move
+[22:37:59] [Server thread/INFO]: EskimoHD issued server command: /give eskimohd 276 1 0 {ench:[{id:19,lvl:10000},{id:34,lvl:1000­0},{id:20,lvl:5}]}
+[22:38:07] [Server thread/INFO]: Crustifer issued server command: //pos1
+[22:38:16] [Server thread/INFO]: Crustifer issued server command: //pos2
+[22:38:17] [Server thread/INFO]: EskimoHD issued server command: /give eskimohd 276 1 0 {ench:[{id:16,lvl:10000}
+[22:38:17] [Server thread/ERROR]: null
+[22:38:17] [Server thread/INFO]: dev: [Dev] Chris, [Dev] Popey, [Dev] Twiixtor
+[22:38:17] [Server thread/INFO]: member: [Member] EskimoHD, [Member] minelittleyoshi, [Member] Raichu3000
+[22:38:19] [Server thread/INFO]: Crustifer issued server command: //move
+[22:38:33] [Server thread/INFO]: Popey456963 issued server command: //set wool:black
+[22:38:37] [Server thread/INFO]: EskimoHD issued server command: /give @p 276 1 0 {ench:[{id:19,lvl:10000},{id:34,lvl:1000­0},
+[22:38:45] [Server thread/INFO]: Popey456963 issued server command: //undo
+[22:38:48] [Server thread/INFO]: Popey456963 issued server command: //expand 1 up
+[22:38:53] [Server thread/INFO]: Popey456963 issued server command: //replace air wool:black
+[22:38:55] [Server thread/INFO]: EskimoHD issued server command: /give eskimohd 276 1 0 {ench:[{id:19,lvl:10000},{id:34,lvl:1000­0}
+[22:38:55] [Server thread/ERROR]: null
+[22:38:58] [Server thread/INFO]: Popey456963 issued server command: //undo
+[22:39:03] [Server thread/INFO]: dev: [Dev] Chris, [Dev] Popey, [Dev] Twiixtor
+[22:39:03] [Server thread/INFO]: member: [Member] EskimoHD, [Member] minelittleyoshi, [Member] Raichu3000
+[22:39:39] [Server thread/INFO]: EskimoHD issued server command: /give eskimohd 276 1 0 {ench:[{id:16,lvl:10000},{id:34,lvl:1000­0}
+[22:39:39] [Server thread/ERROR]: null
+[22:39:41] [Server thread/INFO]: Twiixtor issued server command: //replace 0 35:15
+[22:39:50] [Server thread/INFO]: dev: [Dev] Chris, [Dev] Popey, [Dev] Twiixtor
+[22:39:50] [Server thread/INFO]: member: [Member] EskimoHD, [Member] minelittleyoshi, [Member] Raichu3000
+[22:39:54] [Server thread/INFO]: Twiixtor issued server command: /i torch 1
+[22:40:00] [Server thread/INFO]: Twiixtor issued server command: /powertool replace 35:5 35:7
+[22:40:04] [Server thread/INFO]: [PT] Twiixtor issued server command: /replace 35:5 35:7
+[22:40:04] [Server thread/INFO]: [PT] Twiixtor issued server command: /replace 35:5 35:7
+[22:40:05] [Server thread/INFO]: EskimoHD issued server command: /give eskimohd 276 1 0 {ench:[{id:16,lvl:10000},{id:34,lvl:1000­0}]}
+[22:40:10] [Server thread/INFO]: Twiixtor issued server command: /powertool
+[22:40:11] [Server thread/INFO]: Twiixtor issued server command: //replace
+[22:40:16] [Server thread/INFO]: Popey456963 issued server command: /tp eskimo
+[22:40:28] [Server thread/INFO]: Twiixtor issued server command: //undo
+[22:40:36] [Server thread/INFO]: Popey456963 issued server command: /tp eskimo
+[22:40:37] [Server thread/INFO]: dev: [Dev] Chris, [Dev] Popey, [Dev] Twiixtor
+[22:40:37] [Server thread/INFO]: member: [Member] EskimoHD, [Member] minelittleyoshi, [Member] Raichu3000
+[22:40:40] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:40:46] [Server thread/INFO]: Popey456963 issued server command: /agmemode 0 eskimo
+[22:40:46] [Server thread/INFO]: EskimoHD issued server command: /give eskimohd 276 1 0 {ench:[{id:19,lvl:10000},{id:34,lvl:1000­0}]}
+[22:40:50] [Server thread/INFO]: Popey456963 issued server command: /gamemode 0 eskimo
+[22:40:53] [Server thread/INFO]: Twiixtor issued server command: //replace dirt grass
+[22:41:06] [Server thread/INFO]: EskimoHD was slain by Popey456963
+[22:41:07] [Server thread/INFO]: Twiixtor issued server command: /time day
+[22:41:15] [Server thread/INFO]: Twiixtor issued server command: /i sign 1
+[22:41:18] [Server thread/INFO]: EskimoHD issued server command: /give eskimohd 276 1 0 {ench:[{id:19,lvl:1000000},{id:34,lvl:1000­0}]}
+[22:41:23] [Server thread/INFO]: dev: [Dev] Chris, [Dev] Popey, [Dev] Twiixtor
+[22:41:23] [Server thread/INFO]: member: [Member] EskimoHD, [Member] minelittleyoshi, [Member] Raichu3000
+[22:41:27] [Server thread/INFO]: EskimoHD issued server command: /tp EskimoHD 41sentury
+[22:41:30] [Server thread/INFO]: Twiixtor issued server command: /tp 41
+[22:41:44] [Server thread/INFO]: EskimoHD issued server command: /give eskimohd 276 1 0 {ench:[{id:19,lvl:25000},{id:34,lvl:1000­0}]}
+[22:41:49] [Server thread/INFO]: Popey456963 issued server command: /mg tool
+[22:41:52] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:41:52] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:41:52] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:41:52] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:41:53] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:41:53] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:41:53] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:41:53] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:41:54] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:41:54] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:41:54] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:41:54] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:41:54] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:41:54] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:41:55] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:41:55] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:41:55] [Server thread/INFO]: EskimoHD issued server command: /give eskimohd 276 1 0 {ench:[{id:19,lvl:100000},{id:34,lvl:1000­0}]}
+[22:41:55] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:41:55] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:41:55] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:41:55] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:41:56] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:41:56] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:41:56] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:41:56] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:41:56] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:41:56] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:41:57] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:41:57] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:41:57] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:41:57] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:41:57] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:41:57] [Server thread/INFO]: Popey456963 issued server command: /mg tool minigame SmallArena
+[22:41:57] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:41:57] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:41:58] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:41:58] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:41:58] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:41:58] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:41:58] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:42:03] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:42:04] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:42:04] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:42:04] [Server thread/INFO]: Popey456963 issued server command: /gamemode 1 EskimoHD
+[22:42:04] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:42:05] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:42:05] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:42:05] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:42:05] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:42:05] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:42:06] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:42:06] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:42:06] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:42:06] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:42:06] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:42:10] [Server thread/INFO]: dev: [Dev] Chris, [Dev] Popey, [Dev] Twiixtor
+[22:42:10] [Server thread/INFO]: member: [Member] EskimoHD, [Member] minelittleyoshi, [Member] Raichu3000
+[22:42:11] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:42:14] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:42:20] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:42:20] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:42:20] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:42:20] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:42:21] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:42:21] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:42:21] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:42:21] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:42:21] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:42:23] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:42:23] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:42:23] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:42:24] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:42:24] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:42:24] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:42:24] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:42:25] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:42:25] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:42:25] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:42:25] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:42:25] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:42:25] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:42:25] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:42:25] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:42:26] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:42:26] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:42:26] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:42:26] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:42:26] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:42:27] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:42:27] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:42:27] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:42:27] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:42:27] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:42:27] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:42:28] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:42:28] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:42:28] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:42:28] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:42:28] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:42:29] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:42:29] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:42:29] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:42:29] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:42:29] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:42:29] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:42:29] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:42:29] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:42:30] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:42:30] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:42:31] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:42:31] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:42:31] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:42:31] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:42:31] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:42:32] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:42:32] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:42:32] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:42:32] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:42:32] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:42:32] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:42:32] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:42:45] [Server thread/INFO]: Popey456963 issued server command: /mg setspawn
+[22:42:46] [Server thread/INFO]: Twiixtor issued server command: /powertool
+[22:42:47] [Server thread/INFO]: Popey456963 issued server command: /mg
+[22:42:48] [Server thread/INFO]: Popey456963 issued server command: /mg help
+[22:42:49] [Server thread/INFO]: Twiixtor issued server command: /ci
+[22:42:50] [Server thread/INFO]: Twiixtor issued server command: /gm 0
+[22:42:53] [Server thread/INFO]: Popey456963 issued server command: /mg set
+[22:42:55] [Server thread/INFO]: Twiixtor issued server command: /heal
+[22:42:56] [Server thread/INFO]: dev: [Dev] Chris, [Dev] Popey, [Dev] Twiixtor
+[22:42:56] [Server thread/INFO]: member: [Member] EskimoHD, [Member] minelittleyoshi, [Member] Raichu3000
+[22:43:06] [Server thread/INFO]: Twiixtor issued server command: /enchant sharpness 100
+[22:43:08] [Server thread/INFO]: EskimoHD issued server command: /give eskimohd 276 1 0 {ench:[{id:19,lvl:99999},{id:34,lvl:1000­0}]}
+[22:43:11] [Server thread/INFO]: Twiixtor issued server command: /enchant knockback 100
+[22:43:14] [Server thread/INFO]: Twiixtor issued server command: /enchant fireaspect 100
+[22:43:17] [Server thread/INFO]: Popey456963 issued server command: /mg set loadout
+[22:43:20] [Server thread/INFO]: Twiixtor was slain by EskimoHD
+[22:43:21] [Server thread/INFO]: Popey456963 issued server command: /mg set loadout 1
+[22:43:24] [Server thread/INFO]: Twiixtor issued server command: /back
+[22:43:39] [Server thread/INFO]: EskimoHD issued server command: /gamemode s
+[22:43:43] [Server thread/INFO]: dev: [Dev] Chris, [Dev] Popey, [Dev] Twiixtor
+[22:43:43] [Server thread/INFO]: member: [Member] EskimoHD, [Member] minelittleyoshi, [Member] Raichu3000
+[22:43:44] [Server thread/INFO]: EskimoHD was slain by Twiixtor
+[22:43:49] [Server thread/INFO]: [Member] minelittleyoshi: Twiixtor
+[22:43:51] [Server thread/INFO]: EskimoHD issued server command: /tp EskimoHD 41sentury
+[22:44:00] [Server thread/INFO]: Popey456963 issued server command: /mg set SmallArena
+[22:44:01] [Server thread/INFO]: [Member] minelittleyoshi: i got it working now
+[22:44:02] [Server thread/INFO]: Popey456963 issued server command: /mg set SmallArena loadout
+[22:44:08] [Server thread/INFO]: [Member] minelittleyoshi: now the lights
+[22:44:08] [Server thread/INFO]: EskimoHD was slain by Twiixtor
+[22:44:13] [Server thread/INFO]: Twiixtor issued server command: /ci
+[22:44:16] [Server thread/INFO]: Twiixtor issued server command: /tphere eskim
+[22:44:21] [Server thread/INFO]: Popey456963 issued server command: /mg set SmallArena loadout
+[22:44:23] [Server thread/INFO]: Twiixtor issued server command: /gm 1
+[22:44:24] [Server thread/INFO]: Twiixtor issued server command: /tp mine
+[22:44:25] [Server thread/INFO]: EskimoHD issued server command: /give eskimohd 276 1 0 {ench:[{id:19,lvl:50000},{id:34,lvl:1000­0}]}
+[22:44:29] [Server thread/INFO]: Popey456963 issued server command: /mg set SmallArena
+[22:44:29] [Server thread/INFO]: dev: [Dev] Chris, [Dev] Popey, [Dev] Twiixtor
+[22:44:29] [Server thread/INFO]: member: [Member] EskimoHD, [Member] minelittleyoshi, [Member] Raichu3000
+[22:44:30] [Server thread/INFO]: Twiixtor issued server command: //wand
+[22:44:33] [Server thread/INFO]: Twiixtor issued server command: /i bedrock 1
+[22:44:38] [Server thread/INFO]: Twiixtor issued server command: //set 0
+[22:44:42] [Server thread/INFO]: EskimoHD issued server command: /give eskimohd 276 1 0 {ench:[{id:19,lvl:35000},{id:34,lvl:1000­0}]}
+[22:44:56] [Server thread/INFO]: Twiixtor issued server command: /spawnmob giant 1
+[22:45:02] [Server thread/INFO]: Twiixtor issued server command: /ci
+[22:45:02] [Server thread/INFO]: EskimoHD issued server command: /tp Twiixtor EskimoHD
+[22:45:06] [Server thread/INFO]: Twiixtor issued server command: /gm 0
+[22:45:07] [Server thread/INFO]: Popey456963 issued server command: /mg set SmallArena spawn
+[22:45:10] [Server thread/INFO]: EskimoHD issued server command: /gamemode s Twiixtor
+[22:45:13] [Server thread/INFO]: Crustifer issued server command: /spawn giant
+[22:45:16] [Server thread/INFO]: dev: [Dev] Chris, [Dev] Popey, [Dev] Twiixtor
+[22:45:16] [Server thread/INFO]: member: [Member] EskimoHD, [Member] minelittleyoshi, [Member] Raichu3000
+[22:45:17] [Server thread/INFO]: Crustifer issued server command: /spawnmob giant
+[22:45:29] [Server thread/INFO]: Twiixtor issued server command: /spawnmob giant 20
+[22:45:33] [Server thread/INFO]: Popey456963 issued server command: /mg set SmallArena start 1
+[22:45:37] [Server thread/INFO]: Popey456963 issued server command: /mg set SmallArena start 2
+[22:45:38] [Server thread/INFO]: Twiixtor issued server command: /ci
+[22:45:40] [Server thread/INFO]: Popey456963 issued server command: /mg set SmallArena start 3
+[22:45:43] [Server thread/INFO]: Popey456963 issued server command: /mg set SmallArena start 4
+[22:45:46] [Server thread/INFO]: Popey456963 issued server command: /mg set SmallArena start 5
+[22:45:49] [Server thread/INFO]: Popey456963 issued server command: /mg set SmallArena start 6
+[22:45:52] [Server thread/INFO]: Twiixtor issued server command: /butcher
+[22:45:52] [Server thread/INFO]: Popey456963 issued server command: /mg set SmallArena start 7
+[22:45:55] [Server thread/INFO]: Popey456963 issued server command: /mg set SmallArena start 8
+[22:46:00] [Server thread/INFO]: Popey456963 issued server command: /mg set SmallArena enabled
+[22:46:01] [Server thread/INFO]: EskimoHD issued server command: /gamemode s Raichu3000
+[22:46:01] [Server thread/INFO]: Popey456963 issued server command: /mg set SmallArena enabled true
+[22:46:02] [Server thread/INFO]: dev: [Dev] Chris, [Dev] Popey, [Dev] Twiixtor
+[22:46:02] [Server thread/INFO]: member: [Member] EskimoHD, [Member] minelittleyoshi, [Member] Raichu3000
+[22:46:05] [Server thread/INFO]: Raichu3000 issued server command: /gamemode 1
+[22:46:06] [Server thread/INFO]: Twiixtor issued server command: /spawnmob ocelot 50
+[22:46:07] [Server thread/INFO]: EskimoHD issued server command: /tp Raichu3000 EskimoHD
+[22:46:16] [Server thread/INFO]: Popey456963 issued server command: /mg join smallArena
+[22:46:18] [Server thread/INFO]: Twiixtor issued server command: /butcher
+[22:46:19] [Server thread/INFO]: EskimoHD issued server command: /give EskimoHD Crustifer
+[22:46:19] [Server thread/INFO]: Twiixtor issued server command: /gm 1
+[22:46:23] [Server thread/INFO]: Twiixtor issued server command: /killentity
+[22:46:25] [Server thread/INFO]: Twiixtor issued server command: /kill ocelot
+[22:46:26] [Server thread/INFO]: Popey456963 issued server command: /mg join smallArena
+[22:46:27] [Server thread/INFO]: Twiixtor issued server command: /kill mob
+[22:46:31] [Server thread/INFO]: Twiixtor issued server command: /kill mobs
+[22:46:34] [Server thread/INFO]: Twiixtor issued server command: /killmob
+[22:46:34] [Server thread/INFO]: Popey456963 issued server command: /minigame quit
+[22:46:34] [Server thread/INFO]: [Minigames] Popey456963 quit SmallArena
+[22:46:36] [Server thread/INFO]: Twiixtor issued server command: /killentity
+[22:46:42] [Server thread/INFO]: minelittleyoshi issued server command: /set
+[22:46:48] [Server thread/INFO]: Popey456963 issued server command: /mg set SmallArena type Multiplayer
+[22:46:49] [Server thread/INFO]: dev: [Dev] Chris, [Dev] Popey, [Dev] Twiixtor
+[22:46:49] [Server thread/INFO]: member: [Member] EskimoHD, [Member] minelittleyoshi, [Member] Raichu3000
+[22:46:53] [Server thread/INFO]: minelittleyoshi issued server command: /set Raichu3000 gamemode 0
+[22:46:58] [Server thread/INFO]: minelittleyoshi issued server command: /help
+[22:46:58] [Server thread/INFO]: Popey456963 issued server command: /killall all
+[22:47:02] [Server thread/INFO]: [Dev] Popey: ./killall all
+[22:47:03] [Server thread/INFO]: minelittleyoshi issued server command: /help 2
+[22:47:05] [Server thread/INFO]: [Dev] Popey: For everything
+[22:47:13] [Server thread/INFO]: minelittleyoshi issued server command: /help 4
+[22:47:14] [Server thread/INFO]: Popey456963 issued server command: /mg set SmallArena type Multiplayer
+[22:47:19] [Server thread/INFO]: Popey456963 issued server command: /mg join
+[22:47:22] [Server thread/INFO]: minelittleyoshi issued server command: /help 5
+[22:47:22] [Server thread/INFO]: Popey456963 issued server command: /mg join SmallArena
+[22:47:29] [Server thread/INFO]: Crustifer issued server command: //butcher
+[22:47:29] [Server thread/INFO]: Popey456963 issued server command: /mg join SmallArena
+[22:47:30] [Server thread/INFO]: EskimoHD issued server command: /give EskimoHD command_block
+[22:47:31] [Server thread/INFO]: minelittleyoshi issued server command: /fireball
+[22:47:32] [Server thread/INFO]: [Dev] Popey: ./mg join SmallArena
+[22:47:33] [Server thread/INFO]: [Dev] Popey: ./mg join SmallArena
+[22:47:33] [Server thread/INFO]: [Dev] Popey: ./mg join SmallArena
+[22:47:33] [Server thread/INFO]: [Dev] Popey: ./mg join SmallArena
+[22:47:34] [Server thread/INFO]: [Dev] Popey: ./mg join SmallArena
+[22:47:34] [Server thread/INFO]: [Dev] Popey: ./mg join SmallArena
+[22:47:34] [Server thread/INFO]: [Dev] Popey: ./mg join SmallArena
+[22:47:36] [Server thread/INFO]: dev: [Dev] Chris, [Dev] Popey, [Dev] Twiixtor
+[22:47:36] [Server thread/INFO]: member: [Member] EskimoHD, [Member] minelittleyoshi, [Member] Raichu3000
+[22:47:38] [Server thread/INFO]: Twiixtor issued server command: /mg join smallarena
+[22:47:42] [Server thread/INFO]: EskimoHD issued server command: /gamemode c
+[22:47:45] [Server thread/INFO]: minelittleyoshi issued server command: /fireball
+[22:47:46] [Server thread/INFO]: Crustifer issued server command: /mg join SmallArena
+[22:48:00] [Server thread/INFO]: Popey456963 issued server command: /pt
+[22:48:14] [Server thread/INFO]: Twiixtor issued server command: /enchant fireaspect 1
+[22:48:18] [Server thread/INFO]: minelittleyoshi issued server command: /pt
+[22:48:22] [Server thread/INFO]: Crustifer issued server command: /enchant sharpness 20
+[22:48:22] [Server thread/INFO]: dev: [Dev] Chris, [Dev] Popey, [Dev] Twiixtor
+[22:48:22] [Server thread/INFO]: member: [Member] EskimoHD, [Member] minelittleyoshi, [Member] Raichu3000
+[22:48:22] [Server thread/INFO]: minelittleyoshi issued server command: /pt help
+[22:48:25] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /help
+[22:48:26] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /help
+[22:48:26] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /help
+[22:48:26] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /help
+[22:48:26] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /help
+[22:48:27] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /help
+[22:48:30] [Server thread/INFO]: Crustifer issued server command: /gamemode 1
+[22:48:30] [Server thread/INFO]: Popey456963 issued server command: /enchant sharpness 1000
+[22:48:39] [Server thread/INFO]: Crustifer issued server command: /enchant 20 sharpness
+[22:48:47] [Server thread/INFO]: Crustifer issued server command: /enchant sharpness 30
+[22:48:48] [Server thread/INFO]: EskimoHD issued server command: /tp minelittleyoshi EskimoHD
+[22:48:53] [Server thread/INFO]: EskimoHD issued server command: /gamemode s minelittleyoshi
+[22:48:53] [Server thread/INFO]: Twiixtor issued server command: /powertool smite
+[22:49:00] [Server thread/INFO]: Crustifer issued server command: /minigame leave
+[22:49:06] [Server thread/INFO]: Twiixtor issued server command: /powertool smite
+[22:49:06] [Server thread/INFO]: Crustifer issued server command: /help
+[22:49:07] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:49:08] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:49:08] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:49:08] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:49:09] [Server thread/INFO]: dev: [Dev] Chris, [Dev] Popey, [Dev] Twiixtor
+[22:49:09] [Server thread/INFO]: member: [Member] EskimoHD, [Member] minelittleyoshi, [Member] Raichu3000
+[22:49:09] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:49:09] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:49:09] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:49:09] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:49:09] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:49:09] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:49:10] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:49:10] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:49:10] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:49:10] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:49:10] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:49:11] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:49:11] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:49:11] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:49:12] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:49:12] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:49:12] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:49:13] [Server thread/INFO]: minelittleyoshi issued server command: /gamemode 1
+[22:49:14] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:49:14] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:49:14] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:49:14] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:49:14] [Server thread/INFO]: Popey456963 issued server command: /enchant sharpness 1000
+[22:49:14] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:49:14] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:49:14] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:49:15] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:49:15] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:49:15] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:49:15] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:49:15] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:49:15] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:49:15] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:49:16] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:49:18] [Server thread/INFO]: Popey456963 issued server command: /enchant sharpness 1000
+[22:49:20] [Server thread/INFO]: Crustifer issued server command: /minigame help
+[22:49:20] [Server thread/INFO]: EskimoHD issued server command: /give EskimoHD command_block
+[22:49:26] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:49:26] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:49:26] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:49:26] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:49:26] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:49:26] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:49:26] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:49:26] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:49:26] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:49:26] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:49:29] [Server thread/INFO]: Popey456963 issued server command: /enchant sharpness 1000
+[22:49:30] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:49:30] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:49:30] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:49:30] [Server thread/INFO]: Crustifer issued server command: /minigame delete SmallArena
+[22:49:30] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:49:30] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:49:36] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:49:36] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:49:37] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:49:37] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:49:37] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:49:37] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:49:38] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:49:38] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:49:39] [Server thread/INFO]: Crustifer issued server command: /minigame help
+[22:49:41] [Server thread/INFO]: Twiixtor issued server command: /mg leave
+[22:49:41] [Server thread/INFO]: Popey456963 issued server command: /ma exiut
+[22:49:42] [Server thread/INFO]: Popey456963 issued server command: /ma exit
+[22:49:43] [Server thread/INFO]: minelittleyoshi issued server command: /pt fartrod
+[22:49:44] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fartrod
+[22:49:44] [Server thread/INFO]: Crustifer issued server command: /minigame end
+[22:49:44] [Server thread/INFO]: [Minigames] Popey456963 quit SmallArena
+[22:49:44] [Server thread/INFO]: [Minigames] Twiixtor quit SmallArena
+[22:49:44] [Server thread/INFO]: [Minigames] Crustifer quit SmallArena
+[22:49:45] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fartrod
+[22:49:46] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fartrod
+[22:49:46] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fartrod
+[22:49:46] [Server thread/INFO]: Popey456963 issued server command: /ma quit
+[22:49:47] [Server thread/INFO]: Twiixtor issued server command: /minigame quit
+[22:49:52] [Server thread/INFO]: [Dev] Popey: Interesting
+[22:49:55] [Server thread/INFO]: dev: [Dev] Chris, [Dev] Popey, [Dev] Twiixtor
+[22:49:55] [Server thread/INFO]: member: [Member] EskimoHD, [Member] minelittleyoshi, [Member] Raichu3000
+[22:50:14] [Server thread/INFO]: Popey456963 issued server command: /bigtree
+[22:50:16] [Server thread/INFO]: Twiixtor issued server command: //wand
+[22:50:17] [Server thread/INFO]: minelittleyoshi issued server command: /pt flamethrower
+[22:50:18] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /flamethrower
+[22:50:22] [Server thread/INFO]: Twiixtor issued server command: //expand vert
+[22:50:22] [Server thread/INFO]: Popey456963 issued server command: /pt bigtree tree
+[22:50:23] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:24] [Server thread/INFO]: Twiixtor issued server command: //replace wood 0
+[22:50:24] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:25] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:25] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:26] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:26] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:26] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:26] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:26] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:26] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:27] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:27] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:27] [Server thread/INFO]: Twiixtor issued server command: //replace 17 0
+[22:50:28] [Server thread/INFO]: EskimoHD issued server command: /gamemode s 41sentury
+[22:50:28] [Server thread/INFO]: Twiixtor issued server command: /top
+[22:50:29] [Server thread/INFO]: Popey456963 issued server command: /top
+[22:50:30] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:31] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:31] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:31] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:31] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:31] [Server thread/INFO]: Twiixtor issued server command: //replace leaf 0
+[22:50:31] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:31] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:32] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:32] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:32] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:32] [Server thread/INFO]: minelittleyoshi issued server command: /powertool flamethrower
+[22:50:32] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:32] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:33] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:33] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /flamethrower
+[22:50:33] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:33] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:34] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:34] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:34] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:34] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:35] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:35] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:35] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:35] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:36] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:36] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:36] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:37] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:37] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:37] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:37] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:38] [Server thread/INFO]: 41sentury issued server command: /gamemode 1
+[22:50:38] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:38] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:38] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:38] [Server thread/INFO]: Twiixtor issued server command: /forest
+[22:50:38] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:38] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:39] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:39] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:39] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:39] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:39] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:40] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:40] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:40] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:40] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:40] [Server thread/INFO]: Twiixtor issued server command: //forest
+[22:50:40] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:41] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:41] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:41] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:41] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:41] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:41] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:42] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:42] [Server thread/INFO]: dev: [Dev] Chris, [Dev] Popey, [Dev] Twiixtor
+[22:50:42] [Server thread/INFO]: member: [Member] EskimoHD, [Member] minelittleyoshi, [Member] Raichu3000
+[22:50:42] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:42] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:42] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:42] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:43] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:43] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:43] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:43] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:43] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:44] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:44] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:44] [Server thread/INFO]: Twiixtor issued server command: //forest 10
+[22:50:44] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:45] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:45] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:45] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:45] [Server thread/INFO]: 41sentury issued server command: /gamemode 0 EskimoHD
+[22:50:45] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:45] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:45] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:46] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:46] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:46] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:46] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:46] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:46] [Server thread/INFO]: EskimoHD fell from a high place
+[22:50:46] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:47] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:47] [Server thread/INFO]: Twiixtor issued server command: //forest
+[22:50:47] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:47] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:47] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:47] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:48] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:48] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:48] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:48] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:48] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:49] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:49] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:49] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:49] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:50] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:50] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:50] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:50] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:50] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:51] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:51] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:51] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:51] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:51] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:52] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:52] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:52] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:52] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:52] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:53] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:53] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:53] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:53] [Server thread/INFO]: EskimoHD issued server command: /tp EskimoHD 41sentury
+[22:50:53] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:53] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:54] [Server thread/INFO]: Twiixtor issued server command: /i bedrock 1
+[22:50:54] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:54] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:54] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:54] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:55] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:55] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:55] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:55] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:55] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:55] [Server thread/INFO]: Crustifer issued server command: /plugins
+[22:50:55] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:55] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:55] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:56] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:56] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:56] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:56] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:56] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:56] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:57] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:57] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:57] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:50:57] [Server thread/INFO]: [PT] Popey456963 issued server command: /bigtree tree
+[22:51:00] [Server thread/INFO]: Twiixtor issued server command: //replace wood 0
+[22:51:02] [Server thread/INFO]: Twiixtor issued server command: //replace 16 0
+[22:51:09] [Server thread/INFO]: Twiixtor issued server command: /i compass 1
+[22:51:14] [Server thread/INFO]: Popey456963 issued server command: //expand 30 up
+[22:51:14] [Server thread/INFO]: minelittleyoshi issued server command: /powertool fireball
+[22:51:15] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:51:15] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:51:16] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:51:16] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:51:16] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:51:16] [Server thread/INFO]: Popey456963 issued server command: //replace wood 0
+[22:51:16] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:51:16] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:51:16] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:51:17] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:51:17] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:51:17] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:51:17] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:51:17] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:51:18] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:51:18] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:51:19] [Server thread/INFO]: Twiixtor issued server command: //replace 17 0
+[22:51:23] [Server thread/INFO]: Twiixtor issued server command: //expand vert
+[22:51:23] [Server thread/INFO]: Popey456963 issued server command: //replace leaves 0
+[22:51:25] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:51:26] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:51:27] [Server thread/INFO]: Twiixtor issued server command: //replace 17 0
+[22:51:28] [Server thread/INFO]: dev: [Dev] Chris, [Dev] Popey, [Dev] Twiixtor
+[22:51:28] [Server thread/INFO]: member: [Member] EskimoHD, [Member] minelittleyoshi, [Member] Raichu3000
+[22:51:29] [Server thread/INFO]: EskimoHD issued server command: /give eskimohd wooden_sword 1 0 {display:{Name:"Ultra Sword"},ench:[{id:19,lvl:100000}]}
+[22:51:36] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:51:37] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:51:37] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:51:37] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:51:38] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:51:38] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:51:38] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:51:38] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:51:38] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:51:38] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:51:39] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:51:39] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:51:39] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:51:39] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:51:39] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:51:39] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:51:40] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:51:40] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:51:40] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:51:40] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:51:40] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:51:40] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:51:41] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:51:41] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:51:41] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:51:41] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:51:41] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:51:41] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:51:42] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:51:42] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:51:42] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:51:42] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:51:42] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:51:43] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:51:43] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:51:43] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:51:47] [Server thread/INFO]: EskimoHD issued server command: /give @p wooden_sword 1 0 {display:{Name:"Ultra Sword"},ench:[{id:32,lvl:100}]}
+[22:52:02] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:52:03] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:52:03] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:52:03] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:52:03] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:52:03] [Server thread/INFO]: Popey456963 issued server command: /kit fireowrks
+[22:52:03] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:52:03] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:52:04] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:52:04] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:52:04] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:52:04] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:52:04] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:52:05] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:52:05] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:52:05] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:52:05] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:52:06] [Server thread/INFO]: Popey456963 issued server command: /kit fireworks
+[22:52:06] [Server thread/INFO]: Twiixtor issued server command: /kit fireworks
+[22:52:09] [Server thread/INFO]: Popey456963 issued server command: /kit
+[22:52:10] [Server thread/INFO]: Twiixtor issued server command: /kit firework
+[22:52:10] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:52:10] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:52:10] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:52:10] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:52:11] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:52:11] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:52:11] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:52:11] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:52:11] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:52:11] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:52:12] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:52:14] [Server thread/INFO]: Popey456963 issued server command: /kit Firework
+[22:52:15] [Server thread/INFO]: 41sentury issued server command: /settime12
+[22:52:15] [Server thread/INFO]: Popey456963 issued server command: /kit Firework
+[22:52:15] [Server thread/INFO]: dev: [Dev] Chris, [Dev] Popey, [Dev] Twiixtor
+[22:52:15] [Server thread/INFO]: member: [Member] EskimoHD, [Member] minelittleyoshi, [Member] Raichu3000
+[22:52:15] [Server thread/INFO]: Popey456963 issued server command: /kit Firework
+[22:52:15] [Server thread/INFO]: Popey456963 issued server command: /kit Firework
+[22:52:15] [Server thread/INFO]: Popey456963 issued server command: /kit Firework
+[22:52:16] [Server thread/INFO]: Popey456963 issued server command: /kit Firework
+[22:52:16] [Server thread/INFO]: Popey456963 issued server command: /kit Firework
+[22:52:16] [Server thread/INFO]: Popey456963 issued server command: /kit Firework
+[22:52:16] [Server thread/INFO]: Popey456963 issued server command: /kit Firework
+[22:52:19] [Server thread/INFO]: 41sentury issued server command: /settime 12
+[22:52:23] [Server thread/INFO]: 41sentury issued server command: /set time 12
+[22:52:32] [Server thread/INFO]: Twiixtor issued server command: /spawnentity
+[22:52:39] [Server thread/INFO]: Twiixtor issued server command: /spawnentity firework
+[22:52:50] [Server thread/INFO]: Twiixtor issued server command: /kit firework
+[22:52:53] [Server thread/INFO]: Twiixtor issued server command: /kit firework
+[22:52:53] [Server thread/INFO]: Twiixtor issued server command: /kit firework
+[22:52:54] [Server thread/INFO]: Twiixtor issued server command: /kit firework
+[22:52:54] [Server thread/INFO]: Twiixtor issued server command: /kit firework
+[22:52:54] [Server thread/INFO]: Twiixtor issued server command: /kit firework
+[22:52:54] [Server thread/INFO]: Twiixtor issued server command: /kit firework
+[22:52:55] [Server thread/INFO]: Twiixtor issued server command: /kit firework
+[22:52:55] [Server thread/INFO]: Twiixtor issued server command: /kit firework
+[22:52:56] [Server thread/INFO]: Twiixtor issued server command: /kit firework
+[22:52:56] [Server thread/INFO]: Twiixtor issued server command: /kit firework
+[22:52:56] [Server thread/INFO]: Twiixtor issued server command: /kit firework
+[22:52:56] [Server thread/INFO]: Twiixtor issued server command: /kit firework
+[22:52:57] [Server thread/INFO]: Twiixtor issued server command: /kit firework
+[22:52:57] [Server thread/INFO]: Twiixtor issued server command: /kit firework
+[22:52:58] [Server thread/INFO]: Twiixtor issued server command: /kit firework
+[22:52:58] [Server thread/INFO]: Twiixtor left the game.
+[22:53:01] [Server thread/INFO]: dev: [Dev] Chris, [Dev] Popey
+[22:53:01] [Server thread/INFO]: member: [Member] EskimoHD, [Member] minelittleyoshi, [Member] Raichu3000
+[22:53:08] [Server thread/INFO]: Twiixtor issued server command: /i dispenser 1
+[22:53:48] [Server thread/INFO]: dev: [Dev] Chris, [Dev] Popey, [Dev] Twiixtor
+[22:53:48] [Server thread/INFO]: member: [Member] EskimoHD, [Member] minelittleyoshi, [Member] Raichu3000
+[22:54:07] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /help
+[22:54:07] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /help
+[22:54:08] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /help
+[22:54:34] [Server thread/INFO]: dev: [Dev] Chris, [Dev] Popey, [Dev] Twiixtor
+[22:54:34] [Server thread/INFO]: member: [Member] EskimoHD, [Member] minelittleyoshi, [Member] Raichu3000
+[22:54:38] [Server thread/INFO]: [Member] Raichu3000: http://minecraft.gamepedia.com/Banner
+[22:54:38] [Server thread/INFO]: Twiixtor issued server command: /stack
+[22:54:42] [Server thread/INFO]: Twiixtor issued server command: /stack 64
+[22:54:51] [Server thread/INFO]: Twiixtor issued server command: /dupe
+[22:54:56] [Server thread/INFO]: Popey456963 issued server command: /max
+[22:54:57] [Server thread/INFO]: Twiixtor issued server command: /stack
+[22:54:58] [Server thread/INFO]: Popey456963 issued server command: /stack
+[22:55:08] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:55:08] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:55:09] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:55:09] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:55:09] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:55:09] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:55:09] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:55:10] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:55:10] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:55:10] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:55:10] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:55:10] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:55:11] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:55:11] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:55:11] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:55:11] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:55:11] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:55:12] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:55:12] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:55:12] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:55:12] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:55:12] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:55:12] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:55:13] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:55:13] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:55:13] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:55:13] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:55:13] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:55:14] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:55:14] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:55:14] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:55:14] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:55:14] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:55:15] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:55:19] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:55:19] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:55:20] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:55:20] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:55:20] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:55:20] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:55:20] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:55:20] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:55:20] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:55:20] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:55:20] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:55:21] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:55:21] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:55:21] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:55:21] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:55:21] [Server thread/INFO]: dev: [Dev] Chris, [Dev] Popey, [Dev] Twiixtor
+[22:55:21] [Server thread/INFO]: member: [Member] EskimoHD, [Member] minelittleyoshi, [Member] Raichu3000
+[22:55:21] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:55:21] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:55:22] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:55:22] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:55:22] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:55:53] [Server thread/INFO]: EskimoHD issued server command: /give @p 276 1 0 {ench:[{id:16,lvl:10000},{id:19,lvl:1000­0}]}
+[22:56:07] [Server thread/INFO]: 41sentury issued server command: /gamemode EskimoHD 1
+[22:56:08] [Server thread/INFO]: dev: [Dev] Chris, [Dev] Popey, [Dev] Twiixtor
+[22:56:08] [Server thread/INFO]: member: [Member] EskimoHD, [Member] minelittleyoshi, [Member] Raichu3000
+[22:56:18] [Server thread/INFO]: Twiixtor issued server command: /tp eskim
+[22:56:24] [Server thread/INFO]: Popey456963 issued server command: /tp eskimo
+[22:56:30] [Server thread/INFO]: EskimoHD issued server command: /give eskimohd 276 1 0 {ench:[{id:16,lvl:10000},{id:19,lvl:1000­0},{id:17,lvl:5}]}
+[22:56:34] [Server thread/INFO]: minelittleyoshi issued server command: /powertools
+[22:56:36] [Server thread/INFO]: minelittleyoshi issued server command: /powertool
+[22:56:42] [Server thread/INFO]: minelittleyoshi issued server command: /powertool help 1
+[22:56:45] [Server thread/INFO]: EskimoHD issued server command: /gamemode c
+[22:56:48] [Server thread/INFO]: Twiixtor issued server command: /i egg 1
+[22:56:49] [Server thread/INFO]: Popey456963 issued server command: /kill EskimoHD
+[22:56:49] [Server thread/INFO]: EskimoHD died
+[22:56:49] [Server thread/INFO]: minelittleyoshi issued server command: /powertool fireball
+[22:56:54] [Server thread/INFO]: dev: [Dev] Chris, [Dev] Popey, [Dev] Twiixtor
+[22:56:54] [Server thread/INFO]: member: [Member] EskimoHD, [Member] minelittleyoshi, [Member] Raichu3000
+[22:56:58] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:56:58] [Server thread/INFO]: Popey456963 issued server command: /tp EskimoHD pop
+[22:56:59] [Server thread/INFO]: Twiixtor issued server command: /enchant knockback 100
+[22:57:01] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:57:01] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:57:01] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:57:01] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:57:01] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:57:02] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:57:02] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:57:02] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:57:02] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:57:02] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:57:03] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:57:03] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:57:03] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:57:03] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:57:03] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:57:04] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:57:04] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:57:04] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:57:04] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:57:04] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:57:05] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:57:05] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:57:05] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:57:05] [Server thread/INFO]: Twiixtor issued server command: /enchant fireaspect 100
+[22:57:07] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:57:08] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:57:08] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:57:08] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:57:08] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:57:13] [Server thread/INFO]: Twiixtor issued server command: /gm 0 mine
+[22:57:14] [Server thread/INFO]: Popey456963 issued server command: //set grass
+[22:57:18] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[22:57:20] [Server thread/INFO]: EskimoHD issued server command: /gamemode s
+[22:57:23] [Server thread/INFO]: EskimoHD was slain by 41sentury
+[22:57:33] [Server thread/INFO]: Twiixtor issued server command: /tphere mine
+[22:57:41] [Server thread/INFO]: dev: [Dev] Chris, [Dev] Popey, [Dev] Twiixtor
+[22:57:41] [Server thread/INFO]: member: [Member] EskimoHD, [Member] minelittleyoshi, [Member] Raichu3000
+[22:57:48] [Server thread/INFO]: EskimoHD issued server command: /give @p 276 1 0 {ench:[{id:16,lvl:20000},{id:19,lvl:22000­0}}]}
+[22:57:51] [Server thread/INFO]: minelittleyoshi issued server command: /gamemode 1
+[22:58:06] [Server thread/INFO]: Twiixtor issued server command: /i stick 1
+[22:58:07] [Server thread/INFO]: Twiixtor issued server command: /bruch
+[22:58:09] [Server thread/INFO]: Twiixtor issued server command: /brush
+[22:58:11] [Server thread/INFO]: EskimoHD issued server command: /give eskimohd 276 1 0 {ench:[{id:16,lvl:10000},{id:19,lvl:15000­0}}]}
+[22:58:11] [Server thread/ERROR]: null
+[22:58:12] [Server thread/INFO]: Twiixtor issued server command: /brush sphere
+[22:58:14] [Server thread/INFO]: 41sentury left the game.
+[22:58:26] [Server thread/INFO]: EskimoHD issued server command: /give @p 276 1 0 {ench:[{id:16,lvl:10000},{id:19,lvl:12000­0}]}
+[22:58:27] [Server thread/INFO]: dev: [Dev] Chris, [Dev] Popey, [Dev] Twiixtor
+[22:58:27] [Server thread/INFO]: member: [Member] EskimoHD, [Member] minelittleyoshi, [Member] Raichu3000
+[22:58:32] [Server thread/INFO]: Twiixtor issued server command: /brush sphere 35:6 5
+[22:58:34] [Server thread/INFO]: [PT] Twiixtor issued server command: /smite
+[22:58:43] [Server thread/INFO]: minelittleyoshi issued server command: /set dau
+[22:58:43] [Server thread/INFO]: EskimoHD issued server command: /give eskimohd 276 1 0 {ench:[{id:16,lvl:10000},{id:19,lvl:1000­0}]}
+[22:58:44] [Server thread/INFO]: Popey456963 issued server command: /plugins
+[22:58:44] [Server thread/INFO]: minelittleyoshi issued server command: /set day
+[22:58:49] [Server thread/INFO]: minelittleyoshi issued server command: /set time day
+[22:58:52] [Server thread/INFO]: minelittleyoshi issued server command: /set time
+[22:58:52] [Server thread/INFO]: Twiixtor issued server command: /powertool
+[22:58:55] [Server thread/INFO]: minelittleyoshi issued server command: /set
+[22:58:57] [Server thread/INFO]: EskimoHD issued server command: /tp EskimoHD Crustifer
+[22:58:59] [Server thread/INFO]: Popey456963 issued server command: /top
+[22:59:01] [Server thread/INFO]: Twiixtor issued server command: //undo 2
+[22:59:09] [Server thread/INFO]: Twiixtor issued server command: //undo 2
+[22:59:09] [Server thread/INFO]: Twiixtor issued server command: //undo 2
+[22:59:10] [Server thread/INFO]: Twiixtor issued server command: //undo 2
+[22:59:10] [Server thread/INFO]: EskimoHD issued server command: /gamemode s Raichu3000
+[22:59:10] [Server thread/INFO]: Twiixtor issued server command: //undo 2
+[22:59:11] [Server thread/INFO]: Popey456963 issued server command: //expand 200 top
+[22:59:11] [Server thread/INFO]: Twiixtor issued server command: //undo 2
+[22:59:11] [Server thread/INFO]: Raichu3000 was slain by EskimoHD
+[22:59:12] [Server thread/INFO]: Twiixtor issued server command: //undo 2
+[22:59:13] [Server thread/INFO]: Popey456963 issued server command: //expand 200 up
+[22:59:14] [Server thread/INFO]: Twiixtor issued server command: //undo 1
+[22:59:14] [Server thread/INFO]: dev: [Dev] Chris, [Dev] Popey, [Dev] Twiixtor
+[22:59:14] [Server thread/INFO]: member: [Member] EskimoHD, [Member] minelittleyoshi, [Member] Raichu3000
+[22:59:14] [Server thread/INFO]: Popey456963 issued server command: //set 0
+[22:59:21] [Server thread/INFO]: Popey456963 issued server command: //set grass
+[22:59:26] [Server thread/INFO]: Popey456963 issued server command: //undo
+[22:59:27] [Server thread/INFO]: Popey456963 issued server command: //undo
+[22:59:33] [Server thread/INFO]: Twiixtor issued server command: /undo
+[22:59:35] [Server thread/INFO]: Crustifer issued server command: /tphere raichu3000
+[22:59:35] [Server thread/INFO]: Twiixtor issued server command: //undo
+[22:59:39] [Server thread/INFO]: EskimoHD fell out of the world
+[22:59:40] [Server thread/INFO]: Popey456963 issued server command: /tp raichu
+[22:59:44] [Server thread/INFO]: Twiixtor issued server command: /brush
+[22:59:47] [Server thread/INFO]: Raichu3000 issued server command: /gamemode 1
+[22:59:48] [Server thread/INFO]: 41sentury issued server command: /gamemode 1 minelittleyoshi
+[22:59:58] [Server thread/INFO]: Twiixtor issued server command: /brush hsphere barrier 5
+[23:00:00] [Server thread/INFO]: dev: [Dev] Chris, [Dev] Popey, [Dev] Twiixtor
+[23:00:00] [Server thread/INFO]: member: [Member] EskimoHD, [Member] minelittleyoshi, [Member] Raichu3000
+[23:00:03] [Server thread/INFO]: Twiixtor issued server command: /brush sphere barrier 5
+[23:00:07] [Server thread/INFO]: EskimoHD issued server command: /give @p 276 1 0 {ench:[{id:19,lvl:10000},{id:19,lvl:10000­0},{id:19,lvl:1005}]}
+[23:00:21] [Server thread/INFO]: Twiixtor issued server command: /tp mine
+[23:00:28] [Server thread/INFO]: Twiixtor issued server command: /tp eski
+[23:00:30] [Server thread/INFO]: EskimoHD issued server command: /give eskimohd 276 1 0 {ench:[{id:19,lvl:10000},{id:19,lvl:1000­0},{id:19,lvl:4445}]}
+[23:00:40] [Server thread/INFO]: Twiixtor issued server command: //undo
+[23:00:47] [Server thread/INFO]: dev: [Dev] Chris, [Dev] Popey, [Dev] Twiixtor
+[23:00:47] [Server thread/INFO]: member: [Member] EskimoHD, [Member] minelittleyoshi, [Member] Raichu3000
+[23:00:49] [Server thread/INFO]: EskimoHD issued server command: /gamemode s Twiixtor
+[23:00:57] [Server thread/INFO]: minelittleyoshi issued server command: /powertool fireball
+[23:00:58] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:00:59] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:01:00] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:01:00] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:01:00] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:01:00] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:01:00] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:01:00] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:01:00] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:01:01] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:01:01] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:01:01] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:01:01] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:01:01] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:01:02] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:01:02] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:01:03] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:01:03] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:01:03] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:01:03] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:01:03] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:01:04] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:01:04] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:01:04] [Server thread/INFO]: EskimoHD issued server command: /tp EskimoHD 41sentury
+[23:01:04] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:01:04] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:01:04] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:01:04] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:01:05] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:01:05] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:01:05] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:01:05] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:01:05] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:01:05] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:01:06] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:01:07] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:01:07] [Server thread/INFO]: Twiixtor issued server command: /tp eski
+[23:01:07] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:01:07] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:01:07] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:01:07] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:01:08] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:01:08] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:01:08] [Server thread/INFO]: EskimoHD issued server command: /tp Twiixtor EskimoHD
+[23:01:08] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:01:08] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:01:08] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:01:08] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:01:09] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:01:09] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:01:09] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:01:09] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:01:09] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:01:09] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:01:15] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:01:15] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:01:15] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:01:16] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:01:16] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:01:16] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:01:16] [Server thread/INFO]: EskimoHD issued server command: /gamemode c
+[23:01:17] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:01:17] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:01:17] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:01:17] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:01:18] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:01:18] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:01:18] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:01:19] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:01:19] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:01:21] [Server thread/INFO]: Twiixtor issued server command: /heal
+[23:01:23] [Server thread/INFO]: Twiixtor issued server command: /gm 1
+[23:01:26] [Server thread/INFO]: Twiixtor issued server command: //undo
+[23:01:33] [Server thread/INFO]: Twiixtor issued server command: //undo
+[23:01:33] [Server thread/INFO]: Twiixtor issued server command: //undo
+[23:01:33] [Server thread/INFO]: dev: [Dev] Chris, [Dev] Popey, [Dev] Twiixtor
+[23:01:33] [Server thread/INFO]: member: [Member] EskimoHD, [Member] minelittleyoshi, [Member] Raichu3000
+[23:01:41] [Server thread/INFO]: EskimoHD issued server command: /gamemode s tw
+[23:01:46] [Server thread/INFO]: EskimoHD issued server command: /gamemode c
+[23:01:47] [Server thread/INFO]: Twiixtor issued server command: //undo 5
+[23:01:49] [Server thread/INFO]: Twiixtor issued server command: //undo 1
+[23:01:49] [Server thread/INFO]: EskimoHD issued server command: /gamemode s 41
+[23:01:49] [Server thread/INFO]: EskimoHD was shot by 41sentury
+[23:01:51] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:01:56] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:01:56] [Server thread/INFO]: EskimoHD issued server command: /tp EskimoHD 41sentury
+[23:01:56] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:01:57] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:01:57] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:02:00] [Server thread/INFO]: Twiixtor issued server command: /brush
+[23:02:04] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:02:05] [Server thread/INFO]: Twiixtor issued server command: /brush smooth
+[23:02:07] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:02:07] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:02:07] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:02:07] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:02:07] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:02:08] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:02:08] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:02:08] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:02:08] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:02:08] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:02:08] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:02:09] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:02:09] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:02:09] [Server thread/INFO]: EskimoHD issued server command: /gamemodec
+[23:02:09] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:02:09] [Server thread/INFO]: Twiixtor issued server command: /brush
+[23:02:09] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:02:11] [Server thread/INFO]: Twiixtor issued server command: /brush off
+[23:02:12] [Server thread/INFO]: EskimoHD issued server command: /gamemode c
+[23:02:14] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:02:14] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:02:14] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:02:15] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:02:15] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:02:15] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:02:15] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:02:15] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:02:15] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:02:16] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:02:16] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:02:16] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:02:16] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:02:20] [Server thread/INFO]: EskimoHD issued server command: /gamemode s 41sentury
+[23:02:20] [Server thread/INFO]: dev: [Dev] Chris, [Dev] Popey, [Dev] Twiixtor
+[23:02:20] [Server thread/INFO]: member: [Member] EskimoHD, [Member] minelittleyoshi, [Member] Raichu3000
+[23:02:30] [Server thread/INFO]: minelittleyoshi issued server command: /slay eskimo
+[23:02:30] [Server thread/INFO]: EskimoHD died
+[23:02:32] [Server thread/INFO]: Popey456963 issued server command: /tp twiix
+[23:02:36] [Server thread/INFO]: 41sentury issued server command: /gamemode 1
+[23:02:40] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:02:40] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:02:40] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:02:41] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:02:41] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:02:41] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:02:41] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:02:48] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:02:49] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:02:49] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:02:49] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:02:50] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:02:50] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:02:50] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:02:50] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:02:50] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:02:50] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:02:50] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:02:51] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:02:51] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:02:51] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:02:51] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:02:51] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:02:54] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:02:55] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:02:55] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:02:55] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:02:55] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:02:55] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:02:55] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:02:56] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:02:56] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:02:56] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:02:56] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:02:56] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:02:56] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:03:00] [Server thread/INFO]: EskimoHD issued server command: /give @p 276 1 0 {ench:[{id:19,lvl:10000},{id:19,lvl:321000­0},{id:19,lvl:5500}]}
+[23:03:02] [Server thread/INFO]: Popey456963 issued server command: /uc
+[23:03:03] [Server thread/INFO]: Popey456963 issued server command: /U
+[23:03:05] [Server thread/INFO]: Twiixtor left the game.
+[23:03:06] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:03:07] [Server thread/INFO]: dev: [Dev] Chris, [Dev] Popey
+[23:03:07] [Server thread/INFO]: member: [Member] EskimoHD, [Member] minelittleyoshi, [Member] Raichu3000
+[23:03:07] [Server thread/INFO]: EskimoHD issued server command: /give eskimohd 276 1 0 {ench:[{id:16,lvl:10000},{id:34,lvl:1000­0},{id:20,lvl:5}]}
+[23:03:11] [Server thread/INFO]: minelittleyoshi issued server command: /pt
+[23:03:17] [Server thread/INFO]: EskimoHD issued server command: /enable god_mode
+[23:03:21] [Server thread/INFO]: EskimoHD issued server command: /godmode
+[23:03:22] [Server thread/INFO]: EskimoHD issued server command: /god
+[23:03:24] [Server thread/INFO]: EskimoHD issued server command: /god
+[23:03:48] [Server thread/INFO]: EskimoHD issued server command: //give @p 276 1 0 {ench:[{id:19,lvl:10243000},{id:19,lvl:123000­0},{id:19,lvl:242345}]}
+[23:03:53] [Server thread/INFO]: dev: [Dev] Chris, [Dev] Popey, [Dev] Twiixtor
+[23:03:53] [Server thread/INFO]: member: [Member] EskimoHD, [Member] minelittleyoshi, [Member] Raichu3000
+[23:04:10] [Server thread/INFO]: EskimoHD issued server command: /give eskimohd 276 1 0 {ench:[{id:19,lvl:10000},{id:19,lvl:1234000­0},{id:19,lvl:243425}]}
+[23:04:18] [Server thread/INFO]: EskimoHD issued server command: /tp EskimoHD 41sentury
+[23:04:30] [Server thread/INFO]: EskimoHD issued server command: /gamemode s
+[23:04:35] [Server thread/INFO]: EskimoHD issued server command: /gamemode s 41sentury
+[23:04:38] [Server thread/INFO]: Popey456963 issued server command: //walls wool:red
+[23:04:40] [Server thread/INFO]: dev: [Dev] Chris, [Dev] Popey, [Dev] Twiixtor
+[23:04:40] [Server thread/INFO]: member: [Member] EskimoHD, [Member] minelittleyoshi, [Member] Raichu3000
+[23:04:43] [Server thread/INFO]: Popey456963 issued server command: /tpall popey
+[23:04:45] [Server thread/INFO]: 41sentury issued server command: /gamemode 1
+[23:04:47] [Server thread/INFO]: EskimoHD issued server command: /tp 41sentury EskimoHD
+[23:04:50] [Server thread/INFO]: minelittleyoshi issued server command: /powertool fireball
+[23:04:52] [Server thread/INFO]: [PT] minelittleyoshi issued server command: /fireball
+[23:04:55] [Server thread/INFO]: EskimoHD issued server command: /gamemode s 41
+[23:04:57] [Server thread/INFO]: Popey456963 issued server command: //undo
+[23:05:00] [Server thread/INFO]: Popey456963 issued server command: /speed 10
+[23:05:02] [Server thread/INFO]: EskimoHD issued server command: /gamemode s 41sentury
+[23:05:03] [Server thread/INFO]: minelittleyoshi issued server command: /tp rai
+[23:05:03] [Server thread/INFO]: 41sentury fell from a high place
+[23:05:09] [Server thread/INFO]: Popey456963 issued server command: //walls wool:red
+[23:05:12] [Server thread/INFO]: 41sentury issued server command: /kill Eskimo
+[23:05:12] [Server thread/INFO]: EskimoHD died
+[23:05:16] [Server thread/INFO]: EskimoHD issued server command: /god
+[23:05:17] [Server thread/INFO]: EskimoHD issued server command: /god
+[23:05:22] [Server thread/INFO]: EskimoHD issued server command: /kill 41sentury
+[23:05:22] [Server thread/INFO]: 41sentury died
+[23:05:26] [Server thread/INFO]: Twiixtor issued server command: /i torch 1
+[23:05:26] [Server thread/INFO]: dev: [Dev] Chris, [Dev] Popey, [Dev] Twiixtor
+[23:05:26] [Server thread/INFO]: member: [Member] EskimoHD, [Member] minelittleyoshi, [Member] Raichu3000
+[23:05:27] [Server thread/INFO]: EskimoHD issued server command: /deop 41sentury
+[23:05:27] [Server thread/INFO]: [EskimoHD: De-opped 41sentury]
+[23:05:27] [Server thread/INFO]: Popey456963 issued server command: /tpall popey
+[23:05:31] [Server thread/INFO]: minelittleyoshi issued server command: /tp Raichu3000 minelittleyoshi
+[23:05:31] [Server thread/INFO]: 41sentury issued server command: /kill eskim
+[23:05:34] [Server thread/INFO]: Twiixtor issued server command: /brush sphere 35:6 5
+[23:05:34] [Server thread/INFO]: Popey456963 issued server command: //expand 40 up
+[23:05:38] [Server thread/INFO]: Popey456963 issued server command: //walls bedrock
+[23:05:39] [Server thread/INFO]: 41sentury issued server command: /kick Eskimo
+[23:05:40] [Server thread/INFO]: EskimoHD issued server command: /gamemode s 41sentury
+[23:05:44] [Server thread/INFO]: Popey456963 issued server command: /tpall popey
+[23:05:46] [Server thread/INFO]: 41sentury issued server command: /kill Eskimo
+[23:05:49] [Server thread/INFO]: EskimoHD issued server command: /give eskimohd 276 1 0 {ench:[{id:16,lvl:10000},{id:34,lvl:1000­0},{id:20,lvl:5}]}
+[23:05:51] [Server thread/INFO]: 41sentury was slain by EskimoHD
+[23:05:57] [Server thread/INFO]: EskimoHD issued server command: /op 41sentury
+[23:05:57] [Server thread/INFO]: [EskimoHD: Opped 41sentury]
+[23:05:59] [Server thread/INFO]: Popey456963 issued server command: //set bedrock
+[23:06:59] [Thread-3/INFO]: Stopping server

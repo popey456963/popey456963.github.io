@@ -1,0 +1,84 @@
+[17:13:10] [Server thread/INFO]: Loading properties
+[17:13:10] [Server thread/INFO]: Default game type: SURVIVAL
+[17:13:11] [Server thread/INFO]: Using epoll channel type
+[17:13:11] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v5.6.3
+[17:13:11] [Server thread/INFO]: [Essentials] Loading Essentials v2.12.2
+[17:13:11] [Server thread/INFO]: [ModReq] Loading ModReq v2.4.1
+[17:13:11] [Server thread/INFO]: [EssentialsGeoIP] Loading EssentialsGeoIP v2.12.2
+[17:13:11] [Server thread/INFO]: [EssentialsAntiBuild] Loading EssentialsAntiBuild v2.12.2
+[17:13:11] [Server thread/INFO]: [ClearLag] Loading ClearLag v2.8.2
+[17:13:11] [Server thread/INFO]: [AutoMessage] Loading AutoMessage v2.4.0
+[17:13:11] [Server thread/INFO]: [mcMMO] Loading mcMMO v1.5.00-b3547
+[17:13:11] [Server thread/INFO]: [Modifyworld] Loading Modifyworld v1.19.7
+[17:13:11] [Server thread/INFO]: [WorldBorder] Loading WorldBorder v1.7.9
+[17:13:11] [Server thread/INFO]: [Vault] Loading Vault v1.2.31-b411
+[17:13:11] [Server thread/INFO]: [CommandBook] Loading CommandBook v2.4:1692-75bb1c8,master
+[17:13:11] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v6.0.0-beta-03.1514-
+[17:13:11] [Server thread/INFO]: [EpicQuest] Loading EpicQuest v3.5.4
+[17:13:11] [Server thread/INFO]: [EssentialsXMPP] Loading EssentialsXMPP v2.12.2
+[17:13:11] [Server thread/INFO]: [EssentialsProtect] Loading EssentialsProtect v2.12.2
+[17:13:11] [Server thread/INFO]: [HeroBounty] Loading HeroBounty v1.9.5
+[17:13:11] [Server thread/INFO]: [mcMMO] Enabling mcMMO v1.5.00-b3547
+[17:13:12] [Server thread/INFO]: [Vault] Enabling Vault v1.2.31-b411
+[17:13:14] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v5.6.3
+[17:13:14] [Server thread/INFO]: [Essentials] Enabling Essentials v2.12.2
+[17:13:14] [Server thread/INFO]: git-Bukkit-9935adc (MC: 1.8.8)
+[17:13:14] [Server thread/INFO]: 1.8.8-R0.1-SNAPSHOT
+[17:13:14] [Server thread/INFO]: [ModReq] Enabling ModReq v2.4.1
+[17:13:14] [Server thread/INFO]: [ModReq] Looking for messages.yml
+[17:13:14] [Server thread/INFO]: [ModReq] messages.yml found. Trying to load messages.yml
+[17:13:14] [Server thread/INFO]: [ModReq] messages.yml loaded!
+[17:13:14] [Server thread/INFO]: [ModReq] Using metrics
+[17:13:14] [Server thread/INFO]: [EssentialsGeoIP] Enabling EssentialsGeoIP v2.12.2
+[17:13:14] [Server thread/INFO]: [EssentialsAntiBuild] Enabling EssentialsAntiBuild v2.12.2
+[17:13:14] [Server thread/INFO]: [ClearLag] Enabling ClearLag v2.8.2
+[17:13:14] [Server thread/INFO]: [ClearLag] Loading modules...
+[17:13:14] [Server thread/INFO]: [ClearLag] Modules have been loaded!
+[17:13:14] [Server thread/INFO]: [ClearLag] Clearlag is now enabled!
+[17:13:14] [Server thread/INFO]: [AutoMessage] Enabling AutoMessage v2.4.0
+[17:13:14] [Server thread/INFO]: [Modifyworld] Enabling Modifyworld v1.19.7
+[17:13:14] [Server thread/INFO]: [Modifyworld] Modifyworld enabled!
+[17:13:14] [Server thread/INFO]: [WorldBorder] Enabling WorldBorder v1.7.9
+[17:13:14] [Server thread/INFO]: [WorldBorder] [CONFIG] Using elliptic/round border, knockback of 3.0 blocks, and timer delay of 5.
+[17:13:14] [Server thread/INFO]: [WorldBorder] [CONFIG] Border-checking timed task started.
+[17:13:14] [Server thread/INFO]: [CommandBook] Enabling CommandBook v2.4:1692-75bb1c8,master
+[17:13:14] [Server thread/INFO]: [CommandBook] 0 Homes(s) loaded
+[17:13:14] [Server thread/INFO]: [CommandBook] 0 Warps(s) loaded
+[17:13:14] [Server thread/INFO]: [CommandBook] 1 kit(s) loaded.
+[17:13:14] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v6.0.0-beta-03.1514-
+[17:13:15] [Server thread/INFO]: [WorldGuard] (TEST) Lighters are PERMITTED.
+[17:13:15] [Server thread/INFO]: [WorldGuard] (TEST) Lava fire is blocked.
+[17:13:15] [Server thread/INFO]: [WorldGuard] (TEST) Fire spread is UNRESTRICTED.
+[17:13:15] [Server thread/INFO]: [WorldGuard] (TEST_nether) Lighters are PERMITTED.
+[17:13:15] [Server thread/INFO]: [WorldGuard] (TEST_nether) Lava fire is blocked.
+[17:13:15] [Server thread/INFO]: [WorldGuard] (TEST_nether) Fire spread is UNRESTRICTED.
+[17:13:15] [Server thread/INFO]: [WorldGuard] (TEST_the_end) Lighters are PERMITTED.
+[17:13:15] [Server thread/INFO]: [WorldGuard] (TEST_the_end) Lava fire is blocked.
+[17:13:15] [Server thread/INFO]: [WorldGuard] (TEST_the_end) Fire spread is UNRESTRICTED.
+[17:13:15] [Server thread/INFO]: [EpicQuest] Enabling EpicQuest v3.5.4
+[17:13:15] [Server thread/INFO]: [EssentialsXMPP] Enabling EssentialsXMPP v2.12.2
+[17:13:15] [Server thread/INFO]: [EssentialsProtect] Enabling EssentialsProtect v2.12.2
+[17:13:15] [Server thread/INFO]: [HeroBounty] Enabling HeroBounty v1.9.5
+[17:13:18] [Server thread/INFO]: [ModReq] Disabling ModReq v2.4.1
+[17:13:18] [Server thread/INFO]: ModReq is now disabled 
+[17:13:59] [Server thread/INFO]: Stopping the server
+[17:13:59] [Server thread/INFO]: Stopping server
+[17:13:59] [Server thread/INFO]: [HeroBounty] Disabling HeroBounty v1.9.5
+[17:13:59] [Server thread/INFO]: [EssentialsProtect] Disabling EssentialsProtect v2.12.2
+[17:13:59] [Server thread/INFO]: [EpicQuest] Disabling EpicQuest v3.5.4
+[17:13:59] [Server thread/INFO]: [EpicQuest] succesfully disabled.
+[17:13:59] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v6.0.0-beta-03.1514-
+[17:13:59] [Server thread/INFO]: [WorldGuard] Shutting down executor and waiting for any pending tasks...
+[17:13:59] [Server thread/INFO]: [CommandBook] Disabling CommandBook v2.4:1692-75bb1c8,master
+[17:13:59] [Server thread/INFO]: [Vault] Disabling Vault v1.2.31-b411
+[17:13:59] [Server thread/INFO]: [WorldBorder] Disabling WorldBorder v1.7.9
+[17:13:59] [Server thread/INFO]: [WorldBorder] [CONFIG] Border-checking timed task stopped.
+[17:13:59] [Server thread/INFO]: [Modifyworld] Disabling Modifyworld v1.19.7
+[17:13:59] [Server thread/INFO]: [Modifyworld] Modifyworld successfully disabled!
+[17:13:59] [Server thread/INFO]: [mcMMO] Disabling mcMMO v1.5.00-b3547
+[17:13:59] [Server thread/INFO]: [AutoMessage] Disabling AutoMessage v2.4.0
+[17:13:59] [Server thread/INFO]: [ClearLag] Disabling ClearLag v2.8.2
+[17:13:59] [Server thread/INFO]: [ClearLag] Nullifying module fields..
+[17:13:59] [Server thread/INFO]: [ClearLag] Clearlag is now disabled!
+[17:13:59] [Server thread/INFO]: [EssentialsAntiBuild] Disabling EssentialsAntiBuild v2.12.2
+[17:13:59] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v5.6.3
