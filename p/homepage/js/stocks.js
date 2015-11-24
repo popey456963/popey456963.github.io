@@ -10,6 +10,10 @@ $(document).ready(function() {
 			var stockId = '#stock-' + (i + 1);
 			var change = data.query.results.quote[i].ChangeinPercent;
 
+			if (change == null) {
+				document.getElementById("invis").style.display = 'none';
+			}
+
 			if (change.slice(0,-1) < 0) {
 				$(stockId).css('background-color', '#db5959');
 			}  else if (change.slice(0,-1) > 0) {

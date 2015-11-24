@@ -2,8 +2,12 @@
 <html>
 
 <head>
+    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Noto+Sans:400,700">
     <link rel="stylesheet" href="css/normal.css">
+    <link rel="stylesheet" href="css/modal.css">
     <link rel="stylesheet" href="css/tab.css">
+    <link rel="stylesheet" href="css/menu.css">
     <link rel="stylesheet" href="css/weather.css">
     <link rel="stylesheet" href="css/design.css">
     <link rel="stylesheet" href="css/stocks.css">
@@ -24,7 +28,20 @@
             <h1>Quick Links</h1>
             <br />
             <center>
-                <a href="https://google.co.uk"><img src="./img/random1.jpeg" alt="Image"></a>
+                <div class="modal-frame"><div class="modal">
+                    <div class="modal-inset">
+                        <div class="button close"><i class="fa fa-close"></i></div>
+                        <div class="modal-body">
+                            <h3>Choose Lunch Menu</h3>
+                            <div id="menu1">Error, Not Loaded</div>
+                            <div id="menu2">Error, Not Loaded</div>
+                            <p><a href="http://www.woodbridge.suffolk.sch.uk/lunch-menus/">View Lunch Menu Website</a></p>
+                        </div>
+                    </div>
+                </div></div>
+                <div class="modal-overlay"></div>
+                <div class="modal-overlay"></div>
+                <a href="#!" class="open"><img src="./img/random1.jpeg" alt="Image"></a>
                 <a href="https://google.co.uk"><img src="./img/random2.jpeg" alt="Image"></a>
                 <a href="https://google.co.uk"><img src="./img/random3.jpeg" alt="Image"></a>
                 <a href="https://google.co.uk"><img src="./img/random4.jpeg" alt="Image"></a>
@@ -32,6 +49,8 @@
                 <a href="https://google.co.uk"><img src="./img/random6.jpeg" alt="Image"></a>
                 <a href="https://google.co.uk"><img src="./img/random7.jpeg" alt="Image"></a>
                 <a href="https://google.co.uk"><img src="./img/random8.jpeg" alt="Image"></a>
+                <a href="https://google.co.uk"><img src="./img/random9.jpeg" alt="Image"></a>
+                <a href="https://google.co.uk"><img src="./img/random10.jpeg" alt="Image"></a>
             </center>
         </section>
 
@@ -66,7 +85,7 @@
             </div>
         </section>
 
-        <section class="card">
+        <section class="card" id="invis">
             <div class="container">
                 <div class="stock" id="stock-1">
                     <span class="symbol">NVIDIA</span>
@@ -132,6 +151,7 @@
     <script src="js/magic.js"></script>
     <script src="js/md5.js"></script>
     <script src="js/password.js"></script>
+    <script src="js/lunch.js"></script>
     <!--<script src="js/tabs.js"></script>-->
     <!--<script src="js/clock.js"></script>-->
 

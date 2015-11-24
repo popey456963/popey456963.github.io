@@ -16,8 +16,8 @@ img {
     -webkit-border-radius: 20px;
     -moz-border-radius: 20px;
     border-radius: 20px;  
-    width: 11rem;
-    height: 11.5rem;
+    width: 8.5rem;
+    height: 9rem;
 }
 
 main {
@@ -220,4 +220,8 @@ h2 {
     color: gray;
     text-align: center;
     padding-bottom: 20px;
+}
+
+.menu {
+    width: 100%;
 }

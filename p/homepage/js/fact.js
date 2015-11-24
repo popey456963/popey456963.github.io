@@ -100,7 +100,7 @@ function addCache() {
 }
 
 function setNewFact(){
-	document.getElementById("fact").innerHTML = cachedFact;
+	document.getElementById("fact").innerHTML = cachedFact.replace("?","'");
 	$.getJSON("https://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20html%20where%20url%3D'http%3A%2F%2Frandomfactgenerator.net%2Ffactscript.php'&format=json&env=store%3A%2F%2Fdatatables.org%2Falltableswithkeys", function(data) {
 		data = data.query.results.body.content.split("$('#randomfactbox').html(")[1].split(');')[0];
 		data = data.substring(1, data.length-3)
