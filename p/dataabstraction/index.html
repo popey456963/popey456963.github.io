@@ -3,64 +3,127 @@
 	</head>
 	<body>
 		<textarea type="text" id="dataStore" style="width:90%;height:40%" placeholder="Enter Data Here">
-a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z
-something,name,something,more name,something else,more something, more something else,yellis ,chem1,c2,c3,c4,d1,d2,a1,a1,m1,m2,m3,m4,m5,m6,m7,,,
-something,name,something,more name,something else,more something, more something else,yellis ,,,,,f,A,,,D,G,,,,,,,,
-a,b,v,c1,x2,d3,f4,gf54,5,6,7,,,,,,7,7,,,5,,,,,</textarea>
-		<button onclick="parseData();">Click</button>
-		<select id="pupil">
-		</select>
-		<button onclick="moveOn();">Continue</button>
+Data,Surname,Data,Forename,Data,Data,Data,Grade / 1 / Maths / Allen,Approach / 1 / Maths / Allen,Grade / 1 / Maths / Hillman,Approach / 1 / Maths / Hillman,Grade / 2 / Maths / Allen,Approach / 2 / Maths / Allen,Grade / 2 / Maths / Hillman,Approach / 2 / Maths / Hillman,Test Score,Middle Test Score
+1,Rose,2,Daisy,3,4,5,B,2,A,1,A,1,B,2,80,90
+1,South,2,Steve,3,4,5,B,2,,,A,1,,,80,90
+1,Brown,2,Helen,3,4,5,,,A,1,,,B,2,80,90
+1,Downer,2,Jody,3,4,5,B,2,A,1,A,1,B,2,80,90
+1,York,2,Victor,3,4,5,B,2,A,1,A,1,B,2,80,90</textarea>
+		<button onclick="parseCSV();">Click</button>
+		<select id="pupil" onchange="showPupil(this.value)"></select>
+		<table id="datastore"></table>
+    		<div id="curve_chart" style="width: 900px; height: 500px"></div>
 	</body>
 	<script src="./js/papaparse.js"></script>
-	<script>
-		var scores = [];
-		var headers = [];
-		function parseData(){
-			var csv = document.getElementById("dataStore").value.replace("\t", ",");
-			var data = Papa.parse(csv).data;
-			data.shift();
-			headers = data[0];
-			data.shift();
-			scores = data;
-			//console.log(scores);
-			// HEADER NAMES
-			// PUPIL --> PUPIL SCORES
-			//console.log(headers);
-			//console.log(scores);
-			var pupilnames = [];
-			for (i=0; i<scores.length; i++) {
-            	var obj=document.getElementById("pupil");         
-				pupilnames.push([i,scores[i][1],scores[i][3]])
-                opt = document.createElement("option");
-                opt.value = i;
-                opt.text = scores[i][3] + ", " + scores[i][1];
-                obj.appendChild(opt);
-			}
-			//console.log(pupilnames);
-		}
-		parseData();
+  	<script type="text/javascript"
+          src="https://www.google.com/jsapi?autoload={
+            'modules':[{
+              'name':'visualization',
+              'version':'1',
+              'packages':['corechart']
+            }]
+          }">
+    </script>
+    <script type="text/javascript">
+    function createChart() {
+      google.setOnLoadCallback(drawChart);
 
-		function moveOn(){
-			var yourSelect = document.getElementById( "pupil" );
-			var pupil = yourSelect.options[ yourSelect.selectedIndex ].value;
-			//console.log(pupil);
-			//console.log(headers);
-			//console.log(scores[parseInt(pupil)]);
-			var pupilscores = scores[parseInt(pupil)];
-			var tempscores = pupilscores;
-			var tempheaders = headers;
-			for (i=0; i<headers.length; i++) {
-				if (pupilscores[i] == "") {
-					tempscores.splice(i, 1);
-					tempheaders.splice(i, 1);
-					i--;
-				}
-			}
-			console.log(tempheaders);
-			console.log(tempscores);
+      function drawChart() {
+        var data = google.visualization.arrayToDataTable([
+          ['Grade Session', 'Approach', 'Grade'],
+          ['1',  3,     1],
+          ['2',  5,     3],
+          ['3',  7,     6],
+          ['4',  2,     3]
+        ]);
+
+        var options = {
+          title: 'Performance of Selected Student',
+          curveType: 'function',
+          legend: { position: 'bottom' }
+        };
+
+        var chart = new google.visualization.LineChart(document.getElementById('curve_chart'));
+
+        chart.draw(data, options);
+      }
+     }
+    </script>
+	<script>
+	var scores = [],
+		headers = [], 
+		pupilnames = [];
+	function parseCSV(){
+		scores = Papa.parse(document.getElementById("dataStore").value).data;
+		headers = scores[0];
+		scores.shift();
+		for (i = 0; i < scores.length; i++) {        
+			pupilnames.push([i,scores[i][1],scores[i][3]])
 		}
-		moveOn();
+		for(i=document.getElementById("pupil").options.length-1;i>=0;i--) {
+			document.getElementById("pupil").remove(i);
+		}
+		for (i = 0; i < pupilnames.length; i++) {
+			var opt = document.createElement("option");
+            opt.value = i;
+            opt.text = pupilnames[i][1] + ", " + pupilnames[i][2];
+            document.getElementById("pupil").appendChild(opt);
+		}
+	}
+	parseCSV();
+
+	function showPupil(pupilID){
+		var tempheaders = Papa.parse(document.getElementById("dataStore").value).data[0];
+		var tempscores = scores[pupilID];
+		for (i = 0; i < tempheaders.length; i++) {
+			if (tempscores[i] == "") {
+				tempscores.splice(i, 1);
+				tempheaders.splice(i, 1);
+				i--;
+			}
+		}
+
+		var table = document.getElementById("datastore");
+		var head = table.insertRow(0);
+		var body = table.insertRow(1);
+		for (i = 0; i < tempheaders.length; i++) {
+			head.insertCell(i).innerHTML = tempheaders[i];
+			body.insertCell(i).innerHTML = tempscores[i];
+		}
+
+		tempscores.splice(0, 7);
+		tempheaders.splice(0, 7);
+		var data = [];
+		for (i = 0; i < tempheaders.length; i++) {
+			var blarg = [[tempheaders[i].split(" / ")], tempscores[i]];
+			if (blarg[0][0].length != 1){
+				data.push(blarg);
+			}
+		}
+		var paststore = [];
+		var aaaaa = {};
+		var bbbbb = {};
+		for (i = 0; i < data.length; i++) {
+			var value = data[i][1]
+			var heade = data[i][0][0];
+			console.log(value);
+			console.log(heade);
+			if (paststore.indexOf(heade[3]) > -1) {
+				paststore.push(heade[3]);
+				aaaaa[heade[3]] = {};
+				bbbbb[heade[3]] = {};
+			}
+			if (heade[0] == "Grade") {
+				aaaaa[heade[3]][heade[1]] = value;
+			} else {
+				bbbbb[heade[3]][heade[1]] = value;
+			}
+			console.log(aaaaa);
+			console.log(bbbbb);
+		}
+		console.log(data);
+	}
+	createChart();
 
 	</script>
 </html>
