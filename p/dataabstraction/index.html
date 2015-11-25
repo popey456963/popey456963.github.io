@@ -1,0 +1,66 @@
+<html>
+	<head>
+	</head>
+	<body>
+		<textarea type="text" id="dataStore" style="width:90%;height:40%" placeholder="Enter Data Here">
+a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z
+something,name,something,more name,something else,more something, more something else,yellis ,chem1,c2,c3,c4,d1,d2,a1,a1,m1,m2,m3,m4,m5,m6,m7,,,
+something,name,something,more name,something else,more something, more something else,yellis ,,,,,f,A,,,D,G,,,,,,,,
+a,b,v,c1,x2,d3,f4,gf54,5,6,7,,,,,,7,7,,,5,,,,,</textarea>
+		<button onclick="parseData();">Click</button>
+		<select id="pupil">
+		</select>
+		<button onclick="moveOn();">Continue</button>
+	</body>
+	<script src="./js/papaparse.js"></script>
+	<script>
+		var scores = [];
+		var headers = [];
+		function parseData(){
+			var csv = document.getElementById("dataStore").value.replace("\t", ",");
+			var data = Papa.parse(csv).data;
+			data.shift();
+			headers = data[0];
+			data.shift();
+			scores = data;
+			//console.log(scores);
+			// HEADER NAMES
+			// PUPIL --> PUPIL SCORES
+			//console.log(headers);
+			//console.log(scores);
+			var pupilnames = [];
+			for (i=0; i<scores.length; i++) {
+            	var obj=document.getElementById("pupil");         
+				pupilnames.push([i,scores[i][1],scores[i][3]])
+                opt = document.createElement("option");
+                opt.value = i;
+                opt.text = scores[i][3] + ", " + scores[i][1];
+                obj.appendChild(opt);
+			}
+			//console.log(pupilnames);
+		}
+		parseData();
+
+		function moveOn(){
+			var yourSelect = document.getElementById( "pupil" );
+			var pupil = yourSelect.options[ yourSelect.selectedIndex ].value;
+			//console.log(pupil);
+			//console.log(headers);
+			//console.log(scores[parseInt(pupil)]);
+			var pupilscores = scores[parseInt(pupil)];
+			var tempscores = pupilscores;
+			var tempheaders = headers;
+			for (i=0; i<headers.length; i++) {
+				if (pupilscores[i] == "") {
+					tempscores.splice(i, 1);
+					tempheaders.splice(i, 1);
+					i--;
+				}
+			}
+			console.log(tempheaders);
+			console.log(tempscores);
+		}
+		moveOn();
+
+	</script>
+</html>
