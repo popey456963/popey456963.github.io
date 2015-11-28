@@ -109,14 +109,10 @@ function format(d) {
   for (i = 0; i < d.other.length; i++) {
       current += '<tr>'+'<td>'+d.other[i][0]+'</td>'+'<td>'+ d.other[i][1] + '</td>'+'</tr>'
   }*/
-  return generate(d);
-}
-
-function generate(d) {
   current = ""
   current += "<tr>";
   for (i = 0; i < d.other.length; i++) {
-    current += "<th class='rotate-45'><div><span>" + d.other[i][0] + "</span></div></th>";
+    current += "<td>" + d.other[i][0] + "</td>";
   }
   current += "</tr>";
   current += "<tr>";
