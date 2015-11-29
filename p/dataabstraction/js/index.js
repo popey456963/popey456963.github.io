@@ -60,7 +60,7 @@ function addPupil(pupilData) {
   var currentHeaders = Papa.parse($("#dataStore").val()).data[0];
   var pupilData = pupilData;
   for (i = 0; i < currentHeaders.length; i++) {
-    if (pupilData[i] == "") {
+    if (pupilData[i] == "" || pupilData[i] == undefined || pupilData[i] == "undefined") {
       pupilData.splice(i, 1);
       currentHeaders.splice(i, 1);
       i--;
@@ -105,26 +105,28 @@ function addPupil(pupilData) {
 }
 
 function format(d) {
-  /*current = ""
-  for (i = 0; i < d.other.length; i++) {
-      current += '<tr>'+'<td>'+d.other[i][0]+'</td>'+'<td>'+ d.other[i][1] + '</td>'+'</tr>'
-  }*/
-  return generate(d);
+  string = ""
+  for (j = 0; j < 6; j++) {
+    string += generateTable(d, j+1)
+  }
+  return string
 }
 
-function generate(d) {
-  current = ""
-  current += "<tr>";
+function generateTable(d, t) {
+  table = "<table><tr>";
   for (i = 0; i < d.other.length; i++) {
-    current += "<th class='rotate-45'><div><span>" + d.other[i][0] + "</span></div></th>";
+    if (d.other[i][0].split(" ")[2].substring(0, 2) == "T" + String(t)) {
+      table += "<th class='rotate-45'><div><span>" + d.other[i][0] + "</span></div></th>";
+    }
   }
-  current += "</tr>";
-  current += "<tr>";
+  table += "</tr><tr>";
   for (i = 0; i < d.other.length; i++) {
-    current += "<td>" + d.other[i][1] + "</td>";
+    if (d.other[i][0].split(" ")[2].substring(0, 2) == "T" + String(t)) {
+      table += "<td>" + d.other[i][1] + "</td>";
+    }
   }
-  current += "</tr>"; 
-  return '<table>' + current + '</table>';
+  table += "</tr></table>";
+  return table
 }
 
 function start() {
