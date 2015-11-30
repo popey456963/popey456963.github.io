@@ -48,7 +48,18 @@ var headnames = {
 var scores = [],
     headers = [];
 
-var dataset = [];
+var dataset = [],
+    secondary = false,
+    med = true,
+    gra = true,
+    app = true,
+    tes = true;
+
+function secondaryBorders() {secondary = !secondary;}
+function check() {app = !app;}
+function check2() {gra = !gra;}
+function check3() {med = !med;}
+function check4() {tes = !tes;}
 
 function parseCSV() {
   scores = Papa.parse($("#dataStore").val()).data;
@@ -105,27 +116,37 @@ function addPupil(pupilData) {
 }
 
 function format(d) {
-  string = ""
+  string = "<table>";
   for (j = 0; j < 6; j++) {
     string += generateTable(d, j+1)
   }
-  return string
+  return string + "</table>";
 }
 
 function generateTable(d, t) {
-  table = "<table><tr>";
+  table = "";
+  if (secondary || t == 1) {
+    table += "<tr>";
+    for (i = 0; i < d.other.length; i++) {
+      if (d.other[i][0].split(" ")[2].substring(0, 2) == "T" + String(t)) {
+        var datatype = d.other[i][0].split(" ")[0];
+        if ((datatype == "App" && app) || (datatype == "Gra" && gra) || (datatype == "Med" && med) || (datatype == "Tes" && tes)) {
+          table += "<th class='rotate-45'><div><span>" + d.other[i][0] + "</span></div></th>";
+        }
+      }
+    }
+    table += "</tr>";
+  }
+  table += "<tr>";
   for (i = 0; i < d.other.length; i++) {
     if (d.other[i][0].split(" ")[2].substring(0, 2) == "T" + String(t)) {
-      table += "<th class='rotate-45'><div><span>" + d.other[i][0] + "</span></div></th>";
+      var datatype = d.other[i][0].split(" ")[0];
+      if ((datatype == "App" && app) || (datatype == "Gra" && gra) || (datatype == "Med" && med) || (datatype == "Tes" && tes)) {
+        table += "<td>" + d.other[i][1] + "</td>";
+      }
     }
   }
-  table += "</tr><tr>";
-  for (i = 0; i < d.other.length; i++) {
-    if (d.other[i][0].split(" ")[2].substring(0, 2) == "T" + String(t)) {
-      table += "<td>" + d.other[i][1] + "</td>";
-    }
-  }
-  table += "</tr></table>";
+  table += "</tr>";
   return table
 }
 
@@ -140,6 +161,11 @@ function start() {
   console.log(dataset);
   makeTable();
   document.getElementById("output").style.display="";
+  document.getElementById("check").style.display="";
+  document.getElementById("check2").style.display="";
+  document.getElementById("check3").style.display="";
+  document.getElementById("check4").style.display="";
+  document.getElementById("check5").style.display="";
   document.getElementById("dataStore").style.display="none";
   document.getElementById("button").style.display="none";
 }
