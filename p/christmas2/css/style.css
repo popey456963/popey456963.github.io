@@ -1,0 +1,31 @@
+* {
+	overflow-y: hidden;
+	overflow-x: hidden;
+}
+
+body,
+html,
+canvas {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  margin: 0;
+  padding: 0;
+  background: #111;
+  background-image: url(http://www.hdwallpaperscool.com/wp-content/uploads/2014/12/christmas-snowman-beautiful-image-hd-desktop-wallpapers.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+h1 {
+    font-family: "Dancing Script OT";
+    font-size: 3em;
+    padding-top: 0.5em;
+    color: #DA0611;
+    text-align: center;
+    margin: 0 auto;
+    text-transform: uppercase;
+    position: absolute;
+    top: 10px;
+    margin-left: 30%;
+}
