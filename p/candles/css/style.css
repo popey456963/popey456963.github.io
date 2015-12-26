@@ -1,0 +1,136 @@
+/* Global */
+
+body {
+    background: #85b767;
+    padding: 40px;
+}
+div {
+    word-break: normal;
+}
+img {
+    max-width: 100%;
+}
+a {
+    -webkit-transition: all 150ms ease;
+    -moz-transition: all 150ms ease;
+    -ms-transition: all 150ms ease;
+    -o-transition: all 150ms ease;
+    transition: all 150ms ease;
+}
+a:hover {
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+    /* IE 8 */
+    
+    filter: alpha(opacity=90);
+    /* IE7 */
+    
+    opacity: 0.9;
+    text-decoration: none;
+}
+/* Container */
+
+.container-fluid {
+    background: #fbf4e0;
+    margin: 40px auto 10px;
+    padding: 20px 0px;
+    max-width: 960px;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
+}
+/* Page Header */
+
+.page-header {
+    background: #fbf4e0;
+    margin: -30px 0px 0px;
+    padding: 20px 40px;
+    border-top: 4px solid #ccc;
+    color: #85b767;
+    text-transform: uppercase;
+}
+.page-header h3 {
+    line-height: 0.88rem;
+    color: #85b767;
+}
+/* Carousel Fade */
+
+.carousel.carousel-fade .item {
+    -webkit-transition: opacity 0.5s ease-in-out;
+    -moz-transition: opacity 0.5s ease-in-out;
+    -ms-transition: opacity 0.5s ease-in-out;
+    -o-transition: opacity 0.5s ease-in-out;
+    transition: opacity 0.5s ease-in-out;
+}
+.carousel.carousel-fade .active.left,
+.carousel.carousel-fade .active.right {
+    left: 0;
+    z-index: 2;
+    opacity: 0;
+    filter: alpha(opacity=0);
+}
+.carousel.carousel-fade .next,
+.carousel.carousel-fade .prev {
+    left: 0;
+    z-index: 1;
+}
+.carousel.carousel-fade .carousel-control {
+    z-index: 3;
+}
+/* Thumbnail Box */
+
+.caption {
+    height: 100px;
+    width: 100%;
+    margin: 20px 0px;
+    padding: 20px;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+}
+.caption .span4,
+.caption .span8 {
+    padding: 0px 20px;
+}
+.caption .span4 {
+    border-right: 1px dotted #CCCCCC;
+}
+.caption h3 {
+    color: #85b767;
+    line-height: 2rem;
+    margin: 0 0 20px;
+    text-transform: uppercase;
+}
+.caption p {
+    font-size: 1rem;
+    line-height: 1.6rem;
+    color: #85b767;
+}
+.btn.btn-mini {
+    background: #85b767;
+    border-radius: 0 0 0 0;
+    color: #fbf4e0;
+    font-size: 0.63rem;
+    text-shadow: none !important;
+}
+.carousel-control {
+    top: 33%;
+}
+/* Footer */
+
+.footer {
+    margin: auto;
+    width: 100%;
+    max-width: 960px;
+    display: block;
+    font-size: 0.69rem;
+}
+.footer,
+.footer a {
+    color: #fff;
+}
+p.right {
+    float: right;
+}
+
+.contact {
+    text-align: center;
+    color: #85b767;
+}
