@@ -134,3 +134,8 @@ p.right {
     text-align: center;
     color: #85b767;
 }
+.bottom {
+    text-align: center;
+    font-size: 70%;
+    line-height: 140%;
+}
