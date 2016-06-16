@@ -8,7 +8,7 @@
 #   http://ubuntuforums.org/showthread.php?t=679762
 
 # Installation Instructions:
-# 1. Download this file `codefined.xyz/bashrc
+# 1. Download this file `codefined.xyz/.bashrc
 # 2. Merge/replace your bashrc file `mv this_file ~/.bashrc
 
 # Command Reference:
