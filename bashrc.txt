@@ -10,6 +10,10 @@
 # Installation Instructions:
 # 1. Download this file `wget codefined.xyz/bashrc.txt`
 # 2. Merge/replace your bashrc file `mv this_file ~/.bashrc`
+# 3. Add `. .bashrc` to your bash_profile file
+       `echo ". .bashrc" >> ~/.bash_profile`
+# 4. Run either `. .bashrc` or restart the shell to see changes
+
 
 # Command Reference:
 # up <number> - Goes up a certain amount of directories
