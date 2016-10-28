@@ -19,8 +19,11 @@
 		<option value="purple">Purple</option>
 		<option value="pink">Pink</option>
 		<option value="monochrome">Monochrome</option>
-		<option value="light" selected="selected">Light Luminosity</option>
-		<option value="dark">Dark Luminosity</option>
+		<option value="light">Light Luminosity</option>
+		<option value="rainbow">Proper Rainbow</option>
+		<option value="randrainbow">Random Rainbow</option>
+		<option value="pastel">Bright Pastel</option>
+		<option value="dark" selected="selected">Dark Luminosity</option>
 		<option value="random">Truly Random</option>
 	</select>
 
@@ -49,8 +52,26 @@
 				colours = randomColor({hue: select, count: text.length})
 			} else if (select == "light" || select == "dark") {
 				colours = randomColor({luminosity: select, count: text.length})
-			} else {
+			} else if (select == "random") {
 				colours = randomColor({hue: select, luminosity: select, count: text.length})
+			} else if (select == "rainbow" || select == "randrainbow") {
+				var palette = ["#9400D3", "#4B0082", "#0000FF", '#00FF00', '#FFFF00', '#FF7F00', '#FF0000']
+				var count = 0
+				while (colours.length <= text.length) {
+					if (select == "randrainbow") {
+						colours.push(palette[Math.floor(Math.random() * (7 + 1))])
+					} else {
+						colours.push(palette[count % 7])
+					}
+					count++
+				}
+			} else if (select == "pastel") {
+				var  palette = ["#EF476F", "#FFD116", "#06D6A0", '#118AB2', '#073B4C']
+				var count = 0
+				while (colours.length <= text.length) {
+					colours.push(palette[Math.floor(Math.random() * (5 + 1))])
+					count++
+				}
 			}
 			colourSpan = ""
 			colourColor = ""
