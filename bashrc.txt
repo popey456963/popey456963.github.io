@@ -6,4 +6,4 @@
 # old version, check the commit history at:
 #   https://github.com/popey456963/popey456963.github.io
 # Else, get the new version at:
-#   https://codefined.xyz/bashrc/bashrc.txt
+#   http://codefined.xyz/bashrc/bashrc.txt
