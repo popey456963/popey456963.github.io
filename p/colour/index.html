@@ -1,35 +1,67 @@
+
 <!DOCTYPE html>
 <html>
-	<head>
-		<script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
-		<script>
-		function onLoad(){
-			$("input").change(function(){
-	      	    input = document.getElementById('input').value;
-	      	    colourise(document.getElementById('input').value)
-	      	    // document.getElementById('output').innerHTML += "Output Changed";
-			});
-		}
 
-		function colourise(text){
-			colourtext = ""
-			colourtextcompiled = ""
-			for (i=0; i<text.length; i++){
-				colour = '#'+ ('000000' + Math.floor(Math.random()*16777215).toString(16)).slice(-6);
-				colourtext += '[color=' + colour + ']' + text[i] + '[/color]';
-				colourtextcompiled += '<span style="color:' + colour + '">' + text[i] + '</span>'
+<head>
+	<title>Random Colour Generator</title>
+</head>
+
+<body>
+	<h1>Random Colour Generator</h1>
+	<input type="text" id="input"/>
+
+	<select id="select">
+		<option value="red">Red</option>
+		<option value="orange">Orange</option>
+		<option value="yellow">Yellow</option>
+		<option value="green">Green</option>
+		<option value="blue">Blue</option>
+		<option value="purple">Purple</option>
+		<option value="pink">Pink</option>
+		<option value="monochrome">Monochrome</option>
+		<option value="light" selected="selected">Light Luminosity</option>
+		<option value="dark">Dark Luminosity</option>
+		<option value="random">Truly Random</option>
+	</select>
+
+	<p id="span"></p>
+	<p id="forum"></p>
+
+	<script src="https://code.jquery.com/jquery-3.1.1.slim.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/randomcolor/0.4.4/randomColor.min.js"></script>
+	<script>
+		$(document).ready(
+			function() {
+				$('#input').keyup(
+				function() {
+					colour(document.getElementById('input').value, document.getElementById('select').value)
+				})
+				$(document).on('change', '#select', function(){
+					colour(document.getElementById('input').value, document.getElementById('select').value)
+				})
 			}
-			document.getElementById('output').innerHTML = colourtext;
-			document.getElementById('outputcompiled').innerHTML = colourtextcompiled;
-
+		)
+		function colour(text, select) {
+			console.log(text)
+			console.log(select)
+			var colours = []
+			if (select == "red" || select == "orange" || select == "yellow" || select == "green" || select == "blue" || select == "purple" || select == "pink" || select == "monochrome") {
+				colours = randomColor({hue: select, count: text.length})
+			} else if (select == "light" || select == "dark") {
+				colours = randomColor({luminosity: select, count: text.length})
+			} else {
+				colours = randomColor({hue: select, luminosity: select, count: text.length})
+			}
+			colourSpan = ""
+			colourColor = ""
+			for (var i = 0; i < text.length; i++) {
+				colourSpan += '<span style="color:' + colours[i] + '">' + text[i] + '</span>'
+				colourColor += '[color=' + colours[i] + ']' + text[i] + '[/color]'
+			}
+			document.getElementById('span').innerHTML = colourSpan
+			document.getElementById('forum').innerHTML = colourColor
 		}
-		</script>
-	</head>
-	<body onload="onLoad()">
-		<p>Randomly none of the onkeypress, onkeychange, onchange, $.change actually activate on the last key press... which is special.  So, you have to add an extra space or something to the end of your sentence</p>
-		<input type="text" id="input" onkeypress="colourise(document.getElementById('input').value)" onkeypress="colourise(document.getElementById('input').value)" onchange="colourise(document.getElementById('input').value)">
-		<p id="output"></p>
-		<p id="outputcompiled"></p>
-	</body>
+	</script>
+</body>
 
 </html>
