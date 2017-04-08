@@ -27,6 +27,8 @@
 		<option value="random">Truly Random</option>
 	</select>
 
+	<br />Random Capitalisation?<input id="capitalise" type="checkbox">
+
 	<p id="span"></p>
 	<p id="forum"></p>
 
@@ -45,6 +47,11 @@
 			}
 		)
 		function colour(text, select) {
+			if ($('#capitalise').is(":checked")) {
+				text = Array.prototype.map.call(text, function(x) {
+					return Math.random() > 0.5 ? x.toUpperCase() : x.toLowerCase()
+				}).join("")
+			}
 			console.log(text)
 			console.log(select)
 			var colours = []
@@ -66,7 +73,7 @@
 					count++
 				}
 			} else if (select == "pastel") {
-				var  palette = ["#EF476F", "#FFD116", "#06D6A0", '#118AB2', '#073B4C']
+				var palette = ["#EF476F", "#FFD116", "#06D6A0", '#118AB2', '#073B4C']
 				var count = 0
 				while (colours.length <= text.length) {
 					colours.push(palette[Math.floor(Math.random() * (5 + 1))])
