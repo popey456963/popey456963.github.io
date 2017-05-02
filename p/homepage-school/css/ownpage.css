@@ -1,0 +1,311 @@
+/* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+*                                                                             *
+*    Ownpage - Your own homepage.                                             *
+*    Copyright (C) 2014																												*
+*    	 Alexander Craggs <http://codefined.xyz>																*
+*      Jean Mercadier <http://jmercadier.fr>                									*
+*                                                                             *
+*    This program is free software: you can redistribute it and/or modify     *
+*    it under the terms of the GNU General Public License as published by     *
+*    the Free Software Foundation, either version 3 of the License, or        *
+*    (at your option) any later version.                                      *
+*                                                                             *
+*    This program is distributed in the hope that it will be useful,          *
+*    but WITHOUT ANY WARRANTY; without even the implied warranty of           *
+*    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the            *
+*    GNU General Public License for more details.                             *
+*                                                                             *
+*    You should have received a copy of the GNU General Public License        *
+*    along with this program.  If not, see:                                   *
+*    <https://github.com/Ricain/ownpage/blob/master/LICENSE.md>.              *
+*                                                                             *
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
+
+@font-face {
+	font-family: 'helvetica-neue';
+	font-style: normal;
+	font-weight: 400;
+	src: local('helvetica-neue'), local('helvetica-neue'), url(../fonts/helvetica-neue.woff) format('woff');
+}
+
+html,
+body {
+	padding: 0;
+	margin: 0;
+	border: 0;
+}
+
+* {
+	outline: none;
+}
+
+body {
+	font-family: "helvetica-neue" ,"Lucida Console";
+	background-color: rgb(239,239,239);
+	height: 100%;
+	width: 100%;
+}
+
+#settings {
+	display: block;
+	position: fixed;
+	top: 20px;
+	right: 20px;
+}
+
+#center {
+	display: block;
+	position: absolute;
+	top: 0;
+	width: 100%;
+	overflow: hidden;
+	text-align: center;
+}
+
+/* VERTICAL ALIGN */
+
+.vect_parent {
+	display: table;
+	width: 100%;
+	height: 100%;
+	overflow: hidden;
+}
+
+.vect_center {
+	display: table-cell;
+	vertical-align: middle;
+	width: 100%;
+	height: 100%;
+}
+
+/* COMMON IN EDIT AND MAIN VIEW */
+
+#marquespages,
+#edition {
+	text-align: center;
+}
+
+#edition .box_edit,
+#marquespages a {
+	display: inline-block;
+	vertical-align: middle;
+	text-align: center;
+	border-radius: 7px;
+	box-shadow: 0px 0px 20px #cbcbcb;
+	margin: 2%;
+	overflow: hidden;
+}
+
+/* MAIN VIEW */
+
+#marquespages {
+}
+
+#marquespages a {
+	text-decoration: none;
+	border: 0;
+	color: white;
+	cursor: pointer;
+	transition: font-size .15s;
+	background-color: gray;
+	font-size: 1.5em;
+	letter-spacing: .1em;
+}
+
+#marquespages a:hover {
+	font-size: 1.8em;
+}
+
+/* EDIT VIEW */
+
+#edition .box_edit {
+	background-color: white;
+	color: #3a3a3a;
+}
+
+#edition .box_edit input {
+	border: 0;
+	padding: 0;
+	margin: 0;
+	text-align: center;
+	font-size: .9em;
+	width: 99%;
+}
+
+#edition .box_edit .vertalign {
+	display: block;
+	width: 2px;
+	height: 23%;
+}
+
+#edition .box_edit .color-box {
+	display: inline-block;
+	width:30px;
+	height:30px;
+	margin:5px;
+	border-radius: 3px;
+	cursor:crosshair;
+}
+
+/* EDIT BUTTON */
+
+#edit {
+	display: block;
+	position: fixed;
+	z-index: 10;
+	cursor: pointer;
+	bottom: 20px;
+	right: 30px;
+	font-size: .8em;
+	text-shadow: none;
+	color: #666666;
+	letter-spacing: 3px;
+}
+
+/* EXTRA, LINK IN BOTTOM LEFT */
+
+.extra {
+	display: block;
+	position: fixed;
+	z-index: 9;
+	bottom: 20px;
+	left: 30px;
+	font-size: .8em;
+	padding: 0;
+	margin: 0;
+	list-style: none;
+}
+
+.extra a {
+	display: list-item;
+	margin-top: 5px;
+	text-transform: uppercase;
+	text-decoration: none;
+	color: #666666;
+	letter-spacing: 3px;
+	text-shadow: none;
+}
+
+.extra a.reset {
+	color: #c73535;
+}
+
+/* ROW AND COL COUNT */
+
+#size_editor {
+	position: fixed;
+	width: 100%;
+	z-index: 8;
+	bottom: 4%;
+	text-align: center;
+	font-size: 2em;
+	color: #666666;
+}
+
+#size_editor table {
+	display: inline-block;
+	font-size: .4em;
+	border-collapse: collapse;
+	border: 0;
+	margin: 0 10px;
+	color: #777777;
+	transition: color 1s;
+	margin-bottom: -4px;
+}
+
+#size_editor table td {
+	vertical-align: top;
+	height: 5px;
+	cursor: pointer;
+	padding: 0;
+}
+
+/* SEARCH */
+
+#googleBar {
+	display: block;
+	position: absolute;
+	width: 100%;
+	text-align: center;
+	top: 5%;
+}
+
+.boutonGoogle {
+	margin : 0;
+	padding: 5px 10px 3px 10px;
+	font:bold 13px Arial;
+	background:#f5f5f5;
+	color:#717171;
+	border-radius: 3px;
+	border: 1px solid #ccc;
+	height: 34px;
+	margin-left: 12px;
+}
+
+#googleBar input[type="text"] {
+	display: inline-block;
+	margin: 0;
+	width: 30%;
+	font-family: sans-serif;
+	font-size: 1em;
+	box-shadow: none;
+	padding: 2px 10px 0 10px;
+	height: 30px;
+	border-radius: 3px;
+	border: 1px solid #ccc;
+	color:#555;
+}
+
+.boutonGoogle:active {
+	box-shadow: inset 0px 0px 2px #cbcbcb;
+}
+
+/* PREFERENCE */
+
+#preference {
+	display: block;
+	position: absolute;
+	width: 100%;
+	top: 1%;
+	font-family: arial;
+	color:#555;
+	text-align: center;
+}
+
+#preference input {
+	display: inline-block;
+	margin-right: 8px;
+}
+
+/* METEO AND DATE */
+
+#meteo {
+	min-width: 150px;
+	text-transform: capitalize;
+	display: block;
+	position: fixed;
+	z-index: 10;
+	top: 20px;
+	left: 30px;
+	font-size: 1.2em;
+	color: black;
+	letter-spacing: 3px;
+}
+
+#meteo i.owf {
+	font-size: 34px;
+	color: #666666;
+}
+
+#date {
+	text-transform: capitalize;
+	display: block;
+	position: fixed;
+	z-index: 10;
+	top: 20px;
+	right: 30px;
+	font-size: 1.2em;
+	color: black;
+	letter-spacing: 3px;
+	text-align: center;
+}
