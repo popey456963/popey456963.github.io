@@ -31,12 +31,12 @@ $ownpage = {
 		[
 			["Google",    "https://www.google.com/",   "#3b97e8"],
 			["GitHub",    "https://github.com/",       "#e6a100"],
-			["Twitter",   "https://twitter.com/",      "#465ca6"]
+			["School Menu",   "https://twitter.com/",      "#465ca6"]
 		],
 		[
 			["Owncloud",  "https://owncloud.org/",     "#c91271"],
-			["Selfoss",   "http://selfoss.aditu.de/",  "#44b198"],
-			["YouTube",   "https://www.youtube.com/",  "#c73535"]
+			["Stack Overflow",   "http://selfoss.aditu.de/",  "#44b198"],
+			["Fronter",   "https://www.youtube.com/",  "#c73535"]
 		]
 	],
 	colours: ["#3b97e8", "#e6a100", "#465ca6", "#c91271", "#44b198", "#c73535"],
