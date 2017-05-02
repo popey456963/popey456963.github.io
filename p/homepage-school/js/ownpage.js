@@ -71,7 +71,7 @@ $ownpage = {
 		$("<div id='center'><div id='marquespages'></div><div id='edition' style='display:none'></div></div>").appendTo("body");
 		$dev  = "";
 		if ($ownpage.version[2] != "stable") $dev = $ownpage.version[2];
-		$("<div id='edit'></div>").appendTo("body");
+		// $("<div id='edit'></div>").appendTo("body");
 		$("#marquespages").hide();
 		$ownpage.box.editor.hide();
 		$("#edition").hide();
@@ -118,13 +118,13 @@ $ownpage = {
 			$ligne.appendTo("#marquespages");
 		});
 		$("#reset").remove();
-		$("#edit").html("EDIT");
-		$("#edit").off('click');
-		$("#edit").click(function(){
-			$ownpage.search.hide();
-			$("#marquespages").hide();
-			$ownpage.edit();
-		});
+		// $("#edit").html("EDIT");
+		// $("#edit").off('click');
+		// $("#edit").click(function(){
+		// 	$ownpage.search.hide();
+		// 	$("#marquespages").hide();
+		// 	$ownpage.edit();
+		// });
 		if ($ownpage.settings.weather[0]) {
 			$("<div id='meteo'></div>").appendTo("body");
 			$ownpage.weather.refresh();
