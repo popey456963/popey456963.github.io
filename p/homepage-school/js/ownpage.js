@@ -26,7 +26,7 @@ localStorage['urls'] = ''
 
 $ownpage = {
 	version: [2, 4, "stable"],
-	// Default urls, overwritted when custumized by user.
+	// URLs to display to the user.
 	urls : [
 		[
 			["Google",    "https://www.google.com/",   "#3b97e8"],
@@ -39,13 +39,14 @@ $ownpage = {
 			["Fronter",   "https://www.youtube.com/",  "#c73535"]
 		]
 	],
-	colours: ["#3b97e8", "#e6a100", "#465ca6", "#c91271", "#44b198", "#c73535"],
+	// Enable/disable specific features and set the location for weather.
 	settings : {
 		searchbar : [true, "Show Google Search Bar"],
 		weather   : [true, "Show Local Weather"],
 		datetime  : [true, "Show Date & Time"],
 		city      : ["Woodbridge, UK", "City"]
 	},
+	// The default element added.
 	toadd : ["Google", "https://google.com", "#363636"],
 	// Mem as memory. Save and load urls from local storage.
 	mem : {
